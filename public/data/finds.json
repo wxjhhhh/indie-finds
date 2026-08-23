@@ -108,7 +108,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "isabel",
     "summary": "基于过程的三维 js 地图构建器，结合 gpt-5.6 解决方案   创建自定义地形 / 水域 / 植被    角色只是 png 序列",
     "url": "https://x.com/artficialisabel/status/2081861163256783337",
@@ -116,7 +116,7 @@
     "source": "x",
     "sourceId": "2081861163256783337",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "VFXApprentice",
     "summary": "“我永远无法从零开始构建那个”。 再想想看  这些是我们的学生在我们上次发布期间仅用8周就构建的 #VFX ——从半逼真的火球到动态的黏液溅射。 #GameDev #UnrealEngine #Houdini #RealtimeVFX",
     "url": "https://x.com/VFXApprentice/status/2081754399064424709",
@@ -140,11 +140,11 @@
     "source": "x",
     "sourceId": "2081754399064424709",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "Emma De Freitas",
     "summary": "手绘叶片工作进展  #handpaint #blender #ue #foliage #stylized #ue",
     "url": "https://x.com/Zalerya_/status/2082224901302198740",
@@ -152,7 +152,7 @@
     "source": "x",
     "sourceId": "2082224901302198740",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "Konrad Reczko",
     "summary": "Bone Tide 现已在 App Store 和 Google Play 正式上线  React Native  @expo  版本运行在与网页游戏完全相同的 TypeGPU 引擎上，两大平台共享 1:1 的引擎。只有 UI 被移植到了 React  这得益于 React Native 开源生态系统中一些出色的工作。特别感谢  @wcandillon  提",
     "url": "https://x.com/reczko_konrad/status/2083514256423575753",
@@ -320,7 +320,7 @@
     "source": "x",
     "sourceId": "2083514256423575753",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "Three.js",
     "summary": "http:// barnyarddefenders.com",
     "url": "https://x.com/threejs/status/2084786375535243298",
@@ -344,11 +344,11 @@
     "source": "x",
     "sourceId": "2084786375535243298",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "Chris Morris",
     "summary": "这个模块化地形图块集和河流图块集可以组合起来制作像这样的地图。  接下来我将添加一条路径/桥梁/台阶包，然后如果有兴趣的话，我考虑扩展到洞穴或地牢模块化图块！  #gamedev",
     "url": "https://x.com/Rustledust77/status/2084996769096564981",
@@ -356,7 +356,7 @@
     "source": "x",
     "sourceId": "2084996769096564981",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "winch",
     "summary": "约 8 小时的工作。  Opus 5 在 Ultracode 模式下。  是的，它是开源的。  我用一个单一的提示做出了这个 99%。  之后我只是添加了各种酷炫的小东西，比如不同的纹理（“外观”）和其他酷炫效果。  下方链接",
     "url": "https://x.com/winchxyz/status/2085130316893593878",
@@ -380,7 +380,7 @@
     "source": "x",
     "sourceId": "2085130316893593878",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -445,18 +445,6 @@
   },
   {
     "type": "game",
-    "title": "解说员",
-    "summary": "https:// x.com/milfhavenq/sta tus/2085348985573974178/video/1 …",
-    "url": "https://x.com/love08247892/status/2085748369071444001",
-    "imageUrl": "/covers/2085748369071444001.jpg",
-    "source": "x",
-    "sourceId": "2085748369071444001",
-    "tags": [
-      "3D_game"
-    ]
-  },
-  {
-    "type": "game",
     "title": "MyTimeatEvershine",
     "summary": "一起，我们建造新家  Evershine 静候。立即加入愿望清单！",
     "url": "https://x.com/MyTimeEvershine/status/2086100619451158604",
@@ -504,7 +492,7 @@
     ]
   },
   {
-    "type": "game",
+    "type": "shader",
     "title": "Dilum Sanjaya",
     "summary": "想看看仅凭氛围编码，我能多接近《中世纪II：全面战争》的地图体验  我以为在浏览器里的性能不会很好，鉴于这是一个涵盖整个欧洲和地中海地区的3D地形地图  但它运行得意外地好",
     "url": "https://x.com/DilumSanjaya/status/2086495645742080049",
@@ -512,7 +500,7 @@
     "source": "x",
     "sourceId": "2086495645742080049",
     "tags": [
-      "3D_game"
+      "shader_visual"
     ]
   },
   {
@@ -1380,7 +1368,7 @@
     ]
   },
   {
-    "type": "shader",
+    "type": "game",
     "title": "Hooded Horse Japan",
     "summary": "在宇宙鲸鱼背上建造城市的最新殖民模拟游戏   《超越群星》   2026年10月15日 发售决定  皮普斯们生存下去的最大希望，如今是找出与已成为他们栖息地的巨大宇宙鲸鱼共存的方法#BeyondTheseStars",
     "url": "https://x.com/HoodedHorse_JP/status/2090574851824087548",
@@ -1388,7 +1376,7 @@
     "source": "x",
     "sourceId": "2090574851824087548",
     "tags": [
-      "shader_visual"
+      "3D_game"
     ]
   },
   {
@@ -1423,18 +1411,6 @@
     "imageUrl": "/covers/2090424600886759913.jpg",
     "source": "x",
     "sourceId": "2090424600886759913",
-    "tags": [
-      "shader_visual"
-    ]
-  },
-  {
-    "type": "shader",
-    "title": "AUTOMATON（オートマトン）",
-    "summary": "【新闻】“宇宙鲸鱼的背部”城市建设模拟游戏《Beyond These Stars》将于10月16日配信。夹在鲸鱼的心情与居民需求之间，旨在共生而谨慎开拓    https:// automaton-media.com/articles/newsj p/20260821-461627/ …",
-    "url": "https://x.com/AUTOMATONJapan/status/2090650054659113425",
-    "imageUrl": "/covers/2090650054659113425.jpg",
-    "source": "x",
-    "sourceId": "2090650054659113425",
     "tags": [
       "shader_visual"
     ]
@@ -1615,18 +1591,6 @@
     "imageUrl": "/covers/2090304954732822651.png",
     "source": "x",
     "sourceId": "2090304954732822651",
-    "tags": [
-      "3D_game"
-    ]
-  },
-  {
-    "type": "game",
-    "title": "WildMesh 3D",
-    "summary": "刚刚在  @patreon  上更新了我的 3D 动物包  100 个逼真的动画模型，即插即用，适合游戏开发。欢迎反馈！  https:// patreon.com/wildmesh/shop   #gamedev #indiedev #indiegame #unity3d",
-    "url": "https://x.com/WilliamAleixoo/status/2080441929905443313",
-    "imageUrl": "/covers/2080441929905443313.jpg",
-    "source": "x",
-    "sourceId": "2080441929905443313",
     "tags": [
       "3D_game"
     ]
