@@ -1,6 +1,306 @@
 [
   {
     "type": "game",
+    "title": "Sand Lords",
+    "summary": "GPU沙水火",
+    "url": "https://ricksongames.itch.io/sand-lords",
+    "imageUrl": "/covers/sand-lords.jpg",
+    "source": "itch",
+    "sourceId": "sand-lords",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "ZigSand3D",
+    "summary": "GPU三维落沙",
+    "url": "https://becool3000.itch.io/zigsand3d",
+    "imageUrl": "/covers/zigsand3d.jpg",
+    "source": "itch",
+    "sourceId": "zigsand3d",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Flux",
+    "summary": "Godot compute流体",
+    "url": "https://zicore47.itch.io/flux",
+    "imageUrl": "/covers/flux.jpg",
+    "source": "itch",
+    "sourceId": "flux",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Celestial Currents",
+    "summary": "流体改地形",
+    "url": "https://litchi-lovers.itch.io/celestialcurrents",
+    "imageUrl": "/covers/celestial-currents.jpg",
+    "source": "itch",
+    "sourceId": "celestial-currents",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Playing With Fire",
+    "summary": "烧程序化岛",
+    "url": "https://kiapigeon.itch.io/playing-with-fire",
+    "imageUrl": "/covers/playing-with-fire.jpg",
+    "source": "itch",
+    "sourceId": "playing-with-fire",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Wyldfire",
+    "summary": "野火玩具",
+    "url": "https://gaminggoron.itch.io/wyldfire",
+    "imageUrl": "/covers/wyldfire.jpg",
+    "source": "itch",
+    "sourceId": "wyldfire",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Terra Ninfa",
+    "summary": "导水沙盘",
+    "url": "https://tobugis.itch.io/terra-ninfa",
+    "imageUrl": "/covers/terra-ninfa.jpg",
+    "source": "itch",
+    "sourceId": "terra-ninfa",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Drift and Fish",
+    "summary": "three.js海况",
+    "url": "https://metanigredo.itch.io/drift-and-fish",
+    "imageUrl": "/covers/drift-and-fish.jpg",
+    "source": "itch",
+    "sourceId": "drift-and-fish",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Metabolis",
+    "summary": "水文城建",
+    "url": "https://store.steampowered.com/app/5069850/Metabolis/",
+    "imageUrl": "/covers/metabolis.jpg",
+    "source": "steam",
+    "sourceId": "metabolis",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "WATERFUL",
+    "summary": "挖河床",
+    "url": "https://store.steampowered.com/app/4414110/WATERFUL_a_tiny_oasis_builder/",
+    "imageUrl": "/covers/waterful.jpg",
+    "source": "steam",
+    "sourceId": "waterful",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Sandcastle",
+    "summary": "湿沙潮汐",
+    "url": "https://store.steampowered.com/app/3216520/Sandcastle/",
+    "imageUrl": "/covers/sandcastle.jpg",
+    "source": "steam",
+    "sourceId": "sandcastle",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Cave Oasis at Shylake",
+    "summary": "溶洞农",
+    "url": "https://bluespruceinteractive.itch.io/cave-oasis-at-shylake",
+    "imageUrl": "/covers/cave-oasis.jpg",
+    "source": "itch",
+    "sourceId": "cave-oasis",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Herbststadt",
+    "summary": "Townscaper",
+    "url": "https://8bitllama.itch.io/herbststadt",
+    "imageUrl": "/covers/herbststadt.jpg",
+    "source": "itch",
+    "sourceId": "herbststadt",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Planet Scaper",
+    "summary": "球面Townscaper",
+    "url": "https://brokenmugstudio.itch.io/planet-scaper",
+    "imageUrl": "/covers/planet-scaper.jpg",
+    "source": "itch",
+    "sourceId": "planet-scaper",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Globescaper",
+    "summary": "球面WFC",
+    "url": "https://sambigos.itch.io/globescaper",
+    "imageUrl": "/covers/globescaper.jpg",
+    "source": "itch",
+    "sourceId": "globescaper",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Cascade",
+    "summary": "塑地流体",
+    "url": "https://store.steampowered.com/app/3546500/Cascade/",
+    "imageUrl": "/covers/cascade.jpg",
+    "source": "steam",
+    "sourceId": "cascade",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "A Painted Ocean",
+    "summary": "手绘海",
+    "url": "https://thapen.itch.io/painted-ocean",
+    "imageUrl": "/covers/painted-ocean.jpg",
+    "source": "itch",
+    "sourceId": "painted-ocean",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Eternal fire",
+    "summary": "着火的林",
+    "url": "https://sigitang.itch.io/eternal-fire",
+    "imageUrl": "/covers/eternal-fire.jpg",
+    "source": "itch",
+    "sourceId": "eternal-fire",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "TSL Raging Sea",
+    "summary": "狂海",
+    "url": "https://threejs.org/examples/#webgpu_tsl_raging_sea",
+    "imageUrl": "/covers/webgpu_tsl_raging_sea.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_tsl_raging_sea",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "MLS-MPM Fluid",
+    "summary": "GPU流体",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_fluid",
+    "imageUrl": "/covers/webgpu_compute_particles_fluid.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_particles_fluid",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "SPH-WGSL",
+    "summary": "三维SPH web",
+    "url": "https://sph-wgsl.vercel.app/",
+    "imageUrl": "/covers/sph-wgsl.jpg",
+    "source": "web",
+    "sourceId": "sph-wgsl",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "TSL Flames",
+    "summary": "GPU火",
+    "url": "https://threejs.org/examples/#webgpu_tsl_vfx_flames",
+    "imageUrl": "/covers/webgpu_tsl_vfx_flames.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_tsl_vfx_flames",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Volume Caustics",
+    "summary": "焦散",
+    "url": "https://threejs.org/examples/#webgpu_volume_caustics",
+    "imageUrl": "/covers/webgpu_volume_caustics.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_volume_caustics",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "GLTF Iridescence",
+    "summary": "虹彩",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_iridescence",
+    "imageUrl": "/covers/webgpu_loader_gltf_iridescence.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_loader_gltf_iridescence",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Ocean",
+    "summary": "WebGPU海",
+    "url": "https://threejs.org/examples/#webgpu_ocean",
+    "imageUrl": "/covers/webgpu_ocean.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_ocean",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "game",
     "title": "Unstable Ocean Weather Game",
     "summary": "活着的浪和风",
     "url": "https://ryan-mcdougall.itch.io/unstable-weather-game",
