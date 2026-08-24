@@ -1,6 +1,426 @@
 [
   {
     "type": "game",
+    "title": "Unstable Ocean Weather Game",
+    "summary": "活着的浪和风",
+    "url": "https://ryan-mcdougall.itch.io/unstable-weather-game",
+    "imageUrl": "/covers/unstable-ocean.jpg",
+    "source": "itch",
+    "sourceId": "unstable-ocean",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Very Very Stable Job!",
+    "summary": "搭路建造过关",
+    "url": "https://faqcion.itch.io/very-very-stable-job",
+    "imageUrl": "/covers/very-very-stable-job.jpg",
+    "source": "itch",
+    "sourceId": "very-very-stable-job",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "SHOOT THROW STACK",
+    "summary": "射扔叠物理谜题",
+    "url": "https://basashitorisashi.itch.io/shoot-throw-stack",
+    "imageUrl": "/covers/shoot-throw-stack.jpg",
+    "source": "itch",
+    "sourceId": "shoot-throw-stack",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Fort Kessler",
+    "summary": "要塞建造",
+    "url": "https://sunsailor.itch.io/fort-kessler",
+    "imageUrl": "/covers/fort-kessler.jpg",
+    "source": "itch",
+    "sourceId": "fort-kessler",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "KIDSTUFF Gambkart",
+    "summary": "玩具卡丁",
+    "url": "https://nicksdev-nse.itch.io/kidstuff-gambkart",
+    "imageUrl": "/covers/kidstuff-gambkart.jpg",
+    "source": "itch",
+    "sourceId": "kidstuff-gambkart",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "DUCK WARS!",
+    "summary": "玩具战场",
+    "url": "https://he-is-risen.itch.io/duck-wars",
+    "imageUrl": "/covers/duck-wars.jpg",
+    "source": "itch",
+    "sourceId": "duck-wars",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "COG",
+    "summary": "齿轮系统",
+    "url": "https://atomandevil.itch.io/cog",
+    "imageUrl": "/covers/cog.jpg",
+    "source": "itch",
+    "sourceId": "cog",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "ASSAY",
+    "summary": "夜班检验",
+    "url": "https://neuralnetwork.itch.io/assay",
+    "imageUrl": "/covers/assay.jpg",
+    "source": "itch",
+    "sourceId": "assay",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "FIREDAMP",
+    "summary": "PSX煤矿",
+    "url": "https://ironcue.itch.io/firedamp",
+    "imageUrl": "/covers/firedamp.jpg",
+    "source": "itch",
+    "sourceId": "firedamp",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Isolated Frequency",
+    "summary": "摩尔斯电码",
+    "url": "https://nrnbgames.itch.io/isolated-frequency",
+    "imageUrl": "/covers/isolated-frequency.jpg",
+    "source": "itch",
+    "sourceId": "isolated-frequency",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Still water",
+    "summary": "水下洞穴",
+    "url": "https://donthrukat.itch.io/still-water",
+    "imageUrl": "/covers/still-water.jpg",
+    "source": "itch",
+    "sourceId": "still-water",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "RAVESHARK PS1",
+    "summary": "PSX节奏",
+    "url": "https://zfactorpsx.itch.io/raveshark",
+    "imageUrl": "/covers/raveshark.jpg",
+    "source": "itch",
+    "sourceId": "raveshark",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "DO NOT LOOK AWAY",
+    "summary": "PSX微恐",
+    "url": "https://carldupuy.itch.io/do-not-look-away",
+    "imageUrl": "/covers/do-not-look-away.jpg",
+    "source": "itch",
+    "sourceId": "do-not-look-away",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Your Delivery",
+    "summary": "PSX送货",
+    "url": "https://luriddream.itch.io/your-delivery",
+    "imageUrl": "/covers/your-delivery.jpg",
+    "source": "itch",
+    "sourceId": "your-delivery",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "FEED THE FISH",
+    "summary": "PSX喂鱼",
+    "url": "https://nincy12.itch.io/feed-the-fish",
+    "imageUrl": "/covers/feed-the-fish.jpg",
+    "source": "itch",
+    "sourceId": "feed-the-fish",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "The Last Portrait",
+    "summary": "PSX肖像",
+    "url": "https://vorongo.itch.io/the-last-portrait",
+    "imageUrl": "/covers/the-last-portrait.jpg",
+    "source": "itch",
+    "sourceId": "the-last-portrait",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "UltraViolet",
+    "summary": "PSX jam",
+    "url": "https://burradley.itch.io/ultraviolet-jam-version",
+    "imageUrl": "/covers/ultraviolet.jpg",
+    "source": "itch",
+    "sourceId": "ultraviolet",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Union Of Rivals",
+    "summary": "铁路殖民地",
+    "url": "https://store.steampowered.com/app/4263170/Union_Of_Rivals/",
+    "imageUrl": "/covers/union-of-rivals.jpg",
+    "source": "steam",
+    "sourceId": "union-of-rivals",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Bobbitz",
+    "summary": "地下殖民地",
+    "url": "https://store.steampowered.com/app/4792630/Bobbitz/",
+    "imageUrl": "/covers/bobbitz.jpg",
+    "source": "steam",
+    "sourceId": "bobbitz",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Water",
+    "summary": "GPU水面",
+    "url": "https://threejs.org/examples/#webgpu_compute_water",
+    "imageUrl": "/covers/webgpu_compute_water.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_water",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Particles",
+    "summary": "GPU粒子",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles",
+    "imageUrl": "/covers/webgpu_compute_particles.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_particles",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Rain",
+    "summary": "雨",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_rain",
+    "imageUrl": "/covers/webgpu_compute_particles_rain.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_particles_rain",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Snow",
+    "summary": "雪",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_snow",
+    "imageUrl": "/covers/webgpu_compute_particles_snow.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_particles_snow",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Volume Cloud",
+    "summary": "体积云",
+    "url": "https://threejs.org/examples/#webgpu_volume_cloud",
+    "imageUrl": "/covers/webgpu_volume_cloud.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_volume_cloud",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Water",
+    "summary": "反射折射水",
+    "url": "https://threejs.org/examples/#webgpu_water",
+    "imageUrl": "/covers/webgpu_water.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_water",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Ocean Shader",
+    "summary": "FFT海",
+    "url": "https://threejs.org/examples/#webgl_shaders_ocean",
+    "imageUrl": "/covers/webgl_shaders_ocean.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shaders_ocean",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "GPGPU Water",
+    "summary": "GPU水+鸭",
+    "url": "https://threejs.org/examples/#webgl_gpgpu_water",
+    "imageUrl": "/covers/webgl_gpgpu_water.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_gpgpu_water",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Custom Fog",
+    "summary": "高度雾",
+    "url": "https://threejs.org/examples/#webgpu_custom_fog",
+    "imageUrl": "/covers/webgpu_custom_fog.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_custom_fog",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "TSL Earth",
+    "summary": "地球材质",
+    "url": "https://threejs.org/examples/#webgpu_tsl_earth",
+    "imageUrl": "/covers/webgpu_tsl_earth.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_tsl_earth",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Displacement",
+    "summary": "顶点位移",
+    "url": "https://threejs.org/examples/#webgpu_materials_displacementmap",
+    "imageUrl": "/covers/webgpu_materials_displacementmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_materials_displacementmap",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "SSR",
+    "summary": "屏空反射",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssr",
+    "imageUrl": "/covers/webgpu_postprocessing_ssr.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_postprocessing_ssr",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Rect Area Light",
+    "summary": "面光",
+    "url": "https://threejs.org/examples/#webgpu_lights_rectarealight",
+    "imageUrl": "/covers/webgpu_lights_rectarealight.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_lights_rectarealight",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Car Paint",
+    "summary": "车漆",
+    "url": "https://threejs.org/examples/#webgl_materials_car",
+    "imageUrl": "/covers/webgl_materials_car.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_car",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Reflection",
+    "summary": "实时反射",
+    "url": "https://threejs.org/examples/#webgpu_reflection",
+    "imageUrl": "/covers/webgpu_reflection.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_reflection",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Volume Lighting",
+    "summary": "体积光",
+    "url": "https://threejs.org/examples/#webgpu_volume_lighting",
+    "imageUrl": "/covers/webgpu_volume_lighting.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_volume_lighting",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "game",
     "title": "Fyrwit",
     "summary": "短篇水下洞穴：焦散和 PSX 帧缓冲一起走，水在动。itch 免费。",
     "url": "https://woben.itch.io/fyrwit",
