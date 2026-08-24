@@ -1,6 +1,66 @@
 [
   {
     "type": "game",
+    "title": "AstroScaper",
+    "summary": "Islanders 味的小行星殖民地：无网格摆建筑、程序化小星球、火车连站爆分。玩具积木城，布局系统一直在算。Unity。Steam 8月27日 $9.99，现有 Demo。",
+    "url": "https://store.steampowered.com/app/3579350/AstroScaper/",
+    "imageUrl": "/covers/astroscaper.jpg",
+    "source": "steam",
+    "sourceId": "astroscaper",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Captain RayGun on Planet X",
+    "summary": "Godot 像素 3D 地牢爬行：网格转向、镜头做成行星曲率，PSX 味形块清楚。itch 免费。",
+    "url": "https://kaisalmon.itch.io/captain-raygun-on-planet-x",
+    "imageUrl": "/covers/captain-raygun.jpg",
+    "source": "itch",
+    "sourceId": "captain-raygun",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Witching Hour",
+    "summary": "Godot 3D + 像素着色：纸板剪贴角色、抖动体积光，把村民变成青蛙。itch 免费。",
+    "url": "https://sophirly.itch.io/witching-hours",
+    "imageUrl": "/covers/witching-hour.jpg",
+    "source": "itch",
+    "sourceId": "witching-hour",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "ALL WILL FALL",
+    "summary": "手绘风海上垂直殖民地：真实物理承重，楼会塌。系统一直在算。Steam $29.99。",
+    "url": "https://store.steampowered.com/app/2706020/ALL_WILL_FALL/",
+    "imageUrl": "/covers/all-will-fall.jpg",
+    "source": "steam",
+    "sourceId": "all-will-fall",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "three.js Volumetric Fire",
+    "summary": "WebGPU 体积火：GPU 半拉格朗日平流 + 浮力 + Jacobi 投影，茶壶可拖来搅湍流。火在算，不是贴图循环。浏览器免费。",
+    "url": "https://threejs.org/examples/#webgpu_volume_fire",
+    "imageUrl": "/covers/webgpu-volume-fire.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu-volume-fire",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "game",
     "title": "Axie  Winter Whiskers - WISHLIST NOW!",
     "summary": "#screenshotsaturday 是时候堆雪人了  我迫不及待地等待冬天到来！",
     "url": "https://x.com/Axie_Lotls/status/2091208722186223785",
