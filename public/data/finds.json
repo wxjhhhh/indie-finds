@@ -1,5 +1,41 @@
 [
   {
+    "type": "shader",
+    "title": "Skittss FFT Ocean",
+    "summary": "青绿FFT海",
+    "url": "https://skittss.github.io/FFTOcean/",
+    "imageUrl": "/covers/skittss-fft.jpg",
+    "source": "web",
+    "sourceId": "skittss-fft",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Fable-lite",
+    "summary": "12k草加火球",
+    "url": "https://fable-omega.vercel.app/",
+    "imageUrl": "/covers/fable-lite.jpg",
+    "source": "web",
+    "sourceId": "fable-lite",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Ethereal Patronus",
+    "summary": "粒子草",
+    "url": "https://ethereal-patronus.vercel.app/",
+    "imageUrl": "/covers/ethereal-patronus.jpg",
+    "source": "web",
+    "sourceId": "ethereal-patronus",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
     "type": "game",
     "title": "Icehelm 草皮",
     "summary": "NPR等距换草",
