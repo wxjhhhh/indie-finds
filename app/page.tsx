@@ -31,7 +31,7 @@ function groupByDate(items: Find[], today: string): [string, Find[]][] {
     arr.push(item);
     map.set(date, arr);
   }
-  return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+  return [...map.entries()].sort((a, b) => (b[0] ?? "").localeCompare(a[0] ?? ""));
 }
 
 export default function Page() {
