@@ -201,7 +201,8 @@
     "sourceId": "skittss-fft",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -213,7 +214,8 @@
     "sourceId": "fable-lite",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -225,7 +227,8 @@
     "sourceId": "ethereal-patronus",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -237,7 +240,8 @@
     "sourceId": "2091908721815310462",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -249,7 +253,8 @@
     "sourceId": "2091813010289684818",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -261,7 +266,8 @@
     "sourceId": "2091861278151016570",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -273,7 +279,8 @@
     "sourceId": "2091551732136353875",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -285,7 +292,8 @@
     "sourceId": "2083772340102725767",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -297,7 +305,8 @@
     "sourceId": "2091223616335593879",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -309,7 +318,8 @@
     "sourceId": "2091541174095888505",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -321,7 +331,8 @@
     "sourceId": "2091586512475373573",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -333,7 +344,8 @@
     "sourceId": "2091554005772321204",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -345,7 +357,8 @@
     "sourceId": "2091528829500060024",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -357,7 +370,8 @@
     "sourceId": "2091374089961365720",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -369,7 +383,8 @@
     "sourceId": "2091524952205787159",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -381,7 +396,8 @@
     "sourceId": "2091880631043338516",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -393,7 +409,8 @@
     "sourceId": "master-of-the-mow",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -405,7 +422,8 @@
     "sourceId": "kanader",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -417,7 +435,8 @@
     "sourceId": "tippycity",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -429,7 +448,8 @@
     "sourceId": "statikcharge",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -441,7 +461,8 @@
     "sourceId": "aquatect",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -453,7 +474,8 @@
     "sourceId": "fluid-sim",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -465,7 +487,8 @@
     "sourceId": "whazzy-whizmo",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -477,7 +500,8 @@
     "sourceId": "wave-rider-gp",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -489,7 +513,8 @@
     "sourceId": "one-more-catch",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -501,7 +526,8 @@
     "sourceId": "transvoxel",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -513,7 +539,8 @@
     "sourceId": "ground-zero",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -525,7 +552,8 @@
     "sourceId": "cozy-marbles",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -537,7 +565,8 @@
     "sourceId": "toy-box-challenge",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -549,7 +578,8 @@
     "sourceId": "spring-mag",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -561,7 +591,8 @@
     "sourceId": "lanteria",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -573,7 +604,8 @@
     "sourceId": "voxel-isle",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -585,7 +617,8 @@
     "sourceId": "seedecean",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -597,7 +630,8 @@
     "sourceId": "ifft-ocean",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -609,7 +643,8 @@
     "sourceId": "webtide",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -621,7 +656,8 @@
     "sourceId": "jbouny-fft",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -633,7 +669,8 @@
     "sourceId": "false-earth",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -645,7 +682,8 @@
     "sourceId": "threefire",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -657,7 +695,8 @@
     "sourceId": "stellabuild",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -669,7 +708,8 @@
     "sourceId": "tinyminer",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -681,7 +721,8 @@
     "sourceId": "steamngears",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -693,7 +734,8 @@
     "sourceId": "goal-14",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -705,7 +747,8 @@
     "sourceId": "architectopia",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -717,7 +760,8 @@
     "sourceId": "tooreal",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -729,7 +773,8 @@
     "sourceId": "nonzero",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -741,7 +786,8 @@
     "sourceId": "silent-abdication",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -753,7 +799,8 @@
     "sourceId": "dive-dodge",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -765,7 +812,8 @@
     "sourceId": "static-knights",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -777,7 +825,8 @@
     "sourceId": "onelegman",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -789,7 +838,8 @@
     "sourceId": "knockout-pool",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -801,7 +851,8 @@
     "sourceId": "the-woods",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -813,7 +864,8 @@
     "sourceId": "island-architect",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -825,7 +877,8 @@
     "sourceId": "bloomkeeper",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -837,7 +890,8 @@
     "sourceId": "combolands",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -849,7 +903,8 @@
     "sourceId": "webgpu_compute_geometry",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -861,7 +916,8 @@
     "sourceId": "webgl_points_waves",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -873,7 +929,8 @@
     "sourceId": "webgpu_particles",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -885,7 +942,8 @@
     "sourceId": "webgpu_occlusion",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -897,7 +955,8 @@
     "sourceId": "webgpu_compute_cloth",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -909,7 +968,8 @@
     "sourceId": "webgpu_tsl_wood",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -921,7 +981,8 @@
     "sourceId": "webgl_shaders_sky",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -933,7 +994,8 @@
     "sourceId": "webgpu_postprocessing_dof",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -945,7 +1007,8 @@
     "sourceId": "webgl_materials_subsurface_scattering",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -957,7 +1020,8 @@
     "sourceId": "webgpu_mirror",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -969,7 +1033,8 @@
     "sourceId": "webgpu_custom_fog_background",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -981,7 +1046,8 @@
     "sourceId": "webgpu_backdrop",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -993,7 +1059,8 @@
     "sourceId": "webgpu_compute_audio",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -1005,7 +1072,8 @@
     "sourceId": "webgpu_tsl_galaxy",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "shader",
@@ -1017,7 +1085,8 @@
     "sourceId": "webgl_marchingcubes",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-25"
   },
   {
     "type": "game",
@@ -1029,7 +1098,8 @@
     "sourceId": "sand-lords",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1041,7 +1111,8 @@
     "sourceId": "zigsand3d",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1053,7 +1124,8 @@
     "sourceId": "flux",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1065,7 +1137,8 @@
     "sourceId": "celestial-currents",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1077,7 +1150,8 @@
     "sourceId": "playing-with-fire",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1089,7 +1163,8 @@
     "sourceId": "wyldfire",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1101,7 +1176,8 @@
     "sourceId": "terra-ninfa",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1113,7 +1189,8 @@
     "sourceId": "drift-and-fish",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1125,7 +1202,8 @@
     "sourceId": "metabolis",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1137,7 +1215,8 @@
     "sourceId": "waterful",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1149,7 +1228,8 @@
     "sourceId": "sandcastle",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1161,7 +1241,8 @@
     "sourceId": "cave-oasis",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1173,7 +1254,8 @@
     "sourceId": "herbststadt",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1185,7 +1267,8 @@
     "sourceId": "planet-scaper",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1197,7 +1280,8 @@
     "sourceId": "globescaper",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1209,7 +1293,8 @@
     "sourceId": "cascade",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1221,7 +1306,8 @@
     "sourceId": "painted-ocean",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1233,7 +1319,8 @@
     "sourceId": "eternal-fire",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1245,7 +1332,8 @@
     "sourceId": "webgpu_tsl_raging_sea",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1257,7 +1345,8 @@
     "sourceId": "webgpu_compute_particles_fluid",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1269,7 +1358,8 @@
     "sourceId": "sph-wgsl",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1281,7 +1371,8 @@
     "sourceId": "webgpu_tsl_vfx_flames",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1293,7 +1384,8 @@
     "sourceId": "webgpu_volume_caustics",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1305,7 +1397,8 @@
     "sourceId": "webgpu_loader_gltf_iridescence",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1317,7 +1410,8 @@
     "sourceId": "webgpu_ocean",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1329,7 +1423,8 @@
     "sourceId": "unstable-ocean",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1341,7 +1436,8 @@
     "sourceId": "very-very-stable-job",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1353,7 +1449,8 @@
     "sourceId": "shoot-throw-stack",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1365,7 +1462,8 @@
     "sourceId": "fort-kessler",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1377,7 +1475,8 @@
     "sourceId": "kidstuff-gambkart",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1389,7 +1488,8 @@
     "sourceId": "duck-wars",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1401,7 +1501,8 @@
     "sourceId": "cog",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1413,7 +1514,8 @@
     "sourceId": "assay",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1425,7 +1527,8 @@
     "sourceId": "firedamp",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1437,7 +1540,8 @@
     "sourceId": "isolated-frequency",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1449,7 +1553,8 @@
     "sourceId": "still-water",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1461,7 +1566,8 @@
     "sourceId": "raveshark",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1473,7 +1579,8 @@
     "sourceId": "do-not-look-away",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1485,7 +1592,8 @@
     "sourceId": "your-delivery",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1497,7 +1605,8 @@
     "sourceId": "feed-the-fish",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1509,7 +1618,8 @@
     "sourceId": "the-last-portrait",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1521,7 +1631,8 @@
     "sourceId": "ultraviolet",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1533,7 +1644,8 @@
     "sourceId": "union-of-rivals",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1545,7 +1657,8 @@
     "sourceId": "bobbitz",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1557,7 +1670,8 @@
     "sourceId": "webgpu_compute_water",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1569,7 +1683,8 @@
     "sourceId": "webgpu_compute_particles",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1581,7 +1696,8 @@
     "sourceId": "webgpu_compute_particles_rain",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1593,7 +1709,8 @@
     "sourceId": "webgpu_compute_particles_snow",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1605,7 +1722,8 @@
     "sourceId": "webgpu_volume_cloud",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1617,7 +1735,8 @@
     "sourceId": "webgpu_water",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1629,7 +1748,8 @@
     "sourceId": "webgl_shaders_ocean",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1641,7 +1761,8 @@
     "sourceId": "webgl_gpgpu_water",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1653,7 +1774,8 @@
     "sourceId": "webgpu_custom_fog",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1665,7 +1787,8 @@
     "sourceId": "webgpu_tsl_earth",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1677,7 +1800,8 @@
     "sourceId": "webgpu_materials_displacementmap",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1689,7 +1813,8 @@
     "sourceId": "webgpu_postprocessing_ssr",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1701,7 +1826,8 @@
     "sourceId": "webgpu_lights_rectarealight",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1713,7 +1839,8 @@
     "sourceId": "webgl_materials_car",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1725,7 +1852,8 @@
     "sourceId": "webgpu_reflection",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1737,7 +1865,8 @@
     "sourceId": "webgpu_volume_lighting",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1749,7 +1878,8 @@
     "sourceId": "fyrwit",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1761,7 +1891,8 @@
     "sourceId": "stripout",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1773,7 +1904,8 @@
     "sourceId": "stack",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1785,7 +1917,8 @@
     "sourceId": "astroscaper",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1797,7 +1930,8 @@
     "sourceId": "captain-raygun",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1809,7 +1943,8 @@
     "sourceId": "witching-hour",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1821,7 +1956,8 @@
     "sourceId": "all-will-fall",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "shader",
@@ -1833,7 +1969,8 @@
     "sourceId": "webgpu-volume-fire",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-24"
   },
   {
     "type": "game",
@@ -1845,7 +1982,8 @@
     "sourceId": "2091208722186223785",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1857,7 +1995,8 @@
     "sourceId": "2091132065878044744",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1869,7 +2008,8 @@
     "sourceId": "2091158595127668767",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1881,7 +2021,8 @@
     "sourceId": "2091239051596550148",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1893,7 +2034,8 @@
     "sourceId": "2091138327810293988",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1905,7 +2047,8 @@
     "sourceId": "2091289723264192993",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1917,7 +2060,8 @@
     "sourceId": "2091381280348799056",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1929,7 +2073,8 @@
     "sourceId": "2091235761026642176",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1941,7 +2086,8 @@
     "sourceId": "2081809283021488323",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1953,7 +2099,8 @@
     "sourceId": "2081861163256783337",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -1965,7 +2112,8 @@
     "sourceId": "2081705439700685063",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1977,7 +2125,8 @@
     "sourceId": "2081754399064424709",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -1989,7 +2138,8 @@
     "sourceId": "2082224901302198740",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2001,7 +2151,8 @@
     "sourceId": "2082032688207183919",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2013,7 +2164,8 @@
     "sourceId": "2082300128036290760",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2025,7 +2177,8 @@
     "sourceId": "2082118888498827516",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2037,7 +2190,8 @@
     "sourceId": "2082164839636758720",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2049,7 +2203,8 @@
     "sourceId": "2082118578682331394",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2061,7 +2216,8 @@
     "sourceId": "2082533110332456987",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2073,7 +2229,8 @@
     "sourceId": "2082915847543177503",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2085,7 +2242,8 @@
     "sourceId": "2082949368362238267",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2097,7 +2255,8 @@
     "sourceId": "2082842627427229726",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2109,7 +2268,8 @@
     "sourceId": "2083009851374899679",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2121,7 +2281,8 @@
     "sourceId": "2082968379581718842",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2133,7 +2294,8 @@
     "sourceId": "2082874864361505135",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2145,7 +2307,8 @@
     "sourceId": "2083169421409812614",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2157,7 +2320,8 @@
     "sourceId": "2083514256423575753",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2169,7 +2333,8 @@
     "sourceId": "2084450940766277657",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2181,7 +2346,8 @@
     "sourceId": "2084786375535243298",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2193,7 +2359,8 @@
     "sourceId": "2084996769096564981",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2205,7 +2372,8 @@
     "sourceId": "2084914984593801604",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2217,7 +2385,8 @@
     "sourceId": "2085130316893593878",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2229,7 +2398,8 @@
     "sourceId": "2085078550651031663",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2241,7 +2411,8 @@
     "sourceId": "2084984007226229164",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2253,7 +2424,8 @@
     "sourceId": "2085608084970611168",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2265,7 +2437,8 @@
     "sourceId": "2085417816644292733",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2277,7 +2450,8 @@
     "sourceId": "2085632165354631428",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2289,7 +2463,8 @@
     "sourceId": "2086100619451158604",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2301,7 +2476,8 @@
     "sourceId": "2070728584457818291",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2313,7 +2489,8 @@
     "sourceId": "2086136196082585640",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2325,7 +2502,8 @@
     "sourceId": "2086489884873687445",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2337,7 +2515,8 @@
     "sourceId": "2086495645742080049",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2349,7 +2528,8 @@
     "sourceId": "2086466357755838757",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2361,7 +2541,8 @@
     "sourceId": "2086334845630697935",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2373,7 +2554,8 @@
     "sourceId": "2086107320548048974",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2385,7 +2567,8 @@
     "sourceId": "2086709895911371062",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2397,7 +2580,8 @@
     "sourceId": "2086151959665328251",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2409,7 +2593,8 @@
     "sourceId": "2086694316676702430",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2421,7 +2606,8 @@
     "sourceId": "2086832463678939259",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2433,7 +2619,8 @@
     "sourceId": "2086820290177196045",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2445,7 +2632,8 @@
     "sourceId": "2087087232842932457",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2457,7 +2645,8 @@
     "sourceId": "2087177725979046009",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2469,7 +2658,8 @@
     "sourceId": "2087116869371084969",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2481,7 +2671,8 @@
     "sourceId": "2087191948343886214",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2493,7 +2684,8 @@
     "sourceId": "2087207458339012679",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2505,7 +2697,8 @@
     "sourceId": "2087225280108605577",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2517,7 +2710,8 @@
     "sourceId": "2087584251772584026",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2529,7 +2723,8 @@
     "sourceId": "2087749768650842497",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2541,7 +2736,8 @@
     "sourceId": "2087847447682801865",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2553,7 +2749,8 @@
     "sourceId": "2085513520452624495",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2565,7 +2762,8 @@
     "sourceId": "2087913998109049296",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2577,7 +2775,8 @@
     "sourceId": "2087993974082392461",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2589,7 +2788,8 @@
     "sourceId": "2087959188827758977",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2601,7 +2801,8 @@
     "sourceId": "2088035354443968764",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2613,7 +2814,8 @@
     "sourceId": "2087970737390842318",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2625,7 +2827,8 @@
     "sourceId": "2087901998842548724",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2637,7 +2840,8 @@
     "sourceId": "2087817907883708694",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2649,7 +2853,8 @@
     "sourceId": "2087992838021857641",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2661,7 +2866,8 @@
     "sourceId": "2087637395067781361",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2673,7 +2879,8 @@
     "sourceId": "2087869341689893120",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2685,7 +2892,8 @@
     "sourceId": "2088204467887915319",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2697,7 +2905,8 @@
     "sourceId": "2088294130174878199",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2709,7 +2918,8 @@
     "sourceId": "2088627546535702982",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2721,7 +2931,8 @@
     "sourceId": "2088534345913135196",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2733,7 +2944,8 @@
     "sourceId": "2088620502185349125",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2745,7 +2957,8 @@
     "sourceId": "2088250551091802440",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2757,7 +2970,8 @@
     "sourceId": "2088944317029384618",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2769,7 +2983,8 @@
     "sourceId": "2088959298009247755",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2781,7 +2996,8 @@
     "sourceId": "2089185829419618614",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2793,7 +3009,8 @@
     "sourceId": "2089108941485797506",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2805,7 +3022,8 @@
     "sourceId": "2088926125124714901",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2817,7 +3035,8 @@
     "sourceId": "2089382998596550690",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2829,7 +3048,8 @@
     "sourceId": "2089351927540990159",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2841,7 +3061,8 @@
     "sourceId": "2089412935361626192",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2853,7 +3074,8 @@
     "sourceId": "2089454729894023603",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2865,7 +3087,8 @@
     "sourceId": "2089352799855259821",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2877,7 +3100,8 @@
     "sourceId": "2089361607537152033",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2889,7 +3113,8 @@
     "sourceId": "2089359606166290757",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2901,7 +3126,8 @@
     "sourceId": "2089656660981862487",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2913,7 +3139,8 @@
     "sourceId": "2089782905828471230",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2925,7 +3152,8 @@
     "sourceId": "2089768706847150248",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2937,7 +3165,8 @@
     "sourceId": "2089689022054682625",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2949,7 +3178,8 @@
     "sourceId": "2089914605250257135",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2961,7 +3191,8 @@
     "sourceId": "2089955031139201176",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -2973,7 +3204,8 @@
     "sourceId": "2089744379929854358",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2985,7 +3217,8 @@
     "sourceId": "2089906403796480407",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -2997,7 +3230,8 @@
     "sourceId": "2090002074368921874",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3009,7 +3243,8 @@
     "sourceId": "2089834731009683648",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3021,7 +3256,8 @@
     "sourceId": "2089795172703818132",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3033,7 +3269,8 @@
     "sourceId": "2089653917659341126",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3045,7 +3282,8 @@
     "sourceId": "2089779772909900035",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -3057,7 +3295,8 @@
     "sourceId": "2089774929889878026",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3069,7 +3308,8 @@
     "sourceId": "2089841222353362952",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3081,7 +3321,8 @@
     "sourceId": "2089836921606549575",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3093,7 +3334,8 @@
     "sourceId": "2089761011624448478",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3105,7 +3347,8 @@
     "sourceId": "2089808077176316092",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3117,7 +3360,8 @@
     "sourceId": "2090500205258870918",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -3129,7 +3373,8 @@
     "sourceId": "2090527810708263390",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3141,7 +3386,8 @@
     "sourceId": "2090619939618951485",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -3153,7 +3399,8 @@
     "sourceId": "2090395927164989823",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3165,7 +3412,8 @@
     "sourceId": "2090369459164688490",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3177,7 +3425,8 @@
     "sourceId": "2090431158458761381",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3189,7 +3438,8 @@
     "sourceId": "2090551954338349175",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3201,7 +3451,8 @@
     "sourceId": "2090314498921967826",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3213,7 +3464,8 @@
     "sourceId": "2090574851824087548",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3225,7 +3477,8 @@
     "sourceId": "2090452222240813407",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3237,7 +3490,8 @@
     "sourceId": "2090438791291150674",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "shader",
@@ -3249,7 +3503,8 @@
     "sourceId": "2090424600886759913",
     "tags": [
       "shader_visual"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3261,7 +3516,8 @@
     "sourceId": "2090674357286920688",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3273,7 +3529,8 @@
     "sourceId": "2090468903889887435",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3285,7 +3542,8 @@
     "sourceId": "2090485792221089842",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3297,7 +3555,8 @@
     "sourceId": "2090695732692926745",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3309,7 +3568,8 @@
     "sourceId": "2090647480291721408",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3321,7 +3581,8 @@
     "sourceId": "2090695051240509595",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3333,7 +3594,8 @@
     "sourceId": "2090678328122638393",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3345,7 +3607,8 @@
     "sourceId": "2090743975095271688",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3357,7 +3620,8 @@
     "sourceId": "2090808699657105668",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3369,7 +3633,8 @@
     "sourceId": "2090844020486676763",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3381,7 +3646,8 @@
     "sourceId": "2090766765407993977",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3393,7 +3659,8 @@
     "sourceId": "2090709631823749231",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3405,7 +3672,8 @@
     "sourceId": "2090903718103269532",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3417,7 +3685,8 @@
     "sourceId": "2091378647449886886",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3429,7 +3698,8 @@
     "sourceId": "2090304954732822651",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3441,7 +3711,8 @@
     "sourceId": "2075395846213091769",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3453,7 +3724,8 @@
     "sourceId": "2051816842910748717",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3465,7 +3737,8 @@
     "sourceId": "2007717758084292956",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   },
   {
     "type": "game",
@@ -3477,6 +3750,7 @@
     "sourceId": "1710530897806582053",
     "tags": [
       "3D_game"
-    ]
+    ],
+    "collectedAt": "2026-08-23"
   }
 ]
