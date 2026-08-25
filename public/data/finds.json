@@ -1,6 +1,162 @@
 [
   {
     "type": "game",
+    "title": "Icehelm 草皮",
+    "summary": "NPR等距换草",
+    "url": "https://x.com/Icehelmet/status/2091908721815310462",
+    "imageUrl": "/covers/2091908721815310462.jpg",
+    "source": "x",
+    "sourceId": "2091908721815310462",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "摇更草花",
+    "summary": "触碰摇荣草",
+    "url": "https://x.com/indgame0728/status/2091813010289684818",
+    "imageUrl": "/covers/2091813010289684818.jpg",
+    "source": "x",
+    "sourceId": "2091813010289684818",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "PLACER-1",
+    "summary": "星球采矿机器人",
+    "url": "https://store.steampowered.com/app/5038660/",
+    "imageUrl": "/covers/2091861278151016570.jpg",
+    "source": "x",
+    "sourceId": "2091861278151016570",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "PixZels",
+    "summary": "像素切 3D",
+    "url": "https://pixel-salvaje.itch.io/pixzels",
+    "imageUrl": "/covers/2091551732136353875.jpg",
+    "source": "x",
+    "sourceId": "2091551732136353875",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Polylithic",
+    "summary": "石器时代部落",
+    "url": "https://store.steampowered.com/app/1839060/Polylithic/",
+    "imageUrl": "/covers/2083772340102725767.jpg",
+    "source": "x",
+    "sourceId": "2083772340102725767",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "SINESPERIA",
+    "summary": "PSX黄昏",
+    "url": "https://x.com/OcramRatte/status/2091223616335593879",
+    "imageUrl": "/covers/2091223616335593879.jpg",
+    "source": "x",
+    "sourceId": "2091223616335593879",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Wilderings",
+    "summary": "风格化小生物",
+    "url": "https://x.com/HerobeatStudios/status/2091541174095888505",
+    "imageUrl": "/covers/2091541174095888505.jpg",
+    "source": "x",
+    "sourceId": "2091541174095888505",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Toon Water Splash",
+    "summary": "卡通水花",
+    "url": "https://x.com/jettelly/status/2091586512475373573",
+    "imageUrl": "/covers/2091586512475373573.jpg",
+    "source": "x",
+    "sourceId": "2091586512475373573",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "MetalForge",
+    "summary": "流体玻璃粒子",
+    "url": "https://x.com/yyyole/status/2091554005772321204",
+    "imageUrl": "/covers/2091554005772321204.jpg",
+    "source": "x",
+    "sourceId": "2091554005772321204",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "three.js Industrial",
+    "summary": "工业场景编辑",
+    "url": "https://x.com/hamster_wat/status/2091528829500060024",
+    "imageUrl": "/covers/2091528829500060024.jpg",
+    "source": "x",
+    "sourceId": "2091528829500060024",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Voxel Ruin Kit",
+    "summary": "体素废墟套件",
+    "url": "https://x.com/voxelPY/status/2091374089961365720",
+    "imageUrl": "/covers/2091374089961365720.jpg",
+    "source": "x",
+    "sourceId": "2091374089961365720",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Pixel 3D Grass Palette",
+    "summary": "像素草调色",
+    "url": "https://x.com/monomello_/status/2091524952205787159",
+    "imageUrl": "/covers/2091524952205787159.jpg",
+    "source": "x",
+    "sourceId": "2091524952205787159",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Gecko IK",
+    "summary": "四足IK",
+    "url": "https://x.com/realvjy/status/2091880631043338516",
+    "imageUrl": "/covers/2091880631043338516.jpg",
+    "source": "x",
+    "sourceId": "2091880631043338516",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "game",
     "title": "Master of the Mow",
     "summary": "割草特效",
     "url": "https://what-game-studio.itch.io/master-of-the-mow",
