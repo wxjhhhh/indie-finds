@@ -1,5 +1,197 @@
 [
   {
+    "type": "game",
+    "title": "Master of the Mow",
+    "summary": "割草特效",
+    "url": "https://what-game-studio.itch.io/master-of-the-mow",
+    "imageUrl": "/covers/master-of-the-mow.jpg",
+    "source": "itch",
+    "sourceId": "master-of-the-mow",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Kanader",
+    "summary": "舀海灭火",
+    "url": "https://horseandradish.itch.io/kanader",
+    "imageUrl": "/covers/kanader.jpg",
+    "source": "itch",
+    "sourceId": "kanader",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Tippycity",
+    "summary": "体素城倾斜",
+    "url": "https://fatalexit.itch.io/tippycity",
+    "imageUrl": "/covers/tippycity.jpg",
+    "source": "itch",
+    "sourceId": "tippycity",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "StatikCharge",
+    "summary": "水纵火犯",
+    "url": "https://darkmode256.itch.io/statikcharge",
+    "imageUrl": "/covers/statikcharge.jpg",
+    "source": "itch",
+    "sourceId": "statikcharge",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Aquatect",
+    "summary": "水上乐园",
+    "url": "https://orbitalindustries.itch.io/aquatect",
+    "imageUrl": "/covers/aquatect.jpg",
+    "source": "itch",
+    "sourceId": "aquatect",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "fluid sim",
+    "summary": "Godot流体",
+    "url": "https://roquefortcheese.itch.io/fluid-sim",
+    "imageUrl": "/covers/fluid-sim.jpg",
+    "source": "itch",
+    "sourceId": "fluid-sim",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Whazzy Whizmo",
+    "summary": "弹珠轨道",
+    "url": "https://poltergeistdevice.itch.io/whazzy-whizmo",
+    "imageUrl": "/covers/whazzy-whizmo.jpg",
+    "source": "itch",
+    "sourceId": "whazzy-whizmo",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Wave Rider GP",
+    "summary": "活着的海",
+    "url": "https://haruka-apps-games.itch.io/wave-rider-gp",
+    "imageUrl": "/covers/wave-rider-gp.jpg",
+    "source": "itch",
+    "sourceId": "wave-rider-gp",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "One More Catch",
+    "summary": "海上钓鱼",
+    "url": "https://unicornic.itch.io/one-more-catch",
+    "imageUrl": "/covers/one-more-catch.jpg",
+    "source": "itch",
+    "sourceId": "one-more-catch",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Transvoxel Demo",
+    "summary": "体素地形",
+    "url": "https://bobgar.itch.io/transvoxel-demo",
+    "imageUrl": "/covers/transvoxel.jpg",
+    "source": "itch",
+    "sourceId": "transvoxel",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Ground Zero",
+    "summary": "可破坏地形",
+    "url": "https://mr-crabzzs.itch.io/ground-zero",
+    "imageUrl": "/covers/ground-zero.jpg",
+    "source": "itch",
+    "sourceId": "ground-zero",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Cozy Marbles",
+    "summary": "弹珠建造",
+    "url": "https://store.steampowered.com/app/2836460/Cozy_Marbles/",
+    "imageUrl": "/covers/cozy-marbles.jpg",
+    "source": "steam",
+    "sourceId": "cozy-marbles",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Toy Box Challenge",
+    "summary": "堆玩具",
+    "url": "https://omerhdr7.itch.io/toy-box-challenge",
+    "imageUrl": "/covers/toy-box-challenge.jpg",
+    "source": "itch",
+    "sourceId": "toy-box-challenge",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Spring Mag Adventure",
+    "summary": "弹簧磁极",
+    "url": "https://t-sumu.itch.io/spring-mag-adventure",
+    "imageUrl": "/covers/spring-mag.jpg",
+    "source": "itch",
+    "sourceId": "spring-mag",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "LANTERIA",
+    "summary": "低面沙盒",
+    "url": "https://pumpkinoid.itch.io/lanteria",
+    "imageUrl": "/covers/lanteria.jpg",
+    "source": "itch",
+    "sourceId": "lanteria",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "VOXEL ISLE SIMULATOR",
+    "summary": "体素造岛",
+    "url": "https://store.steampowered.com/app/5059360/VOXEL_ISLE_SIMULATOR/",
+    "imageUrl": "/covers/voxel-isle.jpg",
+    "source": "steam",
+    "sourceId": "voxel-isle",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
     "type": "shader",
     "title": "SeedOcean",
     "summary": "WebGPU FFT海",
