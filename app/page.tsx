@@ -19,12 +19,17 @@ function getTodayShanghai(): string {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Shanghai" });
 }
 
-function groupByDate(items: Find[]): [string, Find[]][] {
+function getItemDate(item: Find, today: string): string {
+  return item.collectedAt || today;
+}
+
+function groupByDate(items: Find[], today: string): [string, Find[]][] {
   const map = new Map<string, Find[]>();
   for (const item of items) {
-    const arr = map.get(item.collectedAt) ?? [];
+    const date = getItemDate(item, today);
+    const arr = map.get(date) ?? [];
     arr.push(item);
-    map.set(item.collectedAt, arr);
+    map.set(date, arr);
   }
   return [...map.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 }
@@ -43,7 +48,7 @@ export default function Page() {
 
   const today = getTodayShanghai();
 
-  const todayItems = finds?.filter((x) => x.collectedAt === today) ?? [];
+  const todayItems = finds?.filter((x) => getItemDate(x, today) === today) ?? [];
 
   const allFiltered = finds
     ? subFilter === "all"
@@ -51,7 +56,7 @@ export default function Page() {
       : finds.filter((x) => x.type === subFilter)
     : [];
 
-  const grouped = groupByDate(allFiltered);
+  const grouped = groupByDate(allFiltered, today);
 
   return (
     <main className="app">
