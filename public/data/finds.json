@@ -1,5 +1,77 @@
 [
   {
+    "type": "shader",
+    "title": "SeedOcean",
+    "summary": "WebGPU FFT海",
+    "url": "https://reed-soul.github.io/SeedOcean/",
+    "imageUrl": "/covers/seedecean.jpg",
+    "source": "web",
+    "sourceId": "seedecean",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "IFFT Ocean",
+    "summary": "JONSWAP IFFT海",
+    "url": "https://spiri0.github.io/Threejs-WebGPU-IFFT-Ocean/index.html",
+    "imageUrl": "/covers/ifft-ocean.jpg",
+    "source": "web",
+    "sourceId": "ifft-ocean",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebTide",
+    "summary": "Babylon Tessendorf海",
+    "url": "https://barthpaleologue.github.io/WebTide/",
+    "imageUrl": "/covers/webtide.jpg",
+    "source": "web",
+    "sourceId": "webtide",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "jbouny FFT Ocean",
+    "summary": "投影网格FFT海",
+    "url": "https://jbouny.github.io/fft-ocean/",
+    "imageUrl": "/covers/jbouny-fft.jpg",
+    "source": "web",
+    "sourceId": "jbouny-fft",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "False Earth",
+    "summary": "GPU草",
+    "url": "https://false-earth.mingjyunhung.com/",
+    "imageUrl": "/covers/false-earth.jpg",
+    "source": "web",
+    "sourceId": "false-earth",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "THREE.Fire",
+    "summary": "体积火",
+    "url": "https://threefire.netlify.app/",
+    "imageUrl": "/covers/threefire.jpg",
+    "source": "web",
+    "sourceId": "threefire",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
     "type": "game",
     "title": "STELLABUILD",
     "summary": "太空摆建筑",
