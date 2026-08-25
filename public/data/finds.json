@@ -1,6 +1,378 @@
 [
   {
     "type": "game",
+    "title": "STELLABUILD",
+    "summary": "太空摆建筑",
+    "url": "https://ailyss.itch.io/stellabuild",
+    "imageUrl": "/covers/stellabuild.jpg",
+    "source": "itch",
+    "sourceId": "stellabuild",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "TinyMiner",
+    "summary": "挖矿",
+    "url": "https://axelrodd.itch.io/tinyminer",
+    "imageUrl": "/covers/tinyminer.jpg",
+    "source": "itch",
+    "sourceId": "tinyminer",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Steam n Gears",
+    "summary": "蒸汽齿轮",
+    "url": "https://resourcelessrat.itch.io/steamngears",
+    "imageUrl": "/covers/steamngears.jpg",
+    "source": "itch",
+    "sourceId": "steamngears",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Goal 14 Ocean Cleanup",
+    "summary": "海洋清理",
+    "url": "https://kianlong-gif.itch.io/goal-14",
+    "imageUrl": "/covers/goal-14.jpg",
+    "source": "itch",
+    "sourceId": "goal-14",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Architectopia",
+    "summary": "Townscaper小城",
+    "url": "https://gintarasdev.itch.io/architectopia",
+    "imageUrl": "/covers/architectopia.jpg",
+    "source": "itch",
+    "sourceId": "architectopia",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Tooreal",
+    "summary": "复古3D沙盒",
+    "url": "https://pillant.itch.io/tooreal",
+    "imageUrl": "/covers/tooreal.jpg",
+    "source": "itch",
+    "sourceId": "tooreal",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Nonzero",
+    "summary": "低面3D",
+    "url": "https://ahesoyama.itch.io/nonzero",
+    "imageUrl": "/covers/nonzero.jpg",
+    "source": "itch",
+    "sourceId": "nonzero",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Silent Abdication",
+    "summary": "PSX",
+    "url": "https://petersblock.itch.io/silent-abdication",
+    "imageUrl": "/covers/silent-abdication.jpg",
+    "source": "itch",
+    "sourceId": "silent-abdication",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Dive and Dodge",
+    "summary": "闪避物理",
+    "url": "https://abdeninho.itch.io/dive-dodge",
+    "imageUrl": "/covers/dive-dodge.jpg",
+    "source": "itch",
+    "sourceId": "dive-dodge",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Static Knights",
+    "summary": "低面骑士",
+    "url": "https://legandar.itch.io/static-knights",
+    "imageUrl": "/covers/static-knights.jpg",
+    "source": "itch",
+    "sourceId": "static-knights",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "OneLegMan",
+    "summary": "单腿物理",
+    "url": "https://sawdust-games.itch.io/onelegman",
+    "imageUrl": "/covers/onelegman.jpg",
+    "source": "itch",
+    "sourceId": "onelegman",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "KnockOut Pool",
+    "summary": "台球物理",
+    "url": "https://tompepe.itch.io/knockout-pool",
+    "imageUrl": "/covers/knockout-pool.jpg",
+    "source": "itch",
+    "sourceId": "knockout-pool",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "The Woods",
+    "summary": "PSX林",
+    "url": "https://alexbaza.itch.io/the-woods",
+    "imageUrl": "/covers/the-woods.jpg",
+    "source": "itch",
+    "sourceId": "the-woods",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Island Architect",
+    "summary": "无网格海边小镇",
+    "url": "https://store.steampowered.com/app/3079100/Island_Architect/",
+    "imageUrl": "/covers/island-architect.jpg",
+    "source": "steam",
+    "sourceId": "island-architect",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "BloomKeeper",
+    "summary": "把岛养绿",
+    "url": "https://store.steampowered.com/app/3034650/BloomKeeper/",
+    "imageUrl": "/covers/bloomkeeper.jpg",
+    "source": "steam",
+    "sourceId": "bloomkeeper",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "game",
+    "title": "Combolands",
+    "summary": "迷你城建肉鸽",
+    "url": "https://store.steampowered.com/app/4075620/Combolands/",
+    "imageUrl": "/covers/combolands.jpg",
+    "source": "steam",
+    "sourceId": "combolands",
+    "tags": [
+      "3D_game"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Geometry",
+    "summary": "GPU改几何",
+    "url": "https://threejs.org/examples/#webgpu_compute_geometry",
+    "imageUrl": "/covers/webgpu_compute_geometry.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_geometry",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Points Waves",
+    "summary": "点场波浪",
+    "url": "https://threejs.org/examples/#webgl_points_waves",
+    "imageUrl": "/covers/webgl_points_waves.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_points_waves",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Particles",
+    "summary": "粒子",
+    "url": "https://threejs.org/examples/#webgpu_particles",
+    "imageUrl": "/covers/webgpu_particles.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_particles",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Occlusion",
+    "summary": "遮挡",
+    "url": "https://threejs.org/examples/#webgpu_occlusion",
+    "imageUrl": "/covers/webgpu_occlusion.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_occlusion",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Cloth",
+    "summary": "GPU布料",
+    "url": "https://threejs.org/examples/#webgpu_compute_cloth",
+    "imageUrl": "/covers/webgpu_compute_cloth.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_cloth",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "TSL Wood",
+    "summary": "木头材质",
+    "url": "https://threejs.org/examples/#webgpu_tsl_wood",
+    "imageUrl": "/covers/webgpu_tsl_wood.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_tsl_wood",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Sky Shader",
+    "summary": "程序化天空",
+    "url": "https://threejs.org/examples/#webgl_shaders_sky",
+    "imageUrl": "/covers/webgl_shaders_sky.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shaders_sky",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "DoF",
+    "summary": "景深",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_dof",
+    "imageUrl": "/covers/webgpu_postprocessing_dof.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_postprocessing_dof",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Subsurface Scattering",
+    "summary": "皮下散射",
+    "url": "https://threejs.org/examples/#webgl_materials_subsurface_scattering",
+    "imageUrl": "/covers/webgl_materials_subsurface_scattering.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_subsurface_scattering",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Mirror",
+    "summary": "实时镜面",
+    "url": "https://threejs.org/examples/#webgpu_mirror",
+    "imageUrl": "/covers/webgpu_mirror.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_mirror",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Custom Fog Background",
+    "summary": "雾背景",
+    "url": "https://threejs.org/examples/#webgpu_custom_fog_background",
+    "imageUrl": "/covers/webgpu_custom_fog_background.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_custom_fog_background",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Backdrop",
+    "summary": "体积背景",
+    "url": "https://threejs.org/examples/#webgpu_backdrop",
+    "imageUrl": "/covers/webgpu_backdrop.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_backdrop",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Compute Audio",
+    "summary": "GPU音频可视化",
+    "url": "https://threejs.org/examples/#webgpu_compute_audio",
+    "imageUrl": "/covers/webgpu_compute_audio.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_compute_audio",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "TSL Galaxy",
+    "summary": "星系",
+    "url": "https://threejs.org/examples/#webgpu_tsl_galaxy",
+    "imageUrl": "/covers/webgpu_tsl_galaxy.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_tsl_galaxy",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "shader",
+    "title": "Marching Cubes",
+    "summary": "等值面",
+    "url": "https://threejs.org/examples/#webgl_marchingcubes",
+    "imageUrl": "/covers/webgl_marchingcubes.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_marchingcubes",
+    "tags": [
+      "shader_visual"
+    ]
+  },
+  {
+    "type": "game",
     "title": "Sand Lords",
     "summary": "GPU沙水火",
     "url": "https://ricksongames.itch.io/sand-lords",
