@@ -1,6 +1,279 @@
 [
   {
     "type": "game",
+    "title": "Oar'some Adventures",
+    "summary": "最多八人漂流的河流合作冒险，Haymaker Games 新作。",
+    "url": "https://x.com/indie_inside/status/2092192762229612804",
+    "imageUrl": "/covers/2092192762229612804.jpg",
+    "source": "x",
+    "sourceId": "2092192762229612804",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "LEGO SKYLINES",
+    "summary": "乐高城市建造游戏首支预告片公布，即将推出。",
+    "url": "https://x.com/DiscussingFilm/status/2092333778370785760",
+    "imageUrl": "/covers/2092333778370785760.jpg",
+    "source": "x",
+    "sourceId": "2092333778370785760",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "A Weird Village",
+    "summary": "先上桌面端的奇奇怪怪村庄建造，Steam 页开得早。",
+    "url": "https://x.com/adredev/status/2092404157202289115",
+    "imageUrl": "/covers/2092404157202289115.jpg",
+    "source": "x",
+    "sourceId": "2092404157202289115",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "塔楼舷梯与阳台",
+    "summary": "塔楼之间加上舷梯和观景阳台，城建还在长。",
+    "url": "https://x.com/R2RGames/status/2092283498858250519",
+    "imageUrl": "/covers/2092283498858250519.jpg",
+    "source": "x",
+    "sourceId": "2092283498858250519",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "小湖",
+    "summary": "受五大湖启发的岛屿探索，小湖终于有了 Steam 页。",
+    "url": "https://x.com/TinyBoatGames/status/2092396595333472257",
+    "imageUrl": "/covers/2092396595333472257.jpg",
+    "source": "x",
+    "sourceId": "2092396595333472257",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Restore Order",
+    "summary": "把秩序彻底恢复，准备最后一战。",
+    "url": "https://x.com/WillGreenStudio/status/2092306008274338174",
+    "imageUrl": "/covers/2092306008274338174.jpg",
+    "source": "x",
+    "sourceId": "2092306008274338174",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Serious Bigness",
+    "summary": "毁掉城市、把自己变得巨大，破坏向独立作。",
+    "url": "https://x.com/Indie_FreaksJP/status/2092371488473235849",
+    "imageUrl": "/covers/2092371488473235849.jpg",
+    "source": "x",
+    "sourceId": "2092371488473235849",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "AFTERWORLD",
+    "summary": "Paradox 风格大战略新作 AFTERWORLD 揭秘。",
+    "url": "https://x.com/Traxium00/status/2092365408443523380",
+    "imageUrl": "/covers/2092365408443523380.jpg",
+    "source": "x",
+    "sourceId": "2092365408443523380",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Pogo With Friends",
+    "summary": "最多四人合作弹跳游戏促销半价。",
+    "url": "https://x.com/dotpixel3d/status/2092431837650206833",
+    "imageUrl": "/covers/2092431837650206833.jpg",
+    "source": "x",
+    "sourceId": "2092431837650206833",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Project P.I.T.T.",
+    "summary": "Famitsu 点名的怪作 Project P.I.T.T. 今日配信。",
+    "url": "https://x.com/famitsu/status/2090305081828856273",
+    "imageUrl": "/covers/2090305081828856273.jpg",
+    "source": "x",
+    "sourceId": "2090305081828856273",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Floating & Swimming",
+    "summary": "风格化 3D 角色漂浮与游泳动画演示，没有玩法。",
+    "url": "https://x.com/jaeysart/status/2092470650409746915",
+    "imageUrl": "/covers/2092470650409746915.jpg",
+    "source": "x",
+    "sourceId": "2092470650409746915",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Spline V2 精灵+3D",
+    "summary": "Spline V2 里精灵和 3D 与代理一起用。",
+    "url": "https://x.com/splinetool/status/2091915127809573240",
+    "imageUrl": "/covers/2091915127809573240.jpg",
+    "source": "x",
+    "sourceId": "2091915127809573240",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "工业 GLB 资产包",
+    "summary": "Three.js / Unity / Blender 都能用的工业风 GLB 包。",
+    "url": "https://x.com/hamster_wat/status/2092297450014859404",
+    "imageUrl": "/covers/2092297450014859404.jpg",
+    "source": "x",
+    "sourceId": "2092297450014859404",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "河流创作工具",
+    "summary": "正在做河流创作工具，给流程图生成当输入。",
+    "url": "https://x.com/dangreenheck/status/2092297816471163243",
+    "imageUrl": "/covers/2092297816471163243.jpg",
+    "source": "x",
+    "sourceId": "2092297816471163243",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "游戏概念艺术",
+    "summary": "给游戏画的概念图，作者觉得比例还得重想。",
+    "url": "https://x.com/xikhar/status/2092355609203187949",
+    "imageUrl": "/covers/2092355609203187949.jpg",
+    "source": "x",
+    "sourceId": "2092355609203187949",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "程序化炭笔地图",
+    "summary": "领主之城风格的程序化炭笔蚀刻地图做出来了。",
+    "url": "https://x.com/SeloSlav/status/2092265454169367011",
+    "imageUrl": "/covers/2092265454169367011.jpg",
+    "source": "x",
+    "sourceId": "2092265454169367011",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "光线图形引擎",
+    "summary": "继续开发基于光线的自制图形引擎。",
+    "url": "https://x.com/vseplet/status/2092330842035208548",
+    "imageUrl": "/covers/2092330842035208548.jpg",
+    "source": "x",
+    "sourceId": "2092330842035208548",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "ToDMs 日落夜间",
+    "summary": "默认 ToDMs 日落变成难看夜间造型的吐槽对照。",
+    "url": "https://x.com/lesbianparadigm/status/2092324212371239048",
+    "imageUrl": "/covers/2092324212371239048.jpg",
+    "source": "x",
+    "sourceId": "2092324212371239048",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "中世纪市场摊位",
+    "summary": "中世纪市场摊位环境概念，Yvo3D 风。",
+    "url": "https://x.com/korac2002/status/2087848636470165825",
+    "imageUrl": "/covers/2087848636470165825.jpg",
+    "source": "x",
+    "sourceId": "2087848636470165825",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Kenney 免费游戏资产",
+    "summary": "Kenney 晒免费游戏资产，新包推迟到明天。",
+    "url": "https://x.com/KenneyNL/status/2089439518222876835",
+    "imageUrl": "/covers/2089439518222876835.jpg",
+    "source": "x",
+    "sourceId": "2089439518222876835",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "3D 动物包",
+    "summary": "Patreon 更新 100 个带动画的逼真 3D 动物模型。",
+    "url": "https://x.com/WilliamAleixoo/status/2080441929905443313",
+    "imageUrl": "/covers/2080441929905443313.jpg",
+    "source": "x",
+    "sourceId": "2080441929905443313",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
     "title": "风雨送货",
     "summary": "轻卡在雨里泥里照送。系统还在路上跑。",
     "url": "https://x.com/MythicOwlGames/status/2092226650947629563",
