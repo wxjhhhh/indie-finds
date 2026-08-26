@@ -1,6 +1,448 @@
 [
   {
     "type": "game",
+    "title": "TINY TOWNS",
+    "summary": "体素微缩城镇搭建，积木房子一块块堆出玩具城市。",
+    "url": "https://bearish.itch.io/tiny-towns",
+    "imageUrl": "/covers/itch-tiny-towns.jpg",
+    "source": "itch",
+    "sourceId": "itch-tiny-towns",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Microlandia",
+    "summary": "残酷诚实的体素城市模拟，积木街区自己长出交通和生存系统。",
+    "url": "https://explodi.itch.io/microlandia",
+    "imageUrl": "/covers/itch-microlandia.jpg",
+    "source": "itch",
+    "sourceId": "itch-microlandia",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Shroomchitect",
+    "summary": "可爱蘑菇体素定居点，玩具式手绘植被在慢慢长。",
+    "url": "https://punkcake.itch.io/shroomchitect",
+    "imageUrl": "/covers/itch-shroomchitect.jpg",
+    "source": "itch",
+    "sourceId": "itch-shroomchitect",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Boxy",
+    "summary": "体素开放世界殖民，星坠现象改写地形，低模剪影很清楚。",
+    "url": "https://novelide.itch.io/boxy",
+    "imageUrl": "/covers/itch-boxy.jpg",
+    "source": "itch",
+    "sourceId": "itch-boxy",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Allumeria",
+    "summary": "体素沙盒冒险，像素块世界在生长，探索和战斗系统都在跑。",
+    "url": "https://unobtainablemelon.itch.io/allumeria",
+    "imageUrl": "/covers/itch-allumeria.jpg",
+    "source": "itch",
+    "sourceId": "itch-allumeria",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "ENDLESS BLUE",
+    "summary": "深海低模生存：水下体积光把无尽的海洋照成幽蓝，焦散还在算。",
+    "url": "https://mrdiv.itch.io/endless-blue",
+    "imageUrl": "/covers/itch-endless-blue.jpg",
+    "source": "itch",
+    "sourceId": "itch-endless-blue",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Chop Chop Inc.",
+    "summary": "第一人称砍树、锯木、自动产线做家具，木屑和传送带一直在跑。",
+    "url": "https://store.steampowered.com/app/4369130/Chop_Chop_Inc/",
+    "imageUrl": "/covers/steam-chop-chop-inc.jpg",
+    "source": "steam",
+    "sourceId": "steam-chop-chop-inc",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "GRAIN ROT",
+    "summary": "焦土里乘电梯拆家具、回前哨重建；木头容器会裂会着火。",
+    "url": "https://store.steampowered.com/app/4450620/GRAIN_ROT/",
+    "imageUrl": "/covers/steam-grain-rot.jpg",
+    "source": "steam",
+    "sourceId": "steam-grain-rot",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Salt & Schooners",
+    "summary": "1789 太平洋群岛求生：拼船、漏水、下潜捞沉船。",
+    "url": "https://store.steampowered.com/app/5067410/Salt__Schooners/",
+    "imageUrl": "/covers/steam-salt-schooners.jpg",
+    "source": "steam",
+    "sourceId": "steam-salt-schooners",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Shipolis",
+    "summary": "Godot 做的 3D 像素航海城建：开船穿群岛、铺产线、设自动贸易航线。",
+    "url": "https://store.steampowered.com/app/4573540/Shipolis/",
+    "imageUrl": "/covers/steam-shipolis.jpg",
+    "source": "steam",
+    "sourceId": "steam-shipolis",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Built by Day, Bitten by Night",
+    "summary": "体素王国白日种田喷泉、夜里打僵尸海盗。",
+    "url": "https://store.steampowered.com/app/4734670/Built_by_Day_Bitten_by_Night/",
+    "imageUrl": "/covers/steam-built-by-day.jpg",
+    "source": "steam",
+    "sourceId": "steam-built-by-day",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "The Ashen Stronghold",
+    "summary": "低多边形 Unity 奇幻据点，剪影清楚的城堡和余烬光。",
+    "url": "https://adilbek645.itch.io/the-ashen-stronghold",
+    "imageUrl": "/covers/itch-ashen-stronghold.jpg",
+    "source": "itch",
+    "sourceId": "itch-ashen-stronghold",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "ATLYSS",
+    "summary": "低多边形在线动作 RPG，玩具剪影角色在灯下砍怪。",
+    "url": "https://kiseff.itch.io/atlyss",
+    "imageUrl": "/covers/itch-atlyss.jpg",
+    "source": "itch",
+    "sourceId": "itch-atlyss",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Vintage Story Classic",
+    "summary": "经典体素沙盒创造模式，方块世界的光影还在算。",
+    "url": "https://tyronx.itch.io/vintage-story-classic",
+    "imageUrl": "/covers/itch-vintage-story-classic.jpg",
+    "source": "itch",
+    "sourceId": "itch-vintage-story-classic",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Vox Glider",
+    "summary": "开放世界滑翔得能力的体素探索。",
+    "url": "https://konkol.itch.io/vox-glider",
+    "imageUrl": "/covers/itch-vox-glider.jpg",
+    "source": "itch",
+    "sourceId": "itch-vox-glider",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Terra Spaces",
+    "summary": "苏格兰风的积木中世纪小岛，金色小时光里把房屋一块块铺成小镇。",
+    "url": "https://store.steampowered.com/app/3788070/Tiny_Terra_Spaces/",
+    "imageUrl": "/covers/steam-tiny-terra-spaces.jpg",
+    "source": "steam",
+    "sourceId": "steam-tiny-terra-spaces",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Sanctuary Shattered Sun",
+    "summary": "RTS Kickstarter 还在募。破碎太阳下的战场。",
+    "url": "https://x.com/SanctuaryRTS/status/2087196340027572384",
+    "imageUrl": "/covers/2087196340027572384.jpg",
+    "source": "x",
+    "sourceId": "2087196340027572384",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Interactive Caustics",
+    "summary": "交互式焦散：光线穿过水面在池底画出还在抖动的光斑。",
+    "url": "https://threejs.org/examples/#webgpu_caustics",
+    "imageUrl": "/covers/threejs-caustics.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-caustics",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Lava Shader",
+    "summary": "熔岩着色器：噪声扰动的热流和自发光。",
+    "url": "https://threejs.org/examples/#webgl_shader_lava",
+    "imageUrl": "/covers/threejs-lava.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-lava",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "GLTF Anisotropy",
+    "summary": "各向异性金属：拉丝铝高光被拉成长条。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_anisotropy",
+    "imageUrl": "/covers/threejs-gltf-anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-gltf-anisotropy",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "TSL Tornado",
+    "summary": "TSL 龙卷风：粒子和噪声场拧成还在旋转的气柱。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_vfx_tornado",
+    "imageUrl": "/covers/threejs-tsl-tornado.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-tsl-tornado",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Godrays",
+    "summary": "WebGL 体积光：从缝里打出来的丁达尔柱。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_godrays",
+    "imageUrl": "/covers/threejs-webgl-godrays.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl-godrays",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "GLTF Sheen",
+    "summary": "织物光泽：天鹅绒那种回扫高光。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_sheen",
+    "imageUrl": "/covers/threejs-gltf-sheen.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-gltf-sheen",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Physical Transmission",
+    "summary": "物理透射：厚玻璃的吸收和粗糙透射。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_transmission",
+    "imageUrl": "/covers/threejs-physical-transmission.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physical-transmission",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Physical Clearcoat",
+    "summary": "物理清漆：双层 BRDF 车漆高光。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_clearcoat",
+    "imageUrl": "/covers/threejs-physical-clearcoat.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physical-clearcoat",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Screen-Space SSS",
+    "summary": "屏幕空间次表面散射。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_sss",
+    "imageUrl": "/covers/threejs-ssss.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-ssss",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "SSGI Ballpool",
+    "summary": "球池里的屏幕空间 GI。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssgi_ballpool",
+    "imageUrl": "/covers/threejs-ssgi-ballpool.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-ssgi-ballpool",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Toon",
+    "summary": "WebGPU 卡通材质：硬边光和清晰剪影。",
+    "url": "https://threejs.org/examples/#webgpu_materials_toon",
+    "imageUrl": "/covers/threejs-webgpu-toon.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-toon",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Retro Post",
+    "summary": "复古后处理：把帧缓冲弄脏成 PSX/CRT。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_retro",
+    "imageUrl": "/covers/threejs-retro-post.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-retro-post",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "TSL Procedural Terrain",
+    "summary": "TSL 程序化地形。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_procedural_terrain",
+    "imageUrl": "/covers/threejs-tsl-terrain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-tsl-terrain",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Compute Birds",
+    "summary": "计算着色器鸟群。",
+    "url": "https://threejs.org/examples/#webgpu_compute_birds",
+    "imageUrl": "/covers/threejs-compute-birds.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-compute-birds",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Fog Scattering",
+    "summary": "散射雾。",
+    "url": "https://threejs.org/examples/#webgpu_custom_fog_scattering",
+    "imageUrl": "/covers/threejs-fog-scattering.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-fog-scattering",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Volume Perlin",
+    "summary": "体积柏林噪声。",
+    "url": "https://threejs.org/examples/#webgpu_volume_perlin",
+    "imageUrl": "/covers/threejs-volume-perlin.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-volume-perlin",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Codex 里的建筑生成器",
+    "summary": "有人在 Codex 里搭了个设计工具，直接给自己的游戏捏建筑。",
+    "url": "https://x.com/ronixtec/status/2086476478389145695",
+    "imageUrl": "/covers/2086476478389145695.jpg",
+    "source": "x",
+    "sourceId": "2086476478389145695",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
     "title": "Selkie Harbour",
     "summary": "拆童年残骸",
     "url": "https://x.com/SelkieHarbour/status/2091792722583515212",
