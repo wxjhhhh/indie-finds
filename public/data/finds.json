@@ -1,6 +1,448 @@
 [
   {
     "type": "game",
+    "title": "风雨送货",
+    "summary": "轻卡在雨里泥里照送。系统还在路上跑。",
+    "url": "https://x.com/MythicOwlGames/status/2092226650947629563",
+    "imageUrl": "/covers/2092226650947629563.jpg",
+    "source": "x",
+    "sourceId": "2092226650947629563",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "奇幻村庄概念流程",
+    "summary": "Blender + Photoshop 搭奇幻村庄，手绘形还在长。",
+    "url": "https://x.com/80Level/status/2092253751268557065",
+    "imageUrl": "/covers/2092253751268557065.jpg",
+    "source": "x",
+    "sourceId": "2092253751268557065",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Ghostless",
+    "summary": "离开基地去搜刮，再活着回来。开放世界求生还在转。",
+    "url": "https://x.com/GhostlessGame/status/2092235550040481873",
+    "imageUrl": "/covers/2092235550040481873.jpg",
+    "source": "x",
+    "sourceId": "2092235550040481873",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "昼夜循环初测",
+    "summary": "日夜循环和光照第一次跑起来，灯还在转。",
+    "url": "https://x.com/sashadyak/status/2092184880654495776",
+    "imageUrl": "/covers/2092184880654495776.jpg",
+    "source": "x",
+    "sourceId": "2092184880654495776",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Haggle 农奴生产",
+    "summary": "农奴产线特写，材料从人手里长出来。",
+    "url": "https://x.com/Wild_Man_Games/status/2092236355019436267",
+    "imageUrl": "/covers/2092236355019436267.jpg",
+    "source": "x",
+    "sourceId": "2092236355019436267",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "沙漠生态恢复",
+    "summary": "用生态科技把沙漠救回成活系统。",
+    "url": "https://x.com/ololralph/status/2092243565552275586",
+    "imageUrl": "/covers/2092243565552275586.jpg",
+    "source": "x",
+    "sourceId": "2092243565552275586",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "开放世界 JRPG 254 日",
+    "summary": "个人做的开放世界 JRPG，对话一加就有 RPG 感。",
+    "url": "https://x.com/NewTimeX/status/2092182881322008675",
+    "imageUrl": "/covers/2092182881322008675.jpg",
+    "source": "x",
+    "sourceId": "2092182881322008675",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "飞行员 60fps 渲染",
+    "summary": "Blender 60fps 渲染测试，眼球按真实节奏一顿一顿转。",
+    "url": "https://x.com/wanoco4D/status/2092209554067161280",
+    "imageUrl": "/covers/2092209554067161280.jpg",
+    "source": "x",
+    "sourceId": "2092209554067161280",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Dino Lords 英领主",
+    "summary": "英领主的战斗和翻跟头，3D 角色还在动。",
+    "url": "https://x.com/dinolordsgame/status/2092181687492809105",
+    "imageUrl": "/covers/2092181687492809105.jpg",
+    "source": "x",
+    "sourceId": "2092181687492809105",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Codex 雪地驾驶",
+    "summary": "Codex 做的雪地驾驶模拟，车和雪还在算。",
+    "url": "https://x.com/PhotoGarrido/status/2091930899323486544",
+    "imageUrl": "/covers/2091930899323486544.jpg",
+    "source": "x",
+    "sourceId": "2091930899323486544",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Kingdoms",
+    "summary": "没有敌人没有倒计时的微型君主制，城镇自己长。",
+    "url": "https://x.com/polybench3d/status/2091941717175947511",
+    "imageUrl": "/covers/2091941717175947511.jpg",
+    "source": "x",
+    "sourceId": "2091941717175947511",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "新 HUD",
+    "summary": "新 HUD 还在打磨，底下是随机玩法画面。",
+    "url": "https://x.com/Taikwy/status/2091903359036830151",
+    "imageUrl": "/covers/2091903359036830151.jpg",
+    "source": "x",
+    "sourceId": "2091903359036830151",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "树木阴影",
+    "summary": "改进的树影，叶片把光挡住一层。",
+    "url": "https://x.com/BluNomadRBLX/status/2092087421030522979",
+    "imageUrl": "/covers/2092087421030522979.jpg",
+    "source": "x",
+    "sourceId": "2092087421030522979",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "战斗站位",
+    "summary": "战斗机制和站位终于咬合，3D 战场还在跑。",
+    "url": "https://x.com/BiniedaMateusz/status/2091944879056204070",
+    "imageUrl": "/covers/2091944879056204070.jpg",
+    "source": "x",
+    "sourceId": "2091944879056204070",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "ROLLA",
+    "summary": "混乱街机破坏，滚动的质量把场景碾过去。",
+    "url": "https://x.com/80Level/status/2091997727341400554",
+    "imageUrl": "/covers/2091997727341400554.jpg",
+    "source": "x",
+    "sourceId": "2091997727341400554",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Blaze of Empires",
+    "summary": "RTS 试玩开了，帝国战场系统在转。",
+    "url": "https://x.com/BlazeOfEmpires/status/2088758143039811905",
+    "imageUrl": "/covers/2088758143039811905.jpg",
+    "source": "x",
+    "sourceId": "2088758143039811905",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Deeper Girl",
+    "summary": "神秘角色攻击很华丽，战斗演出还在打。",
+    "url": "https://x.com/eiasninelives/status/2091897267821392011",
+    "imageUrl": "/covers/2091897267821392011.jpg",
+    "source": "x",
+    "sourceId": "2091897267821392011",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Hexfall",
+    "summary": "Hexfall 六角战场还在。",
+    "url": "https://x.com/CrusaderCode/status/2091842818444530097",
+    "imageUrl": "/covers/2091842818444530097.jpg",
+    "source": "x",
+    "sourceId": "2091842818444530097",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Seaforge",
+    "summary": "水下生存制作，大西洋岸边的海还在算。",
+    "url": "https://x.com/80Level/status/2091884488590524596",
+    "imageUrl": "/covers/2091884488590524596.jpg",
+    "source": "x",
+    "sourceId": "2091884488590524596",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js 随机行星",
+    "summary": "随机生成行星，Three.js 把新世界捏出来。",
+    "url": "https://x.com/kevin_t_ngo/status/2091804960858198147",
+    "imageUrl": "/covers/2091804960858198147.jpg",
+    "source": "x",
+    "sourceId": "2091804960858198147",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Kay 直播资产",
+    "summary": "直播里捏的一批有趣资产，形很清楚。",
+    "url": "https://x.com/KayLousberg/status/2091863417212522892",
+    "imageUrl": "/covers/2091863417212522892.jpg",
+    "source": "x",
+    "sourceId": "2091863417212522892",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Ichor Online",
+    "summary": "独立 MMORPG 展示，世界还在线上跑。",
+    "url": "https://x.com/80Level/status/2091835783799857575",
+    "imageUrl": "/covers/2091835783799857575.jpg",
+    "source": "x",
+    "sourceId": "2091835783799857575",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "同伴解锁",
+    "summary": "用对应道具解锁新同伴，系统还在长。",
+    "url": "https://x.com/indgame0728/status/2091450622214369766",
+    "imageUrl": "/covers/2091450622214369766.jpg",
+    "source": "x",
+    "sourceId": "2091450622214369766",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "光标塔防坑",
+    "summary": "光标攻击，建塔建墙守住你的坑。",
+    "url": "https://x.com/rogueducknet/status/2090991791327883280",
+    "imageUrl": "/covers/2090991791327883280.jpg",
+    "source": "x",
+    "sourceId": "2090991791327883280",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "一分为二的大陆",
+    "summary": "山脉把大陆劈开的酷地图，地形还在铺。",
+    "url": "https://x.com/lisyarus/status/2091479912875950199",
+    "imageUrl": "/covers/2091479912875950199.jpg",
+    "source": "x",
+    "sourceId": "2091479912875950199",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "无尽传奇 2",
+    "summary": "地形会变的 4X，海在干。",
+    "url": "https://x.com/AUTOMATONJapan/status/2084895265107181683",
+    "imageUrl": "/covers/2084895265107181683.jpg",
+    "source": "x",
+    "sourceId": "2084895265107181683",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Machinefall",
+    "summary": "地球 RTS，地图格子到 32 万亿。",
+    "url": "https://x.com/gamespark/status/2086746915958669537",
+    "imageUrl": "/covers/2086746915958669537.jpg",
+    "source": "x",
+    "sourceId": "2086746915958669537",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "over the hill",
+    "summary": "最多 4 人合作的开放世界荒野。",
+    "url": "https://x.com/AUTOMATONJapan/status/2086997526679634111",
+    "imageUrl": "/covers/2086997526679634111.jpg",
+    "source": "x",
+    "sourceId": "2086997526679634111",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Truckful",
+    "summary": "温馨送货，乡下还有点黑。",
+    "url": "https://x.com/nichegamer/status/2089031114379706379",
+    "imageUrl": "/covers/2089031114379706379.jpg",
+    "source": "x",
+    "sourceId": "2089031114379706379",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Duskfade NPC",
+    "summary": "Duskfade 的 NPC 互动。",
+    "url": "https://x.com/MacReadyGames/status/2088899226818289823",
+    "imageUrl": "/covers/2088899226818289823.jpg",
+    "source": "x",
+    "sourceId": "2088899226818289823",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "一笔画桥和隧道",
+    "summary": "桥工具从一岸拖到另一岸，路网一次成形。",
+    "url": "https://x.com/TrafficArch/status/2089483446431203728",
+    "imageUrl": "/covers/2089483446431203728.jpg",
+    "source": "x",
+    "sourceId": "2089483446431203728",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "shader",
+    "title": "Godot 表面吸附",
+    "summary": "物体直接吸到表面上，法线对齐。",
+    "url": "https://x.com/jettelly/status/2090439344469262748",
+    "imageUrl": "/covers/2090439344469262748.jpg",
+    "source": "x",
+    "sourceId": "2090439344469262748",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "BloomKeeper",
+    "summary": "BloomKeeper 去科隆，植物世界还在长。",
+    "url": "https://x.com/bloomkeeper_ri/status/2090453817204863085",
+    "imageUrl": "/covers/2090453817204863085.jpg",
+    "source": "x",
+    "sourceId": "2090453817204863085",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
+    "title": "Feed the Scorchpot",
+    "summary": "骰子肉鸽，喂龙守岛。",
+    "url": "https://x.com/gamespark/status/2090745210687160415",
+    "imageUrl": "/covers/2090745210687160415.jpg",
+    "source": "x",
+    "sourceId": "2090745210687160415",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-26"
+  },
+  {
+    "type": "game",
     "title": "TINY TOWNS",
     "summary": "体素微缩城镇搭建，积木房子一块块堆出玩具城市。",
     "url": "https://bearish.itch.io/tiny-towns",
