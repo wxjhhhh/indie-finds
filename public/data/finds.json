@@ -1,6 +1,591 @@
 [
   {
     "type": "game",
+    "title": "未领货物增量",
+    "summary": "砸光积蓄囤了五十万箱无人认领货物，增量货运转起来了。",
+    "url": "https://x.com/raphusdev/status/2092535868313436670",
+    "imageUrl": "/covers/2092535868313436670.jpg",
+    "source": "x",
+    "sourceId": "2092535868313436670",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "HUMANKIND II",
+    "summary": "Amplitude 新作预告，古埃及金光人物镜头。",
+    "url": "https://x.com/PotatoMcWhiskey/status/2092327695174488558",
+    "imageUrl": "/covers/2092327695174488558.jpg",
+    "source": "x",
+    "sourceId": "2092327695174488558",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Glade",
+    "summary": "无格子的玩具城堡沙盒，常春藤、萤火虫和金光会跟着你的几何块自动长出来。",
+    "url": "https://store.steampowered.com/app/2198150/Tiny_Glade/",
+    "imageUrl": "/covers/steam-tiny-glade.jpg",
+    "source": "steam",
+    "sourceId": "steam-tiny-glade",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Gourdlets",
+    "summary": "Godot 南瓜人小镇，居民会自己钓鱼露营。",
+    "url": "https://store.steampowered.com/app/2013730/Gourdlets/",
+    "imageUrl": "/covers/steam-gourdlets.jpg",
+    "source": "steam",
+    "sourceId": "steam-gourdlets",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Town to City",
+    "summary": "地中海体素城建，无网格摆路，市民系统还在跑。",
+    "url": "https://store.steampowered.com/app/3115220/Town_to_City/",
+    "imageUrl": "/covers/steam-town-to-city.jpg",
+    "source": "steam",
+    "sourceId": "steam-town-to-city",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Whiskerwood",
+    "summary": "老鼠垂直殖民地，传送带管道海运都在转。",
+    "url": "https://store.steampowered.com/app/2489330/Whiskerwood/",
+    "imageUrl": "/covers/steam-whiskerwood.jpg",
+    "source": "steam",
+    "sourceId": "steam-whiskerwood",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Timberborn",
+    "summary": "海狸把水当材料，渠坝干旱是真流体。",
+    "url": "https://store.steampowered.com/app/1062090/Timberborn/",
+    "imageUrl": "/covers/steam-timberborn.jpg",
+    "source": "steam",
+    "sourceId": "steam-timberborn",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Aloft",
+    "summary": "浮岛造成天空帆船去航行，手绘草和体积云都在动。",
+    "url": "https://store.steampowered.com/app/1660080/Aloft/",
+    "imageUrl": "/covers/steam-aloft.jpg",
+    "source": "steam",
+    "sourceId": "steam-aloft",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Lucid Blocks",
+    "summary": "Godot 体素梦境沙盒，体积光加抖动帧缓冲。",
+    "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/",
+    "imageUrl": "/covers/steam-lucid-blocks.jpg",
+    "source": "steam",
+    "sourceId": "steam-lucid-blocks",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Loddlenaut",
+    "summary": "饱和玩具风水下清污，海草体积水和会进化的小生物。",
+    "url": "https://store.steampowered.com/app/1644940/Loddlenaut/",
+    "imageUrl": "/covers/steam-loddlenaut.jpg",
+    "source": "steam",
+    "sourceId": "steam-loddlenaut",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "The Wandering Village",
+    "summary": "巨兽背上建城，孢子进食迁徙是共生模拟。",
+    "url": "https://store.steampowered.com/app/1121640/The_Wandering_Village/",
+    "imageUrl": "/covers/steam-wandering-village.jpg",
+    "source": "steam",
+    "sourceId": "steam-wandering-village",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "shapez 2",
+    "summary": "三层立体工厂，几何体切开上色再堆叠。",
+    "url": "https://store.steampowered.com/app/2162800/shapez_2__Factory/",
+    "imageUrl": "/covers/steam-shapez-2.jpg",
+    "source": "steam",
+    "sourceId": "steam-shapez-2",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "SuperCitycon",
+    "summary": "复古体素城建，水面涟漪和车流像会动的桌面积木。",
+    "url": "https://store.steampowered.com/app/3474890/Super_Citycon/",
+    "imageUrl": "/covers/steam-supercitycon.jpg",
+    "source": "steam",
+    "sourceId": "steam-supercitycon",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Block Block Block",
+    "summary": "圆角木块堆微缩室内，木纹反射会跟着灯走。",
+    "url": "https://store.steampowered.com/app/3375490/Block_Block_Block/",
+    "imageUrl": "/covers/steam-block-block-block.jpg",
+    "source": "steam",
+    "sourceId": "steam-block-block-block",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Crow Country",
+    "summary": "PSX 游乐园恐怖，帧缓冲抖动和哥特夜灯。",
+    "url": "https://store.steampowered.com/app/1996010/Crow_Country/",
+    "imageUrl": "/covers/steam-crow-country.jpg",
+    "source": "steam",
+    "sourceId": "steam-crow-country",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Cloud Gardens",
+    "summary": "废弃场景里撒种，藤蔓真的会蔓延盖住废墟。",
+    "url": "https://store.steampowered.com/app/1372320/Cloud_Gardens/",
+    "imageUrl": "/covers/steam-cloud-gardens.jpg",
+    "source": "steam",
+    "sourceId": "steam-cloud-gardens",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Voxel Kingdom",
+    "summary": "Godot 体素沙盒，看得见的水和金光积木王国。",
+    "url": "https://pawnxpawn.itch.io/voxel-kingdom",
+    "imageUrl": "/covers/itch-voxel-kingdom.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxel-kingdom",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "PiraTycoon",
+    "summary": "低模海盗港湾，泊位贸易加灯塔体积光。",
+    "url": "https://misztersoul.itch.io/piratycoon",
+    "imageUrl": "/covers/itch-piratycoon.jpg",
+    "source": "itch",
+    "sourceId": "itch-piratycoon",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Isles of Artifice",
+    "summary": "程序化岛上种田炼金加码头工厂。",
+    "url": "https://william-ritson.itch.io/isles-of-artifice",
+    "imageUrl": "/covers/itch-isles-of-artifice.jpg",
+    "source": "itch",
+    "sourceId": "itch-isles-of-artifice",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Basin and Range",
+    "summary": "Godot 沙漠体素，推土机改地形，金黄日落。",
+    "url": "https://hestongrr.itch.io/basin-and-range",
+    "imageUrl": "/covers/itch-basin-and-range.jpg",
+    "source": "itch",
+    "sourceId": "itch-basin-and-range",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Voxelion",
+    "summary": "可破坏体素城建 RTS，物流写进地形。",
+    "url": "https://cubeheadsstudio.itch.io/voxelion",
+    "imageUrl": "/covers/itch-voxelion.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelion",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "CityBlocks",
+    "summary": "体素城建原型，桥从可见的河上穿过去。",
+    "url": "https://valeri1996.itch.io/cityblocks",
+    "imageUrl": "/covers/itch-cityblocks.jpg",
+    "source": "itch",
+    "sourceId": "itch-cityblocks",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Overtime",
+    "summary": "仿 PSX 短篇，空办公室里的复古体积夜。",
+    "url": "https://goldenbirdgames.itch.io/overtime",
+    "imageUrl": "/covers/itch-overtime.jpg",
+    "source": "itch",
+    "sourceId": "itch-overtime",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
+    "title": "Midnight Ritual",
+    "summary": "低模 PSX 哥特仪式，蜡烛庄园夜灯。",
+    "url": "https://pugsgames.itch.io/midnight-ritual",
+    "imageUrl": "/covers/itch-midnight-ritual.jpg",
+    "source": "itch",
+    "sourceId": "itch-midnight-ritual",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized Water Foam Caustics",
+    "summary": "Godot 风格化湖面，岸边泡沫和彩虹焦散。",
+    "url": "https://store.godotengine.org/asset/emace-art/stylized-water-shader/",
+    "imageUrl": "/covers/godot-stylized-water-emace.jpg",
+    "source": "godot",
+    "sourceId": "godot-stylized-water-emace",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized Vegetation Wind Grass",
+    "summary": "三层风力草场，单叶摇曳加阵风。",
+    "url": "https://store.godotengine.org/asset/emace-art/godot-stylized-vegetation-wind-shader/",
+    "imageUrl": "/covers/godot-vegetation-wind-emace.jpg",
+    "source": "godot",
+    "sourceId": "godot-vegetation-wind-emace",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Iridescence Thin-Film Materials",
+    "summary": "薄膜干涉虹彩，肥皂泡油膜镀层会随视角变色。",
+    "url": "https://threejsdemos.com/demos/materials/iridescence-thinfilm",
+    "imageUrl": "/covers/tjd-iridescence-thinfilm.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-iridescence-thinfilm",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Animated Grass Field Instanced",
+    "summary": "实例化草场，多层风力顶点动画。",
+    "url": "https://threejsdemos.com/demos/procedural/grass",
+    "imageUrl": "/covers/tjd-procedural-grass.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-procedural-grass",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Volumetric Spotlight Lab",
+    "summary": "体积聚光灯，阴影锥体和雾耦合光柱。",
+    "url": "https://threejsdemos.com/demos/lighting/volumetric-spotlight",
+    "imageUrl": "/covers/tjd-volumetric-spotlight.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-volumetric-spotlight",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Water Realism Upgrade",
+    "summary": "Water.js 写实水面，反射折射和太阳高光。",
+    "url": "https://threejsdemos.com/demos/materials/water-realism",
+    "imageUrl": "/covers/tjd-water-realism.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-water-realism",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Clearcoat Anisotropy Lab",
+    "summary": "清漆加各向异性高光，车漆和拉丝金属。",
+    "url": "https://threejsdemos.com/demos/materials/clearcoat-anisotropy",
+    "imageUrl": "/covers/tjd-clearcoat-anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-clearcoat-anisotropy",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Fog Scattering Playground",
+    "summary": "指数雾和聚光前向散射光柱。",
+    "url": "https://threejsdemos.com/demos/lighting/fog-scattering",
+    "imageUrl": "/covers/tjd-fog-scattering.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-fog-scattering",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Procedural Terrain Biomes",
+    "summary": "沙草岩雪生物群系着色。",
+    "url": "https://threejsdemos.com/demos/procedural/terrain",
+    "imageUrl": "/covers/tjd-procedural-terrain.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-procedural-terrain",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Procedural Rain Demo",
+    "summary": "粒子雨丝和地面涟漪。",
+    "url": "https://threejsdemos.com/demos/procedural/rain",
+    "imageUrl": "/covers/tjd-procedural-rain.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-procedural-rain",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Retro Plasma Shader",
+    "summary": "复古等离子体全屏着色器。",
+    "url": "https://threejsdemos.com/demos/retro/plasma",
+    "imageUrl": "/covers/tjd-retro-plasma.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-retro-plasma",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Retro Framebuffer Pass",
+    "summary": "低分辨率 CRT 味后处理。",
+    "url": "https://threejsdemos.com/demos/postfx/retro-pass",
+    "imageUrl": "/covers/tjd-retro-pass.jpg",
+    "source": "threejs",
+    "sourceId": "tjd-retro-pass",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Shadertoy Experiments Portfolio",
+    "summary": "体积云、水面、沙模拟和 NPR 合集。",
+    "url": "https://vanandrew.itch.io/shadertoy-experiments",
+    "imageUrl": "/covers/itch-van-shadertoy-experiments.jpg",
+    "source": "itch",
+    "sourceId": "itch-van-shadertoy-experiments",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Poseidon WebGPU FFT Ocean",
+    "summary": "Three.js WebGPU 实时 FFT 海面。",
+    "url": "https://github.com/xirtus/poseidon",
+    "imageUrl": "/covers/github-xirtus-poseidon.jpg",
+    "source": "web",
+    "sourceId": "github-xirtus-poseidon",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Boujie Water Shader Ocean",
+    "summary": "Godot 4 Gerstner 无限海洋。",
+    "url": "https://github.com/Chrisknyfe/boujie_water_shader",
+    "imageUrl": "/covers/github-boujie-water.jpg",
+    "source": "godot",
+    "sourceId": "github-boujie-water",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "TCA Weather Volumetric Clouds",
+    "summary": "体积云、Gerstner 水、地面湿润和风吹植被。",
+    "url": "https://github.com/kS222138/TCA_Weather_System/",
+    "imageUrl": "/covers/github-tca-weather.jpg",
+    "source": "godot",
+    "sourceId": "github-tca-weather",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Moana-style Shadertoy Water",
+    "summary": "体积吸收、焦散和湿沙。",
+    "url": "https://wallisc.github.io/rendering/2020/12/08/Making-Of-Moana-the-shadertoy.html",
+    "imageUrl": "/covers/web-moana-shadertoy.jpg",
+    "source": "web",
+    "sourceId": "web-moana-shadertoy",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Gasgiant FFT Ocean",
+    "summary": "经典 Tessendorf FFT 海洋。",
+    "url": "https://github.com/gasgiant/FFT-Ocean",
+    "imageUrl": "/covers/github-gasgiant-fft-ocean.jpg",
+    "source": "web",
+    "sourceId": "github-gasgiant-fft-ocean",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Wind Waker Water",
+    "summary": "塞尔达风之杖风格卡通水面：圆形泡沫图案与顶点波浪。",
+    "url": "https://godotshaders.com/shader/wind-waker-water/",
+    "imageUrl": "/covers/gs-wind-waker-water.jpg",
+    "source": "godot",
+    "sourceId": "gs-wind-waker-water",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized Toon Water",
+    "summary": "基于法线视角分色的 Godot 卡通水体，可调色带与发光。",
+    "url": "https://godotshaders.com/shader/stylized-toon-water/",
+    "imageUrl": "/covers/gs-stylized-toon-water.jpg",
+    "source": "godot",
+    "sourceId": "gs-stylized-toon-water",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "shader",
+    "title": "Water with Caustics",
+    "summary": "Godot 带世界空间焦散、折射与岸边泡沫的水面着色器。",
+    "url": "https://godotshaders.com/shader/water-with-caustics/",
+    "imageUrl": "/covers/gs-water-with-caustics.jpg",
+    "source": "godot",
+    "sourceId": "gs-water-with-caustics",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-27"
+  },
+  {
+    "type": "game",
     "title": "Oar'some Adventures",
     "summary": "最多八人漂流的河流合作冒险，Haymaker Games 新作。",
     "url": "https://x.com/indie_inside/status/2092192762229612804",
