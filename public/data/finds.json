@@ -1,5 +1,903 @@
 [
   {
+    "type": "shader",
+    "title": "UE 自定义 AI 框架演示",
+    "summary": "lab3studio 在 Unreal 里跑自定义 AI 行为框架，技术演示向。",
+    "url": "https://x.com/lab3studio/status/2072963868553269611",
+    "imageUrl": "/covers/2072963868553269611.jpg",
+    "source": "x",
+    "sourceId": "2072963868553269611",
+    "tags": [
+      "shader_visual",
+      "ue"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "ID Required 潜行汇编",
+    "summary": "lab3studio 潜行机制合集，Steam 页已批，系统向 3D 潜入。",
+    "url": "https://x.com/lab3studio/status/2092017086667071713",
+    "imageUrl": "/covers/2092017086667071713.jpg",
+    "source": "x",
+    "sourceId": "2092017086667071713",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "NPC 见枪逃跑",
+    "summary": "行为树中间步骤：NPC 看到枪就吓跑，活着的反应系统。",
+    "url": "https://x.com/lab3studio/status/2092671495273124112",
+    "imageUrl": "/covers/2092671495273124112.jpg",
+    "source": "x",
+    "sourceId": "2092671495273124112",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "水坑反应",
+    "summary": "GameMaker 水坑涟漪反应，材料跟着交互动。",
+    "url": "https://x.com/monolitogame/status/2092677223991984316",
+    "imageUrl": "/covers/2092677223991984316.jpg",
+    "source": "x",
+    "sourceId": "2092677223991984316",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Aerosoft 航海模拟",
+    "summary": "多样船队开进模拟海，2026/9/16 抢先体验。",
+    "url": "https://x.com/AerosoftGmbH/status/2092658330896306601",
+    "imageUrl": "/covers/2092658330896306601.jpg",
+    "source": "x",
+    "sourceId": "2092658330896306601",
+    "tags": [
+      "3D_game",
+      "sailing"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "拖拉机履带几何节点",
+    "summary": "几何节点履带与性能优化，技术美术向。",
+    "url": "https://x.com/luckychrisagain/status/2092287204936561040",
+    "imageUrl": "/covers/2092287204936561040.jpg",
+    "source": "x",
+    "sourceId": "2092287204936561040",
+    "tags": [
+      "shader_visual",
+      "tech_art"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "独立动画工作流",
+    "summary": "动画师给独立开发的标准动画流程演示。",
+    "url": "https://x.com/libbypeteanim/status/2092811815965323580",
+    "imageUrl": "/covers/2092811815965323580.jpg",
+    "source": "x",
+    "sourceId": "2092811815965323580",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "英雄无敌III 重制版",
+    "summary": "策略重制实机介绍，可读战场几何。",
+    "url": "https://x.com/simustra_com/status/2092583084751532049",
+    "imageUrl": "/covers/2092583084751532049.jpg",
+    "source": "x",
+    "sourceId": "2092583084751532049",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Aloft 开放世界大更新",
+    "summary": "空岛手作生存完全开放世界化，体积云草地还在动。",
+    "url": "https://x.com/AUTOMATONJapan/status/2092847583093993682",
+    "imageUrl": "/covers/2092847583093993682.jpg",
+    "source": "x",
+    "sourceId": "2092847583093993682",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Dumpster Gang",
+    "summary": "浣熊拆家合作多人，风格化 3D 闹剧。",
+    "url": "https://x.com/AUTOMATONJapan/status/2092836117246775386",
+    "imageUrl": "/covers/2092836117246775386.jpg",
+    "source": "x",
+    "sourceId": "2092836117246775386",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Water Pro 河流湖泊",
+    "summary": "流场贴图驱动河流湖泊，核心水体渲染器。",
+    "url": "https://x.com/dangreenheck/status/2092847358841147591",
+    "imageUrl": "/covers/2092847358841147591.jpg",
+    "source": "x",
+    "sourceId": "2092847358841147591",
+    "tags": [
+      "shader_visual",
+      "threejs",
+      "water"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "我的四轮妹妹",
+    "summary": "把妹妹变成露营车的冒险，日系风格化 3D。",
+    "url": "https://x.com/Indie_FreaksJP/status/2092809358732345489",
+    "imageUrl": "/covers/2092809358732345489.jpg",
+    "source": "x",
+    "sourceId": "2092809358732345489",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "adredev 非典型温馨",
+    "summary": "自称不是典型 cozy 的独立 3D 小品。",
+    "url": "https://x.com/adredev/status/2092611739804201357",
+    "imageUrl": "/covers/2092611739804201357.jpg",
+    "source": "x",
+    "sourceId": "2092611739804201357",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Fish & Hike 污染清理",
+    "summary": "钓鱼徒步加垃圾清理回收，生态与材料在动。",
+    "url": "https://x.com/WojtekWitowski/status/2092683941828313202",
+    "imageUrl": "/covers/2092683941828313202.jpg",
+    "source": "x",
+    "sourceId": "2092683941828313202",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Into the Wind",
+    "summary": "飞行摩托送货，亚得里亚海风景实机。",
+    "url": "https://x.com/denfaminicogame/status/2092694467765752035",
+    "imageUrl": "/covers/2092694467765752035.jpg",
+    "source": "x",
+    "sourceId": "2092694467765752035",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "CHRONICLES:MEDIEVAL",
+    "summary": "Gamescom 可玩地图，封臣到政治层的中世纪系统。",
+    "url": "https://x.com/ProudBavaria/status/2092660109981675850",
+    "imageUrl": "/covers/2092660109981675850.jpg",
+    "source": "x",
+    "sourceId": "2092660109981675850",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Cozy Country",
+    "summary": "室内灯火壁炉，窗外大雨，温馨氛围光。",
+    "url": "https://x.com/protopop/status/2092766044142133546",
+    "imageUrl": "/covers/2092766044142133546.jpg",
+    "source": "x",
+    "sourceId": "2092766044142133546",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Keepshore",
+    "summary": "九个时代的平静岛屿城镇建造，生产链与活着的市场会在你离开后继续运转。",
+    "url": "https://store.steampowered.com/app/5083090/Keepshore/",
+    "imageUrl": "/covers/steam-5083090.jpg",
+    "source": "steam",
+    "sourceId": "steam-5083090",
+    "tags": [
+      "3D_game",
+      "town_builder",
+      "procgen"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Swarmdustry",
+    "summary": "活体生物机械虫群工厂：孵化劳工、铺轨迹、自动化巨型有机产线。",
+    "url": "https://store.steampowered.com/app/4000770/Swarmdustry/",
+    "imageUrl": "/covers/steam-4000770.jpg",
+    "source": "steam",
+    "sourceId": "steam-4000770",
+    "tags": [
+      "3D_game",
+      "factory",
+      "colony"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Amicraft Factory",
+    "summary": "风格化治愈工厂：小生物 Ami 帮忙搭传送带，把生产线做成好看的家园。",
+    "url": "https://store.steampowered.com/app/4783150/Amicraft_Factory/",
+    "imageUrl": "/covers/steam-4783150.jpg",
+    "source": "steam",
+    "sourceId": "steam-4783150",
+    "tags": [
+      "3D_game",
+      "factory",
+      "cozy",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "SeaColony",
+    "summary": "公海上的漂浮殖民地建造，种植、捕鱼、发电并扛住海盗与风暴。",
+    "url": "https://store.steampowered.com/app/4661260/SeaColony/",
+    "imageUrl": "/covers/steam-4661260.jpg",
+    "source": "steam",
+    "sourceId": "steam-4661260",
+    "tags": [
+      "3D_game",
+      "colony",
+      "sailing",
+      "survival"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "the collective",
+    "summary": "世代飞船生命支持工厂：皮带与电路维护大气食物，同时经营会记住你的船员。",
+    "url": "https://store.steampowered.com/app/4404590/the_collective/",
+    "imageUrl": "/covers/steam-4404590.jpg",
+    "source": "steam",
+    "sourceId": "steam-4404590",
+    "tags": [
+      "3D_game",
+      "factory",
+      "life_sim"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Aetheria",
+    "summary": "体素群岛求生：物理造船、探索、建基地，世界生成驱动的航海生存。",
+    "url": "https://store.steampowered.com/app/3764710/Aetheria/",
+    "imageUrl": "/covers/steam-3764710.jpg",
+    "source": "steam",
+    "sourceId": "steam-3764710",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "sailing",
+      "survival"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Oceaneers",
+    "summary": "洪水世界漂浮岛殖民地，造筌、救生还者、打捞 Float-Tech。",
+    "url": "https://store.steampowered.com/app/3052510/Oceaneers/",
+    "imageUrl": "/covers/steam-3052510.jpg",
+    "source": "steam",
+    "sourceId": "steam-3052510",
+    "tags": [
+      "3D_game",
+      "colony",
+      "sailing"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Blocky Colony",
+    "summary": "加勒比灵感的体素殖民岛：一格一格建城、贸易出口并守岸。",
+    "url": "https://store.steampowered.com/app/4917300/Blocky_Colony/",
+    "imageUrl": "/covers/steam-4917300.jpg",
+    "source": "steam",
+    "sourceId": "steam-4917300",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "colony"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "HZ Industry",
+    "summary": "地上自动化工厂养殖民地，地下深渊实时作战，产线真正喂养战斗。",
+    "url": "https://store.steampowered.com/app/4618850/HZ_Industry/",
+    "imageUrl": "/covers/steam-4618850.jpg",
+    "source": "steam",
+    "sourceId": "steam-4618850",
+    "tags": [
+      "3D_game",
+      "factory",
+      "colony"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "ShoreTiles",
+    "summary": "阴郁灯塔岛拼贴建造：白天铺地砖扩张，夜里海怪扑向灯光。",
+    "url": "https://store.steampowered.com/app/4268460/ShoreTiles/",
+    "imageUrl": "/covers/steam-4268460.jpg",
+    "source": "steam",
+    "sourceId": "steam-4268460",
+    "tags": [
+      "3D_game",
+      "builder",
+      "gothic"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Kardaviik",
+    "summary": "体素小行星带工厂：采集能量、攀升 Kardashev 阶梯的 3D 自动化。",
+    "url": "https://store.steampowered.com/app/2385970/Kardaviik/",
+    "imageUrl": "/covers/steam-2385970.jpg",
+    "source": "steam",
+    "sourceId": "steam-2385970",
+    "tags": [
+      "3D_game",
+      "factory",
+      "voxel"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Modulus: Factory Automation",
+    "summary": "天空岛上的空间约束工厂：每条产线都是开放世界立体谜题。",
+    "url": "https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/",
+    "imageUrl": "/covers/steam-2779120.jpg",
+    "source": "steam",
+    "sourceId": "steam-2779120",
+    "tags": [
+      "3D_game",
+      "factory"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Endless Isolation",
+    "summary": "PSX 低多边形生存恐怖，用不完整画面本身制造恐惧可读性。",
+    "url": "https://store.steampowered.com/app/4626580/Endless_Isolation/",
+    "imageUrl": "/covers/steam-4626580.jpg",
+    "source": "steam",
+    "sourceId": "steam-4626580",
+    "tags": [
+      "3D_game",
+      "PSX",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Grease Trap '99",
+    "summary": "苏格兰炸鱼店 PS1 风味喜剧恐怖，可读低模柜台与 CRT 氛围。",
+    "url": "https://store.steampowered.com/app/4509200/Grease_Trap_99/",
+    "imageUrl": "/covers/steam-4509200.jpg",
+    "source": "steam",
+    "sourceId": "steam-4509200",
+    "tags": [
+      "3D_game",
+      "PSX",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Viking City Builder",
+    "summary": "维京定居点建造与防御：管理人丁、劫掠与敌意土地上的村落系统。",
+    "url": "https://store.steampowered.com/app/1401370/Viking_City_Builder/",
+    "imageUrl": "/covers/steam-1401370.jpg",
+    "source": "steam",
+    "sourceId": "steam-1401370",
+    "tags": [
+      "3D_game",
+      "city_builder",
+      "colony"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Zombies Per Minute",
+    "summary": "以僵尸击杀效率为 KPI 的工厂肉鸽，产线布局即战斗节奏。",
+    "url": "https://store.steampowered.com/app/4416970/Zombies_Per_Minute/",
+    "imageUrl": "/covers/steam-4416970.jpg",
+    "source": "steam",
+    "sourceId": "steam-4416970",
+    "tags": [
+      "3D_game",
+      "factory",
+      "roguelite"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Factorwave",
+    "summary": "快节奏战斗工厂：自动化、占领 Sector Hub，物流与前线一体。",
+    "url": "https://store.steampowered.com/app/4428900/Factorwave/",
+    "imageUrl": "/covers/steam-4428900.jpg",
+    "source": "steam",
+    "sourceId": "steam-4428900",
+    "tags": [
+      "3D_game",
+      "factory"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Colony Survival",
+    "summary": "第一人称体素殖民地：指派农民矿工守卫，每晚尸潮考验布局。",
+    "url": "https://store.steampowered.com/app/366090/Colony_Survival/",
+    "imageUrl": "/covers/steam-366090.jpg",
+    "source": "steam",
+    "sourceId": "steam-366090",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "colony"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Ragged Sails",
+    "summary": "Godot 海盗帆船幸存者原型，手工低模海战与升级菜单。",
+    "url": "https://zailef.itch.io/ragged-sails",
+    "imageUrl": "/covers/itch-ragged-sails.jpg",
+    "source": "itch",
+    "sourceId": "itch-ragged-sails",
+    "tags": [
+      "3D_game",
+      "Godot",
+      "sailing"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "Sailing in the Dark",
+    "summary": "永夜群岛怪物船建造探索，用积木改装船体在黑暗中找十座岛。",
+    "url": "https://ccadori.itch.io/sailing-in-the-dark",
+    "imageUrl": "/covers/itch-sailing-in-the-dark.jpg",
+    "source": "itch",
+    "sourceId": "itch-sailing-in-the-dark",
+    "tags": [
+      "3D_game",
+      "Godot",
+      "sailing"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "game",
+    "title": "LIMINAL P.D.",
+    "summary": "PSX Horror Jam 电影镜头切换原型，抖动摄影机与阈限室内。",
+    "url": "https://bytesizedgamestudio.itch.io/liminal-pd",
+    "imageUrl": "/covers/itch-liminal-pd.jpg",
+    "source": "itch",
+    "sourceId": "itch-liminal-pd",
+    "tags": [
+      "3D_game",
+      "PSX"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Flickering Torch",
+    "summary": "噪声驱动的火把点光闪烁，暖橙色体积感与实时强度旋钮。",
+    "url": "https://threejsdemos.com/demos/lighting/torch",
+    "imageUrl": "/covers/tjd-flickering-torch.jpg",
+    "source": "other",
+    "sourceId": "tjd-flickering-torch",
+    "tags": [
+      "shader_visual",
+      "fire",
+      "lighting"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Procedural Noise Texture",
+    "summary": "分形噪声材质实验室：云、湍流、大理石与火焰色板实时演化。",
+    "url": "https://threejsdemos.com/demos/materials/proc-noise",
+    "imageUrl": "/covers/tjd-proc-noise.jpg",
+    "source": "other",
+    "sourceId": "tjd-proc-noise",
+    "tags": [
+      "shader_visual",
+      "procgen",
+      "materials"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Fountain Emitter",
+    "summary": "物理水珠喷泉：透射 IOR 水材质实例化粒子落入水面。",
+    "url": "https://threejsdemos.com/demos/procedural/fountain",
+    "imageUrl": "/covers/tjd-fountain.jpg",
+    "source": "other",
+    "sourceId": "tjd-fountain",
+    "tags": [
+      "shader_visual",
+      "water",
+      "particles"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Screen Space Reflections",
+    "summary": "屏幕空间反射水面演示，渲染目标驱动的实时镜面涟漪。",
+    "url": "https://threejsdemos.com/demos/postfx/ssr",
+    "imageUrl": "/covers/tjd-ssr.jpg",
+    "source": "other",
+    "sourceId": "tjd-ssr",
+    "tags": [
+      "shader_visual",
+      "water",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Film Grain Studio",
+    "summary": "电影感胶片颗粒+扫描线调色，适合复古帧缓冲氛围。",
+    "url": "https://threejsdemos.com/demos/postfx/film-grain",
+    "imageUrl": "/covers/tjd-film-grain.jpg",
+    "source": "other",
+    "sourceId": "tjd-film-grain",
+    "tags": [
+      "shader_visual",
+      "retro",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Glitch VFX Playground",
+    "summary": "霓虹城市场景套 DigitalGlitch，突发/脉冲扭曲模式。",
+    "url": "https://threejsdemos.com/demos/postfx/glitch",
+    "imageUrl": "/covers/tjd-glitch.jpg",
+    "source": "other",
+    "sourceId": "tjd-glitch",
+    "tags": [
+      "shader_visual",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Galaxy Generator",
+    "summary": "程序化螺旋星系：臂数、径向分布与高粒子数着色。",
+    "url": "https://threejsdemos.com/demos/particles/galaxy",
+    "imageUrl": "/covers/tjd-galaxy.jpg",
+    "source": "other",
+    "sourceId": "tjd-galaxy",
+    "tags": [
+      "shader_visual",
+      "procgen",
+      "particles"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Bloom Glow",
+    "summary": "HDR 泛光后期，阈值与强度可调的发光材质展示。",
+    "url": "https://threejsdemos.com/demos/postfx/bloom",
+    "imageUrl": "/covers/tjd-bloom.jpg",
+    "source": "other",
+    "sourceId": "tjd-bloom",
+    "tags": [
+      "shader_visual",
+      "postfx",
+      "lighting"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Starfield Warp",
+    "summary": "冲向镜头的无限星野扭曲，复古太空帧缓冲感觉。",
+    "url": "https://threejsdemos.com/demos/procedural/starfield",
+    "imageUrl": "/covers/tjd-starfield.jpg",
+    "source": "other",
+    "sourceId": "tjd-starfield",
+    "tags": [
+      "shader_visual",
+      "procgen",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Soft Shadows",
+    "summary": "PCF 软阴影实验室，动态柔度对比可读几何光影。",
+    "url": "https://threejsdemos.com/demos/lighting/soft-shadows",
+    "imageUrl": "/covers/tjd-soft-shadows.jpg",
+    "source": "other",
+    "sourceId": "tjd-soft-shadows",
+    "tags": [
+      "shader_visual",
+      "lighting"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Chromatic Aberration",
+    "summary": "镜头色差边缘溢色，技术美术常用的光学瑕疵层。",
+    "url": "https://threejsdemos.com/demos/postfx/chromatic",
+    "imageUrl": "/covers/tjd-chromatic.jpg",
+    "source": "other",
+    "sourceId": "tjd-chromatic",
+    "tags": [
+      "shader_visual",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Depth of Field Focus",
+    "summary": "散景景深与点击对焦，分层几何上的电影焦距。",
+    "url": "https://threejsdemos.com/demos/postfx/dof",
+    "imageUrl": "/covers/tjd-dof.jpg",
+    "source": "other",
+    "sourceId": "tjd-dof",
+    "tags": [
+      "shader_visual",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Motion Blur",
+    "summary": "帧混合速度拖影自定义着色器，运动材质可读性实验。",
+    "url": "https://threejsdemos.com/demos/postfx/motion-blur",
+    "imageUrl": "/covers/tjd-motion-blur.jpg",
+    "source": "other",
+    "sourceId": "tjd-motion-blur",
+    "tags": [
+      "shader_visual",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Environment Map HDRI",
+    "summary": "立方体相机实时环境反射，程序天空盒驱动的材质高光。",
+    "url": "https://threejsdemos.com/demos/materials/envmap",
+    "imageUrl": "/covers/tjd-envmap.jpg",
+    "source": "other",
+    "sourceId": "tjd-envmap",
+    "tags": [
+      "shader_visual",
+      "materials"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "NatureBlocks",
+    "summary": "Godot 风格化自然包：地形程序生成、草灌散射与生物群系材质。",
+    "url": "https://bukkbeek.itch.io/natureblocks",
+    "imageUrl": "/covers/itch-natureblocks.jpg",
+    "source": "itch",
+    "sourceId": "itch-natureblocks",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "stylized",
+      "grass"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "EffectBlocks",
+    "summary": "Godot 低模 VFX：火烟、神光、植被风、水面涟漪与全息着色器。",
+    "url": "https://bukkbeek.itch.io/effectblocks",
+    "imageUrl": "/covers/itch-effectblocks.jpg",
+    "source": "itch",
+    "sourceId": "itch-effectblocks",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "fire",
+      "water"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Sky Shaders 3D Demo",
+    "summary": "Godot 天空着色器演示集，体积云与日夜氛围可调。",
+    "url": "https://store.godotengine.org/asset/godot-foundation/sky-shaders-3d-demo/",
+    "imageUrl": "/covers/godot-sky-shaders-3d.jpg",
+    "source": "godot",
+    "sourceId": "godot-sky-shaders-3d",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "sky"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Ultimate Retro Shader Collection",
+    "summary": "复古空间着色器合集：PSX/帧缓冲风格材质一站式。",
+    "url": "https://store.godotengine.org/asset/zorochase/ultimate-retro-shader-collection/",
+    "imageUrl": "/covers/godot-ultimate-retro.jpg",
+    "source": "godot",
+    "sourceId": "godot-ultimate-retro",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "PSX",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "CRT and VHS shaders",
+    "summary": "CRT/VHS 屏幕扭曲、扫描线与色偏，复古监视器后处理。",
+    "url": "https://store.godotengine.org/asset/punikonta/crt-and-vhs-shaders/",
+    "imageUrl": "/covers/godot-crt-vhs.jpg",
+    "source": "godot",
+    "sourceId": "godot-crt-vhs",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Retro",
+    "summary": "Godot 复古渲染管线，低分辨率帧缓冲与色带量化。",
+    "url": "https://store.godotengine.org/asset/lucas-angelo/godot-retro/",
+    "imageUrl": "/covers/godot-godot-retro.jpg",
+    "source": "godot",
+    "sourceId": "godot-godot-retro",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Low Poly Precision Outline Shader",
+    "summary": "低模描边着色器，强化可读几何与玩具积木轮廓。",
+    "url": "https://store.godotengine.org/asset/sol-vin/low-poly-precision-outline-shader/",
+    "imageUrl": "/covers/godot-outline-lp.jpg",
+    "source": "godot",
+    "sourceId": "godot-outline-lp",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "NPR"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "MaterialTextures",
+    "summary": "程序/风格化材质纹理工具包，快速搭可动表面。",
+    "url": "https://store.godotengine.org/asset/andicraft/materialtextures/",
+    "imageUrl": "/covers/godot-materialtextures.jpg",
+    "source": "godot",
+    "sourceId": "godot-materialtextures",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "materials"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "tkCRTshader",
+    "summary": "CRT 模拟器着色器，弯曲屏与磷光余晖。",
+    "url": "https://store.godotengine.org/asset/tsuishiken/crtshader/",
+    "imageUrl": "/covers/godot-tkcrt.jpg",
+    "source": "godot",
+    "sourceId": "godot-tkcrt",
+    "tags": [
+      "shader_visual",
+      "Godot",
+      "retro"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
+    "type": "shader",
+    "title": "Viscous Liquid Shader",
+    "summary": "WebGL2 虹彩黑油流体：Navier-Stokes 与薄膜干涉随拖拽起波。",
+    "url": "https://v0-viscous-liquid-shader.vercel.app/",
+    "imageUrl": "/covers/web-viscous-liquid.jpg",
+    "source": "other",
+    "sourceId": "web-viscous-liquid",
+    "tags": [
+      "shader_visual",
+      "fluid",
+      "iridescence"
+    ],
+    "collectedAt": "2026-08-28"
+  },
+  {
     "type": "game",
     "title": "未领货物增量",
     "summary": "砸光积蓄囤了五十万箱无人认领货物，增量货运转起来了。",
