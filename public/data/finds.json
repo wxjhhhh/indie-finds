@@ -324,22 +324,22 @@
   {
     "type": "shader",
     "title": "Smart Remesh 减面",
-    "summary": "Blender 插件一键减面后烘焙 UV 和法线，高低模秒转。",
-    "url": "https://x.com/3DRedboxStudio/status/2093292821352439970",
+    "summary": "100 万面压到 199 面的智能重网格，技术美术工具演示。",
+    "url": "https://x.com/MiladKambari/status/2093292821352439970",
     "imageUrl": "/covers/2093292821352439970.jpg",
     "source": "x",
     "sourceId": "2093292821352439970",
     "tags": [
       "shader_visual",
-      "blender"
+      "tech_art"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "OBSCURA 渐变光谱",
-    "summary": "OBSCURA 视觉装置渐变光谱动态，抽象色彩在变。",
-    "url": "https://x.com/obscaboreal/status/2093275618637164622",
+    "summary": "Grainient 新光谱 OBSCURA，材质色带会跟着光走。",
+    "url": "https://x.com/basit_designs/status/2093275618637164622",
     "imageUrl": "/covers/2093275618637164622.jpg",
     "source": "x",
     "sourceId": "2093275618637164622",
@@ -351,22 +351,22 @@
   {
     "type": "shader",
     "title": "CPU 光线迁到 GPU",
-    "summary": "光线追踪从 CPU 迁到 GPU，速度质量提升明显。",
-    "url": "https://x.com/ArtisanDev42/status/2093030153391866008",
+    "summary": "自制渲染器从 CPU 光线迁到 GPU，体积光还在算。",
+    "url": "https://x.com/vseplet/status/2093030153391866008",
     "imageUrl": "/covers/2093030153391866008.jpg",
     "source": "x",
     "sourceId": "2093030153391866008",
     "tags": [
       "shader_visual",
-      "raytracing"
+      "tech_art"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "设计组视觉合集",
-    "summary": "设计组视觉合集，混合媒介与动态排版实验。",
-    "url": "https://x.com/Frelvis_Design/status/2092931249828717028",
+    "summary": "设计组更多动态视觉，形清楚、材质在动。",
+    "url": "https://x.com/basit_designs/status/2092931249828717028",
     "imageUrl": "/covers/2092931249828717028.jpg",
     "source": "x",
     "sourceId": "2092931249828717028",
@@ -378,21 +378,21 @@
   {
     "type": "shader",
     "title": "发光 ASCII 视觉语言",
-    "summary": "发光 ASCII 字符组成动态视觉语言，终端美学。",
-    "url": "https://x.com/Axiom_Echoes/status/2092866327828627927",
+    "summary": "发光 ASCII 当视觉语言，复古帧缓冲感很重。",
+    "url": "https://x.com/Skirook/status/2092866327828627927",
     "imageUrl": "/covers/2092866327828627927.jpg",
     "source": "x",
     "sourceId": "2092866327828627927",
     "tags": [
       "shader_visual",
-      "ascii"
+      "retro"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "bwduse 单帧视觉",
-    "summary": "bwduse 单帧视觉实验，几何与光影在静态里说故事。",
+    "summary": "收藏里的单帧视觉，有真实封面。",
     "url": "https://x.com/bwduse/status/2092854151063777562",
     "imageUrl": "/covers/2092854151063777562.jpg",
     "source": "x",
@@ -405,44 +405,42 @@
   {
     "type": "shader",
     "title": "Inkarnate 新森林地图",
-    "summary": "Inkarnate 新森林地图素材包，桌游风地图又多了一套树。",
-    "url": "https://x.com/Inkarnate/status/2092969911270232271",
+    "summary": "奇幻战斗地图艺术包，手绘地形还在铺。",
+    "url": "https://x.com/inkarnaterpg/status/2092969911270232271",
     "imageUrl": "/covers/2092969911270232271.jpg",
     "source": "x",
     "sourceId": "2092969911270232271",
     "tags": [
-      "shader_visual",
-      "map"
+      "shader_visual"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "three.js 卡通着色世界",
-    "summary": "three.js 卡通着色小世界，Toon Shading 带描边在浏览器里跑。",
-    "url": "https://x.com/AlirezaRahimi/status/2093028670034292764",
+    "summary": "three.js + ref.design 搭的卡通着色小世界，NPR 可读几何。",
+    "url": "https://x.com/DrCapsoul/status/2093028670034292764",
     "imageUrl": "/covers/2093028670034292764.jpg",
     "source": "x",
     "sourceId": "2093028670034292764",
     "tags": [
       "shader_visual",
       "threejs",
-      "toon"
+      "NPR"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "Godot 3D 地图 UI",
-    "summary": "Godot 里做 3D 可交互地图 UI，摄像机与标记在 3D 空间内运转。",
-    "url": "https://x.com/GameUIDesigns/status/2092822798817501650",
+    "summary": "街道 SVG 生成旅游风 3D 地图，还要接最短路径 GPS。",
+    "url": "https://x.com/Botan_cr/status/2092822798817501650",
     "imageUrl": "/covers/2092822798817501650.jpg",
     "source": "x",
     "sourceId": "2092822798817501650",
     "tags": [
       "shader_visual",
-      "godot",
-      "ui"
+      "Godot"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -472,8 +470,8 @@
     "sourceId": "godot-volumetric-fog-demo",
     "tags": [
       "shader_visual",
-      "fog",
-      "volumetric"
+      "volumetric",
+      "fog"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -487,8 +485,8 @@
     "sourceId": "godot-sunshine-clouds",
     "tags": [
       "shader_visual",
-      "cloud",
-      "volumetric"
+      "volumetric",
+      "clouds"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -503,6 +501,7 @@
     "tags": [
       "shader_visual",
       "water",
+      "psx",
       "retro"
     ],
     "collectedAt": "2026-08-29"
@@ -518,7 +517,8 @@
     "tags": [
       "shader_visual",
       "sky",
-      "volumetric"
+      "volumetric",
+      "clouds"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -532,8 +532,7 @@
     "sourceId": "itch-godot-fire-shader",
     "tags": [
       "shader_visual",
-      "fire",
-      "vfx"
+      "fire"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -563,7 +562,7 @@
     "tags": [
       "shader_visual",
       "lava",
-      "vfx"
+      "fire"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -577,15 +576,15 @@
     "sourceId": "itch-godot-rainy-weather",
     "tags": [
       "shader_visual",
-      "weather",
-      "rain"
+      "rain",
+      "wet"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "Godot Grass Painter Tool",
-    "summary": "Godot 编辑器画草工具：刷子画草密度，MultiMesh 实时铺草地。",
+    "summary": "Godot 4 草场绘制：风力顶点动画可刷在地形上，叶片随阵风一起倒。",
     "url": "https://gameidea-studio.itch.io/godot-grass-painter-tool",
     "imageUrl": "/covers/itch-godot-grass-painter.jpg",
     "source": "itch",
@@ -593,7 +592,7 @@
     "tags": [
       "shader_visual",
       "grass",
-      "tool"
+      "wind"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -607,8 +606,8 @@
     "sourceId": "itch-godot-psx-style-demo",
     "tags": [
       "shader_visual",
-      "retro",
-      "psx"
+      "psx",
+      "retro"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -623,7 +622,7 @@
     "tags": [
       "shader_visual",
       "npr",
-      "ink"
+      "toon"
     ],
     "collectedAt": "2026-08-29"
   },
@@ -637,131 +636,127 @@
     "sourceId": "itch-retro-shaders-pro",
     "tags": [
       "shader_visual",
-      "retro",
-      "unity"
+      "psx",
+      "crt",
+      "retro"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU Backdrop Water",
-    "summary": "three.js WebGPU 水面背景：折射与反射在 TSL 节点里实时算。",
+    "summary": "three.js 官方 WebGPU 示例：背景透出水波折射，水面会把后景撕开再叠回去。",
     "url": "https://threejs.org/examples/#webgpu_backdrop_water",
     "imageUrl": "/covers/threejs-webgpu-backdrop-water.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-backdrop-water",
     "tags": [
       "shader_visual",
-      "threejs",
-      "water"
+      "water",
+      "webgpu"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU IES Spotlight",
-    "summary": "three.js WebGPU IES 聚光灯：真实光域文件驱动的灯光分布。",
+    "summary": "three.js IES 聚光灯：真实灯具配光曲线，暗场景里像哥特提灯一样切开体积。",
     "url": "https://threejs.org/examples/#webgpu_lights_ies_spotlight",
     "imageUrl": "/covers/threejs-webgpu-ies-spotlight.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-ies-spotlight",
     "tags": [
       "shader_visual",
-      "threejs",
-      "lighting"
+      "lighting",
+      "gothic"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU Volume Lighting Rect Area",
-    "summary": "three.js WebGPU 矩形面光体积照明：光体积可见的柔和面光源。",
+    "summary": "three.js 体积矩形光：面光源把雾照成光柱，适合暗场景里的窗户与灯笼。",
     "url": "https://threejs.org/examples/#webgpu_volume_lighting_rectarea",
     "imageUrl": "/covers/threejs-webgpu-volume-lighting-rectarea.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-volume-lighting-rectarea",
     "tags": [
       "shader_visual",
-      "threejs",
-      "lighting",
-      "volumetric"
+      "volumetric",
+      "lighting"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "TSL Halftone",
-    "summary": "three.js WebGPU TSL 半调：点阵网屏后处理，印刷风画面。",
+    "summary": "three.js TSL 半色调 NPR：网点随光照变密，印刷/漫画感而不是 PBR。",
     "url": "https://threejs.org/examples/#webgpu_tsl_halftone",
     "imageUrl": "/covers/threejs-webgpu-tsl-halftone.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-tsl-halftone",
     "tags": [
       "shader_visual",
-      "threejs",
-      "halftone",
-      "npr"
+      "npr",
+      "tsl"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "GLTF Chromatic Dispersion",
-    "summary": "three.js WebGPU 色散折射：玻璃棱镜色散在 GLTF 模型上实时跑。",
+    "summary": "three.js WebGPU 色散玻璃：折射率把高光拆成彩虹，虹彩/薄膜感会随视角跑。",
     "url": "https://threejs.org/examples/#webgpu_loader_gltf_dispersion",
     "imageUrl": "/covers/threejs-webgpu-gltf-dispersion.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-gltf-dispersion",
     "tags": [
       "shader_visual",
-      "threejs",
-      "glass",
-      "dispersion"
+      "iridescence",
+      "glass"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU Pixel Post",
-    "summary": "three.js WebGPU 像素化后处理：把画面压成大像素块。",
+    "summary": "three.js WebGPU 像素化后处理：复古帧缓冲降采样，PSX/掌机色块立刻出来。",
     "url": "https://threejs.org/examples/#webgpu_postprocessing_pixel",
     "imageUrl": "/covers/threejs-webgpu-pixel-post.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-pixel-post",
     "tags": [
       "shader_visual",
-      "threejs",
-      "pixel",
-      "postprocess"
+      "retro",
+      "postfx"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU Height Fog",
-    "summary": "three.js WebGPU 高度雾：基于高度的雾效带渐变色。",
+    "summary": "three.js 高度雾：沿地面铺开的体积霾，山脚和谷底会被光慢慢吃掉。",
     "url": "https://threejs.org/examples/#webgpu_fog_height",
     "imageUrl": "/covers/threejs-webgpu-fog-height.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-fog-height",
     "tags": [
       "shader_visual",
-      "threejs",
-      "fog"
+      "fog",
+      "atmosphere"
     ],
     "collectedAt": "2026-08-29"
   },
   {
     "type": "shader",
     "title": "WebGPU Godrays",
-    "summary": "three.js WebGPU 上帝光线后处理：体积光散射做出丁达尔效应。",
+    "summary": "three.js WebGPU 神光后处理：体积光柱穿过遮挡，暗教堂窗户那种散射。",
     "url": "https://threejs.org/examples/#webgpu_postprocessing_godrays",
     "imageUrl": "/covers/threejs-webgpu-godrays.jpg",
     "source": "threejs",
     "sourceId": "threejs-webgpu-godrays",
     "tags": [
       "shader_visual",
-      "threejs",
       "godrays",
       "volumetric"
     ],
