@@ -1,5 +1,768 @@
 [
   {
+    "type": "game",
+    "title": "sashadyak 风格化小人",
+    "summary": "可爱蹲坐风格化角色还在打磨，玩具剪影和金光都贴你的口味。",
+    "url": "https://x.com/sashadyak/status/2093039457243160690",
+    "imageUrl": "/covers/2093039457243160690.jpg",
+    "source": "x",
+    "sourceId": "2093039457243160690",
+    "tags": [
+      "3D_game",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "策略游戏新动画",
+    "summary": "独立策略作补了更多动画，3D 角色和系统还在跑。",
+    "url": "https://x.com/MixedMoonGames/status/2092994608573673871",
+    "imageUrl": "/covers/2092994608573673871.jpg",
+    "source": "x",
+    "sourceId": "2092994608573673871",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "The Gecko Gods",
+    "summary": "聪明壁虎独立作实机，风格化 3D 小生物还在爬。",
+    "url": "https://x.com/GeckoGodsGame/status/2092644489823162670",
+    "imageUrl": "/covers/2092644489823162670.jpg",
+    "source": "x",
+    "sourceId": "2092644489823162670",
+    "tags": [
+      "3D_game",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "生物工程狗 Roguelike",
+    "summary": "动作肉鸽让你当改造狗在敌意星球打，3D 战斗系统在转。",
+    "url": "https://x.com/80Level/status/2092691757473423503",
+    "imageUrl": "/covers/2092691757473423503.jpg",
+    "source": "x",
+    "sourceId": "2092691757473423503",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Gamescom 独立试玩台",
+    "summary": "Headup 在 Indie Arena Booth 放出 Second Stone、Tinker Island、The 9th Dragon 试玩。",
+    "url": "https://x.com/HeadupGames/status/2092275739215147011",
+    "imageUrl": "/covers/2092275739215147011.jpg",
+    "source": "x",
+    "sourceId": "2092275739215147011",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Icaria",
+    "summary": "体素外星机器人殖民地：可编程工厂、物流与地形改造，树木会生长死亡，一切都能自动化。",
+    "url": "https://store.steampowered.com/app/2613890/Icaria/",
+    "imageUrl": "/covers/steam-2613890.jpg",
+    "source": "steam",
+    "sourceId": "steam-2613890",
+    "tags": [
+      "3D_game",
+      "colony",
+      "factory",
+      "voxel"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Luminids",
+    "summary": "Godot 4.6 体素殖民地：光之小生命有个性与需求，俯视建造后再第一人称走进自己堆出来的世界。",
+    "url": "https://store.steampowered.com/app/4070510/Luminids/",
+    "imageUrl": "/covers/steam-4070510.jpg",
+    "source": "steam",
+    "sourceId": "steam-4070510",
+    "tags": [
+      "3D_game",
+      "colony",
+      "godot",
+      "voxel",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Exipelago",
+    "summary": "全可破坏体素群岛村落：村民要吃睡住，树木岩石都可挖可加工，部落会自己把岛建成王国。",
+    "url": "https://store.steampowered.com/app/1948540/Exipelago/",
+    "imageUrl": "/covers/steam-1948540.jpg",
+    "source": "steam",
+    "sourceId": "steam-1948540",
+    "tags": [
+      "3D_game",
+      "colony",
+      "voxel",
+      "survival"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Botlings",
+    "summary": "三维立体工厂：无传送带，工人机器人本身就是建筑与物流，会慢慢觉醒并试图逃出产线。",
+    "url": "https://store.steampowered.com/app/4139440/Botlings/",
+    "imageUrl": "/covers/steam-4139440.jpg",
+    "source": "steam",
+    "sourceId": "steam-4139440",
+    "tags": [
+      "3D_game",
+      "factory",
+      "automation"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Terrahold",
+    "summary": "活行星上的机器人殖民地：电网、太阳能与钍矿驱动扩张，藤蔓与孢子会随你占地而反击。",
+    "url": "https://store.steampowered.com/app/4961310/Terrahold/",
+    "imageUrl": "/covers/steam-4961310.jpg",
+    "source": "steam",
+    "sourceId": "steam-4961310",
+    "tags": [
+      "3D_game",
+      "colony",
+      "factory"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Coastless",
+    "summary": "风格化木筏生存：漂浮基地靠喂食怪物 Garry 来航行，探索程序岛屿并净化黑水。",
+    "url": "https://store.steampowered.com/app/1151190/Coastless/",
+    "imageUrl": "/covers/steam-1151190.jpg",
+    "source": "steam",
+    "sourceId": "steam-1151190",
+    "tags": [
+      "3D_game",
+      "sailing",
+      "survival",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Go-Go Town!",
+    "summary": "玩具感 3D 城镇：亲手铺路分区、给店补货、把物流自动化，镇民和游客会一直在街上跑。",
+    "url": "https://store.steampowered.com/app/2195120/GoGo_Town/",
+    "imageUrl": "/covers/steam-2195120.jpg",
+    "source": "steam",
+    "sourceId": "steam-2195120",
+    "tags": [
+      "3D_game",
+      "town_builder",
+      "stylized",
+      "factory"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Factory Town 2: Paradise",
+    "summary": "低多边形热带村庄工厂：传送带火车滑索水管一起喂活火山，地形是真三维而不是平铺皮带。",
+    "url": "https://store.steampowered.com/app/3312130/Factory_Town_2_Paradise/",
+    "imageUrl": "/covers/steam-3312130.jpg",
+    "source": "steam",
+    "sourceId": "steam-3312130",
+    "tags": [
+      "3D_game",
+      "factory",
+      "town_builder",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Airborne Empire",
+    "summary": "会飞的天空城建造：在开放大地图上管升降推进与资源，同时当 RPG 去冒险。",
+    "url": "https://store.steampowered.com/app/2438680/Airborne_Empire/",
+    "imageUrl": "/covers/steam-2438680.jpg",
+    "source": "steam",
+    "sourceId": "steam-2438680",
+    "tags": [
+      "3D_game",
+      "city_builder",
+      "open_world",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Molekraft",
+    "summary": "低多边形 3D RTS：指挥鼬鼠挖路铺径、分配工具，在地形里开出活着的地下工程。",
+    "url": "https://store.steampowered.com/app/4200280/Molekraft/",
+    "imageUrl": "/covers/steam-4200280.jpg",
+    "source": "steam",
+    "sourceId": "steam-4200280",
+    "tags": [
+      "3D_game",
+      "low_poly",
+      "colony",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Eden",
+    "summary": "第一人称室内农园：未来城市阳台里种植物做饭，低多边形黄金时段光照像玩具温室。",
+    "url": "https://store.steampowered.com/app/3375110/Tiny_Eden/",
+    "imageUrl": "/covers/steam-3375110.jpg",
+    "source": "steam",
+    "sourceId": "steam-3375110",
+    "tags": [
+      "3D_game",
+      "stylized",
+      "farming",
+      "tech_art"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Lou's Lagoon",
+    "summary": "风格化热带群岛：开水上飞机扫资源、修风暴损坏，灯塔瀑布与海水都在金色阳光里跑。",
+    "url": "https://store.steampowered.com/app/2100020/Lous_Lagoon/",
+    "imageUrl": "/covers/steam-2100020.jpg",
+    "source": "steam",
+    "sourceId": "steam-2100020",
+    "tags": [
+      "3D_game",
+      "stylized",
+      "sailing",
+      "survival"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Verde",
+    "summary": "种子人小镇建造：给 seedlets 盖设施摆装饰，等距 3D 像 Townscaper 一样一直在生长。",
+    "url": "https://store.steampowered.com/app/3164310/Verde/",
+    "imageUrl": "/covers/steam-3164310.jpg",
+    "source": "steam",
+    "sourceId": "steam-3164310",
+    "tags": [
+      "3D_game",
+      "town_builder",
+      "stylized",
+      "cozy"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Spiritstead",
+    "summary": "手绘感 NPR 3D 小村：风车南瓜田与精灵一起照顾村民需求，像微缩立体模型在运转。",
+    "url": "https://store.steampowered.com/app/3501540/Spiritstead/",
+    "imageUrl": "/covers/steam-3501540.jpg",
+    "source": "steam",
+    "sourceId": "steam-3501540",
+    "tags": [
+      "3D_game",
+      "town_builder",
+      "stylized",
+      "npr"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "ShantyTown",
+    "summary": "黄金时段低多边形立体沙盘：把混乱码头与烟囱小镇叠成能升级的微缩城市。",
+    "url": "https://store.steampowered.com/app/2434600/ShantyTown/",
+    "imageUrl": "/covers/steam-2434600.jpg",
+    "source": "steam",
+    "sourceId": "steam-2434600",
+    "tags": [
+      "3D_game",
+      "town_builder",
+      "stylized",
+      "low_poly"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "game",
+    "title": "Voyagers of Nera",
+    "summary": "风格化航海生存：自己造船冲浪、在魔法群岛上盖村子，水面与珊瑚崖都是可读几何。",
+    "url": "https://store.steampowered.com/app/2686630/Voyagers_of_Nera/",
+    "imageUrl": "/covers/steam-2686630.jpg",
+    "source": "steam",
+    "sourceId": "steam-2686630",
+    "tags": [
+      "3D_game",
+      "sailing",
+      "survival",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Smart Remesh 减面",
+    "summary": "100 万面压到 199 面的智能重网格，技术美术工具演示。",
+    "url": "https://x.com/MiladKambari/status/2093292821352439970",
+    "imageUrl": "/covers/2093292821352439970.jpg",
+    "source": "x",
+    "sourceId": "2093292821352439970",
+    "tags": [
+      "shader_visual",
+      "tech_art"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "OBSCURA 渐变光谱",
+    "summary": "Grainient 新光谱 OBSCURA，材质色带会跟着光走。",
+    "url": "https://x.com/basit_designs/status/2093275618637164622",
+    "imageUrl": "/covers/2093275618637164622.jpg",
+    "source": "x",
+    "sourceId": "2093275618637164622",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "CPU 光线迁到 GPU",
+    "summary": "自制渲染器从 CPU 光线迁到 GPU，体积光还在算。",
+    "url": "https://x.com/vseplet/status/2093030153391866008",
+    "imageUrl": "/covers/2093030153391866008.jpg",
+    "source": "x",
+    "sourceId": "2093030153391866008",
+    "tags": [
+      "shader_visual",
+      "tech_art"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "设计组视觉合集",
+    "summary": "设计组更多动态视觉，形清楚、材质在动。",
+    "url": "https://x.com/basit_designs/status/2092931249828717028",
+    "imageUrl": "/covers/2092931249828717028.jpg",
+    "source": "x",
+    "sourceId": "2092931249828717028",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "发光 ASCII 视觉语言",
+    "summary": "发光 ASCII 当视觉语言，复古帧缓冲感很重。",
+    "url": "https://x.com/Skirook/status/2092866327828627927",
+    "imageUrl": "/covers/2092866327828627927.jpg",
+    "source": "x",
+    "sourceId": "2092866327828627927",
+    "tags": [
+      "shader_visual",
+      "retro"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "bwduse 单帧视觉",
+    "summary": "收藏里的单帧视觉，有真实封面。",
+    "url": "https://x.com/bwduse/status/2092854151063777562",
+    "imageUrl": "/covers/2092854151063777562.jpg",
+    "source": "x",
+    "sourceId": "2092854151063777562",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Inkarnate 新森林地图",
+    "summary": "奇幻战斗地图艺术包，手绘地形还在铺。",
+    "url": "https://x.com/inkarnaterpg/status/2092969911270232271",
+    "imageUrl": "/covers/2092969911270232271.jpg",
+    "source": "x",
+    "sourceId": "2092969911270232271",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "three.js 卡通着色世界",
+    "summary": "three.js + ref.design 搭的卡通着色小世界，NPR 可读几何。",
+    "url": "https://x.com/DrCapsoul/status/2093028670034292764",
+    "imageUrl": "/covers/2093028670034292764.jpg",
+    "source": "x",
+    "sourceId": "2093028670034292764",
+    "tags": [
+      "shader_visual",
+      "threejs",
+      "NPR"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot 3D 地图 UI",
+    "summary": "街道 SVG 生成旅游风 3D 地图，还要接最短路径 GPS。",
+    "url": "https://x.com/Botan_cr/status/2092822798817501650",
+    "imageUrl": "/covers/2092822798817501650.jpg",
+    "source": "x",
+    "sourceId": "2092822798817501650",
+    "tags": [
+      "shader_visual",
+      "Godot"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Realistic Shoreline & Ocean Waves",
+    "summary": "Godot GPU 浅水方程：拍岸碎波、湿砂变暗变干、岩石绕流泡沫，不是贴图滚动。",
+    "url": "https://store.godotengine.org/asset/reboot16/waves/",
+    "imageUrl": "/covers/godot-shore-ocean-waves.jpg",
+    "source": "godot",
+    "sourceId": "godot-shore-ocean-waves",
+    "tags": [
+      "shader_visual",
+      "water",
+      "foam",
+      "sim"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Volumetric Fog Demo",
+    "summary": "Godot 官方体积雾：正负密度体、高度衰减、3D 噪声 FogVolume，哥特灯笼会吃进雾里。",
+    "url": "https://store.godotengine.org/asset/godot-foundation/volumetric-fog-demo/",
+    "imageUrl": "/covers/godot-volumetric-fog-demo.jpg",
+    "source": "godot",
+    "sourceId": "godot-volumetric-fog-demo",
+    "tags": [
+      "shader_visual",
+      "volumetric",
+      "fog"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Sunshine Clouds",
+    "summary": "Godot Compositor 体积云：可画密度与染色、运行时 effector 挖洞，软云或卡通云都能飞进去。",
+    "url": "https://store.godotengine.org/asset/bonkahe/sunshine-clouds/",
+    "imageUrl": "/covers/godot-sunshine-clouds.jpg",
+    "source": "godot",
+    "sourceId": "godot-sunshine-clouds",
+    "tags": [
+      "shader_visual",
+      "volumetric",
+      "clouds"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot PS1 Style Water",
+    "summary": "Godot 4 PS1 水面：仿焦散、深度泡沫与色带，仿旧帧缓冲的玩具色湖面。",
+    "url": "https://gameidea-studio.itch.io/godot-ps1-style-water",
+    "imageUrl": "/covers/itch-godot-ps1-water.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-ps1-water",
+    "tags": [
+      "shader_visual",
+      "water",
+      "psx",
+      "retro"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Volumetric Sky Shader",
+    "summary": "Godot 射线步进体积天空：云覆盖、昼夜与星空，转动 DirectionalLight 就能改时刻。",
+    "url": "https://gameidea-studio.itch.io/godot-volumetric-sky-shader",
+    "imageUrl": "/covers/itch-godot-volumetric-sky.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-volumetric-sky",
+    "tags": [
+      "shader_visual",
+      "sky",
+      "volumetric",
+      "clouds"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Fire Shader",
+    "summary": "Godot 4 火焰 VFX：可调焰色、长度与噪声细节，营火/火把形状会随参数扭动。",
+    "url": "https://gameidea-studio.itch.io/godot-fire-shader",
+    "imageUrl": "/covers/itch-godot-fire-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-fire-shader",
+    "tags": [
+      "shader_visual",
+      "fire"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Stylized Water Shader",
+    "summary": "GameIdea 风格化海面：泡沫与深度色带，偏玩具饱和色而不是写实广告片。",
+    "url": "https://gameidea-studio.itch.io/godot-stylized-water-shader",
+    "imageUrl": "/covers/itch-godot-stylized-water.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-stylized-water",
+    "tags": [
+      "shader_visual",
+      "water",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Lava Shader",
+    "summary": "Godot 熔岩材质：流动热岩与冷却壳，发射光会跟着噪声慢慢翻滚。",
+    "url": "https://gameidea-studio.itch.io/godot-lava-shader",
+    "imageUrl": "/covers/itch-godot-lava-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-lava-shader",
+    "tags": [
+      "shader_visual",
+      "lava",
+      "fire"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Rainy Weather Shader Pack",
+    "summary": "Godot 雨天包：湿地面、雨帘与天气层，石头会跟着湿度变暗变亮。",
+    "url": "https://gameidea-studio.itch.io/godot-rainy-weather-shader-pack",
+    "imageUrl": "/covers/itch-godot-rainy-weather.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-rainy-weather",
+    "tags": [
+      "shader_visual",
+      "rain",
+      "wet"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Grass Painter Tool",
+    "summary": "Godot 4 草场绘制：风力顶点动画可刷在地形上，叶片随阵风一起倒。",
+    "url": "https://gameidea-studio.itch.io/godot-grass-painter-tool",
+    "imageUrl": "/covers/itch-godot-grass-painter.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-grass-painter",
+    "tags": [
+      "shader_visual",
+      "grass",
+      "wind"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Godot PSX Style Demo",
+    "summary": "Godot PSX 风格演示关：仿射纹理、顶点抖动与脏帧缓冲，可玩的复古画面实验。",
+    "url": "https://menacingmecha.itch.io/godot-psx-style-demo",
+    "imageUrl": "/covers/itch-godot-psx-style-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-psx-style-demo",
+    "tags": [
+      "shader_visual",
+      "psx",
+      "retro"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Pen & Ink Shader Godot",
+    "summary": "Godot 钢笔画 NPR：轮廓与纸纹把网格画成插画，偏可读几何而不是写实。",
+    "url": "https://clauveira.itch.io/pen-ink-shader-godot",
+    "imageUrl": "/covers/itch-pen-ink-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-pen-ink-shader",
+    "tags": [
+      "shader_visual",
+      "npr",
+      "toon"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "Retro Shaders Pro for Unity URP",
+    "summary": "Unity URP 的 PSX/N64/CRT 包：顶点吸附、仿射扭曲、扫描线与 VHS，带可逛的林地演示关。",
+    "url": "https://danielilett.itch.io/psx-shaders-pro-for-unity-urp",
+    "imageUrl": "/covers/itch-retro-shaders-pro.jpg",
+    "source": "itch",
+    "sourceId": "itch-retro-shaders-pro",
+    "tags": [
+      "shader_visual",
+      "psx",
+      "crt",
+      "retro"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Backdrop Water",
+    "summary": "three.js 官方 WebGPU 示例：背景透出水波折射，水面会把后景撕开再叠回去。",
+    "url": "https://threejs.org/examples/#webgpu_backdrop_water",
+    "imageUrl": "/covers/threejs-webgpu-backdrop-water.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-backdrop-water",
+    "tags": [
+      "shader_visual",
+      "water",
+      "webgpu"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU IES Spotlight",
+    "summary": "three.js IES 聚光灯：真实灯具配光曲线，暗场景里像哥特提灯一样切开体积。",
+    "url": "https://threejs.org/examples/#webgpu_lights_ies_spotlight",
+    "imageUrl": "/covers/threejs-webgpu-ies-spotlight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-ies-spotlight",
+    "tags": [
+      "shader_visual",
+      "lighting",
+      "gothic"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Volume Lighting Rect Area",
+    "summary": "three.js 体积矩形光：面光源把雾照成光柱，适合暗场景里的窗户与灯笼。",
+    "url": "https://threejs.org/examples/#webgpu_volume_lighting_rectarea",
+    "imageUrl": "/covers/threejs-webgpu-volume-lighting-rectarea.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-volume-lighting-rectarea",
+    "tags": [
+      "shader_visual",
+      "volumetric",
+      "lighting"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "TSL Halftone",
+    "summary": "three.js TSL 半色调 NPR：网点随光照变密，印刷/漫画感而不是 PBR。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_halftone",
+    "imageUrl": "/covers/threejs-webgpu-tsl-halftone.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-tsl-halftone",
+    "tags": [
+      "shader_visual",
+      "npr",
+      "tsl"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "GLTF Chromatic Dispersion",
+    "summary": "three.js WebGPU 色散玻璃：折射率把高光拆成彩虹，虹彩/薄膜感会随视角跑。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_dispersion",
+    "imageUrl": "/covers/threejs-webgpu-gltf-dispersion.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-gltf-dispersion",
+    "tags": [
+      "shader_visual",
+      "iridescence",
+      "glass"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Pixel Post",
+    "summary": "three.js WebGPU 像素化后处理：复古帧缓冲降采样，PSX/掌机色块立刻出来。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_pixel",
+    "imageUrl": "/covers/threejs-webgpu-pixel-post.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-pixel-post",
+    "tags": [
+      "shader_visual",
+      "retro",
+      "postfx"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Height Fog",
+    "summary": "three.js 高度雾：沿地面铺开的体积霾，山脚和谷底会被光慢慢吃掉。",
+    "url": "https://threejs.org/examples/#webgpu_fog_height",
+    "imageUrl": "/covers/threejs-webgpu-fog-height.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-fog-height",
+    "tags": [
+      "shader_visual",
+      "fog",
+      "atmosphere"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Godrays",
+    "summary": "three.js WebGPU 神光后处理：体积光柱穿过遮挡，暗教堂窗户那种散射。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_godrays",
+    "imageUrl": "/covers/threejs-webgpu-godrays.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu-godrays",
+    "tags": [
+      "shader_visual",
+      "godrays",
+      "volumetric"
+    ],
+    "collectedAt": "2026-08-29"
+  },
+  {
     "type": "shader",
     "title": "UE 自定义 AI 框架演示",
     "summary": "lab3studio 在 Unreal 里跑自定义 AI 行为框架，技术演示向。",
