@@ -1,6 +1,631 @@
 [
   {
     "type": "game",
+    "title": "We Are So Cooked",
+    "summary": "合作多人物理「搬运尸体」：软绵绵尸体不好搬，还得偷偷销毁证据。",
+    "url": "https://x.com/AUTOMATONJapan/status/2092735808428183834",
+    "imageUrl": "/covers/2092735808428183834.jpg",
+    "source": "x",
+    "sourceId": "2092735808428183834",
+    "tags": [
+      "3D_game",
+      "physics"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Beyond These Stars",
+    "summary": "宇宙鲸鱼背上的城市建设：夹在鲸鱼心情和居民需求之间，共生开拓。",
+    "url": "https://x.com/AUTOMATONJapan/status/2090650054659113425",
+    "imageUrl": "/covers/2090650054659113425.jpg",
+    "source": "x",
+    "sourceId": "2090650054659113425",
+    "tags": [
+      "3D_game",
+      "colony",
+      "city_builder"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "UE5 动态空间音频",
+    "summary": "UE5 MetaSounds 动态空间音频：按房间体积、室内外和湿润度混音，3D 关卡还在跑。",
+    "url": "https://x.com/feidoes3d/status/2093060496836448268",
+    "imageUrl": "/covers/2093060496836448268.jpg",
+    "source": "x",
+    "sourceId": "2093060496836448268",
+    "tags": [
+      "3D_game",
+      "ue5",
+      "tech"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Blender 智能分割",
+    "summary": "Blender 一键智能分割网格，技术美术工具演示。",
+    "url": "https://x.com/MiladKambari/status/2093232452026171601",
+    "imageUrl": "/covers/2093232452026171601.jpg",
+    "source": "x",
+    "sourceId": "2093232452026171601",
+    "tags": [
+      "shader_visual",
+      "blender",
+      "tool"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "UEFN Tripo 网格流程",
+    "summary": "UEFN 里把 TripoAI 网格拉进来的完整流程，含坑和 bug。",
+    "url": "https://x.com/ThiagoUnreal/status/2093000886758887878",
+    "imageUrl": "/covers/2093000886758887878.jpg",
+    "source": "x",
+    "sourceId": "2093000886758887878",
+    "tags": [
+      "shader_visual",
+      "uefn",
+      "tool"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Customuse 网格清理",
+    "summary": "AI 网格清理、UV 展开和纹理烘焙一条龙，生产向拓扑工具。",
+    "url": "https://x.com/customuse/status/2093018082293813509",
+    "imageUrl": "/covers/2093018082293813509.jpg",
+    "source": "x",
+    "sourceId": "2093018082293813509",
+    "tags": [
+      "shader_visual",
+      "tool",
+      "mesh"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "光线追踪器实机",
+    "summary": "自研光线追踪器出的画面，讨论 3D 图形还活不活。",
+    "url": "https://x.com/DonaldPMitchell/status/2091891923556708427",
+    "imageUrl": "/covers/2091891923556708427.jpg",
+    "source": "x",
+    "sourceId": "2091891923556708427",
+    "tags": [
+      "shader_visual",
+      "raytracing"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Kenney 免费资产被转卖",
+    "summary": "Kenney 提醒 Fab/itch/Roblox 上别转卖他的免费游戏资产。",
+    "url": "https://x.com/KenneyNL/status/2087147778963124536",
+    "imageUrl": "/covers/2087147778963124536.jpg",
+    "source": "x",
+    "sourceId": "2087147778963124536",
+    "tags": [
+      "shader_visual",
+      "assets"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Rewind 99",
+    "summary": "低多边形 1999 录像带小镇：开店只是入口，员工、地下拳场和整座可走的 Reshoot Springs 会自己转起来。",
+    "url": "https://store.steampowered.com/app/3977290/Rewind_99/",
+    "imageUrl": "/covers/steam-3977290.jpg",
+    "source": "steam",
+    "sourceId": "steam-3977290",
+    "tags": [
+      "3D_game",
+      "low_poly",
+      "living_system",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Skyformer",
+    "summary": "无人机工厂给整颗行星改气候：监测风暴、铺生物量、看荒原变成可居之地。",
+    "url": "https://store.steampowered.com/app/2305210/Skyformer/",
+    "imageUrl": "/covers/steam-2305210.jpg",
+    "source": "steam",
+    "sourceId": "steam-2305210",
+    "tags": [
+      "3D_game",
+      "colony",
+      "factory"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Deep Crafter",
+    "summary": "外星深海工业帝国：程序海床、洋流晚夜、生物培养闭环，把生命做成产线模块。",
+    "url": "https://store.steampowered.com/app/2752350/Deep_Crafter/",
+    "imageUrl": "/covers/steam-2752350.jpg",
+    "source": "steam",
+    "sourceId": "steam-2752350",
+    "tags": [
+      "3D_game",
+      "factory",
+      "colony"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Cloudsea",
+    "summary": "云海浮岛开放世界：开飞艇在群岛间找资源做任务，空中航海感很强。",
+    "url": "https://store.steampowered.com/app/1893390/Cloudsea/",
+    "imageUrl": "/covers/steam-1893390.jpg",
+    "source": "steam",
+    "sourceId": "steam-1893390",
+    "tags": [
+      "3D_game",
+      "exploration"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Vibe City Islands Architect",
+    "summary": "无网格热带岛城建造：住房工作公园旅游四指标，开高尔夫球车在自己堆的岛城里逗风。",
+    "url": "https://store.steampowered.com/app/3589770/Vibe_City_Islands_Architect/",
+    "imageUrl": "/covers/steam-3589770.jpg",
+    "source": "steam",
+    "sourceId": "steam-3589770",
+    "tags": [
+      "3D_game",
+      "city_builder"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "My Retro World",
+    "summary": "蒸汽波/复古郊区/霓虹天际线随便研：把 90 年代到未来的城市当成可逛的复古沙盒。",
+    "url": "https://store.steampowered.com/app/4014940/My_Retro_World/",
+    "imageUrl": "/covers/steam-4014940.jpg",
+    "source": "steam",
+    "sourceId": "steam-4014940",
+    "tags": [
+      "3D_game",
+      "exploration",
+      "retro"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Buildia",
+    "summary": "体素沙盒用熔岩、冰、森林元素方块堆巨型结构，材料本身会改地形。",
+    "url": "https://store.steampowered.com/app/4434780/Buildia/",
+    "imageUrl": "/covers/steam-4434780.jpg",
+    "source": "steam",
+    "sourceId": "steam-4434780",
+    "tags": [
+      "3D_game",
+      "voxel"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Holey Ship",
+    "summary": "最多四人修船物理闹笑：船体破洞要当场补，船是会漏的活系统。",
+    "url": "https://store.steampowered.com/app/4475470/Holey_Ship/",
+    "imageUrl": "/covers/steam-4475470.jpg",
+    "source": "steam",
+    "sourceId": "steam-4475470",
+    "tags": [
+      "3D_game",
+      "physics",
+      "coop"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Taproot",
+    "summary": "第一人称清理荒园：拔草要顺着根走，一扯断它还会弹回来继续长。",
+    "url": "https://store.steampowered.com/app/5077300/Taproot/",
+    "imageUrl": "/covers/steam-5077300.jpg",
+    "source": "steam",
+    "sourceId": "steam-5077300",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Grainhold",
+    "summary": "开放世界采矿定居点：先挖后建，再守住自己堆出来的聚落。",
+    "url": "https://store.steampowered.com/app/4208000/Grainhold/",
+    "imageUrl": "/covers/steam-4208000.jpg",
+    "source": "steam",
+    "sourceId": "steam-4208000",
+    "tags": [
+      "3D_game",
+      "colony"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Lazy Witch's Factory",
+    "summary": "地狱 30 分钟工厂肉鸽：和恶魔改配方、管不情愿的工人，产线每次开班重织。",
+    "url": "https://store.steampowered.com/app/3971650/Lazy_Witchs_Factory/",
+    "imageUrl": "/covers/steam-3971650.jpg",
+    "source": "steam",
+    "sourceId": "steam-3971650",
+    "tags": [
+      "3D_game",
+      "factory",
+      "roguelike"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Shifting Sands",
+    "summary": "沙坑里复活的拾荒班：在坠舰堆里刨沙子装箱，沙漠废墟是可刮可走的三维场。",
+    "url": "https://store.steampowered.com/app/3986410/Shifting_Sands/",
+    "imageUrl": "/covers/steam-3986410.jpg",
+    "source": "steam",
+    "sourceId": "steam-3986410",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "BRICK - One Block at a Time",
+    "summary": "从一块砖开始的纽瓦克风生存沙盒：城市和森林里搜蓝图、盖基地、互抄家。",
+    "url": "https://store.steampowered.com/app/5042570/BRICK_One_Block_at_a_Time/",
+    "imageUrl": "/covers/steam-5042570.jpg",
+    "source": "steam",
+    "sourceId": "steam-5042570",
+    "tags": [
+      "3D_game",
+      "survival",
+      "voxel"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Fractal Frontiers",
+    "summary": "体素即原子的殖民地：雨会流、火会烧、雷会点林火，模夫农夫建筑师按图纸一块块盖镇。",
+    "url": "https://iridescentrose1337.itch.io/fractal-frontiers",
+    "imageUrl": "/covers/fractal-frontiers.jpg",
+    "source": "itch",
+    "sourceId": "fractal-frontiers",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "colony"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "VoXide",
+    "summary": "真 PS1 上跑的 Minecraft 式沙盒：Rust 原生光盘，2MB 内存里做世界生成、挖方块和生存。",
+    "url": "https://bonnie-studios.itch.io/voxide",
+    "imageUrl": "/covers/voxide.jpg",
+    "source": "itch",
+    "sourceId": "voxide",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "retro"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Repterra",
+    "summary": "恐龙横行的基地生存 RTS：管殖民地、繁殖骑乘、在三维地形里扛兽潮。",
+    "url": "https://store.steampowered.com/app/2768380/Repterra/",
+    "imageUrl": "/covers/steam-2768380.jpg",
+    "source": "steam",
+    "sourceId": "steam-2768380",
+    "tags": [
+      "3D_game",
+      "colony",
+      "survival"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "MoonCraft",
+    "summary": "坠月求生：挖矿建造对抗异形，黑暗地表上把自己的基地一点一点堆出来。",
+    "url": "https://store.steampowered.com/app/4954590/MoonCraft/",
+    "imageUrl": "/covers/steam-4954590.jpg",
+    "source": "steam",
+    "sourceId": "steam-4954590",
+    "tags": [
+      "3D_game",
+      "survival"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
+    "title": "Meow Familiar World",
+    "summary": "第三人称猫使魔开放世界：帮渔村施魔法，风格化角色在海边小镇跑。",
+    "url": "https://store.steampowered.com/app/3980360/Meow_Familiar_World/",
+    "imageUrl": "/covers/steam-3980360.jpg",
+    "source": "steam",
+    "sourceId": "steam-3980360",
+    "tags": [
+      "3D_game",
+      "stylized"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Wet Stone",
+    "summary": "TDM 湿石头：微表面高光、角落 AO 与湿砂过渡，光线掠过石头就发亮。",
+    "url": "https://www.shadertoy.com/view/ldSSzV",
+    "imageUrl": "/covers/shadertoy-ldsszv.jpg",
+    "source": "other",
+    "sourceId": "shadertoy-ldsszv",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Seascape",
+    "summary": "TDM 海面高度场追踪：菲涅尔反射与碎波高光，光照一转水面就活起来。",
+    "url": "https://www.shadertoy.com/view/Ms2SD1",
+    "imageUrl": "/covers/shadertoy-ms2sd1.jpg",
+    "source": "other",
+    "sourceId": "shadertoy-ms2sd1",
+    "tags": [
+      "shader_visual",
+      "water"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Clouds",
+    "summary": "iq 体积云经典：FBM 噪声场光线步进，云层随时间翻涌。",
+    "url": "https://www.shadertoy.com/view/XslGRr",
+    "imageUrl": "/covers/shadertoy-xslgrr.jpg",
+    "source": "other",
+    "sourceId": "shadertoy-xslgrr",
+    "tags": [
+      "shader_visual",
+      "volumetric"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Clearcoat",
+    "summary": "WebGPU 清漆层：车漆式 clearcoat 高光随光照滚动。",
+    "url": "https://threejs.org/examples/#webgpu_clearcoat",
+    "imageUrl": "/covers/threejs-webgpu_clearcoat.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_clearcoat",
+    "tags": [
+      "shader_visual",
+      "webgpu"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Materials Transmission",
+    "summary": "WebGPU 透射材质。",
+    "url": "https://threejs.org/examples/#webgpu_materials_transmission",
+    "imageUrl": "/covers/threejs-webgpu_materials_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_transmission",
+    "tags": [
+      "shader_visual",
+      "webgpu"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Materials SSS",
+    "summary": "WebGPU 次表面散射。",
+    "url": "https://threejs.org/examples/#webgpu_materials_sss",
+    "imageUrl": "/covers/threejs-webgpu_materials_sss.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_sss",
+    "tags": [
+      "shader_visual",
+      "webgpu"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TSL Linked Particles VFX",
+    "summary": "TSL 连锁粒子 VFX。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_vfx_linkedparticles",
+    "imageUrl": "/covers/threejs-webgpu_tsl_vfx_linkedparticles.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_vfx_linkedparticles",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "vfx"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Sky",
+    "summary": "WebGPU 程序天空。",
+    "url": "https://threejs.org/examples/#webgpu_sky",
+    "imageUrl": "/covers/threejs-webgpu_sky.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_sky",
+    "tags": [
+      "shader_visual",
+      "webgpu"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "FREE Godot Project - Grass Wind Shader",
+    "summary": "Godot 风格化草。",
+    "url": "https://emaceart.itch.io/emaceart-stylized-grass-grass-shader-for-godot-4",
+    "imageUrl": "/covers/itch-emaceart-stylized-grass-grass-shader-for-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-emaceart-stylized-grass-grass-shader-for-godot-4",
+    "tags": [
+      "shader_visual",
+      "godot",
+      "grass"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "VNTG Shaders for Unity 6 URP",
+    "summary": "Unity 6 PSX/CRT 包。",
+    "url": "https://colby-o.itch.io/vntg-shaders",
+    "imageUrl": "/covers/itch-vntg-shaders.jpg",
+    "source": "itch",
+    "sourceId": "itch-vntg-shaders",
+    "tags": [
+      "shader_visual",
+      "unity",
+      "retro"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Ultimate PSX Retro Shader & Converter Unity URP",
+    "summary": "URP PSX/PS2 工具包。",
+    "url": "https://borzblade.itch.io/psx-shader",
+    "imageUrl": "/covers/itch-psx-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-psx-shader",
+    "tags": [
+      "shader_visual",
+      "unity",
+      "retro",
+      "psx"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Fluid Frenzy",
+    "summary": "GPU 流体游乐场。",
+    "url": "https://frenzy-byte.itch.io/fluidfrenzy",
+    "imageUrl": "/covers/itch-fluidfrenzy.jpg",
+    "source": "itch",
+    "sourceId": "itch-fluidfrenzy",
+    "tags": [
+      "shader_visual",
+      "fluid"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Flame Wizard VFX Set - Fire Spell Effects for Godot 4",
+    "summary": "Godot 火焰法术 VFX。",
+    "url": "https://berryhibiscus.itch.io/flame-wizard-vfx-set-godot-4",
+    "imageUrl": "/covers/itch-flame-wizard-vfx-set-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-flame-wizard-vfx-set-godot-4",
+    "tags": [
+      "shader_visual",
+      "godot",
+      "fire",
+      "vfx"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Ocean Shaders for Godot (Realistic/Stylized, Toon, PS1 Style)",
+    "summary": "Godot 海洋着色合集。",
+    "url": "https://gameidea-studio.itch.io/ocean-shaders-for-godot",
+    "imageUrl": "/covers/itch-ocean-shaders-for-godot.jpg",
+    "source": "itch",
+    "sourceId": "itch-ocean-shaders-for-godot",
+    "tags": [
+      "shader_visual",
+      "godot",
+      "water"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Precious Stones (Gemstone) Shaders",
+    "summary": "宝石着色。",
+    "url": "https://gameidea-studio.itch.io/godot-precious-stones-gemstone-shaders",
+    "imageUrl": "/covers/itch-godot-precious-stones-gemstone-shaders.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-precious-stones-gemstone-shaders",
+    "tags": [
+      "shader_visual",
+      "godot"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Godot River & Waterfall",
+    "summary": "Godot 河流瀑布。",
+    "url": "https://gameidea-studio.itch.io/godot-river-waterfall",
+    "imageUrl": "/covers/itch-godot-river-waterfall.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-river-waterfall",
+    "tags": [
+      "shader_visual",
+      "godot",
+      "water"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Dither Shader (3D, 2D, Post-processing)",
+    "summary": "抖动/量化后处理。",
+    "url": "https://gameidea-studio.itch.io/godot-dither-shader",
+    "imageUrl": "/covers/itch-godot-dither-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-godot-dither-shader",
+    "tags": [
+      "shader_visual",
+      "godot",
+      "postprocessing"
+    ],
+    "collectedAt": "2026-08-30"
+  },
+  {
+    "type": "game",
     "title": "sashadyak 风格化小人",
     "summary": "可爱蹲坐风格化角色还在打磨，玩具剪影和金光都贴你的口味。",
     "url": "https://x.com/sashadyak/status/2093039457243160690",
