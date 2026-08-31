@@ -1,6 +1,487 @@
 [
   {
     "type": "game",
+    "title": "Icehelm 大纲对比",
+    "summary": "风格化等距小城：对比勾边开/关，积木城几何很清楚。",
+    "url": "https://x.com/Icehelmet/status/2093748451687170055",
+    "imageUrl": "/covers/2093748451687170055.jpg",
+    "source": "x",
+    "sourceId": "2093748451687170055",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Stefan 地形日 Unity",
+    "summary": "Unity 做梦寐以求的游戏第4天：地形日，MCP 驱动的 3D 世界搭建。",
+    "url": "https://x.com/Stefan_3D_AI/status/2093970677133164713",
+    "imageUrl": "/covers/2093970677133164713.jpg",
+    "source": "x",
+    "sourceId": "2093970677133164713",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Unbound Loop 坦克",
+    "summary": "子弹地狱风坦克：坦克/板条箱都用 Unbound Loop 生成，跑在 three.js 里。",
+    "url": "https://x.com/DLGNCE/status/2093006571810718170",
+    "imageUrl": "/covers/2093006571810718170.jpg",
+    "source": "x",
+    "sourceId": "2093006571810718170",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "FluxWerks",
+    "summary": "整颗行星每个方块都是真流体：挖、淹、加工，流体是物理的。",
+    "url": "https://store.steampowered.com/app/4436200/FluxWerks/",
+    "imageUrl": "/covers/steam-4436200.jpg",
+    "source": "steam",
+    "sourceId": "steam-4436200",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Synergy",
+    "summary": "生态系统城市建造：定居点、工人和资源咬合，城市和自然要一起算。",
+    "url": "https://store.steampowered.com/app/1989070/Synergy/",
+    "imageUrl": "/covers/steam-1989070.jpg",
+    "source": "steam",
+    "sourceId": "steam-1989070",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Voxel Tycoon",
+    "summary": "无限体素世界经营：采矿、物流、铺轨，体素产线帝国。",
+    "url": "https://store.steampowered.com/app/732050/Voxel_Tycoon/",
+    "imageUrl": "/covers/steam-732050.jpg",
+    "source": "steam",
+    "sourceId": "steam-732050",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Voxel Eras",
+    "summary": "体素采集合成自动化：在无限体素里把产线一点点织起来。",
+    "url": "https://store.steampowered.com/app/3192010/Voxel_Eras/",
+    "imageUrl": "/covers/steam-3192010.jpg",
+    "source": "steam",
+    "sourceId": "steam-3192010",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "OrderlyWorld",
+    "summary": "供应链 + 元素军团肉鸽：先铺产线，再骰出军队扛一波波进攻。",
+    "url": "https://store.steampowered.com/app/4843920/OrderlyWorld/",
+    "imageUrl": "/covers/steam-4843920.jpg",
+    "source": "steam",
+    "sourceId": "steam-4843920",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Industrix",
+    "summary": "工业产线大师养成：工厂搭建与物流是核心，系统还在转。",
+    "url": "https://store.steampowered.com/app/2339520/Industrix/",
+    "imageUrl": "/covers/steam-2339520.jpg",
+    "source": "steam",
+    "sourceId": "steam-2339520",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Moose Builders",
+    "summary": "铲沙炼铁硅再建太阳能板：工具和机器会合并升级，沙土本身就是产线原料。",
+    "url": "https://store.steampowered.com/app/4790660/Moose_Builders/",
+    "imageUrl": "/covers/steam-4790660.jpg",
+    "source": "steam",
+    "sourceId": "steam-4790660",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "MECH DISTRICT",
+    "summary": "废墟工业区自动化：实体物流和电力要亲手管。",
+    "url": "https://store.steampowered.com/app/4917480/MECH_DISTRICT/",
+    "imageUrl": "/covers/steam-4917480.jpg",
+    "source": "steam",
+    "sourceId": "steam-4917480",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Industronaut",
+    "summary": "太空生存工程：建生命支持舱、采矿、把栖息地撑住。",
+    "url": "https://store.steampowered.com/app/3804010/Industronaut/",
+    "imageUrl": "/covers/steam-3804010.jpg",
+    "source": "steam",
+    "sourceId": "steam-3804010",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Generation Exile",
+    "summary": "巨舰代际船回合重建：整座定居点都缩在世代飞船上。",
+    "url": "https://store.steampowered.com/app/2963240/Generation_Exile/",
+    "imageUrl": "/covers/steam-2963240.jpg",
+    "source": "steam",
+    "sourceId": "steam-2963240",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "SpaceSlog",
+    "summary": "造飞船管船员逛宇宙：飞船本身是会运转的系统。",
+    "url": "https://store.steampowered.com/app/2133570/SpaceSlog/",
+    "imageUrl": "/covers/steam-2133570.jpg",
+    "source": "steam",
+    "sourceId": "steam-2133570",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Collector's Cove",
+    "summary": "海上农庄：开船在群岛间种田收集，高海农事系统。",
+    "url": "https://store.steampowered.com/app/2867470/Collector's_Cove/",
+    "imageUrl": "/covers/steam-2867470.jpg",
+    "source": "steam",
+    "sourceId": "steam-2867470",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Keep It Burning",
+    "summary": "把火保旺的系统玩具：火是活的，熄了就完。",
+    "url": "https://catphish.itch.io/keep-it-burning",
+    "imageUrl": "/covers/itch-catphish-keep-it-burning.jpg",
+    "source": "itch",
+    "sourceId": "itch-catphish-keep-it-burning",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Claimore",
+    "summary": "3D 采矿占点：矿脉和地盘争夺。",
+    "url": "https://bobbybenis.itch.io/claimore",
+    "imageUrl": "/covers/itch-bobbybenis-claimore.jpg",
+    "source": "itch",
+    "sourceId": "itch-bobbybenis-claimore",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "Speed Sculpt",
+    "summary": "限时雕塑：形要快要清楚，低面手感。",
+    "url": "https://xandercwy.itch.io/speed-sculpt",
+    "imageUrl": "/covers/itch-xandercwy-speed-sculpt.jpg",
+    "source": "itch",
+    "sourceId": "itch-xandercwy-speed-sculpt",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
+    "title": "How to make Toys",
+    "summary": "玩具制作流程：饱和玩具色，制作系统本身好玩。",
+    "url": "https://sillyfungames.itch.io/how-to-make-toys",
+    "imageUrl": "/covers/itch-sillyfungames-how-to-make-toys.jpg",
+    "source": "itch",
+    "sourceId": "itch-sillyfungames-how-to-make-toys",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Godot 风格化爆炸",
+    "summary": "Godot 风格化爆炸：动画噪波 + 顶点置换，技术美术向 VFX。",
+    "url": "https://x.com/jettelly/status/2094093446797500432",
+    "imageUrl": "/covers/2094093446797500432.jpg",
+    "source": "x",
+    "sourceId": "2094093446797500432",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Last Stand 概念图",
+    "summary": "Ignacio Bazan-Lazcano《Last Stand》概念图，暗调场景美术。",
+    "url": "https://x.com/ESPER995/status/2093668051094819311",
+    "imageUrl": "/covers/2093668051094819311.jpg",
+    "source": "x",
+    "sourceId": "2093668051094819311",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "ArdaCraft 景观建造",
+    "summary": "Minecraft 中建中的中土景观，体素世界美术。",
+    "url": "https://x.com/ArdaCraft_/status/2092915318733656564",
+    "imageUrl": "/covers/2092915318733656564.jpg",
+    "source": "x",
+    "sourceId": "2092915318733656564",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Elevated",
+    "summary": "iq 程序化山地：高度场、大气雾与远山剪影，地形技术艺术入门片。",
+    "url": "https://www.shadertoy.com/view/MdX3Rr",
+    "imageUrl": "/covers/shadertoy-MdX3Rr.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-MdX3Rr",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Journey",
+    "summary": "Journey 风沙致敬：沙丘闪点高光与日落色，GPU 沙子会随视角微闪。",
+    "url": "https://www.shadertoy.com/view/Mt3GW2",
+    "imageUrl": "/covers/shadertoy-Mt3GW2.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-Mt3GW2",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Happy Jumping",
+    "summary": "iq 风格化跳跃角色：可读几何、软阴影与卡通材质，玩具感强。",
+    "url": "https://www.shadertoy.com/view/3lsSzf",
+    "imageUrl": "/covers/shadertoy-3lsSzf.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-3lsSzf",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Warping - procedural 2",
+    "summary": "nimitz 域扭曲：噪声域把颜色拧成流动油漆纹理，程序化材质范本。",
+    "url": "https://www.shadertoy.com/view/lsl3RH",
+    "imageUrl": "/covers/shadertoy-lsl3RH.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-lsl3RH",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Night Drive",
+    "summary": "夜车雨景：湿路面反射与体积雾灯柱，潮湿材质随车灯游走。",
+    "url": "https://www.shadertoy.com/view/XlsyWB",
+    "imageUrl": "/covers/shadertoy-XlsyWB.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XlsyWB",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Star Nest",
+    "summary": "Kali 星云隧道：分形缩放与高饱和色带，玩具感程序化宇宙。",
+    "url": "https://www.shadertoy.com/view/XlfGRj",
+    "imageUrl": "/covers/shadertoy-XlfGRj.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XlfGRj",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Materials Toon",
+    "summary": "Three.js Toon 材质：色阶与轮廓可读几何，偏 NPR/玩具色。",
+    "url": "https://threejs.org/examples/#webgl_materials_toon",
+    "imageUrl": "/covers/threejs-webgl_materials_toon.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_materials_toon",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TSL Attractors Particles",
+    "summary": "TSL compute 吸引子粒子：GPU 力场把粒子拧成活的流线。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_compute_attractors_particles",
+    "imageUrl": "/covers/threejs-webgpu_tsl_compute_attractors_particles.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_compute_attractors_particles",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Grass Shader",
+    "summary": "Godot MultiMesh 草：噪声风、渐变色与 dither 透明，可刷出成片草地。",
+    "url": "https://binbun3d.itch.io/godot-grass",
+    "imageUrl": "/covers/itch-binbun3d.itch.io-godot-grass.jpg",
+    "source": "itch",
+    "sourceId": "itch-binbun3d.itch.io-godot-grass",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Godot 4: Sky Clouds Asset",
+    "summary": "Godot 体积云天空：云层有厚度与染色，和草地资产配套的活天空。",
+    "url": "https://joblab-studio.itch.io/godot-4-sky-shader-asset",
+    "imageUrl": "/covers/itch-joblab-studio.itch.io-godot-4-sky-shader-asset.jpg",
+    "source": "itch",
+    "sourceId": "itch-joblab-studio.itch.io-godot-4-sky-shader-asset",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Dark Comic Master Shader",
+    "summary": "暗黑漫画着色：网点与墨线 NPR，可读几何偏插画。",
+    "url": "https://andicraft.itch.io/dark-comic-shader",
+    "imageUrl": "/covers/itch-andicraft.itch.io-dark-comic-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-andicraft.itch.io-dark-comic-shader",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Fire VFX",
+    "summary": "Godot 火焰 VFX：噪声焰舌与热扭曲，营火/法术都能用。",
+    "url": "https://gameidea-studio.itch.io/godot-fire-vfx",
+    "imageUrl": "/covers/itch-gameidea-studio.itch.io-godot-fire-vfx.jpg",
+    "source": "itch",
+    "sourceId": "itch-gameidea-studio.itch.io-godot-fire-vfx",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Protean Clouds",
+    "summary": "nimitz 变形云：云团像活物一样扭动，体积感很强。",
+    "url": "https://www.shadertoy.com/view/3l23Rh",
+    "imageUrl": "/covers/shadertoy-3l23Rh.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-3l23Rh",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Rainier Mood",
+    "summary": "雨夜情绪：湿路面与灯光晕染，潮湿材质课。",
+    "url": "https://www.shadertoy.com/view/ldyXRw",
+    "imageUrl": "/covers/shadertoy-ldyXRw.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-ldyXRw",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "shader",
+    "title": "Flame",
+    "summary": "经典火焰：噪声驱动焰舌，火会自己烧。",
+    "url": "https://www.shadertoy.com/view/MdX3zr",
+    "imageUrl": "/covers/shadertoy-MdX3zr.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-MdX3zr",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-08-31"
+  },
+  {
+    "type": "game",
     "title": "We Are So Cooked",
     "summary": "合作多人物理「搬运尸体」：软绵绵尸体不好搬，还得偷偷销毁证据。",
     "url": "https://x.com/AUTOMATONJapan/status/2092735808428183834",
