@@ -1,6 +1,721 @@
 [
   {
     "type": "game",
+    "title": "独立游戏即艺术",
+    "summary": "Indie 游戏画面剪辑，强调独立游戏作为艺术的表达。",
+    "url": "https://x.com/BigStretchDev/status/2094099315350212725",
+    "imageUrl": "/covers/2094099315350212725.jpg",
+    "source": "x",
+    "sourceId": "2094099315350212725",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "PixelJunk Monsters 3",
+    "summary": "PixelJunk Monsters 3 新塔与新敌人玩法预告。",
+    "url": "https://x.com/PixelJunkNews/status/2094032384907735205",
+    "imageUrl": "/covers/2094032384907735205.jpg",
+    "source": "x",
+    "sourceId": "2094032384907735205",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "虫群防线",
+    "summary": "对抗无尽虫群的独立游戏，含爆炸虫与资源生产等机制。",
+    "url": "https://x.com/dyrkabes/status/2094147426793738503",
+    "imageUrl": "/covers/2094147426793738503.jpg",
+    "source": "x",
+    "sourceId": "2094147426793738503",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "小船场景",
+    "summary": "独立游戏中的小船场景演示。",
+    "url": "https://x.com/Enkaybee/status/2093843276159987858",
+    "imageUrl": "/covers/2093843276159987858.jpg",
+    "source": "x",
+    "sourceId": "2093843276159987858",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "风力系统初实现",
+    "summary": "游戏中风力系统与角色交互的技术实现演示。",
+    "url": "https://x.com/kimmokaunela/status/2093680817847300392",
+    "imageUrl": "/covers/2093680817847300392.jpg",
+    "source": "x",
+    "sourceId": "2093680817847300392",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "寒冷暗海停靠点",
+    "summary": "冷暗海面上可停靠地点的探索向游戏开发进度。",
+    "url": "https://x.com/ray_ervian/status/2094349474130796661",
+    "imageUrl": "/covers/2094349474130796661.jpg",
+    "source": "x",
+    "sourceId": "2094349474130796661",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Dino Lords 周末闹腾",
+    "summary": "Dino Lords 游戏内热闹场景短片。",
+    "url": "https://x.com/dinolordsgame/status/2093983310557176272",
+    "imageUrl": "/covers/2093983310557176272.jpg",
+    "source": "x",
+    "sourceId": "2093983310557176272",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Dungeon 3D 包",
+    "summary": "Kenney Tiny Dungeon 的 3D 转换与可交互示例地图。",
+    "url": "https://x.com/rpginabox/status/2093856954661667058",
+    "imageUrl": "/covers/2093856954661667058.jpg",
+    "source": "x",
+    "sourceId": "2093856954661667058",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "单位追踪 HUD",
+    "summary": "单位类型追踪与距离聚合图标的游戏 HUD 实验。",
+    "url": "https://x.com/klimbi123/status/2093661353026175028",
+    "imageUrl": "/covers/2093661353026175028.jpg",
+    "source": "x",
+    "sourceId": "2093661353026175028",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Hexfall 行星与生物群系",
+    "summary": "Hexfall 行星与生物群系的视觉与玩法展示。",
+    "url": "https://x.com/CrusaderCode/status/2094075101738143794",
+    "imageUrl": "/covers/2094075101738143794.jpg",
+    "source": "x",
+    "sourceId": "2094075101738143794",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "截图周六独立游戏",
+    "summary": "Screenshot Saturday 独立游戏画面征集与展示。",
+    "url": "https://x.com/clemmygames/status/2093685172872806799",
+    "imageUrl": "/covers/2093685172872806799.jpg",
+    "source": "x",
+    "sourceId": "2093685172872806799",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "YARETA 韩语支持",
+    "summary": "无战斗开放世界冒险 YARETA 宣布韩语支持与试玩。",
+    "url": "https://x.com/YaretaGame/status/2094280770869416106",
+    "imageUrl": "/covers/2094280770869416106.jpg",
+    "source": "x",
+    "sourceId": "2094280770869416106",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Bearates 夜泳",
+    "summary": "温馨独立游戏 Bearates 中的夜间游泳片刻。",
+    "url": "https://x.com/Bearates_game/status/2093693181837693331",
+    "imageUrl": "/covers/2093693181837693331.jpg",
+    "source": "x",
+    "sourceId": "2093693181837693331",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "炮塔合成动画",
+    "summary": "塔防中加农与弓箭塔合成为霰弹塔的新动画。",
+    "url": "https://x.com/ToDeforNotToDef/status/2093992568623079854",
+    "imageUrl": "/covers/2093992568623079854.jpg",
+    "source": "x",
+    "sourceId": "2093992568623079854",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "竞速光照三选一",
+    "summary": "独立竞速游戏三种光照方案对比。",
+    "url": "https://x.com/WaveGameDev/status/2094133644600500704",
+    "imageUrl": "/covers/2094133644600500704.jpg",
+    "source": "x",
+    "sourceId": "2094133644600500704",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "腾讯 Hy4 可玩原型",
+    "summary": "Hy4 从提示词生成可玩原型并与引擎协作的演示。",
+    "url": "https://x.com/DrstaOne/status/2094003931563057492",
+    "imageUrl": "/covers/2094003931563057492.jpg",
+    "source": "x",
+    "sourceId": "2094003931563057492",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Breathedge 2",
+    "summary": "太空版类深海求生续作 Breathedge 2 抢先体验预告。",
+    "url": "https://x.com/SurvivalGN/status/2094148524615061578",
+    "imageUrl": "/covers/2094148524615061578.jpg",
+    "source": "x",
+    "sourceId": "2094148524615061578",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "角色池与传奇单位",
+    "summary": "像素风独立游戏的角色池与传奇单位能力系统。",
+    "url": "https://x.com/thepixelform/status/2094015195584532912",
+    "imageUrl": "/covers/2094015195584532912.jpg",
+    "source": "x",
+    "sourceId": "2094015195584532912",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Holstin 心理恐怖",
+    "summary": "90 年代波兰小镇设定的心理生存恐怖独立游戏 Holstin。",
+    "url": "https://x.com/clemmygames/status/2093322960845107235",
+    "imageUrl": "/covers/2093322960845107235.jpg",
+    "source": "x",
+    "sourceId": "2093322960845107235",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "GTA VI 电梯场景",
+    "summary": "GTA VI 电梯接入劫车段落的可玩向复刻进度。",
+    "url": "https://x.com/Freako1/status/2094174147912065433",
+    "imageUrl": "/covers/2094174147912065433.jpg",
+    "source": "x",
+    "sourceId": "2094174147912065433",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Aldramar 回响 DLC",
+    "summary": "沙漠文明与大理石建筑修复主题的新 DLC 截图。",
+    "url": "https://x.com/pagoniagame/status/2093670214898454989",
+    "imageUrl": "/covers/2093670214898454989.jpg",
+    "source": "x",
+    "sourceId": "2093670214898454989",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Cozy Country Beta 3",
+    "summary": "可绘制森林河流并走进探索的幻想世界建造游戏。",
+    "url": "https://x.com/protopop/status/2093769993250889913",
+    "imageUrl": "/covers/2093769993250889913.jpg",
+    "source": "x",
+    "sourceId": "2093769993250889913",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "采矿与基地防御",
+    "summary": "采矿与基地防御结合、可破坏世界的 Roguelike 进度。",
+    "url": "https://x.com/miketuritzin/status/2093068521337196957",
+    "imageUrl": "/covers/2093068521337196957.jpg",
+    "source": "x",
+    "sourceId": "2093068521337196957",
+    "tags": [
+      "3D_game"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Tomo: Endless Blue",
+    "summary": "体素开放海岛：物理造船、航行与程序化聚落，活系统味很浓。",
+    "url": "https://store.steampowered.com/app/3301510/",
+    "imageUrl": "/covers/steam-3301510.jpg",
+    "source": "steam",
+    "sourceId": "steam-3301510",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "sailing",
+      "procgen"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Lead the Living",
+    "summary": "等距低多边形尸潮殖民：搜刮不刷新、基地手搭、社群落地生存。",
+    "url": "https://store.steampowered.com/app/5126420/",
+    "imageUrl": "/covers/steam-5126420.jpg",
+    "source": "steam",
+    "sourceId": "steam-5126420",
+    "tags": [
+      "3D_game",
+      "colony",
+      "low-poly"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Somnesis: The PSX Tapes",
+    "summary": "PSX 帧缓冲美学的磁带式叙事恐怖，复古几何可读。",
+    "url": "https://store.steampowered.com/app/4696850/",
+    "imageUrl": "/covers/steam-4696850.jpg",
+    "source": "steam",
+    "sourceId": "steam-4696850",
+    "tags": [
+      "3D_game",
+      "PSX",
+      "retro"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Alchemy Factory",
+    "summary": "炼金自动化工厂：输送带与配方链还在算，工业系统感强。",
+    "url": "https://store.steampowered.com/app/3669570/",
+    "imageUrl": "/covers/steam-3669570.jpg",
+    "source": "steam",
+    "sourceId": "steam-3669570",
+    "tags": [
+      "3D_game",
+      "factory",
+      "automation"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Townscaper",
+    "summary": "玩具积木式临海小镇，点一下长出街区，Townscaper 系鼻祖。",
+    "url": "https://store.steampowered.com/app/1291340/",
+    "imageUrl": "/covers/steam-1291340.jpg",
+    "source": "steam",
+    "sourceId": "steam-1291340",
+    "tags": [
+      "3D_game",
+      "toy",
+      "builder"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Last Bot Settlement",
+    "summary": "机器人末地聚落，定居点系统感。",
+    "url": "https://mesol.itch.io/last-bot-settlement",
+    "imageUrl": "/covers/itch-mesol-last-bot-settlement.jpg",
+    "source": "itch",
+    "sourceId": "itch-mesol-last-bot-settlement",
+    "tags": [
+      "3D_game",
+      "settlement"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Hexatown 2",
+    "summary": "六边形积木城镇，Townscaper 系点选生长。",
+    "url": "https://simenhs.itch.io/hexatown-2",
+    "imageUrl": "/covers/itch-simenhs-hexatown-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-simenhs-hexatown-2",
+    "tags": [
+      "3D_game",
+      "builder",
+      "toy"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
+    "title": "Zero: Diorama Wreckers",
+    "summary": "立体透视模型盒破坏，微缩场景可读。",
+    "url": "https://hahaha10001.itch.io/zero-diorama-wreckers",
+    "imageUrl": "/covers/itch-hahaha10001-zero-diorama-wreckers.jpg",
+    "source": "itch",
+    "sourceId": "itch-hahaha10001-zero-diorama-wreckers",
+    "tags": [
+      "3D_game",
+      "diorama",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "蛛网生成器",
+    "summary": "程序化蛛网生成演示，偏技术美术/工具向视觉。",
+    "url": "https://x.com/tsitskidev/status/2094171122036363767",
+    "imageUrl": "/covers/2094171122036363767.jpg",
+    "source": "x",
+    "sourceId": "2094171122036363767",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "低多边形游戏资产",
+    "summary": "Unity 低多边形 3D 游戏资产包展示。",
+    "url": "https://x.com/PixeliusVita/status/2094309426505359519",
+    "imageUrl": "/covers/2094309426505359519.jpg",
+    "source": "x",
+    "sourceId": "2094309426505359519",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "火星战机与驾驶员",
+    "summary": "火星战斗探测机与驾驶员的 3D 建模与动画展示。",
+    "url": "https://x.com/wanoco4D/status/2094207068135961067",
+    "imageUrl": "/covers/2094207068135961067.jpg",
+    "source": "x",
+    "sourceId": "2094207068135961067",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "仍停留在这里",
+    "summary": "视觉向截图组图，偏风格化场景氛围展示。",
+    "url": "https://x.com/Skirook/status/2093956016077787454",
+    "imageUrl": "/covers/2093956016077787454.jpg",
+    "source": "x",
+    "sourceId": "2093956016077787454",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "烘焙 GI 光照",
+    "summary": "Unity 烘焙全局光照前后对比的技术美术示例。",
+    "url": "https://x.com/lmhpoly/status/2094269102487421316",
+    "imageUrl": "/covers/2094269102487421316.jpg",
+    "source": "x",
+    "sourceId": "2094269102487421316",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "地面着色器更新",
+    "summary": "Damage Control 包即将加入的大场景无缝地面着色器。",
+    "url": "https://x.com/JesseMiettinen/status/2092902265807864025",
+    "imageUrl": "/covers/2092902265807864025.jpg",
+    "source": "x",
+    "sourceId": "2092902265807864025",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "手绘风 UI 控件",
+    "summary": "零依赖手绘风原生 UI 控件库 drawably 演示。",
+    "url": "https://x.com/dwhitedesign/status/2092954191173955797",
+    "imageUrl": "/covers/2092954191173955797.jpg",
+    "source": "x",
+    "sourceId": "2092954191173955797",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Blender 光照接近完成",
+    "summary": "Blender 场景光照接近完成的 WIP 静帧。",
+    "url": "https://x.com/yufusart/status/2093040319579222314",
+    "imageUrl": "/covers/2093040319579222314.jpg",
+    "source": "x",
+    "sourceId": "2093040319579222314",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "PixZels 3D 像素工具",
+    "summary": "浏览器端 3D 像素艺术工具 PixZels 试用与待办扩展。",
+    "url": "https://x.com/Pixel_Salvaje/status/2093003098260197873",
+    "imageUrl": "/covers/2093003098260197873.jpg",
+    "source": "x",
+    "sourceId": "2093003098260197873",
+    "tags": [
+      "shader_visual"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Custom Pixelization Shader",
+    "summary": "自定义像素化后处理，复古帧缓冲味。",
+    "url": "https://pipmakesgames.itch.io/custom-pixelization-shader",
+    "imageUrl": "/covers/itch-pipmakesgames-custom-pixelization-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-pipmakesgames-custom-pixelization-shader",
+    "tags": [
+      "shader_visual",
+      "retro",
+      "pixel"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Musée des shaders - B3 2025 2026",
+    "summary": "着色器博物馆合集，材料与光效展览。",
+    "url": "https://raivk.itch.io/shaders-museum-b3-2025-2026",
+    "imageUrl": "/covers/itch-raivk-shaders-museum-b3-2025-2026.jpg",
+    "source": "itch",
+    "sourceId": "itch-raivk-shaders-museum-b3-2025-2026",
+    "tags": [
+      "shader_visual",
+      "demo"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Audio reactive living Mandelbulb 3D - Godot Shader showcase",
+    "summary": "音频驱动活 Mandelbulb，分形还在呼吸。",
+    "url": "https://misiek666.itch.io/living-mandel3d",
+    "imageUrl": "/covers/itch-misiek666-living-mandel3d.jpg",
+    "source": "itch",
+    "sourceId": "itch-misiek666-living-mandel3d",
+    "tags": [
+      "shader_visual",
+      "fractal"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Nintendo 64-style 3-point texture filtering for Godot",
+    "summary": "Godot 上的 N64 三点过滤，复古纹理采样。",
+    "url": "https://ed3800.itch.io/n64-3point-filtering",
+    "imageUrl": "/covers/itch-ed3800-n64-3point-filtering.jpg",
+    "source": "itch",
+    "sourceId": "itch-ed3800-n64-3point-filtering",
+    "tags": [
+      "shader_visual",
+      "retro",
+      "godot"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Water Shader – Easy Setup",
+    "summary": "易用 Godot 水面：波纹、反射与岸边。",
+    "url": "https://falgiro.itch.io/godot-water-shader-easy-setup",
+    "imageUrl": "/covers/itch-falgiro-godot-water-shader-easy-setup.jpg",
+    "source": "itch",
+    "sourceId": "itch-falgiro-godot-water-shader-easy-setup",
+    "tags": [
+      "shader_visual",
+      "water",
+      "godot"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Atmos: Living Skies",
+    "summary": "会动的天空系统，云层与昼夜在变。",
+    "url": "https://outlawstarzdev.itch.io/atmos-living-skies",
+    "imageUrl": "/covers/itch-outlawstarzdev-atmos-living-skies.jpg",
+    "source": "itch",
+    "sourceId": "itch-outlawstarzdev-atmos-living-skies",
+    "tags": [
+      "shader_visual",
+      "sky",
+      "clouds"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "PS1 Shader Mixer Pro — Godot 4",
+    "summary": "Godot 4 PS1 着色器混音台，抖顶点+仿色。",
+    "url": "https://ihyobi.itch.io/ps1-shader-mixer-pro-godot-4",
+    "imageUrl": "/covers/itch-ihyobi-ps1-shader-mixer-pro-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-ihyobi-ps1-shader-mixer-pro-godot-4",
+    "tags": [
+      "shader_visual",
+      "PSX",
+      "godot"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Godot 4 Day/Night & Weather System",
+    "summary": "昼夜与天气系统，光雾雨雪在跑。",
+    "url": "https://zyynx-hub.itch.io/godot-daynight-weather-system",
+    "imageUrl": "/covers/itch-zyynx-hub-godot-daynight-weather-system.jpg",
+    "source": "itch",
+    "sourceId": "itch-zyynx-hub-godot-daynight-weather-system",
+    "tags": [
+      "shader_visual",
+      "sky",
+      "weather",
+      "godot"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "Downsampling",
+    "summary": "降采样复古后处理，分辨率糊边很 PSX。",
+    "url": "https://mikeytango.itch.io/downsampling",
+    "imageUrl": "/covers/itch-mikeytango-downsampling.jpg",
+    "source": "itch",
+    "sourceId": "itch-mikeytango-downsampling",
+    "tags": [
+      "shader_visual",
+      "retro",
+      "pixel"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "体积云 WebGL",
+    "summary": "WebGL 体积云光线踏进，散射层次清楚。",
+    "url": "https://threejs.org/examples/#webgl_volume_cloud",
+    "imageUrl": "/covers/threejs-webgl_volume_cloud.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_volume_cloud",
+    "tags": [
+      "shader_visual",
+      "clouds",
+      "volume"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "色散材质 WebGL",
+    "summary": "玻璃色散折射，光谱拆开。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_dispersion",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_dispersion.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_gltf_dispersion",
+    "tags": [
+      "shader_visual",
+      "dispersion",
+      "material"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "shader",
+    "title": "虹彩材质 WebGL",
+    "summary": "薄膜干涉虹彩随角变色。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_iridescence",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_iridescence.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_gltf_iridescence",
+    "tags": [
+      "shader_visual",
+      "iridescence",
+      "material"
+    ],
+    "collectedAt": "2026-09-01"
+  },
+  {
+    "type": "game",
     "title": "Icehelm 大纲对比",
     "summary": "风格化等距小城：对比勾边开/关，积木城几何很清楚。",
     "url": "https://x.com/Icehelmet/status/2093748451687170055",
