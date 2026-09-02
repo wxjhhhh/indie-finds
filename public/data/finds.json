@@ -1,5 +1,694 @@
 [
   {
+    "imageUrl": "/covers/2094782546852671586.jpg",
+    "url": "https://x.com/Rustledust77/status/2094782546852671586",
+    "title": "雪地履带痕迹",
+    "sourceId": "2094782546852671586",
+    "tags": [
+      "3D_game",
+      "gamedev",
+      "snow"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "独立开发者用样条线做了可重叠的雪地履带痕迹，并加强了法线细节。"
+  },
+  {
+    "imageUrl": "/covers/2094695451253469574.jpg",
+    "url": "https://x.com/sofaspudgames/status/2094695451253469574",
+    "title": "Wild n Chill",
+    "sourceId": "2094695451253469574",
+    "tags": [
+      "3D_game",
+      "survival",
+      "cozy"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "像素风野外求生建造：采集狩猎、搭木屋，还能带宠物和最多两人同玩。"
+  },
+  {
+    "imageUrl": "/covers/2094440465030389770.jpg",
+    "url": "https://x.com/EmberandBlade/status/2094440465030389770",
+    "title": "Ember and Blade 展示",
+    "sourceId": "2094440465030389770",
+    "tags": [
+      "3D_game",
+      "action"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "动作独立作 Ember and Blade 参加 BIG Fall Showcase，预告激烈战斗内容。"
+  },
+  {
+    "imageUrl": "/covers/2094406420674359692.jpg",
+    "url": "https://x.com/TodayWeGamegg/status/2094406420674359692",
+    "title": "书架玩具火车解谜",
+    "sourceId": "2094406420674359692",
+    "tags": [
+      "3D_game",
+      "toy",
+      "puzzle"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "书架立体书场景里开玩具火车，解谜其实是借口，核心是当一列小火车。"
+  },
+  {
+    "imageUrl": "/covers/2094722742436364657.jpg",
+    "url": "https://x.com/Stefan_3D_AI/status/2094722742436364657",
+    "title": "给地图注入生命",
+    "sourceId": "2094722742436364657",
+    "tags": [
+      "3D_game",
+      "unity",
+      "world"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "开发者给死板大地图加动画云影、树木与分区草地，让环境真正活起来。"
+  },
+  {
+    "imageUrl": "/covers/2094727172368035917.jpg",
+    "url": "https://x.com/dannypostma/status/2094727172368035917",
+    "title": "MMO地契建造循环",
+    "sourceId": "2094727172368035917",
+    "tags": [
+      "3D_game",
+      "mmo",
+      "builder"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "自研MMO接近可玩循环：改造地形、盖房、铺路、建牛栏，人人塑形世界。"
+  },
+  {
+    "imageUrl": "/covers/2094727306766111126.jpg",
+    "url": "https://x.com/GaricaRosen6779/status/2094727306766111126",
+    "title": "Astra 沙子雕塑模拟",
+    "sourceId": "2094727306766111126",
+    "tags": [
+      "3D_game",
+      "sand",
+      "physics"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "Astra 做出带真实物理的沙子雕塑模拟器，可塑形互动的沙盒演示。"
+  },
+  {
+    "imageUrl": "/covers/2094721606870253947.jpg",
+    "url": "https://x.com/zwitscherluki/status/2094721606870253947",
+    "title": "浅滩湖岸塑形",
+    "sourceId": "2094721606870253947",
+    "tags": [
+      "3D_game",
+      "water",
+      "level_design"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "调整湖岸水深做出更自然浅滩，方便在游戏里踩水奔跑的舒适感。"
+  },
+  {
+    "imageUrl": "/covers/2094696766738473002.jpg",
+    "url": "https://x.com/dinolordsgame/status/2094696766738473002",
+    "title": "Dinolords 时代设定",
+    "sourceId": "2094696766738473002",
+    "tags": [
+      "3D_game",
+      "strategy"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "恐龙领主题材策略作宣布调整游戏时代背景，预告新的文明节奏。"
+  },
+  {
+    "imageUrl": "/covers/2094470297604731313.jpg",
+    "url": "https://x.com/CodeSerenityG/status/2094470297604731313",
+    "title": "黑市武器竞技场",
+    "sourceId": "2094470297604731313",
+    "tags": [
+      "3D_game",
+      "sim"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "兵器铺模拟里你不亲自打：每晚一把锻好的刀下坑，属性决定胜负。"
+  },
+  {
+    "imageUrl": "/covers/2094689301418172496.jpg",
+    "url": "https://x.com/80Level/status/2094689301418172496",
+    "title": "Godot 互留涂鸦",
+    "sourceId": "2094689301418172496",
+    "tags": [
+      "3D_game",
+      "godot"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "Godot 作品允许玩家在彼此场景里留下涂鸦，异步共享环境痕迹。"
+  },
+  {
+    "imageUrl": "/covers/2094238695691792535.jpg",
+    "url": "https://x.com/PlentifulGame/status/2094238695691792535",
+    "title": "Plentiful 沙盒神力",
+    "sourceId": "2094238695691792535",
+    "tags": [
+      "3D_game",
+      "sandbox",
+      "god_game"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "沙盒模式可削山造林、筑墙、召唤火山闪电、刷人与房屋，随心重塑世界。"
+  },
+  {
+    "imageUrl": "/covers/2094423044278435916.jpg",
+    "url": "https://x.com/Axie_Lotls/status/2094423044278435916",
+    "title": "Winter Whiskers 艺术片",
+    "sourceId": "2094423044278435916",
+    "tags": [
+      "3D_game",
+      "stylized"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "独立作 Winter Whiskers 雪景剪辑，强调「独立游戏即艺术」的画面表达。"
+  },
+  {
+    "imageUrl": "/covers/2094579773523833115.jpg",
+    "url": "https://x.com/WombatBrawler/status/2094579773523833115",
+    "title": "Wild n Chill Demo",
+    "sourceId": "2094579773523833115",
+    "tags": [
+      "3D_game",
+      "survival",
+      "demo"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "Wild n Chill Demo：采集建造交易，别被熊吃掉，Demo已上线可试玩。"
+  },
+  {
+    "imageUrl": "/covers/2094449002314121476.jpg",
+    "url": "https://x.com/Ninjago9101/status/2094449002314121476",
+    "title": "Stranded Deep 2",
+    "sourceId": "2094449002314121476",
+    "tags": [
+      "3D_game",
+      "survival",
+      "sailing"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "续作宣布：沙漠荒野+无尽河流，皮艇漂流、漂浮小屋与生存资源管理。"
+  },
+  {
+    "imageUrl": "/covers/2094459937321545968.jpg",
+    "url": "https://x.com/Icehelmet/status/2094459937321545968",
+    "title": "受击反馈迭代",
+    "sourceId": "2094459937321545968",
+    "tags": [
+      "3D_game",
+      "stylized"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "开发者给敌人补上受击反馈，战斗手感与可读性正在成型。"
+  },
+  {
+    "imageUrl": "/covers/2094558966957191539.jpg",
+    "url": "https://x.com/TheLabaOfficial/status/2094558966957191539",
+    "title": "水上道具更新",
+    "sourceId": "2094558966957191539",
+    "tags": [
+      "3D_game",
+      "cozy"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "舒适风独立作新增水面道具摆件，强化场景生活感。"
+  },
+  {
+    "imageUrl": "/covers/itch-hestia-interactive-deadline-outpost.jpg",
+    "url": "https://hestia-interactive.itch.io/deadline-outpost",
+    "title": "Deadline: Outpost",
+    "sourceId": "itch-hestia-interactive-deadline-outpost",
+    "tags": [
+      "3D_game",
+      "colony",
+      "survival"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "僵尸废土前哨：探索、建造与据点存活系统。"
+  },
+  {
+    "imageUrl": "/covers/steam-1866300.jpg",
+    "url": "https://store.steampowered.com/app/1866300/",
+    "title": "Dawn Apart",
+    "sourceId": "steam-1866300",
+    "tags": [
+      "3D_game",
+      "voxel",
+      "factory",
+      "colony"
+    ],
+    "source": "steam",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "体素可破坏星球上的殖民工厂自动化，活系统建造感强。"
+  },
+  {
+    "imageUrl": "/covers/itch-likeaplus-colony-sim.jpg",
+    "url": "https://likeaplus.itch.io/colony-sim",
+    "title": "Colony Sim",
+    "sourceId": "itch-likeaplus-colony-sim",
+    "tags": [
+      "3D_game",
+      "colony"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "六名殖民者真实需求驱动的从零建城。"
+  },
+  {
+    "imageUrl": "/covers/steam-4924930.jpg",
+    "url": "https://store.steampowered.com/app/4924930/",
+    "title": "IsleFolk: Build. Trade. Survive.",
+    "sourceId": "steam-4924930",
+    "tags": [
+      "3D_game",
+      "colony",
+      "island"
+    ],
+    "source": "steam",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "轻松海岛殖民：自主村民拓地、贸易、填海扩岛。"
+  },
+  {
+    "imageUrl": "/covers/itch-zortanis-arid-frontiers.jpg",
+    "url": "https://zortanis.itch.io/arid-frontiers",
+    "title": "Arid Frontiers",
+    "sourceId": "itch-zortanis-arid-frontiers",
+    "tags": [
+      "3D_game",
+      "colony"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "实时边疆殖民地：宅地、活定居者与变化荒野。"
+  },
+  {
+    "imageUrl": "/covers/steam-2020710.jpg",
+    "url": "https://store.steampowered.com/app/2020710/",
+    "title": "Havendock",
+    "sourceId": "steam-2020710",
+    "tags": [
+      "3D_game",
+      "colony",
+      "sailing"
+    ],
+    "source": "steam",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "海上漂流殖民：建港、养殖、下潜探岛的舒适模拟。"
+  },
+  {
+    "imageUrl": "/covers/itch-miyuki-dark-mud-ivory.jpg",
+    "url": "https://miyuki-dark.itch.io/mud-ivory",
+    "title": "Mud & Ivory",
+    "sourceId": "itch-miyuki-dark-mud-ivory",
+    "tags": [
+      "3D_game",
+      "builder",
+      "colony"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "地下挖掘、地上建造，泥泞矮人前哨长成垂直城市。"
+  },
+  {
+    "imageUrl": "/covers/steam-3796790.jpg",
+    "url": "https://store.steampowered.com/app/3796790/",
+    "title": "The Facility",
+    "sourceId": "steam-3796790",
+    "tags": [
+      "3D_game",
+      "PSX",
+      "management"
+    ],
+    "source": "steam",
+    "collectedAt": "2026-09-02",
+    "type": "game",
+    "summary": "PSX 复古风设施管理恐核：辨认异常体再派遣任务。"
+  },
+  {
+    "imageUrl": "/covers/2094573312387203092.jpg",
+    "url": "https://x.com/HakimiHamizi/status/2094573312387203092",
+    "title": "放学回家的售货机",
+    "sourceId": "2094573312387203092",
+    "tags": [
+      "shader_visual",
+      "stylized"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "吉卜力味风格化3D街景：红售货机、树影斑驳与晴空，氛围渲染很强。"
+  },
+  {
+    "imageUrl": "/covers/2094294108328104179.jpg",
+    "url": "https://x.com/elyradream/status/2094294108328104179",
+    "title": "三叶草花田俯拍",
+    "sourceId": "2094294108328104179",
+    "tags": [
+      "shader_visual",
+      "vegetation"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "俯视三叶草与粉蓝小花的饱和植物特写，偏材质/植被视觉稿。"
+  },
+  {
+    "imageUrl": "/covers/2094665632155337013.jpg",
+    "url": "https://x.com/maxliebscher/status/2094665632155337013",
+    "title": "程序化悬崖岩层",
+    "sourceId": "2094665632155337013",
+    "tags": [
+      "shader_visual",
+      "threejs",
+      "procgen"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "three.js 程序化生成悬崖与岩层结构的技术演示。"
+  },
+  {
+    "imageUrl": "/covers/2093347851330027909.jpg",
+    "url": "https://x.com/xiaoxiaodong01/status/2093347851330027909",
+    "title": "等距脚手架美学",
+    "sourceId": "2093347851330027909",
+    "tags": [
+      "shader_visual",
+      "isometric"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "GPT图像×等距脚手架风格提示词第73弹，垂直脚手架逻辑很有辨识度。"
+  },
+  {
+    "imageUrl": "/covers/2094672272049234286.jpg",
+    "url": "https://x.com/VibeEverything/status/2094672272049234286",
+    "title": "水粉厚涂插画提示",
+    "sourceId": "2094672272049234286",
+    "tags": [
+      "shader_visual",
+      "illustration"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "一张图转不透明水粉/厚涂插画风，保留原色彩氛围的视觉转换提示。"
+  },
+  {
+    "imageUrl": "/covers/2094521107227292114.jpg",
+    "url": "https://x.com/Niki_Interface/status/2094521107227292114",
+    "title": "Roblox UI 延时",
+    "sourceId": "2094521107227292114",
+    "tags": [
+      "shader_visual",
+      "ui"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "1.5小时UI制作压缩成20秒延时，游戏界面工艺过程展示。"
+  },
+  {
+    "imageUrl": "/covers/2094371089145086445.jpg",
+    "url": "https://x.com/KenneyNL/status/2094371089145086445",
+    "title": "Kenney 工业城市包",
+    "sourceId": "2094371089145086445",
+    "tags": [
+      "shader_visual",
+      "assets"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "City Kit Industrial 更新：太阳能/风电与水塔等免费游戏资产可商用。"
+  },
+  {
+    "imageUrl": "/covers/2094452595574378607.jpg",
+    "url": "https://x.com/baiyinanmood/status/2094452595574378607",
+    "title": "室内场景插画心得",
+    "sourceId": "2094452595574378607",
+    "tags": [
+      "shader_visual",
+      "illustration"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "室内场景绘制流程分享，含3D白模透视辅助与氛围生活感方法。"
+  },
+  {
+    "imageUrl": "/covers/2094478998273191974.jpg",
+    "url": "https://x.com/JosueOrtigoza_/status/2094478998273191974",
+    "title": "Shader Survival Guide",
+    "sourceId": "2094478998273191974",
+    "tags": [
+      "shader_visual",
+      "education"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "Shader节点背后的逻辑、推理与数学书已上线，面向着色器学习。"
+  },
+  {
+    "imageUrl": "/covers/2094522243368046946.jpg",
+    "url": "https://x.com/bnj/status/2094522243368046946",
+    "title": "智能体小镇可视化",
+    "sourceId": "2094522243368046946",
+    "tags": [
+      "shader_visual",
+      "lowpoly"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "把编码智能体协作可视化成等距低多边形小镇，辩论广场与建筑标签一目了然。"
+  },
+  {
+    "imageUrl": "/covers/2094344073624629406.jpg",
+    "url": "https://x.com/thebreezyanupam/status/2094344073624629406",
+    "title": "实时程序化四季",
+    "sourceId": "2094344073624629406",
+    "tags": [
+      "shader_visual",
+      "threejs",
+      "procgen"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "three.js 全程序化动态四季切换，吉卜力风格场景实时演变。"
+  },
+  {
+    "imageUrl": "/covers/2094642679946559979.jpg",
+    "url": "https://x.com/jettelly/status/2094642679946559979",
+    "title": "水面改用SSR",
+    "sourceId": "2094642679946559979",
+    "tags": [
+      "shader_visual",
+      "water",
+      "ssr"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "Beneath the Dying Sun 水面从平面反射改SSR，反射质量对比展示。"
+  },
+  {
+    "imageUrl": "/covers/2094414733931917560.jpg",
+    "url": "https://x.com/Stefan_3D_AI/status/2094414733931917560",
+    "title": "skin-tokens 本地绑骨",
+    "sourceId": "2094414733931917560",
+    "tags": [
+      "shader_visual",
+      "tool",
+      "rigging"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "本地CPU/Vulkan自动绑骨与蒙皮权重，静态网格一键导出绑好的GLB。"
+  },
+  {
+    "imageUrl": "/covers/2093180751454069124.jpg",
+    "url": "https://x.com/TechNewsPlusX/status/2093180751454069124",
+    "title": "20枚动效图标",
+    "sourceId": "2093180751454069124",
+    "tags": [
+      "shader_visual",
+      "ui",
+      "motion"
+    ],
+    "source": "x",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "二十种不同循环动画图标阵列，偏游戏/应用加载与状态动效视觉。"
+  },
+  {
+    "imageUrl": "/covers/itch-stayathomedev-godot-water-shader-v1.jpg",
+    "url": "https://stayathomedev.itch.io/godot-water-shader-v1",
+    "title": "Godot Water Shader V1",
+    "sourceId": "itch-stayathomedev-godot-water-shader-v1",
+    "tags": [
+      "shader_visual",
+      "water",
+      "godot"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "Godot 多波位移写实水 shader。"
+  },
+  {
+    "imageUrl": "/covers/threejs-webgpu_refraction.jpg",
+    "url": "https://threejs.org/examples/#webgpu_refraction",
+    "title": "WebGPU Refraction",
+    "sourceId": "threejs-webgpu_refraction",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "refraction"
+    ],
+    "source": "threejs",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "折射材质演示，玻璃/液体随视角变形。"
+  },
+  {
+    "imageUrl": "/covers/shadertoy-MdGfzh.jpg",
+    "url": "https://www.shadertoy.com/view/MdGfzh",
+    "title": "Himalayas",
+    "sourceId": "shadertoy-MdGfzh",
+    "tags": [
+      "shader_visual",
+      "clouds",
+      "volumetric"
+    ],
+    "source": "shadertoy",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "体积云喜马拉雅：Frostbite 式体积积分，云层给地形投下活阴影。"
+  },
+  {
+    "imageUrl": "/covers/itch-binbun3d-godot-water-shader.jpg",
+    "url": "https://binbun3d.itch.io/godot-water-shader",
+    "title": "Godot Water",
+    "sourceId": "itch-binbun3d-godot-water-shader",
+    "tags": [
+      "shader_visual",
+      "water",
+      "godot"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "Godot 4.x 可定制水 shader（15 预设）。"
+  },
+  {
+    "imageUrl": "/covers/threejs-webgl_gpgpu_protoplanet.jpg",
+    "url": "https://threejs.org/examples/#webgl_gpgpu_protoplanet",
+    "title": "GPGPU Protoplanet",
+    "sourceId": "threejs-webgl_gpgpu_protoplanet",
+    "tags": [
+      "shader_visual",
+      "gpgpu",
+      "particles"
+    ],
+    "source": "threejs",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "原行星粒子重力聚合模拟。"
+  },
+  {
+    "imageUrl": "/covers/shadertoy-4ttSWf.jpg",
+    "url": "https://www.shadertoy.com/view/4ttSWf",
+    "title": "Rainforest",
+    "sourceId": "shadertoy-4ttSWf",
+    "tags": [
+      "shader_visual",
+      "vegetation",
+      "volumetric"
+    ],
+    "source": "shadertoy",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "iq 雨林：体积雾、树叶透光与潮湿地面，植被会随光照呼吸。"
+  },
+  {
+    "imageUrl": "/covers/itch-creative-core-studio-godot-realistic-ssr-water-shader.jpg",
+    "url": "https://creative-core-studio.itch.io/godot-realistic-ssr-water-shader",
+    "title": "Godot Realistic Water Shader",
+    "sourceId": "itch-creative-core-studio-godot-realistic-ssr-water-shader",
+    "tags": [
+      "shader_visual",
+      "water",
+      "godot",
+      "ssr"
+    ],
+    "source": "itch",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "Godot 写实 SSR 水 shader。"
+  },
+  {
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_ssgi.jpg",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssgi",
+    "title": "WebGPU SSGI",
+    "sourceId": "threejs-webgpu_postprocessing_ssgi",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "ssgi"
+    ],
+    "source": "threejs",
+    "collectedAt": "2026-09-02",
+    "type": "shader",
+    "summary": "屏幕空间全局光照球池场景。"
+  },
+  {
     "type": "game",
     "title": "独立游戏即艺术",
     "summary": "Indie 游戏画面剪辑，强调独立游戏作为艺术的表达。",
