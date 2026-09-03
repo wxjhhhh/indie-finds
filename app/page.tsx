@@ -2,18 +2,20 @@
 
 import { useEffect, useState } from "react";
 
-type ItemType = "game" | "shader";
+type ItemType = "game" | "shader" | "inspiration";
 type Find = {
   type: ItemType;
   title: string;
   summary: string;
   url: string;
   imageUrl?: string;
+  tags?: string[];
   collectedAt: string;
 };
 
-type TopTab = "today" | "all";
+type TopTab = "today" | "all" | "inspiration";
 type SubFilter = "all" | "game" | "shader";
+type InspirationFilter = "all" | "pixel" | "cartoon" | "character" | "scene" | "ui";
 
 function getTodayShanghai(): string {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Shanghai" });
@@ -37,6 +39,7 @@ function groupByDate(items: Find[], today: string): [string, Find[]][] {
 export default function Page() {
   const [topTab, setTopTab] = useState<TopTab>("today");
   const [subFilter, setSubFilter] = useState<SubFilter>("all");
+  const [inspirationFilter, setInspirationFilter] = useState<InspirationFilter>("all");
   const [finds, setFinds] = useState<Find[] | undefined>(undefined);
 
   useEffect(() => {
@@ -48,22 +51,28 @@ export default function Page() {
 
   const today = getTodayShanghai();
 
-  const todayItems = finds?.filter((x) => getItemDate(x, today) === today) ?? [];
+  const gameShaderFinds = finds?.filter((x) => x.type !== "inspiration") ?? [];
+  const todayItems = gameShaderFinds.filter((x) => getItemDate(x, today) === today);
 
-  const allFiltered = finds
-    ? subFilter === "all"
-      ? finds
-      : finds.filter((x) => x.type === subFilter)
-    : [];
+  const allFiltered =
+    subFilter === "all"
+      ? gameShaderFinds
+      : gameShaderFinds.filter((x) => x.type === subFilter);
 
   const grouped = groupByDate(allFiltered, today);
+
+  const inspirationItems = finds?.filter((x) => x.type === "inspiration") ?? [];
+  const filteredInspiration =
+    inspirationFilter === "all"
+      ? inspirationItems
+      : inspirationItems.filter((x) => x.tags?.includes(inspirationFilter));
 
   return (
     <main className="app">
       <header className="header">
         <div>
           <h1>独立发现</h1>
-          <p>3D 游戏与 shader 收藏</p>
+          <p>3D 游戏、shader 与设计灵感</p>
         </div>
         <nav className="tabs">
           <button
@@ -79,6 +88,13 @@ export default function Page() {
             type="button"
           >
             全部
+          </button>
+          <button
+            className={topTab === "inspiration" ? "tab active" : "tab"}
+            onClick={() => setTopTab("inspiration")}
+            type="button"
+          >
+            设计灵感
           </button>
         </nav>
       </header>
@@ -109,6 +125,30 @@ export default function Page() {
         </nav>
       )}
 
+      {topTab === "inspiration" && (
+        <nav className="sub-tabs">
+          {(
+            [
+              ["all", "全部"],
+              ["pixel", "像素"],
+              ["cartoon", "卡通"],
+              ["character", "角色"],
+              ["scene", "场景"],
+              ["ui", "UI"],
+            ] as const
+          ).map(([key, label]) => (
+            <button
+              key={key}
+              className={inspirationFilter === key ? "sub-tab active" : "sub-tab"}
+              onClick={() => setInspirationFilter(key)}
+              type="button"
+            >
+              {label}
+            </button>
+          ))}
+        </nav>
+      )}
+
       {finds === undefined ? (
         <p className="empty">加载中…</p>
       ) : topTab === "today" ? (
@@ -117,6 +157,16 @@ export default function Page() {
         ) : (
           <section className="grid">
             {todayItems.map((item) => (
+              <Card key={item.url} item={item} />
+            ))}
+          </section>
+        )
+      ) : topTab === "inspiration" ? (
+        filteredInspiration.length === 0 ? (
+          <p className="empty">暂无条目</p>
+        ) : (
+          <section className="grid">
+            {filteredInspiration.map((item) => (
               <Card key={item.url} item={item} />
             ))}
           </section>

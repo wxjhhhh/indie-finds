@@ -3,7 +3,7 @@ import { action, mutation, query } from "./_generated/server";
 import { api } from "./_generated/api";
 
 const findDoc = {
-  type: v.union(v.literal("game"), v.literal("shader")),
+  type: v.union(v.literal("game"), v.literal("shader"), v.literal("inspiration")),
   title: v.string(),
   summary: v.string(),
   url: v.string(),
@@ -15,7 +15,7 @@ const findDoc = {
 };
 
 export const listByType = query({
-  args: { type: v.union(v.literal("game"), v.literal("shader")) },
+  args: { type: v.union(v.literal("game"), v.literal("shader"), v.literal("inspiration")) },
   handler: async (ctx, args) => {
     return await ctx.db
       .query("finds")
