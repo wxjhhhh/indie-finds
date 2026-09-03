@@ -1,5 +1,625 @@
 [
   {
+    "type": "game",
+    "title": "Knightstones",
+    "summary": "自学报程四年的独立作 Knightstones 接近完成，开发者回顾从零到发售前四个月的旅程。",
+    "url": "https://x.com/WillGreenStudio/status/2094817694805606401",
+    "imageUrl": "/covers/2094817694805606401.jpg",
+    "source": "x",
+    "sourceId": "2094817694805606401",
+    "tags": [
+      "3D_game",
+      "indie",
+      "gamedev"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Fractured 自动基建",
+    "summary": "Fractured RTS 展示自动基地建造 WIP：单位自己铺开基建循环。",
+    "url": "https://x.com/FracturedRTS/status/2094903764721217620",
+    "imageUrl": "/covers/2094903764721217620.jpg",
+    "source": "x",
+    "sourceId": "2094903764721217620",
+    "tags": [
+      "3D_game",
+      "RTS",
+      "basebuilding"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Good South",
+    "summary": "开发者自嘲有人管自己的游戏叫 Good South，随手发了实机画面。",
+    "url": "https://x.com/Icehelmet/status/2094871222374817966",
+    "imageUrl": "/covers/2094871222374817966.jpg",
+    "source": "x",
+    "sourceId": "2094871222374817966",
+    "tags": [
+      "3D_game",
+      "indie"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Long Gone",
+    "summary": "丧尸题材独立作 Long Gone 的短预告片，Steam 可愿望单。",
+    "url": "https://x.com/HillfortGames/status/2094826991392289185",
+    "imageUrl": "/covers/2094826991392289185.jpg",
+    "source": "x",
+    "sourceId": "2094826991392289185",
+    "tags": [
+      "3D_game",
+      "zombie",
+      "trailer"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Breathedge 2",
+    "summary": "太空求生建造续作：醒在废墟里，只有一只不死鸡和一堆废料，现已抢先体验。",
+    "url": "https://x.com/clemmygames/status/2094515774203310382",
+    "imageUrl": "/covers/2094515774203310382.jpg",
+    "source": "x",
+    "sourceId": "2094515774203310382",
+    "tags": [
+      "3D_game",
+      "survival",
+      "space",
+      "crafting"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Cosminomy",
+    "summary": "彩色小行星上的自由建造殖民：邻近设施协同盈利。",
+    "url": "https://store.steampowered.com/app/3113400/Cosminomy/",
+    "imageUrl": "/covers/steam-3113400.jpg",
+    "source": "steam",
+    "sourceId": "steam-3113400",
+    "tags": [
+      "colony",
+      "planet",
+      "builder",
+      "stylized",
+      "steam"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Wanderers' Outpost",
+    "summary": "地牢如蘑菇长出的殖民地：卖装备给冒险者再收税修整。",
+    "url": "https://store.steampowered.com/app/3748310/Wanderers_Outpost/",
+    "imageUrl": "/covers/steam-3748310.jpg",
+    "source": "steam",
+    "sourceId": "steam-3748310",
+    "tags": [
+      "colony",
+      "sim",
+      "dungeon",
+      "builder",
+      "steam"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Voxelony",
+    "summary": "可爱蜥蜴殖民体素世界：采集种植建造与科技树。",
+    "url": "https://store.steampowered.com/app/4094430/Voxelony/",
+    "imageUrl": "/covers/steam-4094430.jpg",
+    "source": "steam",
+    "sourceId": "steam-4094430",
+    "tags": [
+      "voxel",
+      "colony",
+      "builder",
+      "steam"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Nova Patria",
+    "summary": "罗马蒸汽朋克殖民地：等距供应链、铁路与程序生物群系。",
+    "url": "https://store.steampowered.com/app/3831720/Nova_Patria/",
+    "imageUrl": "/covers/steam-3831720.jpg",
+    "source": "steam",
+    "sourceId": "steam-3831720",
+    "tags": [
+      "colony",
+      "isometric",
+      "steampunk",
+      "procgen",
+      "steam"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Robokitties: MEGASTRUCTURE",
+    "summary": "巨型结构里的迷你机器猫拾荒求生，PSX 复古多边形。",
+    "url": "https://artem-dreadwire.itch.io/robokitties-megastructure",
+    "imageUrl": "/covers/itch-artem-dreadwire-robokitties-megastructure.jpg",
+    "source": "itch",
+    "sourceId": "itch-artem-dreadwire-robokitties-megastructure",
+    "tags": [
+      "psx",
+      "retro",
+      "survival"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "FlowScape",
+    "summary": "用笔刷让自然流动的风景沙盒。",
+    "url": "https://pixelforest.itch.io/flowscape",
+    "imageUrl": "/covers/itch-pixelforest-flowscape.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelforest-flowscape",
+    "tags": [
+      "sandbox",
+      "nature",
+      "creative"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Crest - an indirect god game",
+    "summary": "间接神游：用诫命引导追随者。",
+    "url": "https://eatcreatesleep.itch.io/crest",
+    "imageUrl": "/covers/itch-eatcreatesleep-crest.jpg",
+    "source": "itch",
+    "sourceId": "itch-eatcreatesleep-crest",
+    "tags": [
+      "god-game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Complex SKY",
+    "summary": "可翻转的天空城市工厂建造。",
+    "url": "https://momosundeass.itch.io/complex-sky",
+    "imageUrl": "/covers/itch-momosundeass-complex-sky.jpg",
+    "source": "itch",
+    "sourceId": "itch-momosundeass-complex-sky",
+    "tags": [
+      "factory",
+      "city-builder"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Lil Tribals",
+    "summary": "建造村庄并招募社群的部落生存。",
+    "url": "https://cajji.itch.io/lil-tribals",
+    "imageUrl": "/covers/itch-cajji-lil-tribals.jpg",
+    "source": "itch",
+    "sourceId": "itch-cajji-lil-tribals",
+    "tags": [
+      "colony",
+      "village",
+      "survival"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Scrap Paws",
+    "summary": "经营废品场：分拣堆叠捡宝贝的温馨工作模拟。",
+    "url": "https://stellaria-games.itch.io/scrap-paws",
+    "imageUrl": "/covers/itch-stellaria-games-scrap-paws.jpg",
+    "source": "itch",
+    "sourceId": "itch-stellaria-games-scrap-paws",
+    "tags": [
+      "sim",
+      "management",
+      "cozy"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "OverEngineered",
+    "summary": "在敌意星球上造车/机甲/直升机并探索。",
+    "url": "https://falcon89.itch.io/vehicle",
+    "imageUrl": "/covers/itch-falcon89-vehicle.jpg",
+    "source": "itch",
+    "sourceId": "itch-falcon89-vehicle",
+    "tags": [
+      "building",
+      "vehicles",
+      "survival"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "minefractal",
+    "summary": "无限三维分形体素世界：抓钩飞行寻神器。",
+    "url": "https://frinkyyy.itch.io/minefractal",
+    "imageUrl": "/covers/itch-frinkyyy-minefractal.jpg",
+    "source": "itch",
+    "sourceId": "itch-frinkyyy-minefractal",
+    "tags": [
+      "voxel",
+      "fractal",
+      "procgen",
+      "exploration"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "ARACHNIA: Last Stand (DEMO)",
+    "summary": "体素基地建造：抵御虫潮的塔防殖民。",
+    "url": "https://jak2077.itch.io/arachnia-last-stand",
+    "imageUrl": "/covers/itch-jak2077-arachnia-last-stand.jpg",
+    "source": "itch",
+    "sourceId": "itch-jak2077-arachnia-last-stand",
+    "tags": [
+      "voxel",
+      "base-building"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Sorting Corporation",
+    "summary": "分拣公司：物流分类经营模拟。",
+    "url": "https://tomat-games.itch.io/sorting-corporation",
+    "imageUrl": "/covers/itch-tomat-games-sorting-corporation.jpg",
+    "source": "itch",
+    "sourceId": "itch-tomat-games-sorting-corporation",
+    "tags": [
+      "factory",
+      "sorting",
+      "sim"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "game",
+    "title": "Balloon Drifter",
+    "summary": "热气球漂流越过无尽海洋。",
+    "url": "https://ezmin.itch.io/balloon-drifter",
+    "imageUrl": "/covers/itch-ezmin-balloon-drifter.jpg",
+    "source": "itch",
+    "sourceId": "itch-ezmin-balloon-drifter",
+    "tags": [
+      "ocean",
+      "low-poly",
+      "exploration"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Snail",
+    "summary": "iq 的湿蜗牛：黏液高光、壳层细节与软体散射，水珠会折射叶子。",
+    "url": "https://www.shadertoy.com/view/ld3Gz2",
+    "imageUrl": "/covers/shadertoy-ld3Gz2.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-ld3Gz2",
+    "tags": [
+      "shader_visual",
+      "wet",
+      "sss",
+      "materials"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Luminescence",
+    "summary": "BigWings 发光水母：半透明伞盖与触手沉在体积神光里。",
+    "url": "https://www.shadertoy.com/view/4sXBRn",
+    "imageUrl": "/covers/shadertoy-4sXBRn.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-4sXBRn",
+    "tags": [
+      "shader_visual",
+      "volumetric",
+      "iridescence",
+      "organic"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Liquid Carbon",
+    "summary": "Virgill 液态碳：虹彩熔融金属流体，外皮冷却成多孔岩壳。",
+    "url": "https://www.shadertoy.com/view/llK3Dy",
+    "imageUrl": "/covers/shadertoy-llK3Dy.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-llK3Dy",
+    "tags": [
+      "shader_visual",
+      "iridescence",
+      "fluid",
+      "materials"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Plasma Globe",
+    "summary": "nimitz 电浆球：玻璃球里电弧从核心爬到内壁。",
+    "url": "https://www.shadertoy.com/view/XsjXRm",
+    "imageUrl": "/covers/shadertoy-XsjXRm.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XsjXRm",
+    "tags": [
+      "shader_visual",
+      "plasma",
+      "glass",
+      "volumetric"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Desert Canyon",
+    "summary": "Shane 沙漠峡谷：风蚀砂岩拱门与细密垂直纹路，沙色随光变暖。",
+    "url": "https://www.shadertoy.com/view/Xs33Df",
+    "imageUrl": "/covers/shadertoy-Xs33Df.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-Xs33Df",
+    "tags": [
+      "shader_visual",
+      "sand",
+      "terrain",
+      "desert"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "2D Clouds",
+    "summary": "程序化二维云层：噪声脊线铺在蓝天上，云带会漂移。",
+    "url": "https://www.shadertoy.com/view/4tdSWr",
+    "imageUrl": "/covers/shadertoy-4tdSWr.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-4tdSWr",
+    "tags": [
+      "shader_visual",
+      "clouds",
+      "noise"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Aurelia",
+    "summary": "Three.js WebGPU 程序化水母：伞盖脉冲、GPU Verlet 触手与虹彩体积光全是现场算的。",
+    "url": "https://holtsetio.com/lab/aurelia/",
+    "imageUrl": "/covers/other-holtsetio-aurelia.jpg",
+    "source": "other",
+    "sourceId": "other-holtsetio-aurelia",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "iridescence",
+      "organic",
+      "compute"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Flow (MLS-MPM)",
+    "summary": "浏览器 MLS-MPM 粒子：WebGPU 上把流体拧成 Anadol 式洋红光带。",
+    "url": "https://holtsetio.com/lab/flow/",
+    "imageUrl": "/covers/other-holtsetio-flow.jpg",
+    "source": "other",
+    "sourceId": "other-holtsetio-flow",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "fluid",
+      "particles",
+      "simulation"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Softbodies",
+    "summary": "WebGPU 软体碰撞：四面体果冻在浏览器里互相挤压反弹。",
+    "url": "https://holtsetio.com/lab/softbodies/",
+    "imageUrl": "/covers/other-holtsetio-softbodies.jpg",
+    "source": "other",
+    "sourceId": "other-holtsetio-softbodies",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "softbody",
+      "simulation"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Breeze",
+    "summary": "WebGPU Verlet 布料：多场景实时布料被风掀起来。",
+    "url": "https://holtsetio.com/lab/breeze/",
+    "imageUrl": "/covers/other-holtsetio-breeze.jpg",
+    "source": "other",
+    "sourceId": "other-holtsetio-breeze",
+    "tags": [
+      "shader_visual",
+      "webgpu",
+      "cloth",
+      "simulation"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Marble Marcher",
+    "summary": "浏览器分形弹珠：SDF 门格海绵上滚着会折射的大理石。",
+    "url": "https://antzgames.itch.io/marble-marcher-in-a-browser",
+    "imageUrl": "/covers/itch-antzgames-marble-marcher.jpg",
+    "source": "itch",
+    "sourceId": "itch-antzgames-marble-marcher",
+    "tags": [
+      "shader_visual",
+      "sdf",
+      "fractal",
+      "raymarching"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Lava Lamp Shader",
+    "summary": "Godot 熔岩灯：黏稠发光色块在玻璃里浮沉。",
+    "url": "https://daviddcarr.itch.io/lava-lamp-shader",
+    "imageUrl": "/covers/itch-daviddcarr-lava-lamp-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-daviddcarr-lava-lamp-shader",
+    "tags": [
+      "shader_visual",
+      "fluid",
+      "lava",
+      "godot"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Portal",
+    "summary": "Three.js WebGPU 传送门：粉色人偶走进折射门户，边缘在扭曲。",
+    "url": "https://threejs.org/examples/#webgpu_portal",
+    "imageUrl": "/covers/threejs-webgpu_portal.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_portal",
+    "tags": [
+      "shader_visual",
+      "refraction",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Volume Lighting TRAA",
+    "summary": "体积光柱加时间抗锯齿，光尘在空气里沉淀。",
+    "url": "https://threejs.org/examples/#webgpu_volume_lighting_traa",
+    "imageUrl": "/covers/threejs-webgpu_volume_lighting_traa.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_lighting_traa",
+    "tags": [
+      "shader_visual",
+      "volumetric",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU SSR Denoise",
+    "summary": "屏幕空间反射去噪：湿地面反射从噪点收成干净镜面。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssr_denoise",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_ssr_denoise.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_ssr_denoise",
+    "tags": [
+      "shader_visual",
+      "ssr",
+      "wet",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Parallax UV",
+    "summary": "视差 UV：砖石表面随视角凹陷，接近湿石凹凸。",
+    "url": "https://threejs.org/examples/#webgpu_parallax_uv",
+    "imageUrl": "/covers/threejs-webgpu_parallax_uv.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_parallax_uv",
+    "tags": [
+      "shader_visual",
+      "parallax",
+      "stone",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Ocean3D: Water, Waves & Buoyancy for Godot 4",
+    "summary": "Godot 4 海洋波浪与浮力系统。",
+    "url": "https://ocean3d.itch.io/ocean3d",
+    "imageUrl": "/covers/itch-ocean3d-ocean3d.jpg",
+    "source": "itch",
+    "sourceId": "itch-ocean3d-ocean3d",
+    "tags": [
+      "godot",
+      "ocean",
+      "water"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized Grass Shader",
+    "summary": "风格化草浪着色器，随风摆动。",
+    "url": "https://stayathomedev.itch.io/stylized-grass-shader",
+    "imageUrl": "/covers/itch-stayathomedev-stylized-grass-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-stayathomedev-stylized-grass-shader",
+    "tags": [
+      "godot",
+      "grass",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "PSX Style Water Surface",
+    "summary": "PSX 风格水面：双层纹理位移与像素化。",
+    "url": "https://immaculate-lift-studio.itch.io/psx-style-water-surface",
+    "imageUrl": "/covers/itch-immaculate-lift-studio-psx-style-water-surface.jpg",
+    "source": "itch",
+    "sourceId": "itch-immaculate-lift-studio-psx-style-water-surface",
+    "tags": [
+      "godot",
+      "psx",
+      "water"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "shader",
+    "title": "Fire VFX - Godot 3D",
+    "summary": "Godot 3D 火焰 VFX。",
+    "url": "https://binbun3d.itch.io/fire",
+    "imageUrl": "/covers/itch-binbun3d-fire.jpg",
+    "source": "itch",
+    "sourceId": "itch-binbun3d-fire",
+    "tags": [
+      "godot",
+      "fire",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
     "imageUrl": "/covers/2094782546852671586.jpg",
     "url": "https://x.com/Rustledust77/status/2094782546852671586",
     "title": "雪地履带痕迹",
