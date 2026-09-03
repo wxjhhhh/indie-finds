@@ -1,6 +1,126 @@
 [
   {
     "type": "inspiration",
+    "title": "农场像素角色与动作组",
+    "summary": "48px 农夫与主角动作、作物和建筑放在同一资产表里，角色轮廓清楚，也便于观察角色与世界比例。",
+    "url": "https://www.pinterest.com/pin/62276407337199170/",
+    "imageUrl": "/covers/pin-62276407337199170.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-62276407337199170",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "森林俯视像素地块",
+    "summary": "俯视森林地块用少量色阶区分草地、树冠与路径，适合研究像素地图的层次和可读性。",
+    "url": "https://www.pinterest.com/pin/2392606047639062/",
+    "imageUrl": "/covers/pin-2392606047639062.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-2392606047639062",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "8×8 像素物品图标表",
+    "summary": "极小尺寸物品图标仍靠高对比色块维持辨识度，可直接参考背包与资源栏视觉语言。",
+    "url": "https://www.pinterest.com/pin/40462096653051405/",
+    "imageUrl": "/covers/pin-40462096653051405.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-40462096653051405",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "The Night of the Rabbit 角色组",
+    "summary": "长短胖瘦差异明显的童话动物角色，轮廓、服装和姿态共同承担性格表达。",
+    "url": "https://www.pinterest.com/pin/297026537916513871/",
+    "imageUrl": "/covers/pin-297026537916513871.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-297026537916513871",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "Ori NPC 角色设定",
+    "summary": "Ori NPC 用夸张身体比例、柔软形状和明亮局部色建立温暖且一眼可辨的角色群。",
+    "url": "https://www.pinterest.com/pin/515028907391296623/",
+    "imageUrl": "/covers/pin-515028907391296623.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-515028907391296623",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "Behemoth 风角色练习",
+    "summary": "粗黑轮廓、扁平饱和色和夸张肢体让多人角色在小尺寸下仍保持强剪影。",
+    "url": "https://www.pinterest.com/pin/606226799839564961/",
+    "imageUrl": "/covers/pin-606226799839564961.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-606226799839564961",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "风格化等距农场建筑",
+    "summary": "等距木结构建筑像桌面模型，简化体块、手绘材质与小道具兼具玩具感和功能可读性。",
+    "url": "https://www.pinterest.com/pin/436004807695374302/",
+    "imageUrl": "/covers/pin-436004807695374302.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-436004807695374302",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
+    "title": "物理感移动游戏界面",
+    "summary": "把角色选择与物品界面做成可触摸的卡片和物件，贴近用户偏好的贴纸/手作 UI 质感。",
+    "url": "https://www.pinterest.com/pin/492649948295401/",
+    "imageUrl": "/covers/pin-492649948295401.jpg",
+    "source": "pinterest",
+    "sourceId": "pin-492649948295401",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-03"
+  },
+  {
+    "type": "inspiration",
     "title": "风格化欧卡营地",
     "summary": "饱和卡通渲染的营地：篝火、木屋和小人围坐，玩具感场景参考。",
     "url": "https://www.artstation.com/artwork/DvD1GR",
