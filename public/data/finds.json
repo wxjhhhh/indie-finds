@@ -1,6 +1,156 @@
 [
   {
     "type": "inspiration",
+    "title": "Emberglen 像素草地包",
+    "summary": "粗描边俯视像素草地与茅屋，暖色块层次清楚，适合像素场景地块参考。",
+    "url": "https://gegx.itch.io/emberglen-meadow",
+    "source": "itch",
+    "sourceId": "itch-emberglen",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-emberglen.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Bloomseed 像素农场包",
+    "summary": "16x16 俯视农场/RPG 地砖与道具，剪影简洁可读。",
+    "url": "https://cocophany.itch.io/bloomseed",
+    "source": "itch",
+    "sourceId": "itch-bloomseed",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-bloomseed.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Village Top Down 像素村",
+    "summary": "日夜双版俯视像素村庄房屋与树，地块可读。",
+    "url": "https://pixeljad.itch.io/villagetopdown",
+    "source": "itch",
+    "sourceId": "itch-village-topdown",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-village-topdown.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Saint Slayer NES 像素角色",
+    "summary": "现代 NES 味像素动作角色与 1:1 GUI，剪影清晰可作像素角色规格参考。",
+    "url": "https://80.lv/articles/building-a-modern-nes-style-retro-action-platformer-game-in-saint-slayer",
+    "source": "80lv",
+    "sourceId": "80lv-saint-slayer",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "imageUrl": "/covers/80lv-saint-slayer.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "等距像素 RPG 角色表",
+    "summary": "八方向等距像素角色动画表，适合像素单位参考。",
+    "url": "https://www.artstation.com/artwork/vbyeXx",
+    "source": "artstation",
+    "sourceId": "art-vbyeXx",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "imageUrl": "/covers/art-vbyeXx.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Halloween Ghost 平台角色",
+    "summary": "卡通南瓜幽灵平台角色设定，夸张剪影适合卡通风角色参考。",
+    "url": "https://www.artstation.com/artwork/Gv0Q9d",
+    "source": "artstation",
+    "sourceId": "art-Gv0Q9d",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/art-Gv0Q9d.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "棕色卡通动物设定",
+    "summary": "圆润卡通动物三视图参考，玩具感造型。",
+    "url": "https://www.artstation.com/artwork/Ov5DPb",
+    "source": "artstation",
+    "sourceId": "art-Ov5DPb",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/art-Ov5DPb.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "风格化奇幻农场环境",
+    "summary": "低面卡通农场模块：木屋、石磨与植被，玩具感场景体块清楚。",
+    "url": "https://www.artstation.com/marketplace/p/JgBqB/fantasy-environment-stylized-farm-pbr-textures",
+    "source": "artstation",
+    "sourceId": "art-JgBqB",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "imageUrl": "/covers/art-JgBqB.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Hearthleaf 咖啡馆 UI",
+    "summary": "胡桃木+羊皮纸绘本风界面壳，贴合缝线/贴纸 UI 口味。",
+    "url": "https://nexavisuals.itch.io/hearthleaf-cozy-cafe-ui-complete-collection",
+    "source": "itch",
+    "sourceId": "itch-hearthleaf-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "imageUrl": "/covers/itch-hearthleaf-ui.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "卡通风 UI 测试",
+    "summary": "卡通风面板与按钮排版测试，适合休闲游戏 HUD 参考。",
+    "url": "https://www.artstation.com/artwork/BXXWVA",
+    "source": "artstation",
+    "sourceId": "art-BXXWVA",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "imageUrl": "/covers/art-BXXWVA.jpg",
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
     "title": "Tiny Realms 等距关卡",
     "summary": "饱和玩具感等距场景，地块可读，适合六角/村落美术参考。",
     "url": "https://www.artstation.com/artwork/1NenNo",
