@@ -1,6 +1,20 @@
 [
   {
     "type": "shader",
+    "title": "Explosion VFX - Lite - Free Fireball for Godot 4",
+    "summary": "火焰/爆炸向着色或粒子 VFX，动态材质感。",
+    "url": "https://selodev.itch.io/explosion-vfx-lite-free-fireball-for-godot-4",
+    "imageUrl": "/covers/itch-selodev-explosion-vfx-lite-free-fireball-for-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-selodev-explosion-vfx-lite-free-fireball-for-godot-4",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
     "title": "Random",
     "summary": "视觉特效/着色向资源，可作材质与光影参考。",
     "url": "https://flunch1314.itch.io/random",
