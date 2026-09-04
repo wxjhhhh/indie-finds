@@ -1,5 +1,65 @@
 [
   {
+    "type": "inspiration",
+    "title": "Tiny Realms 等距关卡",
+    "summary": "饱和玩具感等距场景，地块可读，适合六角/村落美术参考。",
+    "url": "https://www.artstation.com/artwork/1NenNo",
+    "imageUrl": "/covers/art-1NenNo.jpg",
+    "source": "artstation",
+    "sourceId": "art-1NenNo",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "麋鹿 Charlie 像素设定",
+    "summary": "清晰像素角色设定表，轮廓可读，适合卡通像素角色规格参考。",
+    "url": "https://www.artstation.com/artwork/28o6va",
+    "imageUrl": "/covers/art-28o6va.jpg",
+    "source": "artstation",
+    "sourceId": "art-28o6va",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Woodland Odyssey 游戏UI",
+    "summary": "温暖卡通面板与按钮排版，适合休闲/沙盒 HUD 贴纸感参考。",
+    "url": "https://www.artstation.com/artwork/bg5yJd",
+    "imageUrl": "/covers/art-bg5yJd.jpg",
+    "source": "artstation",
+    "sourceId": "art-bg5yJd",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "像素雪景日式温泉镇",
+    "summary": "像素贴图+3D场景，温馨街景可读性高，贴合风格化世界美术。",
+    "url": "https://80.lv/articles/take-a-look-at-this-scene-of-pixel-style-snowy-japanese-town",
+    "imageUrl": "/covers/80lv-snowy-jp-town.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-snowy-jp-town",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
     "type": "shader",
     "title": "Explosion VFX - Lite - Free Fireball for Godot 4",
     "summary": "火焰/爆炸向着色或粒子 VFX，动态材质感。",
