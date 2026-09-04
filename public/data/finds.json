@@ -1,6 +1,426 @@
 [
   {
     "type": "game",
+    "title": "ShipShaper: Falconeer Chronicles",
+    "summary": "自由塑形造船沙盒：推拉弯曲船体并导出模型，玩具向造物。",
+    "url": "https://store.steampowered.com/app/4339280/",
+    "imageUrl": "/covers/steam-4339280.jpg",
+    "source": "steam",
+    "sourceId": "steam-4339280",
+    "tags": [
+      "sandbox",
+      "ship",
+      "build",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "MapCity",
+    "summary": "在地图上直接绘制城市的沙盒：道路建筑与 3D 俯瞰。",
+    "url": "https://store.steampowered.com/app/4964730/",
+    "imageUrl": "/covers/steam-4964730.jpg",
+    "source": "steam",
+    "sourceId": "steam-4964730",
+    "tags": [
+      "sandbox",
+      "city-builder",
+      "map"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Vonkelveld",
+    "summary": "环面神游：气候生态人口三层模拟，编年史可追问为何。",
+    "url": "https://store.steampowered.com/app/4846840/",
+    "imageUrl": "/covers/steam-4846840.jpg",
+    "source": "steam",
+    "sourceId": "steam-4846840",
+    "tags": [
+      "god-game",
+      "procgen",
+      "simulation"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Eurekas",
+    "summary": "受 Populous/Settlers 启发的殖民地：地形神力与腐化蔓延。",
+    "url": "https://store.steampowered.com/app/3897810/",
+    "imageUrl": "/covers/steam-3897810.jpg",
+    "source": "steam",
+    "sourceId": "steam-3897810",
+    "tags": [
+      "colony",
+      "god-game",
+      "rts"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "SPIREFRONT",
+    "summary": "六角格扩张摧毁尖塔网络的程序生存，贴合活系统建造。",
+    "url": "https://azusdex.itch.io/spirefront",
+    "imageUrl": "/covers/itch-azusdex-spirefront.jpg",
+    "source": "itch",
+    "sourceId": "itch-azusdex-spirefront",
+    "tags": [
+      "hex",
+      "procgen",
+      "survival"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "She's Loose",
+    "summary": "Haunted PS1 夏令营 jam 的 PSX 低多边形第一人称恐怖。",
+    "url": "https://mooniac-games.itch.io/shes-loose",
+    "imageUrl": "/covers/itch-mooniac-games-shes-loose.jpg",
+    "source": "itch",
+    "sourceId": "itch-mooniac-games-shes-loose",
+    "tags": [
+      "psx",
+      "lowpoly",
+      "horror"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Object 24",
+    "summary": "苏式公寓日夜仪式的 PSX 心理潜行恐怖。",
+    "url": "https://exers.itch.io/object-24",
+    "imageUrl": "/covers/itch-exers-object-24.jpg",
+    "source": "itch",
+    "sourceId": "itch-exers-object-24",
+    "tags": [
+      "psx",
+      "horror",
+      "stealth"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Isometric Zombie Shooter Demo",
+    "summary": "PSX 等距无尽僵尸射击 demo，复古多边形。",
+    "url": "https://kutpac.itch.io/isometric-zombie-shooter-demo",
+    "imageUrl": "/covers/itch-kutpac-isometric-zombie-shooter-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-kutpac-isometric-zombie-shooter-demo",
+    "tags": [
+      "psx",
+      "isometric",
+      "survival"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Deer Hunt",
+    "summary": "短篇低多边形猎鹿恐怖。",
+    "url": "https://mfsch.itch.io/deer-hunt",
+    "imageUrl": "/covers/itch-mfsch-deer-hunt.jpg",
+    "source": "itch",
+    "sourceId": "itch-mfsch-deer-hunt",
+    "tags": [
+      "lowpoly",
+      "horror",
+      "psx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Out Of Office",
+    "summary": "轻量体素沙盒生存：建房挖矿与夜晚循环。",
+    "url": "https://kaepaken.itch.io/out-of-office",
+    "imageUrl": "/covers/itch-kaepaken-out-of-office.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaepaken-out-of-office",
+    "tags": [
+      "voxel",
+      "sandbox",
+      "survival"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "CN_MegaApeSim",
+    "summary": "Godot 4 开源体素世界模板：程序地形与区块。",
+    "url": "https://xhakatech.itch.io/cn-megaapesim",
+    "imageUrl": "/covers/itch-xhakatech-cn-megaapesim.jpg",
+    "source": "itch",
+    "sourceId": "itch-xhakatech-cn-megaapesim",
+    "tags": [
+      "voxel",
+      "godot",
+      "procgen"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Apoapsis",
+    "summary": "真实轨道力学的 3D 火箭飞行模拟。",
+    "url": "https://hydroengineer.itch.io/apoapsis",
+    "imageUrl": "/covers/itch-hydroengineer-apoapsis.jpg",
+    "source": "itch",
+    "sourceId": "itch-hydroengineer-apoapsis",
+    "tags": [
+      "simulation",
+      "space",
+      "3d"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Protoball",
+    "summary": "物理沙盒：搭建拆解与碰撞实验。",
+    "url": "https://protoball.itch.io/protoball",
+    "imageUrl": "/covers/itch-protoball-protoball.jpg",
+    "source": "itch",
+    "sourceId": "itch-protoball-protoball",
+    "tags": [
+      "sandbox",
+      "physics",
+      "build"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Frostward",
+    "summary": "程序殖民地：寒冬求生并扩张营地。",
+    "url": "https://digitalacresstudios.itch.io/frostward",
+    "imageUrl": "/covers/itch-digitalacresstudios-frostward.jpg",
+    "source": "itch",
+    "sourceId": "itch-digitalacresstudios-frostward",
+    "tags": [
+      "colony",
+      "procgen",
+      "survival"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Pixel Colony",
+    "summary": "暗黑复古工业殖民地与基地建造。",
+    "url": "https://pelzergames.itch.io/pixel-colony",
+    "imageUrl": "/covers/itch-pelzergames-pixel-colony.jpg",
+    "source": "itch",
+    "sourceId": "itch-pelzergames-pixel-colony",
+    "tags": [
+      "colony",
+      "pixel",
+      "base-build"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Swarmdustry Demo",
+    "summary": "活工厂自动化：蜂群产线演化。",
+    "url": "https://mitchystudios.itch.io/swarmdustry-demo",
+    "imageUrl": "/covers/itch-mitchystudios-swarmdustry-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-mitchystudios-swarmdustry-demo",
+    "tags": [
+      "factory",
+      "automation",
+      "colony"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "MoonGod();",
+    "summary": "行星级增量殖民/文明模拟。",
+    "url": "https://tigpan.itch.io/moongod",
+    "imageUrl": "/covers/itch-tigpan-moongod.jpg",
+    "source": "itch",
+    "sourceId": "itch-tigpan-moongod",
+    "tags": [
+      "colony",
+      "god-game",
+      "incremental"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Void Seam",
+    "summary": "程序化太阳系里搭建模块化空间站。",
+    "url": "https://danielfp248.itch.io/void-seam",
+    "imageUrl": "/covers/itch-danielfp248-void-seam.jpg",
+    "source": "itch",
+    "sourceId": "itch-danielfp248-void-seam",
+    "tags": [
+      "procgen",
+      "space",
+      "build"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Old Town Empire",
+    "summary": "ECS 实现的法老/凯撒式城镇建造。",
+    "url": "https://gloomyowl.itch.io/old-town-empire",
+    "imageUrl": "/covers/itch-gloomyowl-old-town-empire.jpg",
+    "source": "itch",
+    "sourceId": "itch-gloomyowl-old-town-empire",
+    "tags": [
+      "town-builder",
+      "ecs",
+      "sim"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "SimMayor",
+    "summary": "轻量市长城市经营。",
+    "url": "https://instcoffee.itch.io/simmayor",
+    "imageUrl": "/covers/itch-instcoffee-simmayor.jpg",
+    "source": "itch",
+    "sourceId": "itch-instcoffee-simmayor",
+    "tags": [
+      "town-builder",
+      "city",
+      "sim"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Gravetide",
+    "summary": "低模第一人称墓地夜间尸潮生存。",
+    "url": "https://jhyun1234.itch.io/gravetide",
+    "imageUrl": "/covers/itch-jhyun1234-gravetide.jpg",
+    "source": "itch",
+    "sourceId": "itch-jhyun1234-gravetide",
+    "tags": [
+      "lowpoly",
+      "survival",
+      "3d"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "JellyBean 64",
+    "summary": "低模 3D 平台跳跃，玩具感可读几何。",
+    "url": "https://thesilentsmile.itch.io/jellybean-64",
+    "imageUrl": "/covers/itch-thesilentsmile-jellybean-64.jpg",
+    "source": "itch",
+    "sourceId": "itch-thesilentsmile-jellybean-64",
+    "tags": [
+      "lowpoly",
+      "platformer",
+      "3d"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "The Hollowing DEMO",
+    "summary": "增量 3D：削平整座山的挖山循环。",
+    "url": "https://maxteslia.itch.io/the-hollowing-demo",
+    "imageUrl": "/covers/itch-maxteslia-the-hollowing-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxteslia-the-hollowing-demo",
+    "tags": [
+      "incremental",
+      "3d",
+      "sandbox"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Starstory",
+    "summary": "把旧日故事蚀刻到天空的氛围叙事。",
+    "url": "https://cruddish.itch.io/starstory",
+    "imageUrl": "/covers/itch-cruddish-starstory.jpg",
+    "source": "itch",
+    "sourceId": "itch-cruddish-starstory",
+    "tags": [
+      "stylized",
+      "narrative",
+      "sky"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "FARROW",
+    "summary": "PSX 风格恐怖小品。",
+    "url": "https://ma21x.itch.io/farrow",
+    "imageUrl": "/covers/itch-ma21x-farrow.jpg",
+    "source": "itch",
+    "sourceId": "itch-ma21x-farrow",
+    "tags": [
+      "psx",
+      "horror"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "False Summit",
+    "summary": "废弃山间小屋探索，低模氛围。",
+    "url": "https://fenchel.itch.io/false-summit",
+    "imageUrl": "/covers/itch-fenchel-false-summit.jpg",
+    "source": "itch",
+    "sourceId": "itch-fenchel-false-summit",
+    "tags": [
+      "psx",
+      "exploration",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Sovereign",
+    "summary": "回合策略+程序地图生成。",
+    "url": "https://maksim-mikhalev.itch.io/sovereign",
+    "imageUrl": "/covers/itch-maksim-mikhalev-sovereign.jpg",
+    "source": "itch",
+    "sourceId": "itch-maksim-mikhalev-sovereign",
+    "tags": [
+      "procgen",
+      "strategy",
+      "sandbox"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Microbial Pond v0.1",
+    "summary": "微观池塘演化模拟，活系统观感。",
+    "url": "https://sarepat.itch.io/microbial-pond-v01",
+    "imageUrl": "/covers/itch-sarepat-microbial-pond-v01.jpg",
+    "source": "itch",
+    "sourceId": "itch-sarepat-microbial-pond-v01",
+    "tags": [
+      "simulation",
+      "evolution",
+      "living-system"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
     "title": "Woodo",
     "summary": "可触摸的 3D 木制立体书拼图：玩具向手工光影。",
     "url": "https://store.steampowered.com/app/2572040/",
