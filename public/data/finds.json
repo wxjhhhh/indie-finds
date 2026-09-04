@@ -1,5 +1,479 @@
 [
   {
+    "type": "shader",
+    "title": "Random",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://flunch1314.itch.io/random",
+    "imageUrl": "/covers/itch-flunch1314-random.jpg",
+    "source": "itch",
+    "sourceId": "itch-flunch1314-random",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "VFX_UnityPortfolio",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://socotragames.itch.io/vfx-unityportfolio",
+    "imageUrl": "/covers/itch-socotragames-vfx-unityportfolio.jpg",
+    "source": "itch",
+    "sourceId": "itch-socotragames-vfx-unityportfolio",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Full Opaque Fire VFX",
+    "summary": "火焰/爆炸向着色或粒子 VFX，动态材质感。",
+    "url": "https://romanchacornac.itch.io/full-opaque-fire-vfx",
+    "imageUrl": "/covers/itch-romanchacornac-full-opaque-fire-vfx.jpg",
+    "source": "itch",
+    "sourceId": "itch-romanchacornac-full-opaque-fire-vfx",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Smoke Bombs VFX - Unity DEMO",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://vefects.itch.io/smoke-bombs-vfx-unity-demo",
+    "imageUrl": "/covers/itch-vefects-smoke-bombs-vfx-unity-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-vefects-smoke-bombs-vfx-unity-demo",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Loot VFX - Unity DEMO",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://vefects.itch.io/loot-vfx-unity-demo",
+    "imageUrl": "/covers/itch-vefects-loot-vfx-unity-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-vefects-loot-vfx-unity-demo",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Item Pickup VFX - Unity DEMO",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://vefects.itch.io/item-pickup-vfx-unity-demo",
+    "imageUrl": "/covers/itch-vefects-item-pickup-vfx-unity-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-vefects-item-pickup-vfx-unity-demo",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Realistic Water VFX - Unreal Engine",
+    "summary": "水体/水面 VFX 或着色演示，贴合 tech-art 水材质口味。",
+    "url": "https://vefects.itch.io/realistic-water-vfx-unreal-engine",
+    "imageUrl": "/covers/itch-vefects-realistic-water-vfx-unreal-engine.jpg",
+    "source": "itch",
+    "sourceId": "itch-vefects-realistic-water-vfx-unreal-engine",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Escheresque",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://averagestardust.itch.io/escheresque",
+    "imageUrl": "/covers/itch-averagestardust-escheresque.jpg",
+    "source": "itch",
+    "sourceId": "itch-averagestardust-escheresque",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Shader Archive",
+    "summary": "着色器演示包，适合视觉参考。",
+    "url": "https://zulate.itch.io/shader-archive",
+    "imageUrl": "/covers/itch-zulate-shader-archive.jpg",
+    "source": "itch",
+    "sourceId": "itch-zulate-shader-archive",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Skog",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://yupcup.itch.io/skog",
+    "imageUrl": "/covers/itch-yupcup-skog.jpg",
+    "source": "itch",
+    "sourceId": "itch-yupcup-skog",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "TerraFlow",
+    "summary": "视觉特效/着色向资源，可作材质与光影参考。",
+    "url": "https://superprofecy.itch.io/terraflow",
+    "imageUrl": "/covers/itch-superprofecy-terraflow.jpg",
+    "source": "itch",
+    "sourceId": "itch-superprofecy-terraflow",
+    "tags": [
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_reflection_blurred",
+    "summary": "WebGPU 模糊反射，材质随光变化的 tech-art 向。",
+    "url": "https://threejs.org/examples/#webgpu_reflection_blurred",
+    "imageUrl": "/covers/threejs-webgpu_reflection_blurred.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_reflection_blurred",
+    "tags": [
+      "webgpu",
+      "reflection"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_reflection_roughness",
+    "summary": "WebGPU 粗糙度反射演示，物理材质可读。",
+    "url": "https://threejs.org/examples/#webgpu_reflection_roughness",
+    "imageUrl": "/covers/threejs-webgpu_reflection_roughness.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_reflection_roughness",
+    "tags": [
+      "webgpu",
+      "reflection",
+      "pbr"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_loader_gltf_transmission",
+    "summary": "WebGPU glTF 透射材质，玻璃/液体感。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_transmission",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_loader_gltf_transmission",
+    "tags": [
+      "webgpu",
+      "transmission",
+      "material"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_materialx_noise",
+    "summary": "MaterialX 噪声材质程序表面。",
+    "url": "https://threejs.org/examples/#webgpu_materialx_noise",
+    "imageUrl": "/covers/threejs-webgpu_materialx_noise.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materialx_noise",
+    "tags": [
+      "webgpu",
+      "materialx",
+      "noise"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_procedural_texture",
+    "summary": "WebGPU 程序纹理生成演示。",
+    "url": "https://threejs.org/examples/#webgpu_procedural_texture",
+    "imageUrl": "/covers/threejs-webgpu_procedural_texture.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_procedural_texture",
+    "tags": [
+      "webgpu",
+      "procedural",
+      "texture"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_postprocessing_bloom_emissive",
+    "summary": "自发光 Bloom 后处理，体积光感。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_bloom_emissive",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_bloom_emissive.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_bloom_emissive",
+    "tags": [
+      "webgpu",
+      "bloom",
+      "post"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_postprocessing_anamorphic",
+    "summary": "变形宽银幕光晕后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_anamorphic",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_anamorphic.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_anamorphic",
+    "tags": [
+      "webgpu",
+      "post",
+      "anamorphic"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_postprocessing_ao",
+    "summary": "WebGPU 环境光遮蔽后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ao",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_ao.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_ao",
+    "tags": [
+      "webgpu",
+      "ao",
+      "post"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_shadow_contact",
+    "summary": "接触阴影，增强可读几何体积感。",
+    "url": "https://threejs.org/examples/#webgpu_shadow_contact",
+    "imageUrl": "/covers/threejs-webgpu_shadow_contact.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadow_contact",
+    "tags": [
+      "webgpu",
+      "shadow"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_pmrem_cubemap",
+    "summary": "PMREM 立方体贴图环境光。",
+    "url": "https://threejs.org/examples/#webgpu_pmrem_cubemap",
+    "imageUrl": "/covers/threejs-webgpu_pmrem_cubemap.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_pmrem_cubemap",
+    "tags": [
+      "webgpu",
+      "pmrem",
+      "envmap"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_textures_anisotropy",
+    "summary": "各向异性纹理过滤，车漆/拉丝金属向。",
+    "url": "https://threejs.org/examples/#webgpu_textures_anisotropy",
+    "imageUrl": "/covers/threejs-webgpu_textures_anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_textures_anisotropy",
+    "tags": [
+      "webgpu",
+      "anisotropy"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_lensflares",
+    "summary": "WebGPU 镜头光晕。",
+    "url": "https://threejs.org/examples/#webgpu_lensflares",
+    "imageUrl": "/covers/threejs-webgpu_lensflares.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lensflares",
+    "tags": [
+      "webgpu",
+      "lensflare"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_materials_physical_transmission_alpha",
+    "summary": "物理透射+透明，液体玻璃材质。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_transmission_alpha",
+    "imageUrl": "/covers/threejs-webgl_materials_physical_transmission_alpha.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_materials_physical_transmission_alpha",
+    "tags": [
+      "webgl",
+      "transmission"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_loader_gltf_sheen",
+    "summary": "glTF 织物光泽 Sheen 材质。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_sheen",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_sheen.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_gltf_sheen",
+    "tags": [
+      "webgl",
+      "sheen",
+      "material"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_loader_gltf_anisotropy",
+    "summary": "glTF 各向异性高光材质。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_anisotropy",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_gltf_anisotropy",
+    "tags": [
+      "webgl",
+      "anisotropy"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_geometry_terrain",
+    "summary": "经典程序地形几何。",
+    "url": "https://threejs.org/examples/#webgl_geometry_terrain",
+    "imageUrl": "/covers/threejs-webgl_geometry_terrain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_geometry_terrain",
+    "tags": [
+      "webgl",
+      "terrain",
+      "procgen"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_refraction",
+    "summary": "屏幕空间折射演示。",
+    "url": "https://threejs.org/examples/#webgl_refraction",
+    "imageUrl": "/covers/threejs-webgl_refraction.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_refraction",
+    "tags": [
+      "webgl",
+      "refraction"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_postprocessing_unreal_bloom",
+    "summary": "Unreal 风格 Bloom 后处理。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_unreal_bloom",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_unreal_bloom.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_unreal_bloom",
+    "tags": [
+      "webgl",
+      "bloom"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgl_tsl_clearcoat",
+    "summary": "TSL 清漆层 clearcoat 材质。",
+    "url": "https://threejs.org/examples/#webgl_tsl_clearcoat",
+    "imageUrl": "/covers/threejs-webgl_tsl_clearcoat.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_tsl_clearcoat",
+    "tags": [
+      "webgl",
+      "tsl",
+      "clearcoat"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "webgpu_cubemap_dynamic",
+    "summary": "动态立方体贴图环境反射。",
+    "url": "https://threejs.org/examples/#webgpu_cubemap_dynamic",
+    "imageUrl": "/covers/threejs-webgpu_cubemap_dynamic.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_cubemap_dynamic",
+    "tags": [
+      "webgpu",
+      "cubemap"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Cloud Ten",
+    "summary": "体积云层程序渲染，随光变化的天空材质。",
+    "url": "https://www.shadertoy.com/view/4sfGzS",
+    "imageUrl": "/covers/st_4sfGzS.jpg",
+    "source": "shadertoy",
+    "sourceId": "st_4sfGzS",
+    "tags": [
+      "clouds",
+      "volumetric",
+      "sky"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "shader",
+    "title": "Shadertoy 4djGRh",
+    "summary": "Wayback 可取封面的经典 Shadertoy 视觉向演示。",
+    "url": "https://www.shadertoy.com/view/4djGRh",
+    "imageUrl": "/covers/st_4djGRh.jpg",
+    "source": "shadertoy",
+    "sourceId": "st_4djGRh",
+    "tags": [
+      "shadertoy",
+      "visual"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
     "type": "game",
     "title": "ShipShaper: Falconeer Chronicles",
     "summary": "自由塑形造船沙盒：推拉弯曲船体并导出模型，玩具向造物。",
