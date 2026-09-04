@@ -1,6 +1,36 @@
 [
   {
     "type": "game",
+    "title": "Woodo",
+    "summary": "可触摸的 3D 木制立体书拼图：玩具向手工光影。",
+    "url": "https://store.steampowered.com/app/2572040/",
+    "imageUrl": "/covers/steam-2572040.jpg",
+    "source": "steam",
+    "sourceId": "steam-2572040",
+    "tags": [
+      "toy",
+      "puzzle",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
+    "title": "Delverium",
+    "summary": "1-8 人生存沙盒：探索建造农耕与深入地脉。",
+    "url": "https://store.steampowered.com/app/2710040/",
+    "imageUrl": "/covers/steam-2710040.jpg",
+    "source": "steam",
+    "sourceId": "steam-2710040",
+    "tags": [
+      "sandbox",
+      "survival",
+      "co-op"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "game",
     "title": "Ringworld colony sim trailer",
     "summary": "环形世界殖民模拟新预告，建造/系统向。",
     "url": "https://x.com/arcoficarus/status/2095507782157873581",
