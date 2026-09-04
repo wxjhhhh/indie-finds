@@ -1639,6 +1639,171 @@
   },
   {
     "type": "inspiration",
+    "title": "MeLoN 女巫角色设定",
+    "summary": "矮胖卡通女巫三视图与配色，可读剪影和玩具感造型。",
+    "url": "https://www.artstation.com/artwork/W20KVD",
+    "imageUrl": "/covers/art-W20KVD.jpg",
+    "source": "artstation",
+    "sourceId": "art-W20KVD",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Levy Mousse 卡通角色表",
+    "summary": "饱和卡通风角色设定表，姿态和服装层次清楚。",
+    "url": "https://www.artstation.com/artwork/Jrq6xR",
+    "imageUrl": "/covers/art-Jrq6xR.jpg",
+    "source": "artstation",
+    "sourceId": "art-Jrq6xR",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pocket Village 像素村落",
+    "summary": "16x16 俯视像素村落资产：房屋、地砖和村民剪影清晰。",
+    "url": "https://sebbyspoons.itch.io/pocket-village",
+    "imageUrl": "/covers/itch-pocket-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-pocket-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cainos 像素村庄",
+    "summary": "32x32 俯视像素村庄建筑与道具，地块层次和可读性好。",
+    "url": "https://cainos.itch.io/pixel-art-top-down-village",
+    "imageUrl": "/covers/itch-cainos-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-cainos-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "等距卡通农场套件",
+    "summary": "等距玩具感农场建筑与作物，体块简化、配色饱和。",
+    "url": "https://leviart.itch.io/isometric-cartoon-farm-tycoon-strategy-game-assets",
+    "imageUrl": "/covers/itch-levi-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-levi-farm",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Everroot 像素村庄包",
+    "summary": "16x16 像素顶视角村庄与角色，剪影清楚适合地图参考。",
+    "url": "https://goblin-ink.itch.io/overworld-ultimate-topdown-pack",
+    "imageUrl": "/covers/itch-everroot.jpg",
+    "source": "itch",
+    "sourceId": "itch-everroot",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "卡通农场岛外景",
+    "summary": "模块化卡通农场岛：木屋、动物和小道具，玩具感场景。",
+    "url": "https://www.artstation.com/marketplace/p/bkYLb/cartoon-farm-islands-exteriors-2",
+    "imageUrl": "/covers/art-bkYLb.jpg",
+    "source": "artstation",
+    "sourceId": "art-bkYLb",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Scott Pilgrim EX 像素流水线",
+    "summary": "Tribute Games 像素角色管线访谈配图，现代像素动作剪影参考。",
+    "url": "https://80.lv/articles/scott-pilgrim-ex-tribute-games-on-pixel-art-pipeline-animation-and-collaborative-work",
+    "imageUrl": "/covers/80lv-scott-pilgrim.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-scott-pilgrim",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "纸质缝线 GUI",
+    "summary": "水彩纸剪裁的菜单与按钮，贴合贴纸/手作 UI 口味。",
+    "url": "https://erinbrume.itch.io/paper-gui",
+    "imageUrl": "/covers/itch-paper-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-paper-gui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "Yokai Catcher 卡通 UI",
+    "summary": "手机卡通游戏界面：卡片、按钮和角色同框，玩具感 UI。",
+    "url": "https://www.artstation.com/artwork/zAwWJQ",
+    "imageUrl": "/covers/art-zAwWJQ.jpg",
+    "source": "artstation",
+    "sourceId": "art-zAwWJQ",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
+    "title": "16x16 像素角色模板",
+    "summary": "平台跳跃像素角色动作表，剪影清晰可直接当 sprite 参考。",
+    "url": "https://goncalomcoliveira.itch.io/2d-pixel-art-character-template",
+    "imageUrl": "/covers/itch-pixel-char-template.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixel-char-template",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-04"
+  },
+  {
+    "type": "inspiration",
     "title": "风格化欧卡营地",
     "summary": "饱和卡通渲染的营地：篝火、木屋和小人围坐，玩具感场景参考。",
     "url": "https://www.artstation.com/artwork/DvD1GR",
