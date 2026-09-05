@@ -1,5 +1,185 @@
 [
   {
+    "type": "inspiration",
+    "title": "Market Day Folk 像素村民",
+    "summary": "32×32 俯视像素村民四方向动画：农夫商人草药师铁匠，剪影清晰适合村落 NPC 参考。",
+    "url": "https://obssidian-art.itch.io/market-day-folk",
+    "source": "itch",
+    "sourceId": "itch-market-day-folk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-market-day-folk.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Farmer 像素农夫",
+    "summary": "可爱俯视像素农夫村民走循环，体块简化可读，贴合卡通风像素角色规格。",
+    "url": "https://channeechan.itch.io/cute-farmer-character",
+    "source": "itch",
+    "sourceId": "itch-cute-farmer",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-cute-farmer.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy RPG 像素村民包",
+    "summary": "手绘像素城镇 NPC 组（铁匠渔夫酒保等）四方向动画，可读剪影适合 RPG 村民参考。",
+    "url": "https://www.artstation.com/marketplace/p/5jKkv/fantasy-rpg-townsfolk-pack",
+    "source": "artstation",
+    "sourceId": "art-5jKkv",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/art-5jKkv.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Village 等距像素集市",
+    "summary": "32×32 等距像素温馨集市地砖与烘焙道具，玩具感色块层次清楚。",
+    "url": "https://philtacular.itch.io/pixel-art-tileset-isometric-cozy-pack",
+    "source": "itch",
+    "sourceId": "itch-philtacular-cozy",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-philtacular-cozy.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Moraan 等距奇幻村落",
+    "summary": "等距卡通村落：彩色屋顶房屋、摊位和风车，玩具感场景体块清晰。",
+    "url": "https://moraan6.itch.io/cozy-isometric-fantasy-villageasset-pack",
+    "source": "itch",
+    "sourceId": "itch-moraan-cozy",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-moraan-cozy.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "亚洲等距建筑包",
+    "summary": "手绘亚洲等距房屋寺庙与灯笼，模块化村落场景可读性强。",
+    "url": "https://www.artstation.com/marketplace/p/bkLBb/nhc-asian-isometric-houses",
+    "source": "artstation",
+    "sourceId": "art-bkLBb",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/art-bkLBb.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Kidbash 黏土玩具风",
+    "summary": "周末动画味黏土/玩具感角色与场景，夸张剪影和饱和色，贴合玩具感风格化口味。",
+    "url": "https://80.lv/articles/interview-how-kidbash-super-legend-adapts-retro-style-graphics-with-a-modern-art-pipeline",
+    "source": "80lv",
+    "sourceId": "80lv-kidbash",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/80lv-kidbash.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Shadowglass 3D 像素风",
+    "summary": "真 3D 像素稳定渲染的低分世界，适合研究像素场景与体积感结合。",
+    "url": "https://80.lv/articles/interview-how-project-shadowglass-creates-its-impossible-fully-3d-pixel-art-look",
+    "source": "80lv",
+    "sourceId": "80lv-shadowglass",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/80lv-shadowglass.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cyangmou 像素纸质 UI",
+    "summary": "像素纸质信件卷轴蜡封印记套件，贴合缝线/贴纸手作 UI 口味。",
+    "url": "https://cyangmou.itch.io/pixel-menu-gui-hud-paper-ui-design-kit",
+    "source": "itch",
+    "sourceId": "itch-cyangmou-paper-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-cyangmou-paper-ui.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy UI 卡通界面包",
+    "summary": "饱和卡通风面板按钮与图标，木纹笔记本质感，适合休闲贴纸 HUD。",
+    "url": "https://dobo-ui.itch.io/cozy-ui",
+    "source": "itch",
+    "sourceId": "itch-cozy-ui-dobo",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-cozy-ui-dobo.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Pixel 农场 UI",
+    "summary": "暖色像素 HUD：九宫格面板、农场图标与血条，贴纸感背包栏参考。",
+    "url": "https://lungucristian1980.itch.io/cozy-pixel-ui-kit-farm-rpg",
+    "source": "itch",
+    "sourceId": "itch-cozy-pixel-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-cozy-pixel-ui.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Penzilla 等距手绘村落",
+    "summary": "手绘等距农庄房屋摊位与秋季植被，桌面模型感场景参考。",
+    "url": "https://penzilla.itch.io/isometric-rpg-village",
+    "source": "itch",
+    "sourceId": "itch-penzilla-iso",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-penzilla-iso.jpg"
+  },
+  {
     "type": "game",
     "title": "Sandbox Coloring App, August, 2025.",
     "summary": "X 收藏：沙盒。贴系统/画面口味。",
