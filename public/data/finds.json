@@ -1,6 +1,156 @@
 [
   {
     "type": "inspiration",
+    "title": "Whispering Meadow 像素村民",
+    "summary": "128×128 SNES 味粗像素村落英雄：大剪影粗描边，暖色乡村 NPC 规格清楚。",
+    "url": "https://sakpix.itch.io/whispering-meadow-128128-cozy-village-heroes-collection",
+    "source": "itch",
+    "sourceId": "itch-sakpix-whispering",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-sakpix-whispering.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Emberglen 像素村民组",
+    "summary": "粗描边俯视像素村民十人组+对话头像，职业动作清楚，贴合村落 NPC 参考。",
+    "url": "https://gegx.itch.io/emberglen-villagers",
+    "source": "itch",
+    "sourceId": "itch-emberglen-villagers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-emberglen-villagers.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Village NPC 像素店员",
+    "summary": "32×32 温馨像素渔夫药剂师等 NPC，带摊位道具与店面场景条，剪影可读。",
+    "url": "https://fotopixy.itch.io/cozy-village-npc-pack-vol-1",
+    "source": "itch",
+    "sourceId": "itch-fotopixy-npc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-fotopixy-npc.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Town 像素小镇地砖",
+    "summary": "16×16 俯视像素小镇：街道广场市场模块化地块，色块层次清楚。",
+    "url": "https://maygetsu.itch.io/cozy-town-tileset",
+    "source": "itch",
+    "sourceId": "itch-maygetsu-cozy-town",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-maygetsu-cozy-town.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Choco Ted 等距像素外景",
+    "summary": "32×32 等距像素房屋植被与水面动画，玩具感村落外景可读。",
+    "url": "https://choco-ted.itch.io/cozy-isometric-pixel-art-asset-pack-32x32-exterior-game-assets-for-godot-unity",
+    "source": "itch",
+    "sourceId": "itch-choco-ted-iso",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-choco-ted-iso.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Little Journey 像素对话框",
+    "summary": "暖木纸叶布料风像素对话框与名牌，适合缝线/贴纸感休闲 HUD。",
+    "url": "https://candlelightgame.itch.io/little-journey-cozy-panel-pack",
+    "source": "itch",
+    "sourceId": "itch-little-journey-panels",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-little-journey-panels.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixelkiln 三主题像素 UI",
+    "summary": "橡木羊皮纸/农场咖啡馆等三套像素 GUI，面板按钮图标齐全，贴纸感强。",
+    "url": "https://z3er1n.itch.io/ui-pack-vol1",
+    "source": "itch",
+    "sourceId": "itch-pixelkiln-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/itch-pixelkiln-ui.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Magical Mango 奇比角色",
+    "summary": "矮胖手绘风 3D 奇比角色：夸张剪影饱和色，贴合玩具感卡通风角色。",
+    "url": "https://www.artstation.com/artwork/rlYY0a",
+    "source": "artstation",
+    "sourceId": "art-rlYY0a",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/art-rlYY0a.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Evergrove 秋色风格化场景",
+    "summary": "饱和秋色风格化建筑与植被，体块简化可读，适合玩具感村落场景参考。",
+    "url": "https://80.lv/articles/sculpting-and-texturing-a-stylized-3d-environment-with-autumn-vibes",
+    "source": "80lv",
+    "sourceId": "80lv-evergrove-autumn",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/80lv-evergrove-autumn.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farming UI 面板包",
+    "summary": "手绘暖色农场界面面板窗：木框奶油底，贴合贴纸/手作休闲 HUD。",
+    "url": "https://www.artstation.com/marketplace/p/JeLe7/cozy-farming-ui-kit-pack-03",
+    "source": "artstation",
+    "sourceId": "art-JeLe7",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-05",
+    "imageUrl": "/covers/art-JeLe7.jpg"
+  },
+  {
+    "type": "inspiration",
     "title": "Market Day Folk 像素村民",
     "summary": "32×32 俯视像素村民四方向动画：农夫商人草药师铁匠，剪影清晰适合村落 NPC 参考。",
     "url": "https://obssidian-art.itch.io/market-day-folk",
