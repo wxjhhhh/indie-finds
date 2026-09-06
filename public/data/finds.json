@@ -1,6 +1,176 @@
 [
   {
     "type": "inspiration",
+    "title": "Beastfolk Legends 兽人战士",
+    "summary": "粗像素兽人战士八方向，剪影清楚可读，适合奇幻村落 NPC。",
+    "url": "https://sakpix.itch.io/beastfolk-legends-fantasy-animal-warriors-characters-pack",
+    "source": "itch",
+    "sourceId": "itch-sakpix-beastfolk-legends",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-sakpix-beastfolk-legends.jpg",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Seliel NPC Pack #1",
+    "summary": "俯视像素镇民：吟游诗人商人舞者等，职业动作清楚。",
+    "url": "https://seliel-the-shaper.itch.io/npc-pack",
+    "source": "itch",
+    "sourceId": "itch-seliel-npc1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-seliel-npc1.jpg",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "MiniFolks 兽人小队",
+    "summary": "32px 小体型兽人战士组，玩具感剪影。",
+    "url": "https://dreamir.itch.io/minifolks-plus-beastmens",
+    "source": "itch",
+    "sourceId": "itch-dreamir-minifolks-beast",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-dreamir-minifolks-beast.jpg",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy Realms 蘑菇林",
+    "summary": "16×16 鲜艳蘑菇林地砖小屋，色块层次清楚。",
+    "url": "https://manxpixels.itch.io/fantasy-realms-a-mushroom-forest-tileset",
+    "source": "itch",
+    "sourceId": "itch-manx-mushroom-forest",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-manx-mushroom-forest.jpg",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farm Game World 四季农场",
+    "summary": "俯视像素四季农场地砖与角色，玩具感村落场景。",
+    "url": "https://www.artstation.com/marketplace/p/j1m2n/farm-game-world-2d-top-down-game-asset-bundle",
+    "source": "artstation",
+    "sourceId": "art-farm-game-world",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/art-farm-game-world.jpg",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Sweet Shop 甜品像素 UI",
+    "summary": "手绘像素甜品店面板与血条，贴纸感暖色。",
+    "url": "https://humblebright-studio.itch.io/cozy-cafe-ui-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-humblebright-sweet-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-humblebright-sweet-ui.jpg",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Café 咖啡馆 UI",
+    "summary": "奶油羊皮纸咖啡馆界面组件，贴合缝线贴纸 HUD。",
+    "url": "https://nexavisuals.itch.io/cozy-cafe-ui-kit",
+    "source": "itch",
+    "sourceId": "itch-nexa-cozy-cafe-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-nexa-cozy-cafe-ui.jpg",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farming HUD 状态条",
+    "summary": "木框奶油底 HUD 血条资源条，贴合手作休闲界面。",
+    "url": "https://www.artstation.com/marketplace/p/klRyg/cozy-farming-ui-kit-hud-status-elements-pack-04",
+    "source": "artstation",
+    "sourceId": "art-cozy-farm-hud",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/art-cozy-farm-hud.jpg",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Lunarium 手绘等距场景",
+    "summary": "手绘 2D 叠 3D 的绘本风等距动作 RPG 场景。",
+    "url": "https://80.lv/articles/how-lunarium-blends-hand-painted-2d-art-with-3d-environments",
+    "source": "80lv",
+    "sourceId": "80lv-lunarium-painted",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/80lv-lunarium-painted.jpg",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "手绘风 2D 转 3D 场景",
+    "summary": "插画转手绘风 3D 环境，笔触材质贴合玩具感场景。",
+    "url": "https://80.lv/articles/turning-a-2d-illustration-into-a-3d-environment-with-a-hand-painted-look",
+    "source": "80lv",
+    "sourceId": "80lv-2d-to-3d-painted",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/80lv-2d-to-3d-painted.jpg",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
     "title": "Cozy Townsfolk 像素镇民",
     "summary": "128/64/32 三尺寸温馨镇民20人+头像表情泡，粗描边可读，贴合村落 NPC。",
     "url": "https://gegx.itch.io/cozy-townsfolk",
