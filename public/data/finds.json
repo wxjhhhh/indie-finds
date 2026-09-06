@@ -1,5 +1,175 @@
 [
   {
+    "type": "inspiration",
+    "title": "Cozy Townsfolk 像素镇民",
+    "summary": "128/64/32 三尺寸温馨镇民20人+头像表情泡，粗描边可读，贴合村落 NPC。",
+    "url": "https://gegx.itch.io/cozy-townsfolk",
+    "source": "itch",
+    "sourceId": "itch-gegx-townsfolk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-gegx-townsfolk.jpg",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "SakPix 温馨村民 Vol.1",
+    "summary": "92×92 八方向温馨村民（农夫烘培师铁匠等），剪影清楚。",
+    "url": "https://sakpix.itch.io/cozy-village-npc-collection-vol1",
+    "source": "itch",
+    "sourceId": "itch-sakpix-npc-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-sakpix-npc-vol1.jpg",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Xilurus 等距像素村",
+    "summary": "16×16 等距像素村落 150+ 地砖矿物植被建筑，玩具感体块。",
+    "url": "https://xilurus.itch.io/pixel-isometric-village",
+    "source": "itch",
+    "sourceId": "itch-xilurus-iso-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-xilurus-iso-village.jpg",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "SakPix 温馨农场村",
+    "summary": "粗像素俯视农场房屋风车动物市场，色块层次清楚。",
+    "url": "https://sakpix.itch.io/mega-cozy-farming-village-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-sakpix-mega-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-sakpix-mega-farm.jpg",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "GegX 七色像素 UI",
+    "summary": "七主题像素面板按钮血条库存槽，奶油粉薄荷色，贴纸感强。",
+    "url": "https://gegx.itch.io/cozy-ui-kit",
+    "source": "itch",
+    "sourceId": "itch-gegx-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-gegx-ui-kit.jpg",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Humble 纸质像素 UI",
+    "summary": "免费纸质像素商店日历对话框 HUD，缝线手作感贴合口味。",
+    "url": "https://humblepixel.itch.io/pocket-inventory-series-5-player-status",
+    "source": "itch",
+    "sourceId": "itch-humble-paper-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-humble-paper-ui.jpg",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Chibi Legends 奇比角色包",
+    "summary": "50 个一致风格奇比贴纸渲染+设定表，夸张剪影饱和色。",
+    "url": "https://www.artstation.com/marketplace/p/qpx18/chibi-legends-megapack-50-stylized-game-characters-4k-concept-art-pack-for-games-film-ttrpg",
+    "source": "artstation",
+    "sourceId": "art-chibi-legends",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/art-chibi-legends.jpg",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "风格化中世纪市集",
+    "summary": "吉卜力味风格化市集：饱和色软造型，玩具感村落场景参考。",
+    "url": "https://80.lv/articles/medieval-market-a-detailed-guide-on-stylized-environment-art-in-unreal-engine",
+    "source": "80lv",
+    "sourceId": "80lv-medieval-market",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/80lv-medieval-market.jpg",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "哈尔的移动城堡绘本风",
+    "summary": "绘本风风格化小屋与草地，笔触材质，贴合玩具感场景。",
+    "url": "https://80.lv/articles/creating-a-painterly-like-and-stylized-environment-inspired-by-howl-s-moving-castle",
+    "source": "80lv",
+    "sourceId": "80lv-howl-cottage",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/80lv-howl-cottage.jpg",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Cartoony 图标按钮 UI",
+    "summary": "饱和卡通风按钮图标与菜单面板，干净描边，适合休闲贴纸 HUD。",
+    "url": "https://coffee-beans-studio.itch.io/casual-game-ui-pack-icons-buttons",
+    "source": "itch",
+    "sourceId": "itch-coffee-cartoon-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-06",
+    "imageUrl": "/covers/itch-coffee-cartoon-ui.jpg",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
     "type": "game",
     "title": "Count the trees (: #pixelart",
     "summary": "X 收藏：像素。贴系统/画面口味。",
