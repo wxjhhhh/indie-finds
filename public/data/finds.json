@@ -431,6 +431,176 @@
   },
   {
     "type": "inspiration",
+    "title": "Tiny RPG 像素角色包",
+    "summary": "小体型俯视像素冒险角色八方向，剪影可读。",
+    "url": "https://zerie.itch.io/tiny-rpg-character-asset-pack",
+    "imageUrl": "/covers/itch-zerie-tiny-rpg-01.jpg",
+    "source": "itch",
+    "sourceId": "itch-zerie-tiny-rpg-01",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny RPG 角色包 02",
+    "summary": "第二套小体型像素职业角色，动作表清楚。",
+    "url": "https://zerie.itch.io/tiny-rpg-character-asset-pack-02",
+    "imageUrl": "/covers/itch-zerie-tiny-rpg-02.jpg",
+    "source": "itch",
+    "sourceId": "itch-zerie-tiny-rpg-02",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Female Town NPCs",
+    "summary": "俯视像素女镇民精灵表，职业动作清楚。",
+    "url": "https://manxpixels.itch.io/female-town-npcs",
+    "imageUrl": "/covers/itch-manx-female-town-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-manx-female-town-npcs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Sprout Lands 农场",
+    "summary": "经典俯视像素农场地砖作物小屋，玩具感色块层次。",
+    "url": "https://cupnooble.itch.io/sprout-lands-asset-pack",
+    "imageUrl": "/covers/itch-cupnooble-sprout-lands.jpg",
+    "source": "itch",
+    "sourceId": "itch-cupnooble-sprout-lands",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "GegX 温馨书店",
+    "summary": "粗描边像素书店内外景，暖色玩具感场景。",
+    "url": "https://gegx.itch.io/cozy-bookshop",
+    "imageUrl": "/covers/itch-gegx-cozy-bookshop.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-cozy-bookshop",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "GegX 三风格像素 UI",
+    "summary": "木纹/石材/星空三套像素面板按钮，贴纸感强。",
+    "url": "https://gegx.itch.io/pixel-ui-kit",
+    "imageUrl": "/covers/itch-gegx-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Cartoony 粉色 UI",
+    "summary": "饱和卡通风粉色按钮图标菜单，干净描边适合贴纸 HUD。",
+    "url": "https://coffee-beans-studio.itch.io/cute-cartoony-pink-ui-icons-buttons-menus",
+    "imageUrl": "/covers/itch-coffee-pink-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-coffee-pink-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farming 手绘图标包",
+    "summary": "110 枚手绘暖色农场图标，贴合绘本风休闲 UI。",
+    "url": "https://nexavisuals.itch.io/cozy-farming-ui-kit-pack-01",
+    "imageUrl": "/covers/itch-nexa-farm-icons-01.jpg",
+    "source": "itch",
+    "sourceId": "itch-nexa-farm-icons-01",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "绘本风山间小镇",
+    "summary": "投影贴图绘本风山村动画，饱和笔触玩具感场景。",
+    "url": "https://80.lv/articles/creating-beautiful-stylized-mountain-town-using-projection-mapping-in-blender",
+    "imageUrl": "/covers/80lv-stylized-mountain-town.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-stylized-mountain-town",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "等距奇幻小镇套件",
+    "summary": "240 件等距奇幻小镇模块，玩具感屋顶与体块清楚。",
+    "url": "https://antahonist.itch.io/isometric-fantasy-town-kit",
+    "imageUrl": "/covers/itch-antahonist-iso-town.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-iso-town",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
     "title": "Beastfolk Legends 兽人战士",
     "summary": "粗像素兽人战士八方向，剪影清楚可读，适合奇幻村落 NPC。",
     "url": "https://sakpix.itch.io/beastfolk-legends-fantasy-animal-warriors-characters-pack",
