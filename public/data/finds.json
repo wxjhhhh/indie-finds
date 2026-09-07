@@ -1,5 +1,435 @@
 [
   {
+    "type": "game",
+    "title": "Just a normal dream of mine... Tenkemo Kickstarter",
+    "summary": "X 收藏：火车主题 Kickstarter，独立 3D 动态。",
+    "url": "https://x.com/TenkemoGame/status/2096595569867129168",
+    "imageUrl": "/covers/x-2096595569867129168.jpg",
+    "source": "x",
+    "sourceId": "2096595569867129168",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "500-frame statemachine go brrrr",
+    "summary": "X 收藏：500 帧状态机动画，系统向技术演示。",
+    "url": "https://x.com/ilyamokka/status/2096492343369072865",
+    "imageUrl": "/covers/x-2096492343369072865.jpg",
+    "source": "x",
+    "sourceId": "2096492343369072865",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "3 months of solo dev prototype",
+    "summary": "X 收藏：solo 开发进度，原型长成可玩世界。",
+    "url": "https://x.com/adredev/status/2096148307026338209",
+    "imageUrl": "/covers/x-2096148307026338209.jpg",
+    "source": "x",
+    "sourceId": "2096148307026338209",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "platformer teach players this",
+    "summary": "X 收藏：平台动作教学演示，可读玩法反馈。",
+    "url": "https://x.com/ProjectBabo/status/2096018037728027085",
+    "imageUrl": "/covers/x-2096018037728027085.jpg",
+    "source": "x",
+    "sourceId": "2096018037728027085",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "new dawn protocol civilization sandbox",
+    "summary": "X 收藏：行星尺度文明沙盒，贴 WorldBox/系统模拟口味。",
+    "url": "https://x.com/TGUPJ/status/2096388689811157152",
+    "imageUrl": "/covers/x-2096388689811157152.jpg",
+    "source": "x",
+    "sourceId": "2096388689811157152",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "Ant Farm Idle",
+    "summary": "itch 殖民地/经营：Ant Farm Idle，活系统，贴沙盒口味。",
+    "url": "https://pixelandshell.itch.io/ant-farm-idle-in-early-development",
+    "imageUrl": "/covers/itch-pixelandshell-ant-farm-idle-in-early-development.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelandshell-ant-farm-idle-in-early-development",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "mole colony",
+    "summary": "itch 殖民地/经营：mole colony，活系统，贴沙盒口味。",
+    "url": "https://grom338.itch.io/krotovka",
+    "imageUrl": "/covers/itch-grom338-krotovka.jpg",
+    "source": "itch",
+    "sourceId": "itch-grom338-krotovka",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "Money Machine Gun Electoral Campaign Simulator 2028",
+    "summary": "itch 低面：清晰几何，贴风格化 3D。",
+    "url": "https://stormmer.itch.io/mmgecs2028",
+    "imageUrl": "/covers/itch-stormmer-mmgecs2028.jpg",
+    "source": "itch",
+    "sourceId": "itch-stormmer-mmgecs2028",
+    "tags": [
+      "itch",
+      "game",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "The Exit 8 PSX Port",
+    "summary": "itch PSX 风：复古帧缓冲/低面，贴画面口味。",
+    "url": "https://ardahatun.itch.io/the-exit-8-psx-port",
+    "imageUrl": "/covers/itch-ardahatun-the-exit-8-psx-port.jpg",
+    "source": "itch",
+    "sourceId": "itch-ardahatun-the-exit-8-psx-port",
+    "tags": [
+      "itch",
+      "game",
+      "psx"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "The Last Taters",
+    "summary": "itch 殖民地/经营：活系统，贴沙盒口味。",
+    "url": "https://sir-spudacus.itch.io/the-last-taters",
+    "imageUrl": "/covers/itch-sir-spudacus-the-last-taters.jpg",
+    "source": "itch",
+    "sourceId": "itch-sir-spudacus-the-last-taters",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "Chill Ants (CJ)",
+    "summary": "itch 殖民地/经营：活系统，贴沙盒口味。",
+    "url": "https://jordan-evans.itch.io/chill-ants",
+    "imageUrl": "/covers/itch-jordan-evans-chill-ants.jpg",
+    "source": "itch",
+    "sourceId": "itch-jordan-evans-chill-ants",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "Directorate for Cosmic Expansion",
+    "summary": "itch 殖民地/经营：活系统，贴沙盒口味。",
+    "url": "https://artyomdesign.itch.io/directorate-for-cosmic-expansion",
+    "imageUrl": "/covers/itch-artyomdesign-directorate-for-cosmic-expansion.jpg",
+    "source": "itch",
+    "sourceId": "itch-artyomdesign-directorate-for-cosmic-expansion",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "ASTEROID EMPIRES",
+    "summary": "itch 殖民地/经营：活系统，贴沙盒口味。",
+    "url": "https://torabe.itch.io/asteroid-empires",
+    "imageUrl": "/covers/itch-torabe-asteroid-empires.jpg",
+    "source": "itch",
+    "sourceId": "itch-torabe-asteroid-empires",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "The Atoll Chronicles of the Reef",
+    "summary": "itch 殖民地/经营：活系统，贴沙盒口味。",
+    "url": "https://skunkito76.itch.io/the-atoll",
+    "imageUrl": "/covers/itch-skunkito76-the-atoll.jpg",
+    "source": "itch",
+    "sourceId": "itch-skunkito76-the-atoll",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "game",
+    "title": "Limon",
+    "summary": "itch 殖民地/经营：Limon，活系统，贴沙盒口味。",
+    "url": "https://7sailstudio.itch.io/limon",
+    "imageUrl": "/covers/itch-7sailstudio-limon.jpg",
+    "source": "itch",
+    "sourceId": "itch-7sailstudio-limon",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "Astra before after",
+    "summary": "X 收藏：Astra 前后对比，视觉/材质变化可读。",
+    "url": "https://x.com/gusta_nas/status/2096529009764929664",
+    "imageUrl": "/covers/x-2096529009764929664.jpg",
+    "source": "x",
+    "sourceId": "2096529009764929664",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "No DLSS 5. Just good art direction.",
+    "summary": "X 收藏：不靠超分的美术方向对比，风格化画面优先。",
+    "url": "https://x.com/onkyo_dev/status/2096246209878831532",
+    "imageUrl": "/covers/x-2096246209878831532.jpg",
+    "source": "x",
+    "sourceId": "2096246209878831532",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "UI effect libraries home",
+    "summary": "X 收藏：UI 特效库合集，技术美术向工具演示。",
+    "url": "https://x.com/Jakubantalik/status/2095551141367173608",
+    "imageUrl": "/covers/x-2095551141367173608.jpg",
+    "source": "x",
+    "sourceId": "2095551141367173608",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "BLEACH RoS Toon Shader for Blender",
+    "summary": "itch 视觉工具/场景：贴技美口味。",
+    "url": "https://tomazod.itch.io/blender-toon-shader",
+    "imageUrl": "/covers/itch-tomazod-blender-toon-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-tomazod-blender-toon-shader",
+    "tags": [
+      "itch",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "Alien Moon Explorer OpenGL",
+    "summary": "itch 图形 Demo：贴实时渲染口味。",
+    "url": "https://programmer-jeff.itch.io/alien-moon-explorer-opengl-c-app-w-source-code",
+    "imageUrl": "/covers/itch-programmer-jeff-alien-moon-explorer-opengl-c-app-w-source-co.jpg",
+    "source": "itch",
+    "sourceId": "itch-programmer-jeff-alien-moon-explorer-opengl-c-app-w-source-co",
+    "tags": [
+      "itch",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "Medieval_Tavern_Scene",
+    "summary": "itch 视觉工具/场景：贴技美口味。",
+    "url": "https://thunderzinxxx.itch.io/medieval-tavern-scene",
+    "imageUrl": "/covers/itch-thunderzinxxx-medieval-tavern-scene.jpg",
+    "source": "itch",
+    "sourceId": "itch-thunderzinxxx-medieval-tavern-scene",
+    "tags": [
+      "itch",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "Voxel Mayhem",
+    "summary": "itch 视觉工具/场景：贴技美口味。",
+    "url": "https://spiros21.itch.io/voxel-mayhem",
+    "imageUrl": "/covers/itch-spiros21-voxel-mayhem.jpg",
+    "source": "itch",
+    "sourceId": "itch-spiros21-voxel-mayhem",
+    "tags": [
+      "itch",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "NEON DREAM",
+    "summary": "itch 视觉工具/场景：贴技美口味。",
+    "url": "https://michyox.itch.io/neon-dream",
+    "imageUrl": "/covers/itch-michyox-neon-dream.jpg",
+    "source": "itch",
+    "sourceId": "itch-michyox-neon-dream",
+    "tags": [
+      "itch",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl lights physical",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_lights_physical",
+    "imageUrl": "/covers/three-webgl_lights_physical.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_lights_physical",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl materials envmaps groundprojected",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_groundprojected",
+    "imageUrl": "/covers/three-webgl_materials_envmaps_groundprojected.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_materials_envmaps_groundprojected",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl materials envmaps fasthdr",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_fasthdr",
+    "imageUrl": "/covers/three-webgl_materials_envmaps_fasthdr.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_materials_envmaps_fasthdr",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl lightprobe",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_lightprobe",
+    "imageUrl": "/covers/three-webgl_lightprobe.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_lightprobe",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl lightprobe cubecamera",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_lightprobe_cubecamera",
+    "imageUrl": "/covers/three-webgl_lightprobe_cubecamera.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_lightprobe_cubecamera",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl lightprobes",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_lightprobes",
+    "imageUrl": "/covers/three-webgl_lightprobes.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_lightprobes",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "shader",
+    "title": "three.js webgl lightprobes complex",
+    "summary": "three.js 示例：实时材质/后处理，贴技美口味。",
+    "url": "https://threejs.org/examples/#webgl_lightprobes_complex",
+    "imageUrl": "/covers/three-webgl_lightprobes_complex.jpg",
+    "source": "threejs",
+    "sourceId": "three-webgl_lightprobes_complex",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
     "type": "inspiration",
     "title": "Beastfolk Legends 兽人战士",
     "summary": "粗像素兽人战士八方向，剪影清楚可读，适合奇幻村落 NPC。",
