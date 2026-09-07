@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-type ItemType = "game" | "shader" | "inspiration";
+type ItemType = "game" | "shader" | "inspiration" | "model_site";
 type Find = {
   type: ItemType;
   title: string;
@@ -13,9 +13,10 @@ type Find = {
   collectedAt: string;
 };
 
-type TopTab = "today" | "all" | "inspiration";
+type TopTab = "today" | "all" | "inspiration" | "model_sites";
 type SubFilter = "all" | "game" | "shader";
 type InspirationFilter = "all" | "pixel" | "cartoon" | "character" | "scene" | "ui";
+type ModelSiteFilter = "all" | "packs" | "marketplace" | "textures" | "characters" | "voxels" | "tools";
 
 function getTodayShanghai(): string {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Shanghai" });
@@ -40,6 +41,7 @@ export default function Page() {
   const [topTab, setTopTab] = useState<TopTab>("today");
   const [subFilter, setSubFilter] = useState<SubFilter>("all");
   const [inspirationFilter, setInspirationFilter] = useState<InspirationFilter>("all");
+  const [modelSiteFilter, setModelSiteFilter] = useState<ModelSiteFilter>("all");
   const [finds, setFinds] = useState<Find[] | undefined>(undefined);
 
   useEffect(() => {
@@ -51,7 +53,8 @@ export default function Page() {
 
   const today = getTodayShanghai();
 
-  const gameShaderFinds = finds?.filter((x) => x.type !== "inspiration") ?? [];
+  const gameShaderFinds =
+    finds?.filter((x) => x.type !== "inspiration" && x.type !== "model_site") ?? [];
   const todayItems = gameShaderFinds.filter((x) => getItemDate(x, today) === today);
 
   const allFiltered =
@@ -67,12 +70,18 @@ export default function Page() {
       ? inspirationItems
       : inspirationItems.filter((x) => x.tags?.includes(inspirationFilter));
 
+  const modelSiteItems = finds?.filter((x) => x.type === "model_site") ?? [];
+  const filteredModelSites =
+    modelSiteFilter === "all"
+      ? modelSiteItems
+      : modelSiteItems.filter((x) => x.tags?.includes(modelSiteFilter));
+
   return (
     <main className="app">
       <header className="header">
         <div>
           <h1>独立发现</h1>
-          <p>3D 游戏、shader 与设计灵感</p>
+          <p>3D 游戏、shader、设计灵感与模型网站</p>
         </div>
         <nav className="tabs">
           <button
@@ -95,6 +104,13 @@ export default function Page() {
             type="button"
           >
             设计灵感
+          </button>
+          <button
+            className={topTab === "model_sites" ? "tab active" : "tab"}
+            onClick={() => setTopTab("model_sites")}
+            type="button"
+          >
+            模型网站
           </button>
         </nav>
       </header>
@@ -149,6 +165,31 @@ export default function Page() {
         </nav>
       )}
 
+      {topTab === "model_sites" && (
+        <nav className="sub-tabs">
+          {(
+            [
+              ["all", "全部"],
+              ["packs", "资源包"],
+              ["marketplace", "大库"],
+              ["textures", "材质"],
+              ["characters", "角色"],
+              ["voxels", "体素"],
+              ["tools", "工具"],
+            ] as const
+          ).map(([key, label]) => (
+            <button
+              key={key}
+              className={modelSiteFilter === key ? "sub-tab active" : "sub-tab"}
+              onClick={() => setModelSiteFilter(key)}
+              type="button"
+            >
+              {label}
+            </button>
+          ))}
+        </nav>
+      )}
+
       {finds === undefined ? (
         <p className="empty">加载中…</p>
       ) : topTab === "today" ? (
@@ -167,6 +208,16 @@ export default function Page() {
         ) : (
           <section className="grid">
             {filteredInspiration.map((item) => (
+              <Card key={item.url} item={item} />
+            ))}
+          </section>
+        )
+      ) : topTab === "model_sites" ? (
+        filteredModelSites.length === 0 ? (
+          <p className="empty">暂无条目</p>
+        ) : (
+          <section className="grid">
+            {filteredModelSites.map((item) => (
               <Card key={item.url} item={item} />
             ))}
           </section>

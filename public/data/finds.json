@@ -1,5 +1,679 @@
 [
   {
+    "type": "model_site",
+    "title": "Kenney",
+    "summary": "风格统一低面，道具/UI/音效全免费",
+    "url": "https://kenney.nl/assets",
+    "imageUrl": "/covers/model-site-kenney-nl.jpg",
+    "source": "manual",
+    "sourceId": "model-site-kenney-nl",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Quaternius",
+    "summary": "大量 low-poly 角色场景，CC0",
+    "url": "https://quaternius.com/",
+    "imageUrl": "/covers/model-site-quaternius-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-quaternius-com",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "KayKit",
+    "summary": "风格化角色/道具包",
+    "url": "https://kaylousberg.itch.io/",
+    "imageUrl": "/covers/model-site-kaylousberg-itch-io-kaykit.jpg",
+    "source": "manual",
+    "sourceId": "model-site-kaylousberg-itch-io-kaykit",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Poly Haven",
+    "summary": "写实模型 + PBR 贴图 + HDRI，全 CC0",
+    "url": "https://polyhaven.com/",
+    "imageUrl": "/covers/model-site-polyhaven-com-poly-haven.jpg",
+    "source": "manual",
+    "sourceId": "model-site-polyhaven-com-poly-haven",
+    "tags": [
+      "model_site",
+      "textures"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "ambientCG",
+    "summary": "免费 PBR 材质/部分模型，CC0",
+    "url": "https://ambientcg.com/",
+    "imageUrl": "/covers/model-site-ambientcg-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-ambientcg-com",
+    "tags": [
+      "model_site",
+      "textures"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Poly Pizza",
+    "summary": "Google Poly 存档向，偏低面道具",
+    "url": "https://poly.pizza/",
+    "imageUrl": "/covers/model-site-poly-pizza.jpg",
+    "source": "manual",
+    "sourceId": "model-site-poly-pizza",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Icosa Gallery",
+    "summary": "Poly 生态延续，注意多为 CC-BY",
+    "url": "https://icosa.gallery/",
+    "imageUrl": "/covers/model-site-icosa-gallery.jpg",
+    "source": "manual",
+    "sourceId": "model-site-icosa-gallery",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "OpenGameArt",
+    "summary": "社区杂库，筛 CC0/CC-BY",
+    "url": "https://opengameart.org/",
+    "imageUrl": "/covers/model-site-opengameart-org.jpg",
+    "source": "manual",
+    "sourceId": "model-site-opengameart-org",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "itch.io 免费资产",
+    "summary": "筛 Free + 3D",
+    "url": "https://itch.io/game-assets/free",
+    "imageUrl": "/covers/model-site-itch-io.jpg",
+    "source": "manual",
+    "sourceId": "model-site-itch-io",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Unity Asset Store · Free",
+    "summary": "直接进 Unity 的免费区",
+    "url": "https://assetstore.unity.com/?price=0",
+    "imageUrl": "/covers/model-site-assetstore-unity-com-unity-asset-store-free.jpg",
+    "source": "manual",
+    "sourceId": "model-site-assetstore-unity-com-unity-asset-store-free",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Fab",
+    "summary": "Epic 新店，有免费区（看单条许可）",
+    "url": "https://www.fab.com/",
+    "imageUrl": "/covers/model-site-fab-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-fab-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Mixamo",
+    "summary": "免费绑骨+动作（需 Adobe 账号）",
+    "url": "https://www.mixamo.com/",
+    "imageUrl": "/covers/model-site-mixamo-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-mixamo-com",
+    "tags": [
+      "model_site",
+      "characters"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Ready Player Me",
+    "summary": "可导出角色（商用看条款）",
+    "url": "https://readyplayer.me/",
+    "imageUrl": "/covers/model-site-readyplayer-me-ready-player-me.jpg",
+    "source": "manual",
+    "sourceId": "model-site-readyplayer-me-ready-player-me",
+    "tags": [
+      "model_site",
+      "characters"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "ActorCore",
+    "summary": "偶有免费角色动作",
+    "url": "https://actorcore.reallusion.com/",
+    "imageUrl": "/covers/model-site-actorcore-reallusion-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-actorcore-reallusion-com",
+    "tags": [
+      "model_site",
+      "characters"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Sketchfab",
+    "summary": "体量最大，筛 Downloadable + CC0/CC-BY",
+    "url": "https://sketchfab.com/search?features=downloadable&type=models",
+    "imageUrl": "/covers/model-site-sketchfab-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-sketchfab-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "CGTrader Free",
+    "summary": "CGTrader 免费模型区",
+    "url": "https://www.cgtrader.com/free-3d-models",
+    "imageUrl": "/covers/model-site-cgtrader-com-cgtrader-free.jpg",
+    "source": "manual",
+    "sourceId": "model-site-cgtrader-com-cgtrader-free",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Free3D",
+    "summary": "大量免费模型（逐条看许可）",
+    "url": "https://free3d.com/",
+    "imageUrl": "/covers/model-site-free3d-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-free3d-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "TurboSquid Free",
+    "summary": "商用站免费区",
+    "url": "https://www.turbosquid.com/Search/3D-Models/free",
+    "imageUrl": "/covers/model-site-turbosquid-com-turbosquid-free.jpg",
+    "source": "manual",
+    "sourceId": "model-site-turbosquid-com-turbosquid-free",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Clara.io",
+    "summary": "在线库与部分免费模型",
+    "url": "https://clara.io/library",
+    "imageUrl": "/covers/model-site-clara-io.jpg",
+    "source": "manual",
+    "sourceId": "model-site-clara-io",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Blend Swap",
+    "summary": "Blender 源文件多",
+    "url": "https://www.blendswap.com/",
+    "imageUrl": "/covers/model-site-blendswap-com-blend-swap.jpg",
+    "source": "manual",
+    "sourceId": "model-site-blendswap-com-blend-swap",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "BlenderKit",
+    "summary": "免费档模型材质",
+    "url": "https://www.blenderkit.com/",
+    "imageUrl": "/covers/model-site-blenderkit-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-blenderkit-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Thingiverse",
+    "summary": "偏 3D 打印，可当参考",
+    "url": "https://www.thingiverse.com/",
+    "imageUrl": "/covers/model-site-thingiverse-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-thingiverse-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Printables",
+    "summary": "Prusa 打印模型库",
+    "url": "https://www.printables.com/",
+    "imageUrl": "/covers/model-site-printables-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-printables-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Cults3D Free",
+    "summary": "打印向免费模型",
+    "url": "https://cults3d.com/en/categories/free",
+    "imageUrl": "/covers/model-site-cults3d-com-cults3d-free.jpg",
+    "source": "manual",
+    "sourceId": "model-site-cults3d-com-cults3d-free",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "3D Warehouse",
+    "summary": "SketchUp 模型库",
+    "url": "https://3dwarehouse.sketchup.com/",
+    "imageUrl": "/covers/model-site-3dwarehouse-sketchup-com-3d-warehouse.jpg",
+    "source": "manual",
+    "sourceId": "model-site-3dwarehouse-sketchup-com-3d-warehouse",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Archive3D",
+    "summary": "老牌免费家具等模型，质量参差",
+    "url": "https://archive3d.net/",
+    "imageUrl": "/covers/model-site-archive3d-net.jpg",
+    "source": "manual",
+    "sourceId": "model-site-archive3d-net",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Smithsonian Open Access 3D",
+    "summary": "博物馆扫描模型，教育向",
+    "url": "https://3d.si.edu/",
+    "imageUrl": "/covers/model-site-3d-si-edu-smithsonian-open-access-3d.jpg",
+    "source": "manual",
+    "sourceId": "model-site-3d-si-edu-smithsonian-open-access-3d",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "NASA 3D Resources",
+    "summary": "航天主题官方模型",
+    "url": "https://nasa3d.arc.nasa.gov/",
+    "imageUrl": "/covers/model-site-nasa3d-arc-nasa-gov-nasa-3d-resources.jpg",
+    "source": "manual",
+    "sourceId": "model-site-nasa3d-arc-nasa-gov-nasa-3d-resources",
+    "tags": [
+      "model_site",
+      "packs"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "British Museum on Sketchfab",
+    "summary": "大英博物馆扫描模型",
+    "url": "https://sketchfab.com/britishmuseum",
+    "imageUrl": "/covers/model-site-sketchfab-com-british-museum-on-sketchfab.jpg",
+    "source": "manual",
+    "sourceId": "model-site-sketchfab-com-british-museum-on-sketchfab",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Scan The World",
+    "summary": "全球雕塑扫描开放库",
+    "url": "https://www.myminifactory.com/scantheworld/",
+    "imageUrl": "/covers/model-site-myminifactory-com-scan-the-world.jpg",
+    "source": "manual",
+    "sourceId": "model-site-myminifactory-com-scan-the-world",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "Poly Haven Textures",
+    "summary": "CC0 PBR 贴图专区",
+    "url": "https://polyhaven.com/textures",
+    "imageUrl": "/covers/model-site-polyhaven-com-poly-haven-textures.jpg",
+    "source": "manual",
+    "sourceId": "model-site-polyhaven-com-poly-haven-textures",
+    "tags": [
+      "model_site",
+      "textures"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "TextureCan",
+    "summary": "免费材质贴图",
+    "url": "https://www.texturecan.com/",
+    "imageUrl": "/covers/model-site-texturecan-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-texturecan-com",
+    "tags": [
+      "model_site",
+      "textures"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "3DTextures.me",
+    "summary": "免费 PBR 材质",
+    "url": "https://3dtextures.me/",
+    "imageUrl": "/covers/model-site-3dtextures-me.jpg",
+    "source": "manual",
+    "sourceId": "model-site-3dtextures-me",
+    "tags": [
+      "model_site",
+      "textures"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "CG模型网",
+    "summary": "需注册，看清是否真免费",
+    "url": "https://www.cgmodel.com/",
+    "imageUrl": "/covers/model-site-cgmodel-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-cgmodel-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "3D66",
+    "summary": "账号墙多，商用务必核对",
+    "url": "https://www.3d66.com/",
+    "imageUrl": "/covers/model-site-3d66-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-3d66-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "model_site",
+    "title": "爱给网",
+    "summary": "许可杂，下载前核对",
+    "url": "https://www.aigei.com/",
+    "imageUrl": "/covers/model-site-aigei-com.jpg",
+    "source": "manual",
+    "sourceId": "model-site-aigei-com",
+    "tags": [
+      "model_site",
+      "marketplace"
+    ],
+    "collectedAt": "2026-09-07"
+  },
+  {
+    "type": "inspiration",
+    "title": "Kingdom Citizens 镇民",
+    "summary": "92×92 奇幻城镇 NPC 立绘剪影清晰，饱和像素角色表适合对照。",
+    "url": "https://sakpix.itch.io/kingdom-citizens-fantasy-townfolk-npc-collection",
+    "imageUrl": "/covers/itch-sakpix-kingdom-citizens.jpg",
+    "source": "itch",
+    "sourceId": "itch-sakpix-kingdom-citizens",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Seliel NPC Pack #2",
+    "summary": "独立动画像素 NPC 合集，角色剪影与动作表非常清楚。",
+    "url": "https://seliel-the-shaper.itch.io/npc-pack-2",
+    "imageUrl": "/covers/itch-seliel-npc-pack-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-seliel-npc-pack-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "TopDown RPG 像素角色",
+    "summary": "俯视奇幻像素角色精灵表，职业剪影清楚，适合对照动作设计。",
+    "url": "https://www.artstation.com/marketplace/p/WemLJ/pixelart-character-sprites-topdown-rpg-1",
+    "imageUrl": "/covers/art-WemLJ.jpg",
+    "source": "artstation",
+    "sourceId": "art-WemLJ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "SakPix 温馨咖啡店",
+    "summary": "模块化像素咖啡店内外景，暖色玩具感道具层次清楚。",
+    "url": "https://sakpix.itch.io/cozy-coffee-shop-asset-pack",
+    "imageUrl": "/covers/itch-sakpix-cozy-coffee.jpg",
+    "source": "itch",
+    "sourceId": "itch-sakpix-cozy-coffee",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixel Town Builder",
+    "summary": "四种风格共 99 栋俯视像素建筑，拼装小镇体块可读。",
+    "url": "https://gegx.itch.io/pixel-town-builder",
+    "imageUrl": "/covers/itch-gegx-pixel-town-builder.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-pixel-town-builder",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Sprout Lands UI",
+    "summary": "粉彩像素贴纸感按钮面板，农场风 HUD 参考很直接。",
+    "url": "https://cupnooble.itch.io/sprout-lands-ui-pack",
+    "imageUrl": "/covers/itch-cupnooble-sprout-lands-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-cupnooble-sprout-lands-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon Vegetable Garden",
+    "summary": "饱和卡通蔬菜园 3D 资产，玩具感造型与色块适合温馨场景。",
+    "url": "https://www.artstation.com/marketplace/p/Lm5OG/cartoon-vegetable-garden-cozy-stylized-3d-asset-pack",
+    "imageUrl": "/covers/art-Lm5OG.jpg",
+    "source": "artstation",
+    "sourceId": "art-Lm5OG",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon Town Islands 2",
+    "summary": "卡通海岛小镇外景模块，体块夸张、色彩饱和，玩具感强。",
+    "url": "https://www.artstation.com/marketplace/p/21z9v/cartoon-town-islands-exteriors-2",
+    "imageUrl": "/covers/art-21z9v.jpg",
+    "source": "artstation",
+    "sourceId": "art-21z9v",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Kawaii Game GUI",
+    "summary": "完整可爱风 GUI 套件，圆润按钮面板图标很适合贴纸 UI。",
+    "url": "https://www.artstation.com/marketplace/p/d6PJ/ui-kit-pro-kawaii-game-gui-assets",
+    "imageUrl": "/covers/art-d6PJ.jpg",
+    "source": "artstation",
+    "sourceId": "art-d6PJ",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Wildekin 温馨像素小镇",
+    "summary": "动物森友会式 3D 像素小镇与萌系居民，剪影与色块都很可爱。",
+    "url": "https://80.lv/articles/enjoy-the-vibes-of-a-small-cozy-town-in-this-animal-crossing-style-game",
+    "imageUrl": "/covers/80lv-wildekin.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-wildekin",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-07",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
     "type": "game",
     "title": "Just a normal dream of mine... 🚂 Aaand Tenkemo launches on Kickstarter Septem…",
     "summary": "X 收藏：火车主题 Kickstarter，独立 3D 动态。",
