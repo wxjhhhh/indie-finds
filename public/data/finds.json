@@ -1,5 +1,175 @@
 [
   {
+    "sourceId": "itch-mutter-tiny-npc",
+    "title": "Tiny NPC 像素村民",
+    "url": "https://mutterpixel-studio.itch.io/tiny-npc-pack-villagers-36x36-animated-sprites",
+    "imageUrl": "/covers/itch-mutter-tiny-npc.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "character",
+    "summary": "36×36 温馨像素镇民四代同堂，剪影清楚带弹跳走循环。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-shubibubi-cozy-people",
+    "title": "Cozy People 可换装像素人",
+    "url": "https://shubibubi.itch.io/cozy-people",
+    "imageUrl": "/covers/itch-shubibubi-cozy-people.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "character",
+    "summary": "可分层换装像素村民：发型服装与表情泡，剪影软暖适合村落 NPC。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-shubibubi-cozy-town",
+    "title": "Cozy Town 四季像素小镇",
+    "url": "https://shubibubi.itch.io/cozy-town",
+    "imageUrl": "/covers/itch-shubibubi-cozy-town.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "scene",
+    "summary": "四季自动瓷砖小镇：车站咖啡馆学校，玩具感街区层次清楚。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-shubibubi-cozy-farm",
+    "title": "Cozy Farm 像素农场",
+    "url": "https://shubibubi.itch.io/cozy-farm",
+    "imageUrl": "/covers/itch-shubibubi-cozy-farm.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "scene",
+    "summary": "16×16 温馨农场地砖与动画动物，色块柔和玩具感强。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-antahonist-chibi-townsfolk",
+    "title": "48 Chibi 奇比镇民",
+    "url": "https://antahonist.itch.io/chibi-fantasy-townsfolk",
+    "imageUrl": "/covers/itch-antahonist-chibi-townsfolk.jpg",
+    "source": "itch",
+    "style": "cartoon",
+    "kind": "character",
+    "summary": "扁平描边奇比镇民 48 人，大头玩具比例，剪影与职业一眼可读。",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-curlybug-paper-gui",
+    "title": "Paper Themed 像素纸质 GUI",
+    "url": "https://curlybuggames.itch.io/paper-themed-gui-pack",
+    "imageUrl": "/covers/itch-curlybug-paper-gui.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "ui",
+    "summary": "纸质像素 GUI 面板按钮，手作贴纸感贴合缝线 HUD。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-elygs-ui-bundle",
+    "title": "Elygs 六主题像素 UI",
+    "url": "https://elygs.itch.io/ui-user-interface-bundle-free",
+    "imageUrl": "/covers/itch-elygs-ui-bundle.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "ui",
+    "summary": "烘焙咖啡蘑菇等六套 32×32 像素面板，奶油贴纸风休闲 UI。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "itch-snowhex-pixel-plains",
+    "title": "Pixel Plains 俯视平原",
+    "url": "https://snowhex.itch.io/pixel-plains",
+    "imageUrl": "/covers/itch-snowhex-pixel-plains.jpg",
+    "source": "itch",
+    "style": "pixel",
+    "kind": "scene",
+    "summary": "俯视像素平原地砖建筑与植被，地块层次可读适合世界地图参考。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "80lv-witchbrook",
+    "title": "Witchbrook 像素魔法镇",
+    "url": "https://80.lv/articles/check-out-this-cozy-life-sim-where-you-attend-magical-school",
+    "imageUrl": "/covers/80lv-witchbrook.jpg",
+    "source": "80lv",
+    "style": "pixel",
+    "kind": "scene",
+    "summary": "Chucklefish 温馨像素海滨魔法学院城，色块与建筑剪影都很清楚。",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "sourceId": "80lv-tenkemo",
+    "title": "Tenkemo 像素动漫角色",
+    "url": "https://80.lv/articles/check-out-charming-characters-from-cozy-pixel-anime-style-wip-adventure",
+    "imageUrl": "/covers/80lv-tenkemo.jpg",
+    "source": "80lv",
+    "style": "cartoon",
+    "kind": "character",
+    "summary": "像素叠动漫表情的温馨开放世界角色，圆润剪影与眼神动画可爱。",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "type": "inspiration",
+    "collectedAt": "2026-09-08"
+  },
+  {
     "type": "game",
     "title": "Methodox Voxel Sandbox",
     "summary": "体素世界生成器/编辑器，程序化沙盒。",
