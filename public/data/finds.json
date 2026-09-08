@@ -1,5 +1,175 @@
 [
   {
+    "type": "inspiration",
+    "title": "Fable Town NPC 像素镇民",
+    "summary": "童话风俯视像素 NPC，体块短小可读，饱和服装色适合镇民群像。",
+    "url": "https://leanpus.itch.io/fable-town-npc",
+    "imageUrl": "/covers/itch-leanpus-fable-town-npc.jpg",
+    "source": "itch",
+    "sourceId": "itch-leanpus-fable-town-npc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixxiland Big Family 像素家族 NPC",
+    "summary": "俯视大家族 NPC 包，年龄体型差异明显、剪影可读，利于人口层表现。",
+    "url": "https://pixxilandartstudio.itch.io/2d-pixel-art-topdown-npc-big-family-pack",
+    "imageUrl": "/covers/itch-pixxiland-big-family.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixxiland-big-family",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Age Trio 三代像素角色",
+    "summary": "老中青三代 16x16 俯视角色，轮廓区分清楚，适合文明生命周期示意。",
+    "url": "https://maru-98.itch.io/age-trio-characters-top-down-pixel-art-16x16",
+    "imageUrl": "/covers/itch-maru98-age-trio.jpg",
+    "source": "itch",
+    "sourceId": "itch-maru98-age-trio",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Miniature World 等距像素微缩世界",
+    "summary": "玩具积木感等距像素微缩城镇，清晰剪影与饱和色块，适合神视角六角世界参考。",
+    "url": "https://dankey44.itch.io/pixel-art-miniature-world",
+    "imageUrl": "/covers/itch-dankey44-miniature-world.jpg",
+    "source": "itch",
+    "sourceId": "itch-dankey44-miniature-world",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Franuka Fantasy RPG 像素村",
+    "summary": "可爱手绘像素房屋、农田与 NPC，玩具色与清晰轮廓，适合 WorldBox 式文明层。",
+    "url": "https://franuka.itch.io/rpg-asset-pack",
+    "imageUrl": "/covers/itch-franuka-rpg-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-franuka-rpg-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Alya Frames 温馨像素面板 UI",
+    "summary": "库存/商店/对话像素边框面板，奶油暖沙底与圆角，适合主菜单与 HUD 面板。",
+    "url": "https://kasayaa.itch.io/alya-frames",
+    "imageUrl": "/covers/itch-kasayaa-alya-frames.jpg",
+    "source": "itch",
+    "sourceId": "itch-kasayaa-alya-frames",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cutout Village 剪纸玩具城建",
+    "summary": "水彩剪纸玩具屋城建，手作贴纸感与温暖色，高度贴合玩具式神视角美学。",
+    "url": "https://80.lv/articles/creating-a-city-builder-and-crafting-game-with-a-cut-out-paper-style",
+    "imageUrl": "/covers/80lv-cutout-village.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-cutout-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Settlers 风格化玩具村庄",
+    "summary": "Settlers 灵感的玩具感风格化村庄，建筑模块清晰，神游戏俯视可读性强。",
+    "url": "https://80.lv/articles/the-settlers-3-inspired-stylized-village-in-modern-3d-look",
+    "imageUrl": "/covers/80lv-settlers-stylized-village.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-settlers-stylized-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon UI Pack 卡通界面",
+    "summary": "饱和卡通按钮与面板，玩具贴纸感强，可参考主菜单大按钮与状态条。",
+    "url": "https://ci.itch.io/cartoon-ui-pack",
+    "imageUrl": "/covers/itch-ci-cartoon-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-ci-cartoon-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Harvest Hearth 温馨农场 UI 参考",
+    "summary": "羊皮纸/木框暖沙色农场 UI 参考屏，层级清晰，可直接对标主菜单与设置页。",
+    "url": "https://www.artstation.com/marketplace/p/8L6Xy/harvest-hearth-cozy-farming-rpg-ui-reference-kit",
+    "imageUrl": "/covers/art-8L6Xy.jpg",
+    "source": "artstation",
+    "sourceId": "art-8L6Xy",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
     "sourceId": "itch-mutter-tiny-npc",
     "title": "Tiny NPC 像素村民",
     "url": "https://mutterpixel-studio.itch.io/tiny-npc-pack-villagers-36x36-animated-sprites",
