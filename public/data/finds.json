@@ -1,6 +1,718 @@
 [
   {
     "type": "game",
+    "title": "Methodox Voxel Sandbox",
+    "summary": "体素世界生成器/编辑器，程序化沙盒。",
+    "url": "https://methodox.itch.io/voxel-sandbox",
+    "imageUrl": "/covers/itch-methodox-voxel-sandbox.jpg",
+    "source": "itch",
+    "sourceId": "itch-methodox-voxel-sandbox",
+    "tags": [
+      "itch",
+      "voxel",
+      "procedural",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Project P.I.T.T. - Demo",
+    "summary": "Godot 物理沙盒增量，3D FPS 建造。",
+    "url": "https://fr0ke.itch.io/project-pitt-demo",
+    "imageUrl": "/covers/itch-fr0ke-project-pitt-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-fr0ke-project-pitt-demo",
+    "tags": [
+      "itch",
+      "godot",
+      "physics",
+      "sandbox",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "ALATE",
+    "summary": "蚁群扩张殖民地，通道与扩张贴活系统。",
+    "url": "https://jokers666.itch.io/alate",
+    "imageUrl": "/covers/itch-jokers666-alate.jpg",
+    "source": "itch",
+    "sourceId": "itch-jokers666-alate",
+    "tags": [
+      "itch",
+      "colony",
+      "ants",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Billion Cube",
+    "summary": "持久体素大世界，沙盒掘建贴活系统。",
+    "url": "https://thedevjoman.itch.io/billion-cube",
+    "imageUrl": "/covers/itch-thedevjoman-billion-cube.jpg",
+    "source": "itch",
+    "sourceId": "itch-thedevjoman-billion-cube",
+    "tags": [
+      "itch",
+      "voxel",
+      "sandbox",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Embark",
+    "summary": "深殖民地+巨大活世界，贴沙盒口味。",
+    "url": "https://embark.itch.io/embark",
+    "imageUrl": "/covers/itch-embark-embark.jpg",
+    "source": "itch",
+    "sourceId": "itch-embark-embark",
+    "tags": [
+      "itch",
+      "colony",
+      "worldgen",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Epoch Forge Demo",
+    "summary": "大规模活殖民地+真实物理 demo。",
+    "url": "https://fiddlesticksgaming.itch.io/epochforge",
+    "imageUrl": "/covers/itch-fiddlesticksgaming-epochforge.jpg",
+    "source": "itch",
+    "sourceId": "itch-fiddlesticksgaming-epochforge",
+    "tags": [
+      "itch",
+      "colony",
+      "physics",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "HorsePower Plant",
+    "summary": "低面电厂荒诞模拟，可读几何。",
+    "url": "https://campoworks.itch.io/horsepower-plant",
+    "imageUrl": "/covers/itch-campoworks-horsepower-plant.jpg",
+    "source": "itch",
+    "sourceId": "itch-campoworks-horsepower-plant",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "simulation",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Libre TrainSim - Free Train Simulator for everyone",
+    "summary": "Godot 开源列车模拟，系统驱动。",
+    "url": "https://jean28518.itch.io/libre-train-sim",
+    "imageUrl": "/covers/itch-jean28518-libre-train-sim.jpg",
+    "source": "itch",
+    "sourceId": "itch-jean28518-libre-train-sim",
+    "tags": [
+      "itch",
+      "godot",
+      "simulation",
+      "train",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Mars Survivor",
+    "summary": "火星殖民地求生 90 sols，建基地活系统。",
+    "url": "https://mickeykool401.itch.io/mars-survivor",
+    "imageUrl": "/covers/itch-mickeykool401-mars-survivor.jpg",
+    "source": "itch",
+    "sourceId": "itch-mickeykool401-mars-survivor",
+    "tags": [
+      "itch",
+      "colony",
+      "survival",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Provincia",
+    "summary": "罗马行省殖民：地形跟水/渡槽/生产链，Godot 活系统。",
+    "url": "https://cybersaemi.itch.io/provincia",
+    "imageUrl": "/covers/itch-cybersaemi-provincia.jpg",
+    "source": "itch",
+    "sourceId": "itch-cybersaemi-provincia",
+    "tags": [
+      "itch",
+      "colony",
+      "godot",
+      "water",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Tabletop Club",
+    "summary": "桌面物理玩具沙盒，微缩可读几何。",
+    "url": "https://drwhut.itch.io/tabletop-club",
+    "imageUrl": "/covers/itch-drwhut-tabletop-club.jpg",
+    "source": "itch",
+    "sourceId": "itch-drwhut-tabletop-club",
+    "tags": [
+      "itch",
+      "physics",
+      "tabletop",
+      "godot",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Fungal Colony Sim",
+    "summary": "殖民地/经营聚落：Fungal Colony Sim，活系统与成长循环，贴沙盒神视角口味。",
+    "url": "https://skylorbeck.itch.io/fungal-colony-sim",
+    "imageUrl": "/covers/itch-skylorbeck-fungal-colony-sim.jpg",
+    "source": "itch",
+    "sourceId": "itch-skylorbeck-fungal-colony-sim",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Fungal Colony Sim 2",
+    "summary": "殖民地/经营聚落：Fungal Colony Sim 2，活系统与成长循环，贴沙盒神视角口味。",
+    "url": "https://skylorbeck.itch.io/fungal-colony-sim-2",
+    "imageUrl": "/covers/itch-skylorbeck-fungal-colony-sim-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-skylorbeck-fungal-colony-sim-2",
+    "tags": [
+      "itch",
+      "game",
+      "colony"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Neon Foundry Idle",
+    "summary": "工厂/物流自动化：Neon Foundry Idle，生产链与资源流转，贴活系统口味。",
+    "url": "https://zanygames.itch.io/neon-foundry-idle",
+    "imageUrl": "/covers/itch-zanygames-neon-foundry-idle.jpg",
+    "source": "itch",
+    "sourceId": "itch-zanygames-neon-foundry-idle",
+    "tags": [
+      "itch",
+      "game",
+      "factory"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Sharks: Food Chain Automation",
+    "summary": "工厂/物流自动化：Sharks: Food Chain Automation，生产链与资源流转，贴活系统口味。",
+    "url": "https://cherrysdev.itch.io/sharks-food-chain-automation",
+    "imageUrl": "/covers/itch-cherrysdev-sharks-food-chain-automation.jpg",
+    "source": "itch",
+    "sourceId": "itch-cherrysdev-sharks-food-chain-automation",
+    "tags": [
+      "itch",
+      "game",
+      "factory"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Fjordal [DEMO]",
+    "summary": "维京殖民地+生产链 demo，活系统。",
+    "url": "https://andreasintech.itch.io/fjordall",
+    "imageUrl": "/covers/itch-andreasintech-fjordall.jpg",
+    "source": "itch",
+    "sourceId": "itch-andreasintech-fjordall",
+    "tags": [
+      "itch",
+      "colony",
+      "production",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Freds House",
+    "summary": "砍树采石防守，低面生存建造。",
+    "url": "https://orangespiral.itch.io/freds-house",
+    "imageUrl": "/covers/itch-orangespiral-freds-house.jpg",
+    "source": "itch",
+    "sourceId": "itch-orangespiral-freds-house",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "building",
+      "survival",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
+    "title": "Goblin Village Demo",
+    "summary": "休闲哥布林殖民 demo。",
+    "url": "https://xaoka.itch.io/goblin-village",
+    "imageUrl": "/covers/itch-xaoka-goblin-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-xaoka-goblin-village",
+    "tags": [
+      "itch",
+      "colony",
+      "casual",
+      "game"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Sidebar Design. https://t.co/1q2wGYBZeZ",
+    "summary": "X 收藏：侧边栏 UI 设计参考，可读游戏界面。",
+    "url": "https://x.com/startupvisuals/status/2094032387923681498",
+    "imageUrl": "/covers/x-2094032387923681498.jpg",
+    "source": "x",
+    "sourceId": "2094032387923681498",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Cartoon 3D Fire",
+    "summary": "卡通 NPR 火焰：噪声塑形 + 描边，可套任意网格的 stylized fire。",
+    "url": "https://godotshaders.com/shader/cartoon-3d-fire/",
+    "imageUrl": "/covers/gs-cartoon-3d-fire.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-cartoon-3d-fire",
+    "tags": [
+      "godot",
+      "fire",
+      "npr",
+      "toon",
+      "3d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Toon Style 3D Water",
+    "summary": "无贴图卡通 3D 水面，NPR 水波与着色。",
+    "url": "https://godotshaders.com/shader/toon-style-3d-water-shader-no-textures-needed/",
+    "imageUrl": "/covers/gs-toon-style-3d-water-shader-no-textures-needed.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-toon-style-3d-water-shader-no-textures-needed",
+    "tags": [
+      "godot",
+      "water",
+      "toon",
+      "npr",
+      "3d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Game Dev Shader Kit for 3D Pixel Art: t3ssel8r-Style Renderer in Godot 4",
+    "summary": "t3ssel8r 风 3D 像素渲染+水面反射。",
+    "url": "https://brunich.itch.io/3d-pixel-art-shadergame-kit-t3ssel8r-style-renderer",
+    "imageUrl": "/covers/itch-brunich-3d-pixel-art-shadergame-kit-t3ssel8r-style-renderer.jpg",
+    "source": "itch",
+    "sourceId": "itch-brunich-3d-pixel-art-shadergame-kit-t3ssel8r-style-renderer",
+    "tags": [
+      "itch",
+      "pixel",
+      "water",
+      "godot",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Project - Water Shader",
+    "summary": "Godot 水面：焦散/波纹可扔进地形，贴水材质口味。",
+    "url": "https://emaceart.itch.io/emaceart-cool-water-water-shader-for-godot-4",
+    "imageUrl": "/covers/itch-emaceart-emaceart-cool-water-water-shader-for-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-emaceart-emaceart-cool-water-water-shader-for-godot-4",
+    "tags": [
+      "itch",
+      "water",
+      "godot",
+      "caustics",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "2D Pixel Grass Shader",
+    "summary": "俯视角像素草地质感：世界坐标噪声 + 像素吸附，适合无限卷轴草皮。",
+    "url": "https://godotshaders.com/shader/2d-pixel-grass-shader/",
+    "imageUrl": "/covers/gs-2d-pixel-grass-shader.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-2d-pixel-grass-shader",
+    "tags": [
+      "godot",
+      "grass",
+      "pixel",
+      "2d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "2D Pixel Perfect Wind Sway",
+    "summary": "像素完美风吹摇摆：草/树叶式 2D 顶点摆动。",
+    "url": "https://godotshaders.com/shader/2d-pixel-perfect-wind-sway-effect/",
+    "imageUrl": "/covers/gs-2d-pixel-perfect-wind-sway-effect.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-2d-pixel-perfect-wind-sway-effect",
+    "tags": [
+      "godot",
+      "wind",
+      "grass",
+      "pixel",
+      "2d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Godot Ultimate Toon Shader",
+    "summary": "Godot 全能卡通/Cel 着色方案。",
+    "url": "https://binbun3d.itch.io/godot-ultimate-toon-shader",
+    "imageUrl": "/covers/itch-binbun3d-godot-ultimate-toon-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-binbun3d-godot-ultimate-toon-shader",
+    "tags": [
+      "itch",
+      "godot",
+      "toon",
+      "npr"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Outline Posterization Palette Dither",
+    "summary": "屏幕空间描边+色阶+调色板+抖动，cel-shaded NPR 后处理。",
+    "url": "https://godotshaders.com/shader/outline-posterization-color-palette-and-dithering/",
+    "imageUrl": "/covers/gs-outline-posterization-color-palette-and-dithering.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-outline-posterization-color-palette-and-dithering",
+    "tags": [
+      "godot",
+      "npr",
+      "dither",
+      "toon",
+      "postprocessing"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "TechArt Demo: Toon Ocean",
+    "summary": "技美向卡通海洋演示。",
+    "url": "https://pignomaster.itch.io/techart-toon-ocean",
+    "imageUrl": "/covers/itch-pignomaster-techart-toon-ocean.jpg",
+    "source": "itch",
+    "sourceId": "itch-pignomaster-techart-toon-ocean",
+    "tags": [
+      "itch",
+      "toon",
+      "ocean",
+      "water",
+      "npr"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Toon Water Shader",
+    "summary": "卡通 NPR 水面着色器演示。",
+    "url": "https://fox-jump.itch.io/toon-water-shader",
+    "imageUrl": "/covers/itch-fox-jump-toon-water-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-fox-jump-toon-water-shader",
+    "tags": [
+      "itch",
+      "toon",
+      "water",
+      "npr"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Fluid Flux Demo",
+    "summary": "可玩水体模拟 demo，流体交互。",
+    "url": "https://imaginaryblend.itch.io/fluid-flux",
+    "imageUrl": "/covers/itch-imaginaryblend-fluid-flux.jpg",
+    "source": "itch",
+    "sourceId": "itch-imaginaryblend-fluid-flux",
+    "tags": [
+      "itch",
+      "fluid",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "PSX Water Shader - Unity URP - Demo",
+    "summary": "PSX 风水面 URP demo，复古帧缓冲水。",
+    "url": "https://soundy777.itch.io/psx-water-shader-demo",
+    "imageUrl": "/covers/itch-soundy777-psx-water-shader-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-soundy777-psx-water-shader-demo",
+    "tags": [
+      "itch",
+      "psx",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Pixel Art Water Shader – Stylized water with foam, reflections and waves (URP)",
+    "summary": "像素风水面泡沫反射，风格化水。",
+    "url": "https://thomasgamboa.itch.io/pixel-art-water-shader-stylized-water-with-foam-reflections-and-waves-urp",
+    "imageUrl": "/covers/itch-thomasgamboa-pixel-art-water-shader-stylized-water-with-foam-reflections-an.jpg",
+    "source": "itch",
+    "sourceId": "itch-thomasgamboa-pixel-art-water-shader-stylized-water-with-foam-reflections-an",
+    "tags": [
+      "itch",
+      "pixel",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "PixelatedWater Shader - Unity",
+    "summary": "Unity 像素化水面 shader。",
+    "url": "https://redwolf-games.itch.io/pixelatedwater-shader",
+    "imageUrl": "/covers/itch-redwolf-games-pixelatedwater-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-redwolf-games-pixelatedwater-shader",
+    "tags": [
+      "itch",
+      "pixel",
+      "water",
+      "unity",
+      "shader"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "2D Wind Sway Tree & Grass",
+    "summary": "2D 树草风动摇摆着色器。",
+    "url": "https://godotshaders.com/shader/2d-wind-sway-tree-grass-motion-shader/",
+    "imageUrl": "/covers/gs-2d-wind-sway-tree-grass-motion-shader.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-2d-wind-sway-tree-grass-motion-shader",
+    "tags": [
+      "godot",
+      "wind",
+      "grass",
+      "2d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Anime Speedlines",
+    "summary": "动漫速度线后处理，可选畸变，冲击波/加速氛围。",
+    "url": "https://godotshaders.com/shader/anime-style-speedlines-w-or-w-o-distortion/",
+    "imageUrl": "/covers/gs-anime-style-speedlines-w-or-w-o-distortion.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-anime-style-speedlines-w-or-w-o-distortion",
+    "tags": [
+      "godot",
+      "anime",
+      "npr",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Far Distance Sea Shader",
+    "summary": "远距离海面着色，大尺度海洋着色方案。",
+    "url": "https://godotshaders.com/shader/far-distance-water-shader-sea-shader/",
+    "imageUrl": "/covers/gs-far-distance-water-shader-sea-shader.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-far-distance-water-shader-sea-shader",
+    "tags": [
+      "godot",
+      "water",
+      "ocean",
+      "3d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Godot N64 Shader Demo",
+    "summary": "N64/低精度复古渲染着色演示。",
+    "url": "https://menacingmecha.itch.io/godot-n64-shader-demo",
+    "imageUrl": "/covers/itch-menacingmecha-godot-n64-shader-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-menacingmecha-godot-n64-shader-demo",
+    "tags": [
+      "itch",
+      "godot",
+      "n64",
+      "retro",
+      "psx"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Iridescent Chrome Shader",
+    "summary": "视角相关彩虹镀铬：薄膜干涉式虹彩金属，轻量无贴图。",
+    "url": "https://godotshaders.com/shader/iridescent-chrome-shader/",
+    "imageUrl": "/covers/gs-iridescent-chrome-shader.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-iridescent-chrome-shader",
+    "tags": [
+      "godot",
+      "iridescence",
+      "materials",
+      "chrome"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "PS1 Retro Water Shader",
+    "summary": "PS1 复古水面着色（Unity）。",
+    "url": "https://halfhuman.itch.io/ps1-water-shader",
+    "imageUrl": "/covers/itch-halfhuman-ps1-water-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-halfhuman-ps1-water-shader",
+    "tags": [
+      "itch",
+      "psx",
+      "water",
+      "retro"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Realistic Carbon Fiber Shader",
+    "summary": "碳纤维编织高光材质，各向异性车漆/复合材料味道。",
+    "url": "https://godotshaders.com/shader/realistic-carbon-fiber-shader/",
+    "imageUrl": "/covers/gs-realistic-carbon-fiber-shader.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-realistic-carbon-fiber-shader",
+    "tags": [
+      "godot",
+      "materials",
+      "car-paint",
+      "anisotropy"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized 3D Fire and Smoke VFX",
+    "summary": "风格化 3D 火焰与烟雾 VFX（Godot）。",
+    "url": "https://knowercoder.itch.io/3d-fire-and-smoke",
+    "imageUrl": "/covers/itch-knowercoder-3d-fire-and-smoke.jpg",
+    "source": "itch",
+    "sourceId": "itch-knowercoder-3d-fire-and-smoke",
+    "tags": [
+      "itch",
+      "fire",
+      "vfx",
+      "godot"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Stylized Grass Wind Deformation",
+    "summary": "风格化草场：噪声风吹 + 角色踩踏变形（BotW 气质）。",
+    "url": "https://godotshaders.com/shader/stylized-grass-with-wind-and-deformation/",
+    "imageUrl": "/covers/gs-stylized-grass-with-wind-and-deformation.jpg",
+    "source": "godotshaders",
+    "sourceId": "gs-stylized-grass-with-wind-and-deformation",
+    "tags": [
+      "godot",
+      "grass",
+      "wind",
+      "3d"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Tasty Grass Shader Demo",
+    "summary": "风吹草动着色演示，风格化草地技美。",
+    "url": "https://symmetrybreak.itch.io/tasty-grass-shader-demo",
+    "imageUrl": "/covers/itch-symmetrybreak-tasty-grass-shader-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-symmetrybreak-tasty-grass-shader-demo",
+    "tags": [
+      "itch",
+      "grass",
+      "shader",
+      "godot"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "shader",
+    "title": "Water & Light FX Caustics",
+    "summary": "焦散/涟漪/泡沫与光感 FX 包，偏水面技美。",
+    "url": "https://gegx.itch.io/water-light-fx",
+    "imageUrl": "/covers/itch-gegx-water-light-fx.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-water-light-fx",
+    "tags": [
+      "itch",
+      "caustics",
+      "water",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-08"
+  },
+  {
+    "type": "game",
     "title": "Working on props for our game! 🚲 https://t.co/6RK2yN4W9L",
     "summary": "X 收藏：独立游戏道具与场景搭建，可爱低面风格。",
     "url": "https://x.com/VincentBcht_3D/status/2096946550668759473",
