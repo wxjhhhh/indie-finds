@@ -1,6 +1,176 @@
 [
   {
     "type": "inspiration",
+    "title": "Hexagon Farming 六角农场",
+    "summary": "六角像素农场地砖，直接对标神视角六角世界。",
+    "url": "https://penzilla.itch.io/hexagon-farming-tileset",
+    "imageUrl": "/covers/itch-penzilla-hex-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-penzilla-hex-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Giant NPC 等距奇比镇民",
+    "summary": "可拼装等距奇比 NPC，大头玩具比例剪影清楚。",
+    "url": "https://penzilla.itch.io/giant-npc-pack",
+    "imageUrl": "/covers/itch-penzilla-giant-npc.jpg",
+    "source": "itch",
+    "sourceId": "itch-penzilla-giant-npc",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Basic GUI 像素界面包",
+    "summary": "基础像素按钮面板对话框，干净贴纸感 HUD。",
+    "url": "https://penzilla.itch.io/basic-gui-bundle",
+    "imageUrl": "/covers/itch-penzilla-basic-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-penzilla-basic-gui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Japanese Kawaii 像素城",
+    "summary": "日系可爱像素城市场景瓷砖，饱和色块可读。",
+    "url": "https://penzilla.itch.io/japanse-kawaii-city-tileset",
+    "imageUrl": "/covers/itch-penzilla-kawaii-city.jpg",
+    "source": "itch",
+    "sourceId": "itch-penzilla-kawaii-city",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "TopDown RPG 像素角色 2",
+    "summary": "第二套 24×24 俯视奇幻像素角色精灵，剪影清楚。",
+    "url": "https://www.artstation.com/marketplace/p/1gRrY/pixelart-character-sprites-topdown-rpg-2",
+    "imageUrl": "/covers/art-1gRrY.jpg",
+    "source": "artstation",
+    "sourceId": "art-1gRrY",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy RPG 像素村包",
+    "summary": "可爱手作像素房屋 NPC 作物与怪物，村落场景层次清楚。",
+    "url": "https://www.artstation.com/marketplace/p/p8lG3/fantasy-rpg-asset-pack",
+    "imageUrl": "/covers/art-p8lG3.jpg",
+    "source": "artstation",
+    "sourceId": "art-p8lG3",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Town to City 体素地中海城",
+    "summary": "阳光体素地中海城镇，玩具积木感城建场景参考。",
+    "url": "https://80.lv/articles/craft-a-cozy-mediterranean-town-in-this-upcoming-voxel-city-builder",
+    "imageUrl": "/covers/80lv-town-to-city.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-town-to-city",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Gourdlets 南瓜村民沙盒",
+    "summary": "像素感南瓜村民小镇沙盒，玩具色与可读剪影。",
+    "url": "https://80.lv/articles/build-a-cozy-town-for-gourd-friends-in-this-sandbox-city-builder",
+    "imageUrl": "/covers/80lv-gourdlets.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-gourdlets",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Spiritstead 绘本风城建",
+    "summary": "宫崎骏味手作绘本风村庄，饱和笔触玩具感场景。",
+    "url": "https://80.lv/articles/check-out-this-charming-city-builder-with-hand-crafted-style-inspired-by-hayao-miyazaki-films",
+    "imageUrl": "/covers/80lv-spiritstead.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-spiritstead",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cottage House 像素小屋",
+    "summary": "32×32 温馨小屋内景工坊家具与木框 HUD，暖色可读。",
+    "url": "https://hyarismeowt.itch.io/32x32-cottage-house-pixel-art-pack",
+    "imageUrl": "/covers/itch-hyaris-cottage-house.jpg",
+    "source": "itch",
+    "sourceId": "itch-hyaris-cottage-house",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-08",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
     "title": "Fable Town NPC 像素镇民",
     "summary": "童话风俯视像素 NPC，体块短小可读，饱和服装色适合镇民群像。",
     "url": "https://leanpus.itch.io/fable-town-npc",
