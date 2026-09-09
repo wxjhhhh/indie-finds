@@ -1,6 +1,176 @@
 [
   {
     "type": "inspiration",
+    "title": "Summer Village 32×32 像素村",
+    "summary": "手绘 32×32 俯视村落：房屋市集蔬菜摊与四向村民，剪影清楚贴神视角定居层。",
+    "url": "https://schwarnhild.itch.io/summer-village",
+    "imageUrl": "/covers/itch-schwarnhild-summer-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-schwarnhild-summer-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Valley 16×16 农场 RPG",
+    "summary": "可换装玩家与作物动物洞穴，暖色像素农场系统层可读。",
+    "url": "https://iclaimthisname.itch.io/cozy-valley",
+    "imageUrl": "/covers/itch-iclaim-cozy-valley.jpg",
+    "source": "itch",
+    "sourceId": "itch-iclaim-cozy-valley",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Questers 八镇民 NPC",
+    "summary": "铁匠守卫商人酒吧女等八位四向走/待机，职业剪影适合人口层。",
+    "url": "https://bobddadoo.itch.io/tiny-questers-8-npc-pack",
+    "imageUrl": "/covers/itch-bobddadoo-tiny-questers.jpg",
+    "source": "itch",
+    "sourceId": "itch-bobddadoo-tiny-questers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Serene Village 宁静像素村",
+    "summary": "24 种房屋与动画物件的清爽 16×16 俯视村，模块建村参考。",
+    "url": "https://limezu.itch.io/serenevillagerevamped",
+    "imageUrl": "/covers/itch-limezu-serene-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-limezu-serene-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Spring 春季像素地砖",
+    "summary": "300+ 俯视春季地砖与道具，饱和玩具感色块清楚。",
+    "url": "https://sakpix.itch.io/cozy-spring-asset-pack-top-down-pixel-art-tileset-300-assets",
+    "imageUrl": "/covers/itch-sakpix-cozy-spring.jpg",
+    "source": "itch",
+    "sourceId": "itch-sakpix-cozy-spring",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farming UI 完整屏幕包",
+    "summary": "12 张奶油木框完整界面参考：库存商店对话主菜单，贴合缝线贴纸 HUD。",
+    "url": "https://nexavisuals.itch.io/cozy-farming-ui-kit-pack-05",
+    "imageUrl": "/covers/itch-nexa-farm-ui-pack05.jpg",
+    "source": "itch",
+    "sourceId": "itch-nexa-farm-ui-pack05",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Arcane Homestead 农场规划 UI",
+    "summary": "魔法农庄日历种植库存市场无字布局，暖木羊皮纸贴纸感强。",
+    "url": "https://www.artstation.com/marketplace/p/8LzOw/arcane-homestead-planner-ui",
+    "imageUrl": "/covers/art-8LzOw.jpg",
+    "source": "artstation",
+    "sourceId": "art-8LzOw",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "阿尔萨斯卡通风村落场景",
+    "summary": "亮色弯曲屋顶的卡通欧式村，玩具感风格化环境制作拆解。",
+    "url": "https://80.lv/articles/stylized-environment-production-in-unity",
+    "imageUrl": "/covers/80lv-alsace-cartoon-village.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-alsace-cartoon-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Biruk 温馨像素 NPC",
+    "summary": "三位俯视走/待机村民，软暖色剪影适合咖啡馆与小镇人潮。",
+    "url": "https://biruk-okami.itch.io/pixel-npc-pack-animated-idle-walk-characters-top-down",
+    "imageUrl": "/covers/itch-biruk-pixel-npc.jpg",
+    "source": "itch",
+    "sourceId": "itch-biruk-pixel-npc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Modular Village 模块房屋",
+    "summary": "墙体屋顶门窗可拼装的 32×32 村落建筑，神视角建村积木感。",
+    "url": "https://schwarnhild.itch.io/modular-village-houses-32x32",
+    "imageUrl": "/covers/itch-schwarnhild-modular-houses.jpg",
+    "source": "itch",
+    "sourceId": "itch-schwarnhild-modular-houses",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
     "title": "Willowbrook 定居模拟像素包",
     "summary": "像素定居模拟：劳工动画+建筑生命周期+完整 UI，直接贴神视角村落层。",
     "url": "https://defaulted19.itch.io/willowbrook-1616-settlement-sim-asset-pack",
