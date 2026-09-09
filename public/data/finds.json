@@ -1,5 +1,772 @@
 [
   {
+    "type": "shader",
+    "title": "Blender Bard 角色渲染",
+    "summary": "Blender 角色渲染展示，可读形与材质光。",
+    "url": "https://x.com/lettier/status/2097393970145800558",
+    "imageUrl": "/covers/x-2097393970145800558.jpg",
+    "source": "x",
+    "sourceId": "2097393970145800558",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Restoration is revolution",
+    "summary": "修复/生态向独立游戏画面，系统在动的沙盒感。",
+    "url": "https://x.com/cozy_impact/status/2097311314464920055",
+    "imageUrl": "/covers/x-2097311314464920055.jpg",
+    "source": "x",
+    "sourceId": "2097311314464920055",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "noio mean 场景",
+    "summary": "Townscaper 作者 noio 的新场景实验，积木城玩具感。",
+    "url": "https://x.com/noio_games/status/2097341214550892606",
+    "imageUrl": "/covers/x-2097341214550892606.jpg",
+    "source": "x",
+    "sourceId": "2097341214550892606",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Wandersky Hyndara 开场",
+    "summary": "像素冒险 Hyndara 开场，独立游戏场景可读。",
+    "url": "https://x.com/tinypotiontree/status/2097370564931239980",
+    "imageUrl": "/covers/x-2097370564931239980.jpg",
+    "source": "x",
+    "sourceId": "2097370564931239980",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Thronefall 式丧尸塔防",
+    "summary": "Thronefall 气质丧尸塔防概念，建造+防守系统。",
+    "url": "https://x.com/vibedeploy/status/2097288709443850372",
+    "imageUrl": "/covers/x-2097288709443850372.jpg",
+    "source": "x",
+    "sourceId": "2097288709443850372",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "第一人称航行与海浪",
+    "summary": "第一人称航行 WIP，海浪系统在算。",
+    "url": "https://x.com/ray_ervian/status/2097336882682380306",
+    "imageUrl": "/covers/x-2097336882682380306.jpg",
+    "source": "x",
+    "sourceId": "2097336882682380306",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "少即是多的场景留白",
+    "summary": "低细节留白场景，风格化视觉示范。",
+    "url": "https://x.com/NegativeVibrat1/status/2096928763732754647",
+    "imageUrl": "/covers/x-2096928763732754647.jpg",
+    "source": "x",
+    "sourceId": "2096928763732754647",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Motion Lab IK Pinning",
+    "summary": "动画工具 IK 钉住演示，技术美术向工具。",
+    "url": "https://x.com/khanito_/status/2096899116827562253",
+    "imageUrl": "/covers/x-2096899116827562253.jpg",
+    "source": "x",
+    "sourceId": "2096899116827562253",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Moonfell 骨骼像素资产",
+    "summary": "像素 RPG Moonfell 骨骼资产，游戏美术向。",
+    "url": "https://x.com/moonfell_rpg/status/2096882614443692529",
+    "imageUrl": "/covers/x-2096882614443692529.jpg",
+    "source": "x",
+    "sourceId": "2096882614443692529",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "three.js 环境套件拼装",
+    "summary": "Blender/Substance 套件进 three.js 的环境演示。",
+    "url": "https://x.com/MrCollison/status/2097047434903916750",
+    "imageUrl": "/covers/x-2097047434903916750.jpg",
+    "source": "x",
+    "sourceId": "2097047434903916750",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "氛围天气与音效迭代",
+    "summary": "独立游戏天气雨滴与氛围迭代，系统感。",
+    "url": "https://x.com/adrianmg/status/2097016579108356137",
+    "imageUrl": "/covers/x-2097016579108356137.jpg",
+    "source": "x",
+    "sourceId": "2097016579108356137",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "风格化苏格兰松",
+    "summary": "两小时风格化松树写生，NPR 植被。",
+    "url": "https://x.com/PHRISK3D/status/2097182446471295048",
+    "imageUrl": "/covers/x-2097182446471295048.jpg",
+    "source": "x",
+    "sourceId": "2097182446471295048",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Thrixel + Three.js",
+    "summary": "Thrixel 体素与 Three.js 视觉实验。",
+    "url": "https://x.com/RealFedeURU/status/2094869833850536223",
+    "imageUrl": "/covers/x-2094869833850536223.jpg",
+    "source": "x",
+    "sourceId": "2094869833850536223",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "像素肉鸽大招手感",
+    "summary": "像素 RPG/肉鸽大招表现，独立游戏战斗反馈。",
+    "url": "https://x.com/GarrettSavo/status/2097134163392409630",
+    "imageUrl": "/covers/x-2097134163392409630.jpg",
+    "source": "x",
+    "sourceId": "2097134163392409630",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "CONQUISTA 公民级 4X",
+    "summary": "公民微观向的 4X/殖民地策略，系统层深。",
+    "url": "https://x.com/nichegamer/status/2097089210402390279",
+    "imageUrl": "/covers/x-2097089210402390279.jpg",
+    "source": "x",
+    "sourceId": "2097089210402390279",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Mur-Mur Boss 迭代",
+    "summary": "独立游戏 Act4 Boss 视觉迭代。",
+    "url": "https://x.com/eiasninelives/status/2096983901432578369",
+    "imageUrl": "/covers/x-2096983901432578369.jpg",
+    "source": "x",
+    "sourceId": "2096983901432578369",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Miniaturia 小岛全景",
+    "summary": "Minecraft Miniaturia 小岛鸟瞰，神视角沙盒。",
+    "url": "https://x.com/justinia_mc/status/2096983383763227084",
+    "imageUrl": "/covers/x-2096983383763227084.jpg",
+    "source": "x",
+    "sourceId": "2096983383763227084",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Ants Warfare",
+    "summary": "蚂蚁战争殖民地沙盒，群体系统在动。",
+    "url": "https://cinaral7.itch.io/ants-warfare",
+    "imageUrl": "/covers/itch-4983572-ants-warfare.jpg",
+    "source": "itch",
+    "sourceId": "itch-4983572",
+    "tags": [
+      "colony",
+      "sandbox",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Algorithmic",
+    "summary": "程序化生成向独立游戏，算法造世界。",
+    "url": "https://maximaus1613.itch.io/algorithmic",
+    "imageUrl": "/covers/itch-4980032-algorithmic.jpg",
+    "source": "itch",
+    "sourceId": "itch-4980032",
+    "tags": [
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Genesis 2: A New Beginning",
+    "summary": "创世建造向沙盒开端，神视角塑造。",
+    "url": "https://vividdreamz.itch.io/genesis-2",
+    "imageUrl": "/covers/itch-4690611-genesis-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-4690611",
+    "tags": [
+      "sandbox",
+      "build",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Irondrive",
+    "summary": "殖民地/工业驾驶向系统游戏。",
+    "url": "https://alessandrolemura.itch.io/irondrive",
+    "imageUrl": "/covers/itch-4455454-irondrive.jpg",
+    "source": "itch",
+    "sourceId": "itch-4455454",
+    "tags": [
+      "colony",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "HA7Z",
+    "summary": "殖民地标签下的据点经营向。",
+    "url": "https://bossanovagames33.itch.io/haz",
+    "imageUrl": "/covers/itch-4636148-haz.jpg",
+    "source": "itch",
+    "sourceId": "itch-4636148",
+    "tags": [
+      "colony",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Space Haven",
+    "summary": "太空避难所殖民地管理（itch 页）。",
+    "url": "https://sorathdevdaggers.itch.io/space-haven",
+    "imageUrl": "/covers/itch-4619288-space-haven.jpg",
+    "source": "itch",
+    "sourceId": "itch-4619288",
+    "tags": [
+      "colony",
+      "space",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Glorgo's Microplastics Mine",
+    "summary": "微型采矿沙盒，资源与工厂链。",
+    "url": "https://glorgosmines.itch.io/glorgos-microplastics-mine",
+    "imageUrl": "/covers/itch-4208292-glorgos-microplastics-mine.jpg",
+    "source": "itch",
+    "sourceId": "itch-4208292",
+    "tags": [
+      "mining",
+      "sandbox",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "The Mountain",
+    "summary": "山岳世界探索建造向。",
+    "url": "https://goldi18489.itch.io/the-mountain",
+    "imageUrl": "/covers/itch-4491093-the-mountain.jpg",
+    "source": "itch",
+    "sourceId": "itch-4491093",
+    "tags": [
+      "explore",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Versari",
+    "summary": "殖民地新作，聚落系统向。",
+    "url": "https://versaliate.itch.io/versari",
+    "imageUrl": "/covers/itch-4444480-versari.jpg",
+    "source": "itch",
+    "sourceId": "itch-4444480",
+    "tags": [
+      "colony",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Hearthwood",
+    "summary": "低面温馨林居，可读剪影与家园系统。",
+    "url": "https://qwevo.itch.io/hearthwood",
+    "imageUrl": "/covers/itch-4987230-hearthwood.jpg",
+    "source": "itch",
+    "sourceId": "itch-4987230",
+    "tags": [
+      "lowpoly",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "Morphivore",
+    "summary": "低面变形生物玩法，形变可读。",
+    "url": "https://eliodeb87.itch.io/morphivore",
+    "imageUrl": "/covers/itch-4986004-morphivore.jpg",
+    "source": "itch",
+    "sourceId": "itch-4986004",
+    "tags": [
+      "lowpoly",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "'Pivot' - Cozy Lawncare",
+    "summary": "温馨草坪打理，玩具感日常系统。",
+    "url": "https://homiesanto.itch.io/pivot",
+    "imageUrl": "/covers/itch-4984049-pivot.jpg",
+    "source": "itch",
+    "sourceId": "itch-4984049",
+    "tags": [
+      "cozy",
+      "toy",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "FAWNFACE",
+    "summary": "低面风格独立游戏角色世界。",
+    "url": "https://tempori.itch.io/fawnface",
+    "imageUrl": "/covers/itch-4982093-fawnface.jpg",
+    "source": "itch",
+    "sourceId": "itch-4982093",
+    "tags": [
+      "lowpoly",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "fishing at the end of the world.",
+    "summary": "末日钓鱼沙盒，慢系统与氛围。",
+    "url": "https://eepyj.itch.io/fishing-at-the-end-of-the-world",
+    "imageUrl": "/covers/itch-4982598-fishing-at-the-end-of-the-world.jpg",
+    "source": "itch",
+    "sourceId": "itch-4982598",
+    "tags": [
+      "sandbox",
+      "fishing",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "game",
+    "title": "THE TECHNOLOGIC SCAPE 0.1",
+    "summary": "低面科技景观漫游，形清楚。",
+    "url": "https://iandevs.itch.io/tecnologic-scape",
+    "imageUrl": "/covers/itch-4980819-tecnologic-scape.jpg",
+    "source": "itch",
+    "sourceId": "itch-4980819",
+    "tags": [
+      "lowpoly",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "7 Fantasy RPG Lightning Effects",
+    "summary": "奇幻 RPG 闪电 VFX 包，材质会动的特效。",
+    "url": "https://layau.itch.io/7-fantasy-rpg-lightning-effects",
+    "imageUrl": "/covers/itch-4957731-7-fantasy-rpg-lightning-effects.jpg",
+    "source": "itch",
+    "sourceId": "itch-4957731",
+    "tags": [
+      "vfx",
+      "lightning",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Particle Awakening 粒子覺醒",
+    "summary": "粒子觉醒视觉演示，GPU 粒子在算。",
+    "url": "https://kid421.itch.io/particle-awakening-20260612",
+    "imageUrl": "/covers/itch-4655431-particle-awakening-20260612.jpg",
+    "source": "itch",
+    "sourceId": "itch-4655431",
+    "tags": [
+      "particles",
+      "vfx",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Melting Collosus",
+    "summary": "融化巨像视觉实验，流体感材质。",
+    "url": "https://alont.itch.io/melting-collosus",
+    "imageUrl": "/covers/itch-4829899-melting-collosus.jpg",
+    "source": "itch",
+    "sourceId": "itch-4829899",
+    "tags": [
+      "fluid",
+      "visual",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Svetochi",
+    "summary": "光影视觉向独立小品。",
+    "url": "https://klaviaturist.itch.io/svetochi",
+    "imageUrl": "/covers/itch-4759934-svetochi.jpg",
+    "source": "itch",
+    "sourceId": "itch-4759934",
+    "tags": [
+      "light",
+      "visual",
+      "itch"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Terrain Raycast",
+    "summary": "地形射线检测，程序化地表交互演示。",
+    "url": "https://threejs.org/examples/#webgl_geometry_terrain_raycast",
+    "imageUrl": "/covers/three-webgl_geometry_terrain_raycast.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_geometry_terrain_raycast",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Instancing Scatter",
+    "summary": "实例散布，草地/碎屑级 GPU 批量。",
+    "url": "https://threejs.org/examples/#webgl_instancing_scatter",
+    "imageUrl": "/covers/three-webgl_instancing_scatter.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_instancing_scatter",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Voxel Painter",
+    "summary": "可交互体素绘制，沙盒建造感。",
+    "url": "https://threejs.org/examples/#webgl_interactive_voxelpainter",
+    "imageUrl": "/covers/three-webgl_interactive_voxelpainter.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_interactive_voxelpainter",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Cubemap Mipmaps",
+    "summary": "立方体贴图 mip，环境反射技术。",
+    "url": "https://threejs.org/examples/#webgl_materials_cubemap_render_to_mipmaps",
+    "imageUrl": "/covers/three-webgl_materials_cubemap_render_to_mipmaps.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_cubemap_render_to_mipmaps",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Alpha Hash Materials",
+    "summary": "Alpha Hash 透明材质，去锯齿透贴。",
+    "url": "https://threejs.org/examples/#webgl_materials_alphahash",
+    "imageUrl": "/covers/three-webgl_materials_alphahash.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_alphahash",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Wireframe Materials",
+    "summary": "线框材质，低面形可读。",
+    "url": "https://threejs.org/examples/#webgl_materials_wireframe",
+    "imageUrl": "/covers/three-webgl_materials_wireframe.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_wireframe",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js PMREM Equirectangular",
+    "summary": "PMREM 环境光，材质会吃光。",
+    "url": "https://threejs.org/examples/#webgl_pmrem_equirectangular",
+    "imageUrl": "/covers/three-webgl_pmrem_equirectangular.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_pmrem_equirectangular",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js PMREM Cubemap",
+    "summary": "PMREM 立方体环境，车漆/金属向。",
+    "url": "https://threejs.org/examples/#webgl_pmrem_cubemap",
+    "imageUrl": "/covers/three-webgl_pmrem_cubemap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_pmrem_cubemap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Shader Demo",
+    "summary": "基础自定义 shader 管线示例。",
+    "url": "https://threejs.org/examples/#webgl_shader",
+    "imageUrl": "/covers/three-webgl_shader.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shader",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js DOF Postprocessing",
+    "summary": "景深后处理，镜头空气感。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_dof",
+    "imageUrl": "/covers/three-webgl_postprocessing_dof.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_dof",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js GTAO",
+    "summary": "GTAO 遮蔽，体积感更稳。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_gtao",
+    "imageUrl": "/covers/three-webgl_postprocessing_gtao.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_gtao",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Outline Pass",
+    "summary": "描边后处理，NPR 可读边。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_outline",
+    "imageUrl": "/covers/three-webgl_postprocessing_outline.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_outline",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Advanced Post",
+    "summary": "复合后处理栈演示。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_advanced",
+    "imageUrl": "/covers/three-webgl_postprocessing_advanced.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_advanced",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js 3D LUT",
+    "summary": "3D LUT 调色，电影级成片。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_3dlut",
+    "imageUrl": "/covers/three-webgl_postprocessing_3dlut.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_3dlut",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Dynamic Instancing",
+    "summary": "动态实例化，活系统密度。",
+    "url": "https://threejs.org/examples/#webgl_instancing_dynamic",
+    "imageUrl": "/covers/three-webgl_instancing_dynamic.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_instancing_dynamic",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Morph Instancing",
+    "summary": "形态插值实例，生物群感。",
+    "url": "https://threejs.org/examples/#webgl_instancing_morph",
+    "imageUrl": "/covers/three-webgl_instancing_morph.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_instancing_morph",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js Video Materials",
+    "summary": "视频材质，动态表面。",
+    "url": "https://threejs.org/examples/#webgl_materials_video",
+    "imageUrl": "/covers/three-webgl_materials_video.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_video",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js SAO",
+    "summary": "SAO 遮蔽后处理。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_sao",
+    "imageUrl": "/covers/three-webgl_postprocessing_sao.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_sao",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-09"
+  },
+  {
     "type": "inspiration",
     "title": "Hexagon Farming 六角农场",
     "summary": "六角像素农场地砖，直接对标神视角六角世界。",
