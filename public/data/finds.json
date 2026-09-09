@@ -1,5 +1,175 @@
 [
   {
+    "type": "inspiration",
+    "title": "Willowbrook 定居模拟像素包",
+    "summary": "像素定居模拟：劳工动画+建筑生命周期+完整 UI，直接贴神视角村落层。",
+    "url": "https://defaulted19.itch.io/willowbrook-1616-settlement-sim-asset-pack",
+    "imageUrl": "/covers/itch-defaulted19-willowbrook.jpg",
+    "source": "itch",
+    "sourceId": "itch-defaulted19-willowbrook",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farm 四季农场地砖",
+    "summary": "16×16 暖色农场地砖作物动物四季重绘，玩具感色块清楚。",
+    "url": "https://lungucristian1980.itch.io/cozy-farm-tileset-crops-seasons",
+    "imageUrl": "/covers/itch-lungu-cozy-farm-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-lungu-cozy-farm-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Northforge 温馨像素 UI",
+    "summary": "奶油木框九宫面板按钮血条与农场图标，贴合缝线贴纸 HUD。",
+    "url": "https://northforge-interactive.itch.io/cozy-ui-pixel-kit",
+    "imageUrl": "/covers/itch-northforge-cozy-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-northforge-cozy-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farming 101 像素农场 RPG",
+    "summary": "16×16 农场 RPG 地砖角色动物房屋，系统层可读。",
+    "url": "https://pixelechoes.itch.io/farming-101",
+    "imageUrl": "/covers/itch-pixelechoes-farming-101.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelechoes-farming-101",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Harvest Valley 农场生活包",
+    "summary": "暖色俯视农场建筑作物与七位农夫角色，村落群像清楚。",
+    "url": "https://lennoxstudio.itch.io/harvest-valley-farm-life-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-lennox-harvest-valley.jpg",
+    "source": "itch",
+    "sourceId": "itch-lennox-harvest-valley",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute British Town NPCs",
+    "summary": "30 位可爱英式镇民四向走循环，职业剪影清楚适合人口层。",
+    "url": "https://justkeejthings.itch.io/30-cute-british-town-npcs",
+    "imageUrl": "/covers/itch-justkeej-british-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-justkeej-british-npcs",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Mocha 图书馆咖啡馆",
+    "summary": "奇比顾客立绘+奶油咖啡馆 UI，贴纸感角色与界面。",
+    "url": "https://chiewaters.itch.io/mocha-manuscripts-cozy-library-cafe-assets",
+    "imageUrl": "/covers/itch-chiewaters-mocha.jpg",
+    "source": "itch",
+    "sourceId": "itch-chiewaters-mocha",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Farming UI 完整版",
+    "summary": "296 件手绘奶油木框农场 UI 与完整参考屏，贴合暖沙主菜单。",
+    "url": "https://nexavisuals.itch.io/cozy-farming-ui-kit-complete-edition",
+    "imageUrl": "/covers/itch-nexa-farm-ui-complete.jpg",
+    "source": "itch",
+    "sourceId": "itch-nexa-farm-ui-complete",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "手绘风乡下小屋",
+    "summary": "手绘 3D 小屋与植被，弯曲体块与绘本光，玩具感场景参考。",
+    "url": "https://80.lv/articles/learn-how-to-create-a-hand-painted-3d-cottage-using-3dcoat-maya",
+    "imageUrl": "/covers/80lv-handpainted-cottage.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-handpainted-cottage",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Sunny Hill 阳光欧式村",
+    "summary": "橙屋顶丘陵欧式村，体块清晰阳光玩具色。",
+    "url": "https://80.lv/articles/sunny-hill-village-a-cozy-european-village-created-with-umodeler-x",
+    "imageUrl": "/covers/80lv-sunny-hill-village.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-sunny-hill-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-09",
+    "style": "cartoon",
+    "kind": "scene"
+  },
+  {
     "type": "shader",
     "title": "Blender Bard 角色渲染",
     "summary": "Blender 角色渲染展示，可读形与材质光。",
