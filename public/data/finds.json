@@ -1,258 +1,173 @@
 [
   {
-    "title": "Simply Cozy 像素包",
-    "summary": "统一俯视配色的建筑/自然/角色/UI一体包，剪影清晰，适合神视角村庄铺陈。",
+    "type": "inspiration",
+    "title": "Simply Cozy 一体像素包",
+    "summary": "俯视房屋商店家具角色与完整 UI 同色系，剪影清楚适合神视角村落层。",
     "url": "https://iamblinky.itch.io/simply-cozy",
-    "imageUrl": "https://img.itch.zone/aW1nLzI3NjczMzAwLmdpZg==/original/wcntBO.gif",
+    "imageUrl": "/covers/itch-iamblinky-simply-cozy.jpg",
     "source": "itch",
     "sourceId": "itch-iamblinky-simply-cozy",
-    "style": "pixel",
-    "kind": "scene",
     "tags": [
       "design_inspiration",
       "pixel",
       "scene"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "pixel",
+    "kind": "scene"
   },
   {
-    "title": "Cozy City 16x16",
-    "summary": "暖色纽约风街景模块化建筑与载具，可读俯视城市铺陈，补足村庄外的城镇质感。",
+    "type": "inspiration",
+    "title": "Cozy City 16×16 像素城",
+    "summary": "模块化纽约风街铺道路车辆，暖色像素街区层次清楚。",
     "url": "https://maygetsu.itch.io/cozy-city-16x16-topdown-pixel-asset-pack",
-    "imageUrl": "https://img.itch.zone/aW1nLzI2NTgzNzYxLnBuZw==/original/eOoyLC.png",
+    "imageUrl": "/covers/itch-maygetsu-cozy-city.jpg",
     "source": "itch",
     "sourceId": "itch-maygetsu-cozy-city",
-    "style": "pixel",
-    "kind": "scene",
     "tags": [
       "design_inspiration",
       "pixel",
       "scene"
-    ]
-  },
-  {
-    "title": "Oakheart 村庄外景",
-    "summary": "手作16x16屋顶/路面/桥/市集道具，暖色村庄外景完整，适合六边形神视角地块参考。",
-    "url": "https://z3er1n.itch.io/oakheart-exteriors",
-    "imageUrl": "https://img.itch.zone/aW1nLzI5ODQ2NTg2LnBuZw==/original/9bu4J5.png",
-    "source": "itch",
-    "sourceId": "itch-pixelkiln-oakheart",
+    ],
+    "collectedAt": "2026-09-10",
     "style": "pixel",
-    "kind": "scene",
-    "tags": [
-      "design_inspiration",
-      "pixel",
-      "scene"
-    ]
+    "kind": "scene"
   },
   {
-    "title": "Pixelwood Valley",
-    "summary": "温馨16x16山谷村庄与自然地块，建筑剪影清楚，适合WorldBox式俯视世界搭建灵感。",
+    "type": "inspiration",
+    "title": "Pixelwood Valley 像素木谷",
+    "summary": "16×16 红瓦小屋农田森林生物群系，玩具感村落地块可读。",
     "url": "https://gowldev.itch.io/pixelwood-valley",
-    "imageUrl": "https://img.itch.zone/aW1nLzIyNzM3NDEzLmdpZg==/original/FweFSX.gif",
+    "imageUrl": "/covers/itch-gowldev-pixelwood-valley.jpg",
     "source": "itch",
     "sourceId": "itch-gowldev-pixelwood-valley",
-    "style": "pixel",
-    "kind": "scene",
     "tags": [
       "design_inspiration",
       "pixel",
       "scene"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "pixel",
+    "kind": "scene"
   },
   {
-    "title": "Tiny Farm RPG 角色",
-    "summary": "明亮可爱农场角色与动物模块化部件，饱和卡通剪影强，适合国民小人参考。",
-    "url": "https://maevedevs.itch.io/farm-rpg",
-    "imageUrl": "https://img.itch.zone/aW1nLzIxODQxODU0LnBuZw==/original/02JU67.png",
+    "type": "inspiration",
+    "title": "48 Pixel Townsfolk 镇民",
+    "summary": "48 位硬像素店员工匠官员同比例，职业剪影适合人口层。",
+    "url": "https://antahonist.itch.io/48-pixel-townsfolk",
+    "imageUrl": "/covers/itch-antahonist-48-pixel-townsfolk.jpg",
     "source": "itch",
-    "sourceId": "itch-maevedevs-farm-rpg",
-    "style": "pixel",
-    "kind": "character",
+    "sourceId": "itch-antahonist-48-pixel-townsfolk",
     "tags": [
       "design_inspiration",
       "pixel",
       "character"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "pixel",
+    "kind": "character"
   },
   {
-    "title": "Cute Fantasy RPG",
-    "summary": "简洁可读的16x16农场/房屋/角色一体包，玩具感强，适合上帝视角地块与小人。",
-    "url": "https://kenmi-art.itch.io/cute-fantasy-rpg",
-    "imageUrl": "https://img.itch.zone/aW1nLzIzNzEzODkyLmdpZg==/original/kB6YR7.gif",
+    "type": "inspiration",
+    "title": "PIXEL UI KIT II 六主题",
+    "summary": "木石羊皮纸铁霜金六套九宫面板对话框小地图，贴纸感 HUD。",
+    "url": "https://gegx.itch.io/pixel-ui-kit-2",
+    "imageUrl": "/covers/itch-gegx-pixel-ui-kit-2.jpg",
     "source": "itch",
-    "sourceId": "itch-kenmi-cute-fantasy",
-    "style": "pixel",
-    "kind": "scene",
-    "tags": [
-      "design_inspiration",
-      "pixel",
-      "scene"
-    ]
-  },
-  {
-    "title": "Cute Fantasy UI",
-    "summary": "手绘书本框与按钮滑条图标，贴纸感HUD，贴近暖沙象牙面板方向。",
-    "url": "https://kenmi-art.itch.io/cute-fantasy-ui",
-    "imageUrl": "https://img.itch.zone/aW1nLzIzODI3NTg2LmdpZg==/original/X27Nx%2F.gif",
-    "source": "itch",
-    "sourceId": "itch-kenmi-cute-fantasy-ui",
-    "style": "pixel",
-    "kind": "ui",
+    "sourceId": "itch-gegx-pixel-ui-kit-2",
     "tags": [
       "design_inspiration",
       "pixel",
       "ui"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "pixel",
+    "kind": "ui"
   },
   {
-    "title": "Cute Fantasy 角色",
-    "summary": "骑士/兽人等清晰四向像素小人，剪影分明，适合神视角国民与军队小人参考。",
-    "url": "https://kenmi-art.itch.io/cute-fantasy-characters-16x16-top-down-pixel-art-asset-pack",
-    "imageUrl": "https://img.itch.zone/aW1nLzE4MzczOTEyLmdpZg==/original/7tZnAb.gif",
+    "type": "inspiration",
+    "title": "Pixel RPG Dialogue UI",
+    "summary": "经典像素对话面板选项表情泡与名牌，缝线贴纸感强。",
+    "url": "https://indigolay.itch.io/pixel-rpg-dialogue-ui",
+    "imageUrl": "/covers/itch-indigolay-dialogue-ui.jpg",
     "source": "itch",
-    "sourceId": "itch-kenmi-cute-fantasy-characters",
-    "style": "pixel",
-    "kind": "character",
+    "sourceId": "itch-indigolay-dialogue-ui",
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
-    ]
+      "ui"
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "pixel",
+    "kind": "ui"
   },
   {
-    "title": "Kawaii GUI 贴纸包",
-    "summary": "可改色的卡哇伊面板按钮与表情，贴纸/胶囊UI感强，适合轻量现代像素HUD。",
-    "url": "https://pocogamesco.itch.io/ui-user-interface-kawaii-pack",
-    "imageUrl": "https://img.itch.zone/aW1nLzIyMjc5MjcxLnBuZw==/original/z6%2BFcf.png",
+    "type": "inspiration",
+    "title": "Floating Coven 奇比角色",
+    "summary": "赛璐璐描边魔法学院立绘与法术 UI，饱和卡通角色设定。",
+    "url": "https://chiewaters.itch.io/paws-pixels-the-floating-coven-2d-visual-novel-assets",
+    "imageUrl": "/covers/itch-chiewaters-floating-coven.jpg",
     "source": "itch",
-    "sourceId": "itch-pocogamesco-kawaii-gui",
-    "style": "cartoon",
-    "kind": "ui",
+    "sourceId": "itch-chiewaters-floating-coven",
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
-    ]
-  },
-  {
-    "title": "Snoblin 村民NPC",
-    "summary": "多职业四向村民与对话肖像，剪影清晰，适合国家列表与地图小人角色表。",
-    "url": "https://snoblin.itch.io/human-npcs",
-    "imageUrl": "https://img.itch.zone/aW1nLzIwOTE5MDI0LnBuZw==/original/NzeH%2F8.png",
-    "source": "itch",
-    "sourceId": "itch-snoblin-human-npcs",
-    "style": "pixel",
-    "kind": "character",
-    "tags": [
-      "design_inspiration",
-      "pixel",
       "character"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "cartoon",
+    "kind": "character"
   },
   {
-    "title": "Forest Village 64x64",
-    "summary": "半写实卡通森林村庄建筑与职业NPC，玩具感场景，适合神视角聚落氛围。",
-    "url": "https://bgdnolan.itch.io/forest-village-6464-pixel-art-sprite-pack-semi-realistic-cartoony-assets",
-    "imageUrl": "https://img.itch.zone/aW1nLzIzNTIxNDkwLnBuZw==/original/tFzFq9.png",
-    "source": "itch",
-    "sourceId": "itch-bgdnolan-forest-village",
-    "style": "pixel",
-    "kind": "scene",
-    "tags": [
-      "design_inspiration",
-      "pixel",
-      "scene"
-    ]
-  },
-  {
-    "title": "Starsand Island",
-    "summary": "吉卜力风饱和卡通海岛农场与角色，玩具感场景强，适合卡通风格世界观参考。",
+    "type": "inspiration",
+    "title": "Starsand Island 海岛农场",
+    "summary": "吉卜力味海边农园与角色，玩具感风格化场景参考。",
     "url": "https://80.lv/articles/this-ghibli-style-farming-simulation-will-enter-early-access-soon",
-    "imageUrl": "https://cdn.80.lv/api/upload/meta/46675/images/6981b66c5bb95/contain_1200x630.jpg",
+    "imageUrl": "/covers/80lv-starsand-island.jpg",
     "source": "80lv",
     "sourceId": "80lv-starsand-island",
-    "style": "cartoon",
-    "kind": "scene",
     "tags": [
       "design_inspiration",
       "cartoon",
       "scene"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "cartoon",
+    "kind": "scene"
   },
   {
-    "title": "Vivarium 玻璃罩小镇",
-    "summary": "手绘赛璐珞夏日小镇与贴纸收集感，角色可读、场景玩具化，贴合设计灵感口味。",
+    "type": "inspiration",
+    "title": "Vivarium 绘本风小镇",
+    "summary": "手绘赛璐璐无尽夏日微缩镇，饱和笔触玩具感场景。",
     "url": "https://80.lv/articles/this-cozy-hand-drawn-anime-inspired-farming-sim-looks-like-a-ghibli-movie",
-    "imageUrl": "https://cdn.80.lv/api/upload/meta/48703/images/6a2870d55860e/contain_1200x630.jpg",
+    "imageUrl": "/covers/80lv-vivarium.jpg",
     "source": "80lv",
     "sourceId": "80lv-vivarium",
-    "style": "cartoon",
-    "kind": "scene",
     "tags": [
       "design_inspiration",
       "cartoon",
       "scene"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "cartoon",
+    "kind": "scene"
   },
   {
-    "title": "Songs of Glimmerwick",
-    "summary": "手绘木林魔法学院与农场生活，温暖卡通场景，适合奇幻村庄氛围板。",
-    "url": "https://80.lv/articles/check-out-this-upcoming-musical-woodland-fantasy-game-combining-rpg-with-life-farm-sim",
-    "imageUrl": "https://cdn.80.lv/api/upload/meta/47569/images/69ce53b50e1e8/contain_1200x630.jpg",
+    "type": "inspiration",
+    "title": "Sushi On Wheels 钩织菜单",
+    "summary": "钩织角色换装主菜单，手作贴纸感 UI 参考很直接。",
+    "url": "https://80.lv/articles/this-indie-game-might-have-the-cutest-menu-ever",
+    "imageUrl": "/covers/80lv-sushi-on-wheels-menu.jpg",
     "source": "80lv",
-    "sourceId": "80lv-songs-glimmerwick",
-    "style": "cartoon",
-    "kind": "scene",
-    "tags": [
-      "design_inspiration",
-      "cartoon",
-      "scene"
-    ]
-  },
-  {
-    "title": "Milki Delivery",
-    "summary": "手绘乡村骑行送奶场景与角色，饱和玩具色，适合卡通场景与小人剪影参考。",
-    "url": "https://80.lv/articles/check-out-behind-the-scenes-of-2d-parallax-environment-from-cozy-summer-game",
-    "imageUrl": "https://cdn.80.lv/api/upload/meta/46627/images/697c7edfe9c7b/contain_1200x630.jpg",
-    "source": "80lv",
-    "sourceId": "80lv-milki-delivery",
-    "style": "cartoon",
-    "kind": "scene",
-    "tags": [
-      "design_inspiration",
-      "cartoon",
-      "scene"
-    ]
-  },
-  {
-    "title": "Cozy Farming HUD Pack04",
-    "summary": "暖木奶油色手绘HUD状态条与资源框，圆润友好，贴近锁定的暖沙象牙UI风格。",
-    "url": "https://www.artstation.com/marketplace/p/klRyg/cozy-farming-ui-kit-hud-status-elements-pack-04",
-    "imageUrl": "https://cdna.artstation.com/p/marketplace/presentation_assets/005/652/166/medium/file.jpg?1781985663",
-    "source": "artstation",
-    "sourceId": "art-klRyg",
-    "style": "cartoon",
-    "kind": "ui",
+    "sourceId": "80lv-sushi-on-wheels-menu",
     "tags": [
       "design_inspiration",
       "cartoon",
       "ui"
-    ]
-  },
-  {
-    "title": "Pixem Forest Valley UI",
-    "summary": "木纹奶油像素UI含作物图标与肖像，农庄/村庄HUD完整，适合贴纸感界面参考。",
-    "url": "https://assetstore.unity.com/packages/2d/gui/pixem-forest-valley-382882",
-    "imageUrl": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9172617d-c0f3-44e2-8533-e3c82155db3f.jpg?v=1",
-    "source": "other",
-    "sourceId": "other-pixem-forest-valley",
-    "style": "pixel",
-    "kind": "ui",
-    "tags": [
-      "design_inspiration",
-      "pixel",
-      "ui"
-    ]
+    ],
+    "collectedAt": "2026-09-10",
+    "style": "cartoon",
+    "kind": "ui"
   },
   {
     "type": "game",
