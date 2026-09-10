@@ -1,5 +1,459 @@
 [
   {
+    "type": "game",
+    "title": "Over Mob Add-On v1.1 宝宝造型",
+    "summary": "Minecraft Over Mob 插件 sneak peek：Prime 宝宝新造型对齐 Tiny Takeover。",
+    "url": "https://x.com/OvertalesStudio/status/2097490174699811240",
+    "imageUrl": "/covers/2097490174699811240.jpg",
+    "source": "x",
+    "sourceId": "2097490174699811240",
+    "tags": [
+      "minecraft",
+      "addon",
+      "3d"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Minecraft Dungeons II 新系统预告",
+    "summary": "开放世界、装备栏、附魔、合作与新维度 Sift；日服官方预告片。",
+    "url": "https://x.com/minecraftjapan/status/2097263685739970724",
+    "imageUrl": "/covers/2097263685739970724.jpg",
+    "source": "x",
+    "sourceId": "2097263685739970724",
+    "tags": [
+      "minecraft",
+      "dungeons",
+      "action"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "wattles Minecraft 高能片段",
+    "summary": "Minecraft 相关高能短片，收藏夹原帖带实机画面。",
+    "url": "https://x.com/itiswattles/status/2097390336767140095",
+    "imageUrl": "/covers/2097390336767140095.jpg",
+    "source": "x",
+    "sourceId": "2097390336767140095",
+    "tags": [
+      "minecraft",
+      "gameplay"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Folklands 1.0 正式发售",
+    "summary": "四年制作、一年半 EA：Folklands 1.0 明日上线预告。",
+    "url": "https://x.com/FolklandsGame/status/2097334316434964910",
+    "imageUrl": "/covers/2097334316434964910.jpg",
+    "source": "x",
+    "sourceId": "2097334316434964910",
+    "tags": [
+      "folklands",
+      "indie",
+      "steam"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Minecraft Dungeons 概念艺术",
+    "summary": "官方放出 Dungeons 概念原画四联。",
+    "url": "https://x.com/dungeonsgame/status/2097374323329699996",
+    "imageUrl": "/covers/2097374323329699996.jpg",
+    "source": "x",
+    "sourceId": "2097374323329699996",
+    "tags": [
+      "minecraft",
+      "concept-art",
+      "dungeons"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "按开局年代生成城市与道路",
+    "summary": "Christoph Wallura：城市与道路随所选开局年代一起生成，世界模拟 WIP。",
+    "url": "https://x.com/chris_wallura/status/2097507982565057020",
+    "imageUrl": "/covers/2097507982565057020.jpg",
+    "source": "x",
+    "sourceId": "2097507982565057020",
+    "tags": [
+      "world-sim",
+      "procgen",
+      "cities",
+      "roads"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Minecraft 游泳重做模组 EA",
+    "summary": "Hatsuya 游泳 overhaul 早鸟上线 Ko-fi，Blockbench 制作。",
+    "url": "https://x.com/HatsuyaDev/status/2097383130373984569",
+    "imageUrl": "/covers/2097383130373984569.jpg",
+    "source": "x",
+    "sourceId": "2097383130373984569",
+    "tags": [
+      "minecraft",
+      "mod",
+      "swimming"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "PSX Strike",
+    "summary": "Godot 第三人称太空采矿，PSX 低面宇宙恐怖 jam。",
+    "url": "https://b1773rm4n.itch.io/psx-strike",
+    "imageUrl": "/covers/itch-psx-strike.jpg",
+    "source": "itch",
+    "sourceId": "itch-psx-strike",
+    "tags": [
+      "psx",
+      "godot",
+      "space"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "FAREWELL",
+    "summary": "PSX 网约车心理恐怖，信任/拒绝乘客。",
+    "url": "https://zenthrall.itch.io/farewell",
+    "imageUrl": "/covers/itch-farewell.jpg",
+    "source": "itch",
+    "sourceId": "itch-farewell",
+    "tags": [
+      "psx",
+      "horror"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "House Cleaning Horror",
+    "summary": "低面 PSX 通宵打扫废弃宅 demo。",
+    "url": "https://verbatimgameworks.itch.io/house-cleaning-horror",
+    "imageUrl": "/covers/itch-house-cleaning-horror.jpg",
+    "source": "itch",
+    "sourceId": "itch-house-cleaning-horror",
+    "tags": [
+      "psx",
+      "horror",
+      "low-poly"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Astro Colony",
+    "summary": "可破坏体素星球上的太空殖民地与传送带自动化，探索+生产线。",
+    "url": "https://store.steampowered.com/app/1614550",
+    "imageUrl": "/covers/steam-1614550.jpg",
+    "source": "steam",
+    "sourceId": "steam-1614550",
+    "tags": [
+      "colony",
+      "voxel",
+      "automation",
+      "space",
+      "sandbox"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Sandustry",
+    "summary": "每个像素都是资源的开放世界工厂：融化/蒸汽/燃烧链式反应，活物质模拟。",
+    "url": "https://store.steampowered.com/app/2764460",
+    "imageUrl": "/covers/steam-2764460.jpg",
+    "source": "steam",
+    "sourceId": "steam-2764460",
+    "tags": [
+      "factory",
+      "automation",
+      "pixel",
+      "physics",
+      "sandbox",
+      "early-access"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Flotsam",
+    "summary": "鲜艳漂浮垃圾海上城建：打捞回收产线、探索与幸存者管理，玩具色调。",
+    "url": "https://store.steampowered.com/app/821250",
+    "imageUrl": "/covers/steam-821250.jpg",
+    "source": "steam",
+    "sourceId": "steam-821250",
+    "tags": [
+      "city-builder",
+      "sailing",
+      "colony",
+      "stylized",
+      "production"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "JustBuyIt",
+    "summary": "Godot 体素工厂/破坏沙盒：开放世界采矿、机器产线与金币导向自动化。",
+    "url": "https://daki1442.itch.io/justbuyit",
+    "imageUrl": "/covers/itch-daki1442-justbuyit.jpg",
+    "source": "itch",
+    "sourceId": "itch-daki1442-justbuyit",
+    "tags": [
+      "Godot",
+      "voxel",
+      "factory",
+      "automation",
+      "sandbox",
+      "3D"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "game",
+    "title": "Iskarn",
+    "summary": "体素殖民地生存：挖建管理+夜袭，Minecraft×RimWorld 式活系统。",
+    "url": "https://store.steampowered.com/app/4586360",
+    "imageUrl": "/covers/steam-4586360.jpg",
+    "source": "steam",
+    "sourceId": "steam-4586360",
+    "tags": [
+      "voxel",
+      "colony",
+      "survival",
+      "sandbox",
+      "3D"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "Geometry Nodes 植被卡片烘焙",
+    "summary": "Blender Geometry Nodes 做植被 view-angle 卡片与 UV packing，God of War 植被思路，技术美术向。",
+    "url": "https://x.com/JesseMiettinen/status/2097640806668534052",
+    "imageUrl": "/covers/2097640806668534052.jpg",
+    "source": "x",
+    "sourceId": "2097640806668534052",
+    "tags": [
+      "blender",
+      "geometry-nodes",
+      "vegetation",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "Botanics 植物研究",
+    "summary": "15k 草叶 + GPU 流体风 + 体积光萤火虫。",
+    "url": "https://botanics.sujen.co",
+    "imageUrl": "/covers/botanics-sujen.jpg",
+    "source": "other",
+    "sourceId": "botanics-sujen",
+    "tags": [
+      "grass",
+      "volumetric",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 体积火",
+    "summary": "体积火焰模拟，火在算。",
+    "url": "https://threejs.org/examples/#webgpu_volume_fire",
+    "imageUrl": "/covers/threejs-webgpu_volume_fire.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_fire",
+    "tags": [
+      "fire",
+      "volume",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Backdrop Water",
+    "summary": "背景水深与折射。",
+    "url": "https://threejs.org/examples/#webgpu_backdrop_water",
+    "imageUrl": "/covers/threejs-webgpu_backdrop_water.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_backdrop_water",
+    "tags": [
+      "water",
+      "backdrop",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 软粒子",
+    "summary": "软粒子体积感。",
+    "url": "https://threejs.org/examples/#webgpu_particles_soft",
+    "imageUrl": "/covers/threejs-webgpu_particles_soft.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_particles_soft",
+    "tags": [
+      "particles",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU VXGI",
+    "summary": "体素全局光照。",
+    "url": "https://threejs.org/examples/#webgpu_vxgi",
+    "imageUrl": "/covers/threejs-webgpu_vxgi.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_vxgi",
+    "tags": [
+      "gi",
+      "vxgi",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU VXGI Sponza",
+    "summary": "Sponza 体素 GI。",
+    "url": "https://threejs.org/examples/#webgpu_vxgi_sponza",
+    "imageUrl": "/covers/threejs-webgpu_vxgi_sponza.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_vxgi_sponza",
+    "tags": [
+      "gi",
+      "sponza",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 物理灯光",
+    "summary": "物理灯光模型。",
+    "url": "https://threejs.org/examples/#webgpu_lights_physical",
+    "imageUrl": "/covers/threejs-webgpu_lights_physical.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lights_physical",
+    "tags": [
+      "lighting",
+      "physical",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 3D 计算纹理",
+    "summary": "计算着色器驱动 3D 纹理。",
+    "url": "https://threejs.org/examples/#webgpu_compute_texture_3d",
+    "imageUrl": "/covers/threejs-webgpu_compute_texture_3d.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_texture_3d",
+    "tags": [
+      "compute",
+      "texture3d"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Points",
+    "summary": "计算点云。",
+    "url": "https://threejs.org/examples/#webgpu_compute_points",
+    "imageUrl": "/covers/threejs-webgpu_compute_points.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_points",
+    "tags": [
+      "compute",
+      "points"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Rasterizer",
+    "summary": "计算光栅化。",
+    "url": "https://threejs.org/examples/#webgpu_compute_rasterizer",
+    "imageUrl": "/covers/threejs-webgpu_compute_rasterizer.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_rasterizer",
+    "tags": [
+      "compute",
+      "rasterizer"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Rasterizer IBL",
+    "summary": "计算光栅化+IBL。",
+    "url": "https://threejs.org/examples/#webgpu_compute_rasterizer_ibl",
+    "imageUrl": "/covers/threejs-webgpu_compute_rasterizer_ibl.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_rasterizer_ibl",
+    "tags": [
+      "compute",
+      "ibl"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU PMREM Scene",
+    "summary": "场景 PMREM 环境光。",
+    "url": "https://threejs.org/examples/#webgpu_pmrem_scene",
+    "imageUrl": "/covers/threejs-webgpu_pmrem_scene.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_pmrem_scene",
+    "tags": [
+      "pmrem",
+      "lighting"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Sandbox",
+    "summary": "WebGPU 沙盒试验。",
+    "url": "https://threejs.org/examples/#webgpu_sandbox",
+    "imageUrl": "/covers/threejs-webgpu_sandbox.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_sandbox",
+    "tags": [
+      "sandbox",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TRAA",
+    "summary": "时间抗锯齿后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_traa",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_traa.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_traa",
+    "tags": [
+      "traa",
+      "post"
+    ],
+    "collectedAt": "2026-09-10"
+  },
+  {
     "type": "inspiration",
     "title": "Summer Village 32×32 像素村",
     "summary": "手绘 32×32 俯视村落：房屋市集蔬菜摊与四向村民，剪影清楚贴神视角定居层。",
