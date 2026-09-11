@@ -1,5 +1,550 @@
 [
   {
+    "type": "game",
+    "title": "Kaella 新动画 sneak peek",
+    "summary": "Asbar 角色 Kaella 动画迭代，游戏向实机动作。",
+    "url": "https://x.com/Asbar_official/status/2098045065239441695",
+    "imageUrl": "/covers/2098045065239441695.jpg",
+    "source": "x",
+    "sourceId": "2098045065239441695",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Vexlands 探索与地牢扩展",
+    "summary": "新土地、隐藏地牢、宝藏与世界扩张预告。",
+    "url": "https://x.com/VexlandsGame/status/2098087110020329872",
+    "imageUrl": "/covers/2098087110020329872.jpg",
+    "source": "x",
+    "sourceId": "2098087110020329872",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "Creator Glove beta31 材质刷",
+    "summary": "多组色标 Shade Brush、更大材质 ramp，Motion Lab 物理保留。",
+    "url": "https://x.com/khanito_/status/2098041078926446857",
+    "imageUrl": "/covers/2098041078926446857.jpg",
+    "source": "x",
+    "sourceId": "2098041078926446857",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Quiet Escape 安静逃离",
+    "summary": "静谧绿色场景实机画面。",
+    "url": "https://x.com/almirgusic/status/2098069203404079278",
+    "imageUrl": "/covers/2098069203404079278.jpg",
+    "source": "x",
+    "sourceId": "2098069203404079278",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "EIAS 护手剪辑彩蛋",
+    "summary": "设计总监剪辑 gauntlet 视频时的小失误彩蛋。",
+    "url": "https://x.com/eiasninelives/status/2098051538598195440",
+    "imageUrl": "/covers/2098051538598195440.jpg",
+    "source": "x",
+    "sourceId": "2098051538598195440",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Wildcraft RPG PC Gamer 报道",
+    "summary": "PC Gamer 报道其 RPG 与近期 playtest。",
+    "url": "https://x.com/wildcraft_games/status/2097785880203165716",
+    "imageUrl": "/covers/2097785880203165716.jpg",
+    "source": "x",
+    "sourceId": "2097785880203165716",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Rings of Zararaah 热带区",
+    "summary": "像素风 Metroidvania 热带生物群系实机。",
+    "url": "https://x.com/ableblock/status/2097757741255168422",
+    "imageUrl": "/covers/2097757741255168422.jpg",
+    "source": "x",
+    "sourceId": "2097757741255168422",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Even more green 更绿场景",
+    "summary": "绿色场景氛围实机。",
+    "url": "https://x.com/ilyamokka/status/2097946216487166190",
+    "imageUrl": "/covers/2097946216487166190.jpg",
+    "source": "x",
+    "sourceId": "2097946216487166190",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "花灵技能让花朵盛开",
+    "summary": "捕获 Flower spirit 后可用技能催花。",
+    "url": "https://x.com/yangyangmobile/status/2097937993394987289",
+    "imageUrl": "/covers/2097937993394987289.jpg",
+    "source": "x",
+    "sourceId": "2097937993394987289",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "刺客法师 Only Up 原型",
+    "summary": "垂直 Only Up 式关卡，法术导航的刺客法师原型。",
+    "url": "https://x.com/DannyLimanseta/status/2097746087851470944",
+    "imageUrl": "/covers/2097746087851470944.jpg",
+    "source": "x",
+    "sourceId": "2097746087851470944",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "大舰队时代新作转向",
+    "summary": "韩文开发者从渔夫游戏转向大舰队题材。",
+    "url": "https://x.com/D_c_o_ooo/status/2097686572984668342",
+    "imageUrl": "/covers/2097686572984668342.jpg",
+    "source": "x",
+    "sourceId": "2097686572984668342",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "蓝队被送回出生点",
+    "summary": "对抗玩法 playtest：蓝队被送回 spawn。",
+    "url": "https://x.com/TeoUuvana/status/2097754410910613540",
+    "imageUrl": "/covers/2097754410910613540.jpg",
+    "source": "x",
+    "sourceId": "2097754410910613540",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Arc of Icarus 免费 Demo",
+    "summary": "下周四免费 Demo；愿望单可收通知。",
+    "url": "https://x.com/arcoficarus/status/2097652585289187835",
+    "imageUrl": "/covers/2097652585289187835.jpg",
+    "source": "x",
+    "sourceId": "2097652585289187835",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Space Engineers 创意工坊：CVK",
+    "summary": "Masters of Motion: Quest of the CVK by CodyLabs。",
+    "url": "https://x.com/SpaceEngineersG/status/2097709493786218537",
+    "imageUrl": "/covers/2097709493786218537.jpg",
+    "source": "x",
+    "sourceId": "2097709493786218537",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "ARPG 预渲染场景道具包",
+    "summary": "可交互环境资产的预渲染 Prop Pack。",
+    "url": "https://x.com/awtdevassets/status/2097670983742021635",
+    "imageUrl": "/covers/2097670983742021635.jpg",
+    "source": "x",
+    "sourceId": "2097670983742021635",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Eyes of the Sky Playtest",
+    "summary": "Playtest 反馈良好，持续打磨细节。",
+    "url": "https://x.com/EyesOfTheSkyDev/status/2097820679538094542",
+    "imageUrl": "/covers/2097820679538094542.jpg",
+    "source": "x",
+    "sourceId": "2097820679538094542",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Endless Rails 的 Silo 味",
+    "summary": "开发期间狂刷 Silo，影响 Endless Rails 气质。",
+    "url": "https://x.com/StudioMonoblok/status/2097707997585654236",
+    "imageUrl": "/covers/2097707997585654236.jpg",
+    "source": "x",
+    "sourceId": "2097707997585654236",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "洞穴熊 vs 尖石木棍",
+    "summary": "洞穴熊进化 vs 人类尖石+棍子的幽默设定实机。",
+    "url": "https://x.com/EATMEATGames/status/2097697605547335721",
+    "imageUrl": "/covers/2097697605547335721.jpg",
+    "source": "x",
+    "sourceId": "2097697605547335721",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Gardens of Lutonia 2D/3D 视角",
+    "summary": "Early Access 中玩 2D/3D 视角切换器。",
+    "url": "https://x.com/snekjar/status/2097833772104212667",
+    "imageUrl": "/covers/2097833772104212667.jpg",
+    "source": "x",
+    "sourceId": "2097833772104212667",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "轻松开场的冒险 RPG",
+    "summary": "像素风冒险开场；Steam 愿望单。",
+    "url": "https://x.com/GarrettSavo/status/2097734258097848426",
+    "imageUrl": "/covers/2097734258097848426.jpg",
+    "source": "x",
+    "sourceId": "2097734258097848426",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Unity 地牢生成插件进度",
+    "summary": "地牢生成器进展，正做 Unity 插件。",
+    "url": "https://x.com/andynatagames/status/2097343358406410736",
+    "imageUrl": "/covers/2097343358406410736.jpg",
+    "source": "x",
+    "sourceId": "2097343358406410736",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "睡莲被撞会晃",
+    "summary": "物体撞上睡莲会浮动反馈。",
+    "url": "https://x.com/NarwhalnutDev/status/2097706377120481591",
+    "imageUrl": "/covers/2097706377120481591.jpg",
+    "source": "x",
+    "sourceId": "2097706377120481591",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "We March as One 大军自走棋",
+    "summary": "数万部队对撞的自走棋，技能树强化与多视角。",
+    "url": "https://x.com/Indie_FreaksJP/status/2097882811101503644",
+    "imageUrl": "/covers/2097882811101503644.jpg",
+    "source": "x",
+    "sourceId": "2097882811101503644",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "Erosion 换引擎前最后预告",
+    "summary": "升级引擎前最后几波实机预告之一。",
+    "url": "https://x.com/Erosion_Game/status/2097757515585036473",
+    "imageUrl": "/covers/2097757515585036473.jpg",
+    "source": "x",
+    "sourceId": "2097757515585036473",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "game",
+    "title": "作弊码让 1/100 树走动",
+    "summary": "thelastmarchoftheends 作弊码：百分之一的树会走动。",
+    "url": "https://x.com/tomjohndesign/status/2097874521902735517",
+    "imageUrl": "/covers/2097874521902735517.jpg",
+    "source": "x",
+    "sourceId": "2097874521902735517",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 流体粒子",
+    "summary": "three.js 示例 `webgpu_compute_particles_fluid`：WebGPU 流体粒子。",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_fluid",
+    "imageUrl": "/covers/threejs-webgpu_compute_particles_fluid.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_particles_fluid",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute 水面",
+    "summary": "three.js 示例 `webgpu_compute_water`：WebGPU Compute 水面。",
+    "url": "https://threejs.org/examples/#webgpu_compute_water",
+    "imageUrl": "/covers/threejs-webgpu_compute_water.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_water",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 焦散",
+    "summary": "three.js 示例 `webgpu_caustics`：WebGPU 焦散。",
+    "url": "https://threejs.org/examples/#webgpu_caustics",
+    "imageUrl": "/covers/threejs-webgpu_caustics.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_caustics",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 体积焦散",
+    "summary": "three.js 示例 `webgpu_volume_caustics`：WebGPU 体积焦散。",
+    "url": "https://threejs.org/examples/#webgpu_volume_caustics",
+    "imageUrl": "/covers/threejs-webgpu_volume_caustics.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_caustics",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 体积云",
+    "summary": "three.js 示例 `webgpu_volume_cloud`：WebGPU 体积云。",
+    "url": "https://threejs.org/examples/#webgpu_volume_cloud",
+    "imageUrl": "/covers/threejs-webgpu_volume_cloud.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_cloud",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU glTF 虹彩",
+    "summary": "three.js 示例 `webgpu_loader_gltf_iridescence`：WebGPU glTF 虹彩。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_iridescence",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_iridescence.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_loader_gltf_iridescence",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU glTF 绒面光泽",
+    "summary": "three.js 示例 `webgpu_loader_gltf_sheen`：WebGPU glTF 绒面光泽。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_sheen",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_sheen.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_loader_gltf_sheen",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU glTF 各向异性",
+    "summary": "three.js 示例 `webgpu_loader_gltf_anisotropy`：WebGPU glTF 各向异性。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_anisotropy",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_loader_gltf_anisotropy",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Toon 材质",
+    "summary": "three.js 示例 `webgpu_materials_toon`：WebGPU Toon 材质。",
+    "url": "https://threejs.org/examples/#webgpu_materials_toon",
+    "imageUrl": "/covers/threejs-webgpu_materials_toon.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_toon",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TSL 程序化地形",
+    "summary": "three.js 示例 `webgpu_tsl_procedural_terrain`：WebGPU TSL 程序化地形。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_procedural_terrain",
+    "imageUrl": "/covers/threejs-webgpu_tsl_procedural_terrain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_procedural_terrain",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 布料计算",
+    "summary": "three.js 示例 `webgpu_compute_cloth`：WebGPU 布料计算。",
+    "url": "https://threejs.org/examples/#webgpu_compute_cloth",
+    "imageUrl": "/covers/threejs-webgpu_compute_cloth.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_cloth",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 鸟群仿真",
+    "summary": "three.js 示例 `webgpu_compute_birds`：WebGPU 鸟群仿真。",
+    "url": "https://threejs.org/examples/#webgpu_compute_birds",
+    "imageUrl": "/covers/threejs-webgpu_compute_birds.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_birds",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 雨粒子",
+    "summary": "three.js 示例 `webgpu_compute_particles_rain`：WebGPU 雨粒子。",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_rain",
+    "imageUrl": "/covers/threejs-webgpu_compute_particles_rain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_particles_rain",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-11"
+  },
+  {
     "type": "inspiration",
     "title": "Simply Cozy 一体像素包",
     "summary": "俯视房屋商店家具角色与完整 UI 同色系，剪影清楚适合神视角村落层。",
