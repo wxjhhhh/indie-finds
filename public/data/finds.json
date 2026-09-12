@@ -1,5 +1,175 @@
 [
   {
+    "type": "inspiration",
+    "title": "Kenney Tiny Farm 微缩农场",
+    "summary": "积木感俯视微缩农场瓷砖，神视角田园玩具剪影清楚。",
+    "url": "https://kenney.nl/assets/tiny-farm",
+    "imageUrl": "/covers/kenney-tiny-farm.jpg",
+    "source": "kenney",
+    "sourceId": "kenney-tiny-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Wonder Farm 奇趣农场",
+    "summary": "饱和像素农场包：作物动物小屋模块，系统层可读。",
+    "url": "https://butterymilk.itch.io/tiny-wonder-farm-asset-pack",
+    "imageUrl": "/covers/itch-butterymilk-tiny-wonder-farm-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-butterymilk-tiny-wonder-farm-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Village 微缩村",
+    "summary": "俯视微缩村镇瓷砖，房屋道路剪影清楚适合城建占位。",
+    "url": "https://vryell.itch.io/tiny-village-pack",
+    "imageUrl": "/covers/itch-vryell-tiny-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-vryell-tiny-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "World Building 神视角世界包",
+    "summary": "俯视像素世界建造瓷砖，神视角城建层次与地块清晰。",
+    "url": "https://anokolisa.itch.io/simulator-world-build",
+    "imageUrl": "/covers/itch-anokolisa-simulator-world-build.jpg",
+    "source": "itch",
+    "sourceId": "itch-anokolisa-simulator-world-build",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "scene"
+  },
+  {
+    "type": "inspiration",
+    "title": "Hana Caraka 基底角色",
+    "summary": "简洁像素基底角色表，剪影清楚适合人口层占位。",
+    "url": "https://otterisk.itch.io/hana-caraka-base-character",
+    "imageUrl": "/covers/itch-otterisk-hana-caraka-base-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-otterisk-hana-caraka-base-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Smallburg UI 小镇界面",
+    "summary": "温馨像素小镇 GUI：面板按钮对话框，奶油贴纸感。",
+    "url": "https://almostapixel.itch.io/smallburg-ui-pack",
+    "imageUrl": "/covers/itch-almostapixel-smallburg-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-almostapixel-smallburg-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Garden Cozy UI 花园控件",
+    "summary": "花园风奶油按钮图标，暖沙贴纸感 HUD 参考。",
+    "url": "https://mandinhart.itch.io/garden-cozy-ui-kit-buttons-icons",
+    "imageUrl": "/covers/itch-mandinhart-garden-cozy-ui-kit-buttons-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-mandinhart-garden-cozy-ui-kit-buttons-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "pixel",
+    "kind": "ui"
+  },
+  {
+    "type": "inspiration",
+    "title": "Chibi Godette 奇比剪贴",
+    "summary": "贴纸感奇比剪贴角色，可读剪影适合人口层卡通参考。",
+    "url": "https://croben.itch.io/chibi-godette-cutout",
+    "imageUrl": "/covers/itch-croben-chibi-godette-cutout.jpg",
+    "source": "itch",
+    "sourceId": "itch-croben-chibi-godette-cutout",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Chibi Pirate 奇比海盗群",
+    "summary": "饱和奇比海盗角色与生物立绘，玩具感角色表。",
+    "url": "https://chiewaters.itch.io/chibi-pirate-world-ultimate-character-creature-mega-pack-500-assets",
+    "imageUrl": "/covers/itch-chiewaters-chibi-pirate-world.jpg",
+    "source": "itch",
+    "sourceId": "itch-chiewaters-chibi-pirate-world",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "cartoon",
+    "kind": "character"
+  },
+  {
+    "type": "inspiration",
+    "title": "Jungle Cartoon GUI 丛林界面",
+    "summary": "卡通风丛林 GUI 面板按钮，贴纸感主菜单参考。",
+    "url": "https://free-game-assets.itch.io/free-jungle-cartoon-gui",
+    "imageUrl": "/covers/itch-free-game-assets-free-jungle-cartoon-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-free-game-assets-free-jungle-cartoon-gui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-12",
+    "style": "cartoon",
+    "kind": "ui"
+  },
+  {
     "type": "game",
     "title": "Roblox build showcase 🔨",
     "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
