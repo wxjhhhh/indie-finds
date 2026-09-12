@@ -1,5 +1,811 @@
 [
   {
+    "type": "game",
+    "title": "Roblox build showcase 🔨",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/ayzenrbx/status/2098099033491259450",
+    "imageUrl": "/covers/2098099033491259450.jpg",
+    "source": "x",
+    "sourceId": "2098099033491259450",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "A little taste of rainy autumn weather. 🌧️🍂",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/RionixGames/status/2098340373194310096",
+    "imageUrl": "/covers/2098340373194310096.jpg",
+    "source": "x",
+    "sourceId": "2098340373194310096",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "GENIUS LOCI SERIES",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/palekirill/status/2098079405889196133",
+    "imageUrl": "/covers/2098079405889196133.jpg",
+    "source": "x",
+    "sourceId": "2098079405889196133",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "#ドット絵　#pixelart",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/zhufanpo6231/status/2098327990589673892",
+    "imageUrl": "/covers/2098327990589673892.jpg",
+    "source": "x",
+    "sourceId": "2098327990589673892",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Hind attack helicopter backing dismounted troops!",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/Neucollective/status/2098111473608163595",
+    "imageUrl": "/covers/2098111473608163595.jpg",
+    "source": "x",
+    "sourceId": "2098111473608163595",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "#ゲーム制作 #indiedev",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/zapt3_/status/2098000279300137466",
+    "imageUrl": "/covers/2098000279300137466.jpg",
+    "source": "x",
+    "sourceId": "2098000279300137466",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "the secret to fishing? unbreakable focus fr",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/worldofslime_en/status/2098214945506857082",
+    "imageUrl": "/covers/2098214945506857082.jpg",
+    "source": "x",
+    "sourceId": "2098214945506857082",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "#ゲーム制作 #indiedev",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/zapt3_/status/2098171709002236098",
+    "imageUrl": "/covers/2098171709002236098.jpg",
+    "source": "x",
+    "sourceId": "2098171709002236098",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "I did it! I made bones stiff! :D",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/Frooxius/status/2098139945391050939",
+    "imageUrl": "/covers/2098139945391050939.jpg",
+    "source": "x",
+    "sourceId": "2098139945391050939",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Time stood still in the Abyss. Would you risk exploring its depths?",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/section9int/status/2098079699507536250",
+    "imageUrl": "/covers/2098079699507536250.jpg",
+    "source": "x",
+    "sourceId": "2098079699507536250",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "DeadRoot just hit 30,000 wishlists!! 🎉",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/FinishLineGames/status/2098132688787886345",
+    "imageUrl": "/covers/2098132688787886345.jpg",
+    "source": "x",
+    "sourceId": "2098132688787886345",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Two red eyes in the dark. Bad news for the horde.",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/ProjectAliveDev/status/2098305543752335523",
+    "imageUrl": "/covers/2098305543752335523.jpg",
+    "source": "x",
+    "sourceId": "2098305543752335523",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "I've spent the last few weeks working on tools and code architecture stuff, but",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/sashadyak/status/2098295428085334510",
+    "imageUrl": "/covers/2098295428085334510.jpg",
+    "source": "x",
+    "sourceId": "2098295428085334510",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Revisiting an old study project about object pooling, maybe it could make a good",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/devb4u3r/status/2098072235047104560",
+    "imageUrl": "/covers/2098072235047104560.jpg",
+    "source": "x",
+    "sourceId": "2098072235047104560",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "#pixelart #WIPㅤ",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/Zernek1/status/2098185091218321840",
+    "imageUrl": "/covers/2098185091218321840.jpg",
+    "source": "x",
+    "sourceId": "2098185091218321840",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "turn-based PvP air combat",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/gusvogelnice/status/2098158617077928351",
+    "imageUrl": "/covers/2098158617077928351.jpg",
+    "source": "x",
+    "sourceId": "2098158617077928351",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "This looks incredible! A cozy horror delivery sim where you captain an old tugbo",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/IndieGameJoe/status/2098187542155715030",
+    "imageUrl": "/covers/2098187542155715030.jpg",
+    "source": "x",
+    "sourceId": "2098187542155715030",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "late summer",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/Myartbytes1/status/2098188957599289607",
+    "imageUrl": "/covers/2098188957599289607.jpg",
+    "source": "x",
+    "sourceId": "2098188957599289607",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "No DLSS 5. Just good art direction 🐞🌳",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/hoathegame/status/2098056401603993773",
+    "imageUrl": "/covers/2098056401603993773.jpg",
+    "source": "x",
+    "sourceId": "2098056401603993773",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Where do Shallow Pond’s retro vibes come from?",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/nimsodev/status/2098014038894551461",
+    "imageUrl": "/covers/2098014038894551461.jpg",
+    "source": "x",
+    "sourceId": "2098014038894551461",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "世界は神の遊び場だ！繁栄も戦争も掌の上なゴッドシム『Dyneria』",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/Indie_FreaksJP/status/2098245159075107110",
+    "imageUrl": "/covers/2098245159075107110.jpg",
+    "source": "x",
+    "sourceId": "2098245159075107110",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Italian Campaign map (WIP)",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/leo_massaroli/status/2098037543023346068",
+    "imageUrl": "/covers/2098037543023346068.jpg",
+    "source": "x",
+    "sourceId": "2098037543023346068",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Rock and stone",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/NovelY490152/status/2098097684078866607",
+    "imageUrl": "/covers/2098097684078866607.jpg",
+    "source": "x",
+    "sourceId": "2098097684078866607",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "still waiting... 🍂 #pixelart",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/AnasAbdin/status/2098159710243283216",
+    "imageUrl": "/covers/2098159710243283216.jpg",
+    "source": "x",
+    "sourceId": "2098159710243283216",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Another mockup of another game I'm also developing. 🌱",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/SnowHexArt/status/2098192014814724575",
+    "imageUrl": "/covers/2098192014814724575.jpg",
+    "source": "x",
+    "sourceId": "2098192014814724575",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "testing a new army destroyed animation, still needs some work",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/leo_massaroli/status/2098167936041066583",
+    "imageUrl": "/covers/2098167936041066583.jpg",
+    "source": "x",
+    "sourceId": "2098167936041066583",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Is this weapon a bow? Yess! But you are the thing pierces enemies. 🏹 All weapons",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/TearsApartGame/status/2098071521105178718",
+    "imageUrl": "/covers/2098071521105178718.jpg",
+    "source": "x",
+    "sourceId": "2098071521105178718",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "update: spending so many astra tokens designing this econ tycoon game",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/kazdenc/status/2097857861250335045",
+    "imageUrl": "/covers/2097857861250335045.jpg",
+    "source": "x",
+    "sourceId": "2097857861250335045",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Indie game dev is really weird. Seen a lot of commentary lately advising people",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/AnalogDreamDev/status/2098091086761648484",
+    "imageUrl": "/covers/2098091086761648484.jpg",
+    "source": "x",
+    "sourceId": "2098091086761648484",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Join the beta",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/overworld_ai/status/2097473666686832711",
+    "imageUrl": "/covers/2097473666686832711.jpg",
+    "source": "x",
+    "sourceId": "2097473666686832711",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Sometimes just thinking about what UI design works with what is already a lot of",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/playguildmaker/status/2098165885089484810",
+    "imageUrl": "/covers/2098165885089484810.jpg",
+    "source": "x",
+    "sourceId": "2098165885089484810",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "@Steam guys, I submitted my passport + selfie to Steamworks almost two weeks ago",
+    "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
+    "url": "https://x.com/adredev/status/2096953416664707409",
+    "imageUrl": "/covers/2096953416664707409.jpg",
+    "source": "x",
+    "sourceId": "2096953416664707409",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Voxeltron",
+    "summary": "80s 复古体素街机射击，可读几何。",
+    "url": "https://rentanerd.itch.io/voxeltron",
+    "imageUrl": "/covers/itch-rentanerd-voxeltron.jpg",
+    "source": "itch",
+    "sourceId": "itch-rentanerd-voxeltron",
+    "tags": [
+      "voxel",
+      "retro",
+      "arcade",
+      "3D"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Luminids",
+    "summary": "Godot 体素温馨殖民地：俯视建村+第一人称走进世界，生物有个性。",
+    "url": "https://luminids.com/",
+    "imageUrl": "/covers/luminids-site.jpg",
+    "source": "other",
+    "sourceId": "luminids-site",
+    "tags": [
+      "colony",
+      "godot",
+      "voxel",
+      "cozy"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Satisfactory",
+    "summary": "第一人称工厂自动化，传送带与产线活系统。",
+    "url": "https://store.steampowered.com/app/526870",
+    "imageUrl": "/covers/steam-526870.jpg",
+    "source": "steam",
+    "sourceId": "steam-526870",
+    "tags": [
+      "factory",
+      "automation",
+      "3D"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Totally Accurate Battle Simulator",
+    "summary": "玩具物理大军对撞，可读形与胡闹模拟。",
+    "url": "https://store.steampowered.com/app/508440",
+    "imageUrl": "/covers/steam-508440.jpg",
+    "source": "steam",
+    "sourceId": "steam-508440",
+    "tags": [
+      "physics",
+      "toy",
+      "sandbox"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Colony Survival",
+    "summary": "体素殖民地生存，生产与防御循环。",
+    "url": "https://store.steampowered.com/app/757320",
+    "imageUrl": "/covers/steam-757320.jpg",
+    "source": "steam",
+    "sourceId": "steam-757320",
+    "tags": [
+      "colony",
+      "voxel",
+      "survival"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "game",
+    "title": "Manor Lords",
+    "summary": "中世纪领地经营，聚落生长系统。",
+    "url": "https://store.steampowered.com/app/1363080",
+    "imageUrl": "/covers/steam-1363080.jpg",
+    "source": "steam",
+    "sourceId": "steam-1363080",
+    "tags": [
+      "city-builder",
+      "colony"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "Night mode visuals. Not yet finished animation of fire, but the lights alone cre",
+    "summary": "用户 X 收藏视觉/模拟演示，进 Shader 页。",
+    "url": "https://x.com/bznkpixelworks/status/2098297234437673104",
+    "imageUrl": "/covers/2098297234437673104.jpg",
+    "source": "x",
+    "sourceId": "2098297234437673104",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "This real-time car crash simulation was made completely in Unreal 5.8 using phys",
+    "summary": "用户 X 收藏视觉/模拟演示，进 Shader 页。",
+    "url": "https://x.com/RedefineFX/status/2098026436799901808",
+    "imageUrl": "/covers/2098026436799901808.jpg",
+    "source": "x",
+    "sourceId": "2098026436799901808",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "Progress on my fast water solver for @unitygames @unity #URP",
+    "summary": "用户 X 收藏视觉/模拟演示，进 Shader 页。",
+    "url": "https://x.com/OlixOliver/status/2098036130557927668",
+    "imageUrl": "/covers/2098036130557927668.jpg",
+    "source": "x",
+    "sourceId": "2098036130557927668",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 复古反射材质",
+    "summary": "车漆/金属向的 retro reflection，材质会吃环境光。",
+    "url": "https://threejs.org/examples/#webgpu_materials_retroreflection",
+    "imageUrl": "/covers/threejs-webgpu_materials_retroreflection.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_retroreflection",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TSL 龙卷风 VFX",
+    "summary": "程序化龙卷风粒子，模拟还在算。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_vfx_tornado",
+    "imageUrl": "/covers/threejs-webgpu_tsl_vfx_tornado.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_vfx_tornado",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Godrays 体积光",
+    "summary": "体积光神光柱，暗场景哥特体积光味道。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_godrays",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_godrays.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_godrays",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 体积雾后处理",
+    "summary": "雾在景深里推开，空气感强。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_fog",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_fog.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_fog",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 像素化后处理",
+    "summary": "复古帧缓冲像素后处理，PSX 气质。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_pixel",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_pixel.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_pixel",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 复古后处理",
+    "summary": "复古调色/CRT 味后处理栈。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_retro",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_retro.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_retro",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU SSS 后处理",
+    "summary": "次表面散射后处理，皮肤/蜡质光。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_sss",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_sss.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_sss",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 可塑形雕刻",
+    "summary": "实时网格雕塑，形在手感里变。",
+    "url": "https://threejs.org/examples/#webgpu_sculpt",
+    "imageUrl": "/covers/threejs-webgpu_sculpt.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_sculpt",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 高度雾",
+    "summary": "高度场驱动雾，山谷积雾。",
+    "url": "https://threejs.org/examples/#webgpu_fog_height",
+    "imageUrl": "/covers/threejs-webgpu_fog_height.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_fog_height",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 散射雾",
+    "summary": "自定义散射雾，体积光感。",
+    "url": "https://threejs.org/examples/#webgpu_custom_fog_scattering",
+    "imageUrl": "/covers/threejs-webgpu_custom_fog_scattering.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_custom_fog_scattering",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Perlin 体积",
+    "summary": "3D Perlin 体积纹理，云雾噪声场。",
+    "url": "https://threejs.org/examples/#webgpu_volume_perlin",
+    "imageUrl": "/covers/threejs-webgpu_volume_perlin.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_perlin",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 体积光矩形灯",
+    "summary": "体积里的矩形面光，灯在雾中。",
+    "url": "https://threejs.org/examples/#webgpu_volume_lighting_rectarea",
+    "imageUrl": "/covers/threejs-webgpu_volume_lighting_rectarea.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_volume_lighting_rectarea",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Godrays",
+    "summary": "经典体积光 godrays 示例。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_godrays",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_godrays.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_godrays",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL 选择性 Unreal Bloom",
+    "summary": "选择性辉光，高光材质会动。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_unreal_bloom_selective",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_unreal_bloom_selective.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_unreal_bloom_selective",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU TSL 星系",
+    "summary": "程序化星系粒子场。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_galaxy",
+    "imageUrl": "/covers/threejs-webgpu_tsl_galaxy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_galaxy",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-12"
+  },
+  {
     "type": "inspiration",
     "title": "Autumn Farming 秋日农场包",
     "summary": "16×16 秋日像素农场：房屋风车作物动物与 UI 背板，系统层可读。",
