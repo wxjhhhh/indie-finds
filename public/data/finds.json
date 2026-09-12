@@ -1,6 +1,176 @@
 [
   {
     "type": "inspiration",
+    "title": "Solaria Exteriors 索拉里亚外景",
+    "summary": "16×16 俯视村镇瓷砖：房屋市集季节屋顶，神视角城建可读剪影。",
+    "url": "https://jamiebrownhill.itch.io/solaria-exteriors",
+    "source": "itch",
+    "sourceId": "itch-jamiebrownhill-solaria-exteriors",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-jamiebrownhill-solaria-exteriors.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Clover Valley 四叶谷农场",
+    "summary": "模块化 16×16 四季农场 RPG 包：建筑作物 UI 齐全，系统层清晰。",
+    "url": "https://n3cloud.itch.io/clover-valley-1616-farming-rpg-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-n3cloud-clover-valley",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-n3cloud-clover-valley.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Towns 温馨小镇",
+    "summary": "手作感 16×16 RPG 小镇外景扩展，房屋道路模块适合城建占位。",
+    "url": "https://iclaimthisname.itch.io/cozy-towns",
+    "source": "itch",
+    "sourceId": "itch-iclaim-cozy-towns",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-iclaim-cozy-towns.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "RoleWorld Cleric 圣职角色",
+    "summary": "可爱 16×16 圣职向像素角色与神殿物件，人口层剪影清楚。",
+    "url": "https://pixel-sazy.itch.io/roleworld-cleric-package",
+    "source": "itch",
+    "sourceId": "itch-pixelsazy-roleworld-cleric",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-pixelsazy-roleworld-cleric.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Fantasy 奇比奇幻包",
+    "summary": "粉彩奇比像素角色+菜单框，饱和玩具感适合角色设定参考。",
+    "url": "https://lfoxyy.itch.io/cozy-fantasy-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-lfoxyy-cozy-fantasy",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-lfoxyy-cozy-fantasy.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Fantasy UI 奇幻界面",
+    "summary": "可爱像素奇幻 GUI：面板按钮对话框，奶油贴纸感 HUD。",
+    "url": "https://kenmi-art.itch.io/cute-fantasy-ui",
+    "source": "itch",
+    "sourceId": "itch-kenmi-cute-fantasy-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-kenmi-cute-fantasy-ui.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Chibi Basics 奇比基底",
+    "summary": "可读剪影奇比角色基底，饱和卡通风人口层设定参考。",
+    "url": "https://maellemarylloup.itch.io/chibi-character-basics-reworked",
+    "source": "itch",
+    "sourceId": "itch-maelle-chibi-basics",
+    "style": "cartoon",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-maelle-chibi-basics.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Faces of Home 家的面容",
+    "summary": "温馨视觉小说角色立绘包，饱和卡通风肖像适合对话层。",
+    "url": "https://wonderweave.itch.io/faces-of-home-free-visual-novel-character-pack",
+    "source": "itch",
+    "sourceId": "itch-wonderweave-faces-of-home",
+    "style": "cartoon",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-wonderweave-faces-of-home.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Little Dreamyland 小梦境农场",
+    "summary": "卡通风可爱农场 RPG 包，玩具感场景与角色设定。",
+    "url": "https://starmixu.itch.io/little-dreamyland-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-starmixu-little-dreamyland",
+    "style": "cartoon",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-starmixu-little-dreamyland.jpg"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Nature Icons 自然图标",
+    "summary": "卡通风自然主题 2D 图标 UI，贴纸感资源栏参考。",
+    "url": "https://chemaluque.itch.io/cute-nature-icons-2d-uiux",
+    "source": "itch",
+    "sourceId": "itch-chemaluque-cute-nature-icons",
+    "style": "cartoon",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-12",
+    "imageUrl": "/covers/itch-chemaluque-cute-nature-icons.jpg"
+  },
+  {
+    "type": "inspiration",
     "title": "Kenney Tiny Farm 微缩农场",
     "summary": "积木感俯视微缩农场瓷砖，神视角田园玩具剪影清楚。",
     "url": "https://kenney.nl/assets/tiny-farm",
