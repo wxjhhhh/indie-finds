@@ -1,6 +1,176 @@
 [
   {
     "type": "inspiration",
+    "title": "Cozy Iso Male Kit 等距角色",
+    "summary": "等距可分层男性角色包，剪影清楚适合人口层。",
+    "url": "https://klimmos.itch.io/cozy-assets-male-isometric-modular-character-kit",
+    "imageUrl": "/covers/itch-klimmos-iso-male-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-klimmos-iso-male-kit",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "SpriteStudio 像素造人",
+    "summary": "像素 NPC/角色生成器，可读剪影角色设定。",
+    "url": "https://channeechan.itch.io/spritestudio",
+    "imageUrl": "/covers/itch-channeechan-spritestudio.jpg",
+    "source": "itch",
+    "sourceId": "itch-channeechan-spritestudio",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "8-Dir Farmer Cozy 农夫",
+    "summary": "八向温馨农夫角色，剪影清楚适合人口层。",
+    "url": "https://purplecatgamestudio.itch.io/8-direction-farmer-cozy-pack-character",
+    "imageUrl": "/covers/itch-purplecat-farmer-cozy.jpg",
+    "source": "itch",
+    "sourceId": "itch-purplecat-farmer-cozy",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Harvest Summer Forest 夏日林",
+    "summary": "夏日森林收获像素包，田园场景剪影清楚。",
+    "url": "https://snowhex.itch.io/harvest-summer-forest-pack",
+    "imageUrl": "/covers/itch-snowhex-harvest-summer-forest.jpg",
+    "source": "itch",
+    "sourceId": "itch-snowhex-harvest-summer-forest",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Fishing 温馨钓鱼",
+    "summary": "可爱像素钓鱼场景与道具，玩具感村落活动。",
+    "url": "https://shubibubi.itch.io/cozy-fishing",
+    "imageUrl": "/covers/itch-shubibubi-cozy-fishing.jpg",
+    "source": "itch",
+    "sourceId": "itch-shubibubi-cozy-fishing",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Simple Cozy Farm 简朴农场",
+    "summary": "简朴温馨农场资产包，cottagecore 场景。",
+    "url": "https://aibyzz.itch.io/sc-farm-pack",
+    "imageUrl": "/covers/itch-aibyzz-sc-farm-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-aibyzz-sc-farm-pack",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Ornate Fantasy Pixel UI 纹饰界面",
+    "summary": "1500+ 八色主题像素 UI，纹饰面板适合神视角 HUD。",
+    "url": "https://z-spider.itch.io/dark-fantasy-pixel-ui-modular-interface-for-unity",
+    "imageUrl": "/covers/itch-zspider-ornate-pixel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-zspider-ornate-pixel-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "RPG UI Pack 像素界面",
+    "summary": "像素 RPG 界面组件，模块贴纸感面板。",
+    "url": "https://franuka.itch.io/rpg-ui-pack",
+    "imageUrl": "/covers/itch-franuka-rpg-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-franuka-rpg-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pastel GUI Bundle 粉彩界面",
+    "summary": "大画幅粉彩按钮菜单图标，奶油贴纸感主菜单参考。",
+    "url": "https://penzilla.itch.io/pastel-gui-bundle",
+    "imageUrl": "/covers/itch-penzilla-pastel-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-penzilla-pastel-gui",
+    "style": "cartoon",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Easy Delivery Co 轻松配送",
+    "summary": "PS1 风风格化配送冒险：玩具感体块与饱和场景。",
+    "url": "https://80.lv/articles/inside-the-making-of-easy-delivery-co",
+    "imageUrl": "/covers/80lv-easy-delivery.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-easy-delivery",
+    "style": "cartoon",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
     "title": "Cozy Fae Pixel Base 像素基底",
     "summary": "16×16 可分层像素角色基底：发型服装四向走，剪影清楚适合人口层。",
     "url": "https://cozy-fae.itch.io/cozy-fae-pixel-base",
