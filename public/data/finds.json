@@ -1,5 +1,175 @@
 [
   {
+    "type": "inspiration",
+    "title": "Cozy Fae Pixel Base 像素基底",
+    "summary": "16×16 可分层像素角色基底：发型服装四向走，剪影清楚适合人口层。",
+    "url": "https://cozy-fae.itch.io/cozy-fae-pixel-base",
+    "imageUrl": "/covers/itch-cozy-fae-pixel-base.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozy-fae-pixel-base",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Town Folk 镇民二十四",
+    "summary": "24 位四向走+职业动作镇民，铁匠面包师农夫剪影一眼可读。",
+    "url": "https://gegx.itch.io/town-folk",
+    "imageUrl": "/covers/itch-gegx-town-folk.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-town-folk",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Village Pixel Pack 像素村景",
+    "summary": "手作 16×16 像素村：房屋作物摊位与女巫 NPC，村落层次清楚。",
+    "url": "https://strelllka.itch.io/village-pixel-art-rpg-asset-pack",
+    "imageUrl": "/covers/itch-strelllka-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-strelllka-village",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Valley 可爱山谷",
+    "summary": "16×16 可爱山谷 RPG：多角色动画与地砖，玩具感场景可读。",
+    "url": "https://pixelando-art.itch.io/cute-valley",
+    "imageUrl": "/covers/itch-pixelando-cute-valley.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelando-cute-valley",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Starter 田园起步包",
+    "summary": "田园 cottagecore 免费起步：室内猫咖啡馆镇民与基础 UI，暖色玩具感。",
+    "url": "https://gegx.itch.io/cozy-starter",
+    "imageUrl": "/covers/itch-gegx-cozy-starter.jpg",
+    "source": "itch",
+    "sourceId": "itch-gegx-cozy-starter",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy HUD Menu 像素界面",
+    "summary": "六主题 32×32 像素 HUD 菜单组件，模块贴纸感面板。",
+    "url": "https://tripex-studio.itch.io/fantasy-hud-menu-ui-32",
+    "imageUrl": "/covers/itch-tripex-fantasy-hud.jpg",
+    "source": "itch",
+    "sourceId": "itch-tripex-fantasy-hud",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Fae Portrait Maker 奇比肖像",
+    "summary": "奇比肖像捏脸：多表情多肤色，饱和卡通风对话肖像参考。",
+    "url": "https://cozy-fae.itch.io/cozy-fae-cute-portrait-maker",
+    "imageUrl": "/covers/itch-cozy-fae-portrait-maker.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozy-fae-portrait-maker",
+    "style": "cartoon",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Casual GUI 贴纸界面",
+    "summary": "粉彩贴纸感休闲 GUI：猫贴纸面板货币头像，贴合缝线 HUD。",
+    "url": "https://uncogames.itch.io/casual-gui",
+    "imageUrl": "/covers/itch-uncogames-casual-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-uncogames-casual-gui",
+    "style": "cartoon",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pastel UI Pack 马卡龙界面",
+    "summary": "1300+ 马卡龙色按钮面板图标，奶油贴纸感主菜单参考。",
+    "url": "https://sc-siosio.itch.io/game-ui-pack-pastel",
+    "imageUrl": "/covers/itch-sc-siosio-pastel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-sc-siosio-pastel-ui",
+    "style": "cartoon",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
+    "type": "inspiration",
+    "title": "Catalonia Town 卡通风小镇",
+    "summary": "UE5 风格化加泰罗尼亚小镇：模块建筑与饱和玩具感体块。",
+    "url": "https://80.lv/articles/from-concept-art-to-ue5-building-a-stylized-catalonia-inspired-town",
+    "imageUrl": "/covers/80lv-catalonia-town.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-catalonia-town",
+    "style": "cartoon",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-13"
+  },
+  {
     "type": "game",
     "title": "トランプでデッキを組んで戦うゲームを作っています！",
     "summary": "用户 X 收藏游戏向实机/开发动态，有封面直接收录。",
