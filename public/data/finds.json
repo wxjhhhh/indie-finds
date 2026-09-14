@@ -1,5 +1,243 @@
 [
   {
+    "type": "inspiration",
+    "title": "Cozy Farmer Sprite 田园农夫",
+    "summary": "暖色像素农夫角色精灵，剪影清楚适合人口层。",
+    "url": "https://ghostwithkelp.itch.io/cozy-farmer-player-pixel-sprite",
+    "imageUrl": "/covers/itch-ghostwithkelp-cozy-farmer.jpg",
+    "source": "itch",
+    "sourceId": "itch-ghostwithkelp-cozy-farmer",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Citizens Guards Warriors 市民卫士",
+    "summary": "像素市民/卫士/战士角色包，人口职业剪影清楚。",
+    "url": "https://electriclemon.itch.io/citizens-guards-warriors",
+    "imageUrl": "/covers/itch-electriclemon-citizens.jpg",
+    "source": "itch",
+    "sourceId": "itch-electriclemon-citizens",
+    "style": "pixel",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon RPG Pack 卡通RPG包",
+    "summary": "卡通 RPG 角色/道具包，剪影夸张饱和适合角色表。",
+    "url": "https://mikemac2d.itch.io/cartoon-rpg-pack",
+    "imageUrl": "/covers/itch-mikemac-cartoon-rpg.jpg",
+    "source": "itch",
+    "sourceId": "itch-mikemac-cartoon-rpg",
+    "style": "cartoon",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Chibi Boy 2D Q版男孩",
+    "summary": "免费 2D Q版男孩角色，饱和卡通剪影清楚。",
+    "url": "https://free-game-assets.itch.io/free-2d-game-chibi-boy",
+    "imageUrl": "/covers/itch-free-chibi-boy.jpg",
+    "source": "itch",
+    "sourceId": "itch-free-chibi-boy",
+    "style": "cartoon",
+    "kind": "character",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Mossbell Orchard 苔铃果园",
+    "summary": "暖色像素农场起步包：果园作物与地砖剪影清楚，适合神游村落层。",
+    "url": "https://certainity.itch.io/mossbell-orchard-cozy-pixel-farm-starter-pack",
+    "imageUrl": "/covers/itch-certainity-mossbell-orchard.jpg",
+    "source": "itch",
+    "sourceId": "itch-certainity-mossbell-orchard",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Village Buildings 温馨村屋",
+    "summary": "像素村屋建筑套：屋顶门窗层次清楚，玩具感村落可读。",
+    "url": "https://mutterpixel-studio.itch.io/cozy-village-buildings-pixel-game-assets",
+    "imageUrl": "/covers/itch-mutterpixel-cozy-village-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-cozy-village-buildings",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Town Tileset 迷你小镇",
+    "summary": "迷你像素小镇地砖：房屋道路成套，俯视可读性高。",
+    "url": "https://petalbyte.itch.io/tiny-town-tileset",
+    "imageUrl": "/covers/itch-petalbyte-tiny-town.jpg",
+    "source": "itch",
+    "sourceId": "itch-petalbyte-tiny-town",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon Stylized Village 卡通村庄",
+    "summary": "低模卡通中世纪村镇外观，玩具感建筑剪影清晰。",
+    "url": "https://babkagd.itch.io/lowpoly-medieval-cartoon-stylized-village-town-exteriors-environment-asset-kit",
+    "imageUrl": "/covers/itch-babkagd-cartoon-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-babkagd-cartoon-village",
+    "style": "cartoon",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "CuteRural 可爱田园四季",
+    "summary": "四季田园村镇像素地砖，春夏秋冬切换适合神游气候。",
+    "url": "https://creativastudio.itch.io/cuterural",
+    "imageUrl": "/covers/itch-creativastudio-cuterural.jpg",
+    "source": "itch",
+    "sourceId": "itch-creativastudio-cuterural",
+    "style": "pixel",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon City Pack 卡通城市",
+    "summary": "卡通城市资产：饱和色块建筑，适合风格化城邦层。",
+    "url": "https://althaj.itch.io/cartoon-city-pack",
+    "imageUrl": "/covers/itch-althaj-cartoon-city.jpg",
+    "source": "itch",
+    "sourceId": "itch-althaj-cartoon-city",
+    "style": "cartoon",
+    "kind": "scene",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy UI Essentials 温馨界面要素",
+    "summary": "像素温馨 UI 面板按钮条，奶油木色接近砂象牙口味。",
+    "url": "https://hazardpay.itch.io/cozy-ui-essentials-pack",
+    "imageUrl": "/covers/itch-hazardpay-cozy-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-hazardpay-cozy-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Daily Life HUD 日常对话界面",
+    "summary": "日常像素 HUD+对话框：贴纸感面板适合神游 HUD。",
+    "url": "https://indigolay.itch.io/pixel-hud-dialogue-ui-pack-daily-life",
+    "imageUrl": "/covers/itch-indigolay-hud-dialogue.jpg",
+    "source": "itch",
+    "sourceId": "itch-indigolay-hud-dialogue",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon Game GUI 卡通界面包",
+    "summary": "卡通游戏 GUI：圆润按钮面板，偏玩具贴纸风。",
+    "url": "https://ryoganzx.itch.io/cartoon-game-gui-pack",
+    "imageUrl": "/covers/itch-ryoganzx-cartoon-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-ryoganzx-cartoon-gui",
+    "style": "cartoon",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farming Inventory UI 农场背包UI",
+    "summary": "像素蔬果库存图标与 UI，暖色可读适合资源面板。",
+    "url": "https://camp-studio.itch.io/pixel-farming-vegetables-inventory-ui",
+    "imageUrl": "/covers/itch-camp-studio-farm-inventory-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-camp-studio-farm-inventory-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
     "type": "game",
     "title": "A Spirit Born of Lightning.",
     "summary": "闪电精灵实机演出，Sky Machine 游戏向动态。",
