@@ -1,6 +1,216 @@
 [
   {
     "type": "inspiration",
+    "title": "Cozy Village NPCs 温馨村民",
+    "summary": "16个可读剪影的像素村民（闲置/走/劳作/睡），适合上帝视角村庄人口。",
+    "url": "https://pixelneststudior.itch.io/cozy-village-npcs-animated-pack",
+    "imageUrl": "/covers/itch-pixelnest-cozy-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelnest-cozy-npcs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Arctic Village 北极村",
+    "summary": "俯视雪村场景+动画企鹅与房屋灯光，玩具感冬日村庄氛围浓。",
+    "url": "https://pozac.itch.io/cozy-arctic-village-2d-pixel-art-pack",
+    "imageUrl": "/covers/itch-pozac-arctic-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-pozac-arctic-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Mega Cozy UI 超级温馨界面",
+    "summary": "手绘卡通像素贴纸风GUI：按钮、面板、图标与日记式控件齐全。",
+    "url": "https://dobo-ui.itch.io/cozy-user-interface",
+    "imageUrl": "/covers/itch-dobo-mega-cozy-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-dobo-mega-cozy-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Inventory Diary UI 日记背包",
+    "summary": "现代日常风日记式库存与物品图标，翻页动画像贴纸手账。",
+    "url": "https://indigolay.itch.io/pixel-inventory-diary-ui-cute-modern-item-icons",
+    "imageUrl": "/covers/itch-indigolay-diary-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-indigolay-diary-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Village Builder Pack 低模建村",
+    "summary": "玩具感卡通低模村庄模块，上帝视角可读建筑与聚落搭建参考。",
+    "url": "https://doodledwarf.itch.io/low-poly-village-builder-pack",
+    "imageUrl": "/covers/itch-doodledwarf-village-builder.jpg",
+    "source": "itch",
+    "sourceId": "itch-doodledwarf-village-builder",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Poly Village 多边形村",
+    "summary": "饱和卡通低模村落场景，建筑与地块可读性强、适合俯视沙盘。",
+    "url": "https://lyubelsky.itch.io/poly-village",
+    "imageUrl": "/covers/itch-lyubelsky-poly-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-lyubelsky-poly-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farm Buildings 16×16 农场建筑",
+    "summary": "16×16像素农场建筑瓦片，谷仓畜棚等剪影清晰、易拼聚落。",
+    "url": "https://maru-98.itch.io/topdown-farm-buildings-pack-1616-pixel-art",
+    "imageUrl": "/covers/itch-maru98-farm-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-maru98-farm-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farm Top-Down Pack 俯视农场",
+    "summary": "农田瓦片、动物与拖拉机等生活场景素材，饱和像素玩具感强。",
+    "url": "https://amadeva.itch.io/farm-top-down-pixel-art-pack-tiles-animals-tractors",
+    "imageUrl": "/covers/itch-amadeva-farm-topdown.jpg",
+    "source": "itch",
+    "sourceId": "itch-amadeva-farm-topdown",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Stylized Fantasy Village 奇幻村",
+    "summary": "饱和卡通风格化3D奇幻村落，建筑体块与色彩像玩具微缩景观。",
+    "url": "https://daniel-mistage.itch.io/stylized-fantasy-village",
+    "imageUrl": "/covers/itch-daniel-mistage-fantasy-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-daniel-mistage-fantasy-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Low Poly Medieval Village 中世纪村",
+    "summary": "卡通低模中世纪聚落，房屋屋顶剪影清晰，适合上帝视角沙盘。",
+    "url": "https://justcreate3d.itch.io/low-poly-medieval-village",
+    "imageUrl": "/covers/itch-justcreate3d-medieval-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-justcreate3d-medieval-village",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "LOWPO Villager NPC 低模村民",
+    "summary": "7个卡通低模村民角色，体块短胖剪影清楚，适合村庄人口设定。",
+    "url": "https://standout7.itch.io/villagernpc",
+    "imageUrl": "/covers/itch-standout7-villager-npc.jpg",
+    "source": "itch",
+    "sourceId": "itch-standout7-villager-npc",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy Village NPCs 奇幻镇民",
+    "summary": "20个卡通奇幻村民角色立绘/设定，饱和色与可读剪影适合角色表。",
+    "url": "https://wonderweave.itch.io/2d-fantasy-village-npc-mega-pack-20-characters",
+    "imageUrl": "/covers/itch-wonderweave-fantasy-npc-mega.jpg",
+    "source": "itch",
+    "sourceId": "itch-wonderweave-fantasy-npc-mega",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Isometric Pixel Cottage 等距小屋",
+    "summary": "等距像素村舍场景，针脚感瓦片与玩具小屋构图干净可读。",
+    "url": "https://fabledframe.artstation.com/projects/o2WG0k",
+    "imageUrl": "/covers/art-o2WG0k.jpg",
+    "source": "artstation",
+    "sourceId": "art-o2WG0k",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farm Structures 农场围栏",
+    "summary": "16×16像素农场建筑、围栏与结构瓦片，拼装俯视农庄很顺手。",
+    "url": "https://gd-studio-piskel.itch.io/top-down-farming-structures-fences-16x16-tileset",
+    "imageUrl": "/covers/itch-gd-piskel-farm-structures.jpg",
+    "source": "itch",
+    "sourceId": "itch-gd-piskel-farm-structures",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "inspiration",
     "title": "Cozy Farmer Sprite 田园农夫",
     "summary": "暖色像素农夫角色精灵，剪影清楚适合人口层。",
     "url": "https://ghostwithkelp.itch.io/cozy-farmer-player-pixel-sprite",
