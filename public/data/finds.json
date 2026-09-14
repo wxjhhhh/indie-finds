@@ -1,5 +1,818 @@
 [
   {
+    "type": "game",
+    "title": "A Spirit Born of Lightning.",
+    "summary": "闪电精灵实机演出，Sky Machine 游戏向动态。",
+    "url": "https://x.com/SkyMachineGames/status/2099034283092672813",
+    "imageUrl": "/covers/2099034283092672813.jpg",
+    "source": "x",
+    "sourceId": "2099034283092672813",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "One rises. One rests. 💀",
+    "summary": "Godot 低多边形对战实机，Steam 页筹备中。",
+    "url": "https://x.com/lowpolylover/status/2099154084293189917",
+    "imageUrl": "/covers/2099154084293189917.jpg",
+    "source": "x",
+    "sourceId": "2099154084293189917",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "No DLSS 5. Just good art direction.",
+    "summary": "Silkgrove 日光朋克治愈风美术向实机。",
+    "url": "https://x.com/SilkgroveGame/status/2098976937305936267",
+    "imageUrl": "/covers/2098976937305936267.jpg",
+    "source": "x",
+    "sourceId": "2098976937305936267",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Ever since I watched World War Z, I’ve wanted to build this.",
+    "summary": "Ebbtide 尸潮叠高攀爬玩法演示。",
+    "url": "https://x.com/ProjectAliveDev/status/2099120917947588899",
+    "imageUrl": "/covers/2099120917947588899.jpg",
+    "source": "x",
+    "sourceId": "2099120917947588899",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "🐷📢全世界のブタ好きさんに届けー！",
+    "summary": "《A Tiny Wander》3D 夜林探索解谜，TGS2026 出展。",
+    "url": "https://x.com/doukutsupenguin/status/2098754412168765777",
+    "imageUrl": "/covers/2098754412168765777.jpg",
+    "source": "x",
+    "sourceId": "2098754412168765777",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "moving log 🪵🍃 #pixquare #pixelart",
+    "summary": "Pixquare 像素画编辑器动效演示。",
+    "url": "https://x.com/pixquare_app/status/2098686534509900200",
+    "imageUrl": "/covers/2098686534509900200.jpg",
+    "source": "x",
+    "sourceId": "2098686534509900200",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "このゲームをどう説明するかいつも悩んでいるけど\"灯台もと暗し\"でストアの冒頭に答えが書いてあったわ🤭",
+    "summary": "推荐回合制 4X/历史大战略（Imperator 向）。",
+    "url": "https://x.com/fantasy_miyabi/status/2098391526464499897",
+    "imageUrl": "/covers/2098391526464499897.jpg",
+    "source": "x",
+    "sourceId": "2098391526464499897",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "A little tour of our \"lobby\".🏠We don't want to call it simply lobby or base i...",
+    "summary": "Tears Apart 肉鸽大厅/基地导览。",
+    "url": "https://x.com/TearsApartGame/status/2098719401755156929",
+    "imageUrl": "/covers/2098719401755156929.jpg",
+    "source": "x",
+    "sourceId": "2098719401755156929",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "First update from my Cozy Island builder game.",
+    "summary": "等轴治愈海岛建造游戏首更。",
+    "url": "https://x.com/Figmaslayer/status/2099053317033013577",
+    "imageUrl": "/covers/2099053317033013577.jpg",
+    "source": "x",
+    "sourceId": "2099053317033013577",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "UI is coming together. #gamedev #indiedev #UI",
+    "summary": "像素风游戏 UI 拼装过程演示。",
+    "url": "https://x.com/pixelmush_/status/2098898639296856412",
+    "imageUrl": "/covers/2098898639296856412.jpg",
+    "source": "x",
+    "sourceId": "2098898639296856412",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Today we are unveiling a new system that we have been working on behind the s...",
+    "summary": "Bellum 战后回放分析系统揭晓。",
+    "url": "https://x.com/PlayBellum/status/2098931412061585671",
+    "imageUrl": "/covers/2098931412061585671.jpg",
+    "source": "x",
+    "sourceId": "2098931412061585671",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "（´-`）.｡oO（こういうエモいアニメーション、好きなのは私だけじゃないはず",
+    "summary": "桌面挂机挖矿《ECHOLAND》氛围动画。",
+    "url": "https://x.com/salmon_rat/status/2098604051005059181",
+    "imageUrl": "/covers/2098604051005059181.jpg",
+    "source": "x",
+    "sourceId": "2098604051005059181",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "I often think about this Red Riding Hood prototype I made.",
+    "summary": "小红帽题材原型实机回顾。",
+    "url": "https://x.com/GamesOjh/status/2098517879813443817",
+    "imageUrl": "/covers/2098517879813443817.jpg",
+    "source": "x",
+    "sourceId": "2098517879813443817",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "Gun: Glock 17 🔫",
+    "summary": "Blockbench 手枪低模/像素风建模演示。",
+    "url": "https://x.com/Wan_w1n/status/2098461685874880646",
+    "imageUrl": "/covers/2098461685874880646.jpg",
+    "source": "x",
+    "sourceId": "2098461685874880646",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Type III",
+    "summary": "Godot 等距体素沙盒生存，系统向。",
+    "url": "https://shlldev.itch.io/type-iii",
+    "imageUrl": "/covers/itch-shlldev-type-iii.jpg",
+    "source": "itch",
+    "sourceId": "itch-shlldev-type-iii",
+    "tags": [
+      "godot",
+      "voxel",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "WILD 8",
+    "summary": "8-bit 开世界：火随风蔓延、闪电追金属。",
+    "url": "https://lamygames.itch.io/wild-8",
+    "imageUrl": "/covers/itch-lamygames-wild-8.jpg",
+    "source": "itch",
+    "sourceId": "itch-lamygames-wild-8",
+    "tags": [
+      "voxel",
+      "simulation",
+      "fire",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "The Strongest Survives",
+    "summary": "大地图种群蔓延冲突演化生命模拟。",
+    "url": "https://gigafloppa.itch.io/the-strongest-survives",
+    "imageUrl": "/covers/itch-gigafloppa-the-strongest-survives.jpg",
+    "source": "itch",
+    "sourceId": "itch-gigafloppa-the-strongest-survives",
+    "tags": [
+      "simulation",
+      "systems",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "SIEGE BREAK",
+    "summary": "体素城堡爆破试炼。",
+    "url": "https://ko-relay.itch.io/siege-break",
+    "imageUrl": "/covers/itch-ko-relay-siege-break.jpg",
+    "source": "itch",
+    "sourceId": "itch-ko-relay-siege-break",
+    "tags": [
+      "voxel",
+      "physics",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Tessik",
+    "summary": "明亮水晶世界浏览器建造。",
+    "url": "https://solved360.itch.io/tessik",
+    "imageUrl": "/covers/itch-solved360-tessik.jpg",
+    "source": "itch",
+    "sourceId": "itch-solved360-tessik",
+    "tags": [
+      "voxel",
+      "builder",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Hidden Stuffy",
+    "summary": "体素动作 RPG 救毛绒、探索多领域。",
+    "url": "https://lordblockwizard.itch.io/hidden-stuffy",
+    "imageUrl": "/covers/itch-lordblockwizard-hidden-stuffy.jpg",
+    "source": "itch",
+    "sourceId": "itch-lordblockwizard-hidden-stuffy",
+    "tags": [
+      "voxel",
+      "rpg",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Retro Rental Tycoon",
+    "summary": "1998 录像带租赁店经营，复古玩具感。",
+    "url": "https://nasseralmeida.itch.io/retro-rental-tycoon",
+    "imageUrl": "/covers/itch-nasseralmeida-retro-rental-tycoon.jpg",
+    "source": "itch",
+    "sourceId": "itch-nasseralmeida-retro-rental-tycoon",
+    "tags": [
+      "simulation",
+      "retro",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Galaxy Engine",
+    "summary": "体素星球冲拳建造逃逸。",
+    "url": "https://galaxyengineer.itch.io/galaxy-engine",
+    "imageUrl": "/covers/itch-galaxyengineer-galaxy-engine.jpg",
+    "source": "itch",
+    "sourceId": "itch-galaxyengineer-galaxy-engine",
+    "tags": [
+      "voxel",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "CustomCraft",
+    "summary": "体素建造探索 vibe 沙盒。",
+    "url": "https://jivapeira.itch.io/customcraft",
+    "imageUrl": "/covers/itch-jivapeira-customcraft.jpg",
+    "source": "itch",
+    "sourceId": "itch-jivapeira-customcraft",
+    "tags": [
+      "voxel",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Gridrupture",
+    "summary": "体素生存：世界缓慢崩解。",
+    "url": "https://whoopzee.itch.io/gridrupture",
+    "imageUrl": "/covers/itch-whoopzee-gridrupture.jpg",
+    "source": "itch",
+    "sourceId": "itch-whoopzee-gridrupture",
+    "tags": [
+      "voxel",
+      "survival",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Lucky Break",
+    "summary": "RNG 体素沙盒，每世界规则不同。",
+    "url": "https://promptpotatogames.itch.io/lucky-break",
+    "imageUrl": "/covers/itch-promptpotato-lucky-break.jpg",
+    "source": "itch",
+    "sourceId": "itch-promptpotato-lucky-break",
+    "tags": [
+      "voxel",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Mage Brawl",
+    "summary": "多人 3D 法师竞技场。",
+    "url": "https://paranoia-games-studio.itch.io/mage-brawl",
+    "imageUrl": "/covers/itch-paranoia-mage-brawl.jpg",
+    "source": "itch",
+    "sourceId": "itch-paranoia-mage-brawl",
+    "tags": [
+      "3d",
+      "arena",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Gardenfall with bugs",
+    "summary": "3D 植物塔防 roguelite。",
+    "url": "https://gnz007.itch.io/gardenfall-with-bugs",
+    "imageUrl": "/covers/itch-gnz007-gardenfall.jpg",
+    "source": "itch",
+    "sourceId": "itch-gnz007-gardenfall",
+    "tags": [
+      "towerdefense",
+      "3d",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Weigh Station",
+    "summary": "低面检查站夜班异常过车。",
+    "url": "https://midknightfire.itch.io/weigh-station",
+    "imageUrl": "/covers/itch-midknightfire-weigh-station.jpg",
+    "source": "itch",
+    "sourceId": "itch-midknightfire-weigh-station",
+    "tags": [
+      "lowpoly",
+      "horror",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Emberwake",
+    "summary": "灯塔生存+dash 战斗。",
+    "url": "https://randomrockertools.itch.io/emberwake",
+    "imageUrl": "/covers/itch-randomrockertools-emberwake.jpg",
+    "source": "itch",
+    "sourceId": "itch-randomrockertools-emberwake",
+    "tags": [
+      "survival",
+      "lighthouse",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Fenmere Light",
+    "summary": "守灯建岛循环清晰。",
+    "url": "https://lilnikki38.itch.io/fenmere-light",
+    "imageUrl": "/covers/itch-lilnikki38-fenmere-light.jpg",
+    "source": "itch",
+    "sourceId": "itch-lilnikki38-fenmere-light",
+    "tags": [
+      "builder",
+      "cozy",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Coral Cradle",
+    "summary": "潜水器救海洋修白化礁。",
+    "url": "https://lilnikki38.itch.io/coral-cradle",
+    "imageUrl": "/covers/itch-lilnikki38-coral-cradle.jpg",
+    "source": "itch",
+    "sourceId": "itch-lilnikki38-coral-cradle",
+    "tags": [
+      "simulation",
+      "ocean",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "New Eden",
+    "summary": "坠毁建殖民地武装红区。",
+    "url": "https://hydral9.itch.io/new-eden",
+    "imageUrl": "/covers/itch-hydral9-new-eden.jpg",
+    "source": "itch",
+    "sourceId": "itch-hydral9-new-eden",
+    "tags": [
+      "colony",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Campeche",
+    "summary": "潜水寻宝重建村庄。",
+    "url": "https://sedaking.itch.io/campeche",
+    "imageUrl": "/covers/itch-sedaking-campeche.jpg",
+    "source": "itch",
+    "sourceId": "itch-sedaking-campeche",
+    "tags": [
+      "builder",
+      "ocean",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Herd Instinct",
+    "summary": "赶羊引发农业末日。",
+    "url": "https://typevoidgames.itch.io/herd-instinct",
+    "imageUrl": "/covers/itch-typevoid-herd-instinct.jpg",
+    "source": "itch",
+    "sourceId": "itch-typevoid-herd-instinct",
+    "tags": [
+      "systems",
+      "lowpoly",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Khrushchyovka",
+    "summary": "1989 苏联板楼维修惊悚，低面氛围。",
+    "url": "https://ekosilent.itch.io/khrushchyovka",
+    "imageUrl": "/covers/itch-ekosilent-khrushchyovka.jpg",
+    "source": "itch",
+    "sourceId": "itch-ekosilent-khrushchyovka",
+    "tags": [
+      "lowpoly",
+      "atmospheric",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "BloodField",
+    "summary": "暗幻想动作 roguelite，血红月下。",
+    "url": "https://diabolic86.itch.io/bloodfield",
+    "imageUrl": "/covers/itch-diabolic86-bloodfield.jpg",
+    "source": "itch",
+    "sourceId": "itch-diabolic86-bloodfield",
+    "tags": [
+      "roguelite",
+      "dark",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "game",
+    "title": "Devolution",
+    "summary": "外卖杂货店合作经营，带扭点。",
+    "url": "https://glowerwur.itch.io/devolution",
+    "imageUrl": "/covers/itch-glowerwur-devolution.jpg",
+    "source": "itch",
+    "sourceId": "itch-glowerwur-devolution",
+    "tags": [
+      "systems",
+      "cozy",
+      "3d"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Clustered Lights",
+    "summary": "WebGPU 分簇灯光，大场景光效可读。",
+    "url": "https://threejs.org/examples/#webgpu_lights_clustered",
+    "imageUrl": "/covers/threejs-webgpu_lights_clustered.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lights_clustered",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Lightprobes Sponza",
+    "summary": "Sponza 探针照明，材质会动。",
+    "url": "https://threejs.org/examples/#webgpu_lightprobes_sponza",
+    "imageUrl": "/covers/threejs-webgpu_lightprobes_sponza.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lightprobes_sponza",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Centroid Sampling",
+    "summary": "质心采样抗锯齿演示。",
+    "url": "https://threejs.org/examples/#webgpu_centroid_sampling",
+    "imageUrl": "/covers/threejs-webgpu_centroid_sampling.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_centroid_sampling",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Deferred",
+    "summary": "延迟渲染管线演示。",
+    "url": "https://threejs.org/examples/#webgpu_deferred",
+    "imageUrl": "/covers/threejs-webgpu_deferred.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_deferred",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Equirectangular",
+    "summary": "全景环境贴图。",
+    "url": "https://threejs.org/examples/#webgpu_equirectangular",
+    "imageUrl": "/covers/threejs-webgpu_equirectangular.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_equirectangular",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Geometry Loft",
+    "summary": "几何放样造型。",
+    "url": "https://threejs.org/examples/#webgpu_geometry_loft",
+    "imageUrl": "/covers/threejs-webgpu_geometry_loft.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_geometry_loft",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Instance Path",
+    "summary": "路径实例化。",
+    "url": "https://threejs.org/examples/#webgpu_instance_path",
+    "imageUrl": "/covers/threejs-webgpu_instance_path.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_instance_path",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Materials Arrays",
+    "summary": "材质数组切换。",
+    "url": "https://threejs.org/examples/#webgpu_materials_arrays",
+    "imageUrl": "/covers/threejs-webgpu_materials_arrays.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_arrays",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Materials Basic",
+    "summary": "基础材质对照。",
+    "url": "https://threejs.org/examples/#webgpu_materials_basic",
+    "imageUrl": "/covers/threejs-webgpu_materials_basic.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_basic",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Morph Targets Face",
+    "summary": "面部 morph。",
+    "url": "https://threejs.org/examples/#webgpu_morphtargets_face",
+    "imageUrl": "/covers/threejs-webgpu_morphtargets_face.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_morphtargets_face",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Multiple Elements",
+    "summary": "多元素场景。",
+    "url": "https://threejs.org/examples/#webgpu_multiple_elements",
+    "imageUrl": "/covers/threejs-webgpu_multiple_elements.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_multiple_elements",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU MSAA Renderbuffers",
+    "summary": "多重采样缓冲。",
+    "url": "https://threejs.org/examples/#webgpu_multisampled_renderbuffers",
+    "imageUrl": "/covers/threejs-webgpu_multisampled_renderbuffers.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_multisampled_renderbuffers",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Afterimage",
+    "summary": "残影后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_afterimage",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_afterimage.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_afterimage",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Difference Pass",
+    "summary": "差分后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_difference",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_difference.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_difference",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Masking",
+    "summary": "遮罩后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_masking",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_masking.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_masking",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Motion Blur",
+    "summary": "运动模糊。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_motion_blur",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_motion_blur.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_motion_blur",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Outline",
+    "summary": "描边后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_outline",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_outline.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_outline",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU SMAA",
+    "summary": "SMAA 抗锯齿。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_smaa",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_smaa.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_smaa",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tech-art"
+    ],
+    "collectedAt": "2026-09-14"
+  },
+  {
     "type": "inspiration",
     "title": "Cozy Iso Male Kit 等距角色",
     "summary": "等距可分层男性角色包，剪影清楚适合人口层。",
