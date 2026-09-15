@@ -1,5 +1,631 @@
 [
   {
+    "type": "game",
+    "title": "AwkSilence 新作 Steam 预告",
+    "summary": "独立开发者 AwkSilenceGames 的新作 Steam 页面预告，3D 玩法向。",
+    "url": "https://x.com/AwkSilenceGames/status/2099528789126492531",
+    "imageUrl": "/covers/2099528789126492531.jpg",
+    "source": "x",
+    "sourceId": "2099528789126492531",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "steam",
+      "indie"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Three.js 社区视觉演示",
+    "summary": "Three.js 官方转发的 WebGL/视觉演示视频截帧，tech-art 向。",
+    "url": "https://x.com/threejs/status/2099529688251015251",
+    "imageUrl": "/covers/2099529688251015251.jpg",
+    "source": "x",
+    "sourceId": "2099529688251015251",
+    "tags": [
+      "x-bookmark",
+      "shader",
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Praetor: Medieval TD",
+    "summary": "中世纪像素风塔防 Praetor，单位在场景中游荡的玩法演示。",
+    "url": "https://x.com/Gimdeka/status/2099519032659767621",
+    "imageUrl": "/covers/2099519032659767621.jpg",
+    "source": "x",
+    "sourceId": "2099519032659767621",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "tower-defense",
+      "pixel",
+      "medieval"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Defilade RTS — 战壕系统",
+    "summary": "Defilade RTS 深化战壕工事系统，偏活系统/物理沙盒 RTS。",
+    "url": "https://x.com/Neucollective/status/2099435357469102556",
+    "imageUrl": "/covers/2099435357469102556.jpg",
+    "source": "x",
+    "sourceId": "2099435357469102556",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "rts",
+      "systems"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "VOID DIVER: Escape from the Abyss",
+    "summary": "Studio Nemo 深渊逃生作，角色 Elara/BALUSHA 运营助手登场，TGS 向。",
+    "url": "https://x.com/studionemo_de/status/2099365536488661485",
+    "imageUrl": "/covers/2099365536488661485.jpg",
+    "source": "x",
+    "sourceId": "2099365536488661485",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "3d",
+      "sci-fi"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Adre — 雪地与貘",
+    "summary": "Unity 独立作雪地表现迭代，风格化 3D 战斗向。",
+    "url": "https://x.com/adredev/status/2099181815085011360",
+    "imageUrl": "/covers/2099181815085011360.jpg",
+    "source": "x",
+    "sourceId": "2099181815085011360",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "unity",
+      "snow",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Tokyo Stories",
+    "summary": "3D×像素艺术表现空荡东京的冒险作，TGS2026 试玩。",
+    "url": "https://x.com/denfaminicogame/status/2099390859267678466",
+    "imageUrl": "/covers/2099390859267678466.jpg",
+    "source": "x",
+    "sourceId": "2099390859267678466",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "3d",
+      "pixel",
+      "adventure"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Zhu Liang 日落牧场",
+    "summary": "独立作加入动物、简化树木，保留日落黄金时刻氛围。",
+    "url": "https://x.com/ZhuLiangDev/status/2099380980381372707",
+    "imageUrl": "/covers/2099380980381372707.jpg",
+    "source": "x",
+    "sourceId": "2099380980381372707",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "indie",
+      "golden-hour",
+      "nature"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Pinnacle Point",
+    "summary": "Ready2RunGames 的 Pinnacle Point，Steam 试玩评价很好的独立作。",
+    "url": "https://x.com/Ready2RunGames/status/2099171511609282741",
+    "imageUrl": "/covers/2099171511609282741.jpg",
+    "source": "x",
+    "sourceId": "2099171511609282741",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "steam",
+      "demo"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "星のハルカ",
+    "summary": "宇宙舞台 SF 少年向 RPG，制作约 6 年已可通关，打磨中。",
+    "url": "https://x.com/kamipallet/status/2099276610679816254",
+    "imageUrl": "/covers/2099276610679816254.jpg",
+    "source": "x",
+    "sourceId": "2099276610679816254",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "rpg",
+      "sf",
+      "japanese"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Pixel Flight Simulator (Pyxel)",
+    "summary": "Pyxel 用户作品集新增像素飞行模拟器示例。",
+    "url": "https://x.com/kitao/status/2099011711139525073",
+    "imageUrl": "/covers/2099011711139525073.jpg",
+    "source": "x",
+    "sourceId": "2099011711139525073",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "pyxel",
+      "pixel",
+      "sim"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "The Crust",
+    "summary": "月面殖民地开发模拟《The Crust》正式版大热，工厂/陨石/多结局。",
+    "url": "https://x.com/AUTOMATONJapan/status/2099348879364010477",
+    "imageUrl": "/covers/2099348879364010477.jpg",
+    "source": "x",
+    "sourceId": "2099348879364010477",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "colony",
+      "factory",
+      "sim",
+      "steam"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Stefan 3D AI — Day 11",
+    "summary": "用 AI 搭了 15 年梦想中的 3D 游戏，人形动画与骨骼攻击调试。",
+    "url": "https://x.com/Stefan_3D_AI/status/2099078934185070721",
+    "imageUrl": "/covers/2099078934185070721.jpg",
+    "source": "x",
+    "sourceId": "2099078934185070721",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "3d",
+      "devlog",
+      "ai-dev"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "rootpilot 视觉短片",
+    "summary": "书签中的 3D/视觉短视频演示（无文案），按书签规则收录。",
+    "url": "https://x.com/rootpilot/status/2099172164700426254",
+    "imageUrl": "/covers/2099172164700426254.jpg",
+    "source": "x",
+    "sourceId": "2099172164700426254",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "visual",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Defilade — 直升机击落",
+    "summary": "Defilade RTS 直升机载员被击落的物理/系统演示。",
+    "url": "https://x.com/Neucollective/status/2099253007288356872",
+    "imageUrl": "/covers/2099253007288356872.jpg",
+    "source": "x",
+    "sourceId": "2099253007288356872",
+    "tags": [
+      "x-bookmark",
+      "game",
+      "rts",
+      "physics"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Selective Bloom",
+    "summary": "选择性辉光后处理。（three.js 官方示例）",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_bloom_selective",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_bloom_selective.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_bloom_selective",
+    "tags": [
+      "threejs",
+      "shader",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Rapier Terrain Physics",
+    "summary": "地形与物理交互。（three.js 官方示例）",
+    "url": "https://threejs.org/examples/#physics_rapier_terrain",
+    "imageUrl": "/covers/threejs-physics_rapier_terrain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physics_rapier_terrain",
+    "tags": [
+      "threejs",
+      "shader",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Tidemark — The Bellweather Isles",
+    "summary": "海岸建造、贸易与灯塔的系统向独立作，活系统/建造循环。（itch.io）",
+    "url": "https://squipy411.itch.io/tidemark",
+    "imageUrl": "/covers/itch-squipy411-tidemark.jpg",
+    "source": "itch",
+    "sourceId": "itch-squipy411-tidemark",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Fragmented Memories",
+    "summary": "PS1 风心理恐怖：水下实验室与记忆碎片。（itch.io）",
+    "url": "https://santiwis.itch.io/fragmented-memories",
+    "imageUrl": "/covers/itch-santiwis-fragmented-memories.jpg",
+    "source": "itch",
+    "sourceId": "itch-santiwis-fragmented-memories",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Concrete Abyss (Demo)",
+    "summary": "Blame! 气质赛博跑酷 Demo，风格化 3D 动作。（itch.io）",
+    "url": "https://tost-games.itch.io/concrete-abyss",
+    "imageUrl": "/covers/itch-tost-games-concrete-abyss.jpg",
+    "source": "itch",
+    "sourceId": "itch-tost-games-concrete-abyss",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Pocoplant",
+    "summary": "挖种拍打循环，拯救濒危植物的轻系统作。（itch.io）",
+    "url": "https://luftdev.itch.io/pocoplant",
+    "imageUrl": "/covers/itch-luftdev-pocoplant.jpg",
+    "source": "itch",
+    "sourceId": "itch-luftdev-pocoplant",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "CORRIDOR Prototype",
+    "summary": "反舒适农耕原型，生存向农场实验。（itch.io）",
+    "url": "https://bearsharktopus.itch.io/corridor",
+    "imageUrl": "/covers/itch-bearsharktopus-corridor.jpg",
+    "source": "itch",
+    "sourceId": "itch-bearsharktopus-corridor",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Waste picker",
+    "summary": "捡垃圾升级工具并修复环境的模拟循环。（itch.io）",
+    "url": "https://breadwithjam939.itch.io/waste-picker",
+    "imageUrl": "/covers/itch-breadwithjam939-waste-picker.jpg",
+    "source": "itch",
+    "sourceId": "itch-breadwithjam939-waste-picker",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Dispater",
+    "summary": "地下挖掘求生的 3D 挖矿向作品。（itch.io）",
+    "url": "https://yrgo.itch.io/dispater",
+    "imageUrl": "/covers/itch-yrgo-dispater.jpg",
+    "source": "itch",
+    "sourceId": "itch-yrgo-dispater",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Midnight Pawn",
+    "summary": "午夜当铺：鉴定异常物品与风险管理。（itch.io）",
+    "url": "https://pechenkadev.itch.io/midnight-pawn",
+    "imageUrl": "/covers/itch-pechenkadev-midnight-pawn.jpg",
+    "source": "itch",
+    "sourceId": "itch-pechenkadev-midnight-pawn",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Drosophila Live Behaviour Simulation",
+    "summary": "果蝇行为实时 3D 实验室模拟。（itch.io）",
+    "url": "https://kebap-guy.itch.io/drosophila-live-behaviour-simulation",
+    "imageUrl": "/covers/itch-kebap-guy-drosophila-live-behaviour-simulation.jpg",
+    "source": "itch",
+    "sourceId": "itch-kebap-guy-drosophila-live-behaviour-simulation",
+    "tags": [
+      "itch",
+      "game",
+      "3d"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Titania",
+    "summary": "Voxel 标签下的风格化 3D 作品。（itch.io）",
+    "url": "https://irylia.itch.io/titania",
+    "imageUrl": "/covers/itch-irylia-titania.jpg",
+    "source": "itch",
+    "sourceId": "itch-irylia-titania",
+    "tags": [
+      "itch",
+      "game",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "game",
+    "title": "Base Matter",
+    "summary": "体素/基地向建造作品。（itch.io）",
+    "url": "https://nateharmsfpv.itch.io/base-matter",
+    "imageUrl": "/covers/itch-nateharmsfpv-base-matter.jpg",
+    "source": "itch",
+    "sourceId": "itch-nateharmsfpv-base-matter",
+    "tags": [
+      "itch",
+      "game",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Ammo Terrain Physics",
+    "summary": "Ammo.js 地形物理碰撞演示。（three.js）",
+    "url": "https://threejs.org/examples/#physics_ammo_terrain",
+    "imageUrl": "/covers/threejs-physics_ammo_terrain.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physics_ammo_terrain",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Ammo Cloth",
+    "summary": "布料物理模拟。（three.js）",
+    "url": "https://threejs.org/examples/#physics_ammo_cloth",
+    "imageUrl": "/covers/threejs-physics_ammo_cloth.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physics_ammo_cloth",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Ammo Volume",
+    "summary": "体积物理交互。（three.js）",
+    "url": "https://threejs.org/examples/#physics_ammo_volume",
+    "imageUrl": "/covers/threejs-physics_ammo_volume.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-physics_ammo_volume",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Sculpt",
+    "summary": "浏览器内实时雕刻。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_sculpt",
+    "imageUrl": "/covers/threejs-webgl_sculpt.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_sculpt",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL SSR",
+    "summary": "屏幕空间反射后处理（WebGL 路径）。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_ssr",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_ssr.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_ssr",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Custom Attribute Particles",
+    "summary": "自定义属性粒子系统。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_buffergeometry_custom_attributes_particles",
+    "imageUrl": "/covers/threejs-webgl_buffergeometry_custom_attributes_particles.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_buffergeometry_custom_attributes_particles",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Parallax Barrier",
+    "summary": "视差屏障立体视觉效果。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_effects_parallaxbarrier",
+    "imageUrl": "/covers/threejs-webgl_effects_parallaxbarrier.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_effects_parallaxbarrier",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "WebXR Sculpt",
+    "summary": "XR 雕刻交互。（three.js）",
+    "url": "https://threejs.org/examples/#webxr_xr_sculpt",
+    "imageUrl": "/covers/threejs-webxr_xr_sculpt.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webxr_xr_sculpt",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "ASCII Effect",
+    "summary": "ASCII 后处理，复古帧缓冲味。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_effects_ascii",
+    "imageUrl": "/covers/threejs-webgl_effects_ascii.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_effects_ascii",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Minecraft Geometry",
+    "summary": "体素 Minecraft 风几何场景。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_geometry_minecraft",
+    "imageUrl": "/covers/threejs-webgl_geometry_minecraft.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_geometry_minecraft",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "Decals",
+    "summary": "贴花/弹孔投影技术演示。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_decals",
+    "imageUrl": "/covers/threejs-webgl_decals.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_decals",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "EXR Texture Loader",
+    "summary": "EXR 高动态纹理加载。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_loader_texture_exr",
+    "imageUrl": "/covers/threejs-webgl_loader_texture_exr.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_texture_exr",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "shader",
+    "title": "FXAA",
+    "summary": "FXAA 抗锯齿后处理。（three.js）",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_fxaa",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_fxaa.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_fxaa",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
     "type": "inspiration",
     "title": "Cozy Village NPCs 温馨村民",
     "summary": "16个可读剪影的像素村民（闲置/走/劳作/睡），适合上帝视角村庄人口。",
