@@ -1,5 +1,170 @@
 [
   {
+    "type": "inspiration",
+    "title": "Cozy Riverside Town 温馨河畔小镇",
+    "summary": "侧视像素河畔小镇整景+晨夜叠层，剪影清晰的玩具感场景。",
+    "url": "https://juichieh.itch.io/free-cozy-riverside-town",
+    "imageUrl": "/covers/itch-juichieh-riverside-town.jpg",
+    "source": "itch",
+    "sourceId": "itch-juichieh-riverside-town",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Game UI Kit 温馨游戏界面",
+    "summary": "暖色手绘感像素 UI（Godot4），奶油面板接近砂象牙口味。",
+    "url": "https://sml94.itch.io/cozy-game-ui-kit",
+    "imageUrl": "/covers/itch-sml94-cozy-game-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-sml94-cozy-game-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Farm Girl Cartoon Sheet 农场女孩表情表",
+    "summary": "饱和卡通农场女孩表情/换装表，大轮廓可读适合角色参考。",
+    "url": "https://greateden.itch.io/farm-girl-cartoon-character-pack-expressions-outfits",
+    "imageUrl": "/covers/itch-greateden-farm-girl.jpg",
+    "source": "itch",
+    "sourceId": "itch-greateden-farm-girl",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixel Village Top-Down 俯视像素村",
+    "summary": "俯视像素村庄房屋市集烟囱，可读建筑剪影适合神游据点。",
+    "url": "https://zedpxl.itch.io/pixelart-village-top-down-rpg-asset-pack",
+    "imageUrl": "/covers/itch-zedpxl-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-zedpxl-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "48 Chibi UI Icons 奇比贴纸图标",
+    "summary": "48 枚 chibi HUD/UI 图标，贴纸感强适合胶囊 HUD。",
+    "url": "https://antahonist.itch.io/48-chibi-ui-hud-icons",
+    "imageUrl": "/covers/itch-antahonist-48-chibi-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-48-chibi-ui",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Game Asset Pack 卡通风资源包",
+    "summary": "卡通风温馨游戏资产包，饱和玩具色适合场景/角色混搭参考。",
+    "url": "https://yume-game-studio.itch.io/cozy-game-asset-pack",
+    "imageUrl": "/covers/itch-yume-cozy-game-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-yume-cozy-game-pack",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Forest Village Idle 森林村庄像素",
+    "summary": "像素森林村庄 idle 场景，暖色小屋与树木剪影清晰。",
+    "url": "https://tomzh.itch.io/forest-village",
+    "imageUrl": "/covers/itch-tomzh-forest-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-tomzh-forest-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Pet Care Cartoon 宠物护理卡通",
+    "summary": "卡通矢量宠物护理道具与混乱场景，玩具感贴纸风。",
+    "url": "https://mellapopstudios.itch.io/cozy-pet-care-cartoon-mess-2d-vector-asset-pack",
+    "imageUrl": "/covers/itch-mellapop-pet-care.jpg",
+    "source": "itch",
+    "sourceId": "itch-mellapop-pet-care",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pocket Panels UI 口袋面板界面",
+    "summary": "可编辑口袋风游戏 UI 面板，软圆角贴纸感适合菜单。",
+    "url": "https://cadenk941.itch.io/pocket-panels",
+    "imageUrl": "/covers/itch-cadenk-pocket-panels.jpg",
+    "source": "itch",
+    "sourceId": "itch-cadenk-pocket-panels",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Lil Spores 蘑菇殖民像素",
+    "summary": "农耕/殖民向像素蘑菇人与场景，小体型剪影适合神游人口层。",
+    "url": "https://aspiremade.itch.io/cozy-lil-spores",
+    "imageUrl": "/covers/itch-aspiremade-lil-spores.jpg",
+    "source": "itch",
+    "sourceId": "itch-aspiremade-lil-spores",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixem Forest Valley UI 森林谷界面",
+    "summary": "木纹奶油像素 UI+五张村民肖像，暖沙面板与对话框参考。",
+    "url": "https://assetstore.unity.com/packages/2d/gui/pixem-forest-valley-382882",
+    "imageUrl": "/covers/uas-pixem-forest-valley.jpg",
+    "source": "unity",
+    "sourceId": "uas-pixem-forest-valley",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "collectedAt": "2026-09-15"
+  },
+  {
     "type": "game",
     "title": "AwkSilence 新作 Steam 预告",
     "summary": "独立开发者 AwkSilenceGames 的新作 Steam 页面预告，3D 玩法向。",
