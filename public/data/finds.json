@@ -1,5 +1,155 @@
 [
   {
+    "type": "inspiration",
+    "title": "Tiny Top-Down Village 迷你俯视村庄",
+    "summary": "58 栋可爱 80×80 像素建筑，俯视剪影清晰，适合神游据点排布参考。",
+    "url": "https://jedimeisterx.itch.io/tiny-top-down-village-58-cute-80x80-pixel-buildings",
+    "source": "itch",
+    "sourceId": "itch-jedimeisterx-tiny-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-jedimeisterx-tiny-village.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Oakheart Exteriors 橡心村外景",
+    "summary": "16×16 温馨 RPG 村庄外景 tileset，暖色小屋与树篱剪影可读。",
+    "url": "https://z3er1n.itch.io/oakheart-exteriors",
+    "source": "itch",
+    "sourceId": "itch-z3er1n-oakheart",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-z3er1n-oakheart.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cozy Village Square 温馨村庄广场",
+    "summary": "像素钟楼广场与市集铺面，玩具感小镇中心场景参考。",
+    "url": "https://mutterpixel-studio.itch.io/cozy-village-square",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-village-square",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-mutterpixel-village-square.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Japanese Village Buildings 日式村庄建筑",
+    "summary": "像素日式町屋建筑包，屋顶与檐廊轮廓清楚适合场景拼装。",
+    "url": "https://mutterpixel-studio.itch.io/japanese-village-buildings-pixel-art-asset-pack",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-japanese-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-mutterpixel-japanese-village.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Complete UI Essential Pack 完整像素界面",
+    "summary": "Aseprite 像素按钮/面板/图标全套，软圆角贴纸感适合菜单 HUD。",
+    "url": "https://crusenho.itch.io/complete-ui-essential-pack",
+    "source": "itch",
+    "sourceId": "itch-crusenho-complete-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "imageUrl": "/covers/itch-crusenho-complete-ui.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Fantasy UI Interface 奇幻像素界面",
+    "summary": "中世纪奇幻像素 GUI 面板与装饰框，可读边框适合设置页。",
+    "url": "https://toffeecraft.itch.io/fantasy-ui-user-interaface",
+    "source": "itch",
+    "sourceId": "itch-toffeecraft-fantasy-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "imageUrl": "/covers/itch-toffeecraft-fantasy-ui.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Swords 迷你刀剑卡通",
+    "summary": "卡通像素 RTS 单位与建筑，大色块剪影饱和，角色/场景双参考。",
+    "url": "https://pixelfrog-assets.itch.io/tiny-swords",
+    "source": "itch",
+    "sourceId": "itch-pixelfrog-tiny-swords",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-pixelfrog-tiny-swords.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Modular Characters 可爱模块角色",
+    "summary": "8 色模块化卡通小人，极简可读剪影适合神游人口层。",
+    "url": "https://alangu-apex-games.itch.io/cute-cartoon-modular-character-pack-8-colors-free",
+    "source": "itch",
+    "sourceId": "itch-alangu-modular-chars",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-alangu-modular-chars.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Vibrant Cartoon Characters 鲜艳卡通角色",
+    "summary": "饱和矢量卡通角色精灵，玩具色强、轮廓清楚的角色设定参考。",
+    "url": "https://zzzcb.itch.io/vibrant-cartoon-character-pack",
+    "source": "itch",
+    "sourceId": "itch-zzzcb-vibrant-cartoon",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-zzzcb-vibrant-cartoon.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cartoon Capsule Pack Lite 卡通胶囊人",
+    "summary": "低模卡通胶囊体角色，玩具感极强适合上帝视角小人。",
+    "url": "https://joaobaltieri3d.itch.io/cartoon-capsule-pack-lite",
+    "source": "itch",
+    "sourceId": "itch-joaobaltieri-capsule-lite",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-joaobaltieri-capsule-lite.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
     "type": "game",
     "title": "Moonfrost — 任务 UI 折叠",
     "summary": "Moonfrost 任务轨折叠/展开与完成标记，独立农场向 HUD 迭代。",
