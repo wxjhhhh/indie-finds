@@ -1,6 +1,186 @@
 [
   {
     "type": "inspiration",
+    "title": "Sunnyside World 阳光像素世界",
+    "summary": "高饱和俯视农田与小屋世界，玩具感剪影清晰，神游文明扩张地图很有参考。",
+    "url": "https://danieldiggle.itch.io/sunnyside",
+    "source": "itch",
+    "sourceId": "itch-danieldiggle-sunnyside",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-danieldiggle-sunnyside.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Modern Interiors 现代室内图块",
+    "summary": "16×16 俯视室内家具与房间拼装，适合据点/建筑内部可读布局参考。",
+    "url": "https://limezu.itch.io/moderninteriors",
+    "source": "itch",
+    "sourceId": "itch-limezu-moderninteriors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-limezu-moderninteriors.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Platformer Characters 平台跳跃角色包",
+    "summary": "可读剪影的像素平台角色动作，适合神游村民/冒险者体型比例参考。",
+    "url": "https://merakintsugi.itch.io/platformer-character-pack",
+    "source": "itch",
+    "sourceId": "itch-merakintsugi-platformer-chars",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-merakintsugi-platformer-chars.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Top-Down Adventurer 俯视冒险者",
+    "summary": "八向俯视冒险者像素精灵，轮廓清楚，直接对应神游单位朝向表现。",
+    "url": "https://xzany.itch.io/top-down-adventurer-character",
+    "source": "itch",
+    "sourceId": "itch-xzany-topdown-adventurer",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-xzany-topdown-adventurer.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cat Pack 像素猫咪包",
+    "summary": "饱和可爱像素猫与道具，贴纸感强，适合生物多样性与可爱物种层。",
+    "url": "https://toffeecraft.itch.io/cat-pack",
+    "source": "itch",
+    "sourceId": "itch-toffeecraft-cat-pack",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-toffeecraft-cat-pack.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Mystic Woods 神秘树林",
+    "summary": "16×16 像素树林与生物场景，层次分明，适合神游野外生态拼装。",
+    "url": "https://game-endeavor.itch.io/mystic-woods",
+    "source": "itch",
+    "sourceId": "itch-game-endeavor-mystic-woods",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-game-endeavor-mystic-woods.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Tiny Farm RPG 迷你农场 RPG",
+    "summary": "16×16 农场作物/畜棚/村民元素齐全，暖色玩具风贴合 WorldBox 农业层。",
+    "url": "https://maevedevs.itch.io/farm-rpg",
+    "source": "itch",
+    "sourceId": "itch-maevedevs-farm-rpg",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-maevedevs-farm-rpg.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Raven Fantasy Icons 奇幻图标包",
+    "summary": "像素奇幻图标密集可读，适合 HUD/资源条与贴纸式界面点缀。",
+    "url": "https://clockworkraven.itch.io/raven-fantasy-icons",
+    "source": "itch",
+    "sourceId": "itch-clockworkraven-fantasy-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui"
+    ],
+    "imageUrl": "/covers/itch-clockworkraven-fantasy-icons.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Pixel Isometric Tiles 像素等距地块",
+    "summary": "等距像素地块拼装感强，可参考神游城市立体层次与屋顶剪影。",
+    "url": "https://scrabling.itch.io/pixel-isometric-tiles",
+    "source": "itch",
+    "sourceId": "itch-scrabling-iso-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-scrabling-iso-tiles.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "Cute Fantasy RPG 可爱奇幻 RPG",
+    "summary": "16×16  saturation 高的可爱俯视奇幻包，卡通像素混合，适合主菜单星球风。",
+    "url": "https://kenmi-art.itch.io/cute-fantasy-rpg",
+    "source": "itch",
+    "sourceId": "itch-kenmi-cute-fantasy-rpg",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "scene"
+    ],
+    "imageUrl": "/covers/itch-kenmi-cute-fantasy-rpg.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "32 Rogues 三十二浪客",
+    "summary": "32×32 多样职业像素角色表，剪影与配色区分度高，适合民族/职业单位分化。",
+    "url": "https://sethbb.itch.io/32rogues",
+    "source": "itch",
+    "sourceId": "itch-sethbb-32rogues",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character"
+    ],
+    "imageUrl": "/covers/itch-sethbb-32rogues.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
+    "title": "UI Mega Pack 界面超级包",
+    "summary": "软边像素面板与按钮超大套件，贴纸/胶囊感贴近锁定的暖沙象牙 UI。",
+    "url": "https://toffeecraft.itch.io/ui-user-interface-mega-pack",
+    "source": "itch",
+    "sourceId": "itch-toffeecraft-ui-mega",
+    "tags": [
+      "design_inspiration",
+      "cartoon",
+      "ui"
+    ],
+    "imageUrl": "/covers/itch-toffeecraft-ui-mega.jpg",
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "inspiration",
     "title": "Tiny Top-Down Village 迷你俯视村庄",
     "summary": "58 栋可爱 80×80 像素建筑，俯视剪影清晰，适合神游据点排布参考。",
     "url": "https://jedimeisterx.itch.io/tiny-top-down-village-58-cute-80x80-pixel-buildings",
