@@ -1,5 +1,1022 @@
 [
   {
+    "type": "game",
+    "title": "Moonfrost — 任务 UI 折叠",
+    "summary": "Moonfrost 任务轨折叠/展开与完成标记，独立农场向 HUD 迭代。",
+    "url": "https://x.com/MoonfrostGame/status/2099849198036455528",
+    "imageUrl": "/covers/2099849198036455528.jpg",
+    "source": "x",
+    "sourceId": "2099849198036455528",
+    "tags": [
+      "x-bookmark",
+      "indie",
+      "ui",
+      "farm",
+      "steam"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Sand Weather（沙尘天气）",
+    "summary": "沙尘/风化粒子天气演示，贴合 GPU 沙与动态材质口味。",
+    "url": "https://x.com/lxsmnsyc/status/2099674443765485696",
+    "imageUrl": "/covers/2099674443765485696.jpg",
+    "source": "x",
+    "sourceId": "2099674443765485696",
+    "tags": [
+      "x-bookmark",
+      "sand",
+      "weather",
+      "vfx",
+      "particles"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Roblox Mining System（开源挖矿）",
+    "summary": "可破碎矿石、碎屑物理与自动重生的挖矿系统，活物理循环。",
+    "url": "https://x.com/MountLabs/status/2099737253564060083",
+    "imageUrl": "/covers/2099737253564060083.jpg",
+    "source": "x",
+    "sourceId": "2099737253564060083",
+    "tags": [
+      "x-bookmark",
+      "roblox",
+      "mining",
+      "physics",
+      "system"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Puck 3D Pixelart Bundle",
+    "summary": "Blender 像素纹理/多角度像素绘转 3D 工具链，3D 像素美术向。",
+    "url": "https://x.com/puck_psx/status/2099604131853844498",
+    "imageUrl": "/covers/2099604131853844498.jpg",
+    "source": "x",
+    "sourceId": "2099604131853844498",
+    "tags": [
+      "x-bookmark",
+      "pixel",
+      "psx",
+      "blender",
+      "tool"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Rain Added（独立作加雨）",
+    "summary": "独立开发者应观众要求加入降雨效果的实机演示。",
+    "url": "https://x.com/singkeyshk/status/2099488756957139367",
+    "imageUrl": "/covers/2099488756957139367.jpg",
+    "source": "x",
+    "sourceId": "2099488756957139367",
+    "tags": [
+      "x-bookmark",
+      "indie",
+      "rain",
+      "vfx",
+      "gamedev"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "VFX Apprentice — Timing Greybox",
+    "summary": "灰盒阶段就把特效时间打磨到位的教学片段，技术美术向。",
+    "url": "https://x.com/VFXApprentice/status/2099497768154771531",
+    "imageUrl": "/covers/2099497768154771531.jpg",
+    "source": "x",
+    "sourceId": "2099497768154771531",
+    "tags": [
+      "x-bookmark",
+      "vfx",
+      "timing",
+      "fx",
+      "education"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Soft Ruin",
+    "summary": "开放世界 3D 平台跳跃，流体动量移动与手作迷宫世界。",
+    "url": "https://x.com/IndieGamesLib/status/2099530846906491390",
+    "imageUrl": "/covers/2099530846906491390.jpg",
+    "source": "x",
+    "sourceId": "2099530846906491390",
+    "tags": [
+      "x-bookmark",
+      "platformer",
+      "open-world",
+      "3d",
+      "coop"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Army Destroyed Physics Anim",
+    "summary": "军队被摧毁的物理动画演示，群体破碎与刚体反馈。",
+    "url": "https://x.com/leo_massaroli/status/2099572377659044089",
+    "imageUrl": "/covers/2099572377659044089.jpg",
+    "source": "x",
+    "sourceId": "2099572377659044089",
+    "tags": [
+      "x-bookmark",
+      "physics",
+      "animation",
+      "rts",
+      "gamedev"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "BambooBandit — New Enemy",
+    "summary": "独立作新敌人设计与战斗反馈演示。",
+    "url": "https://x.com/BambooBanditSR/status/2099580348115939579",
+    "imageUrl": "/covers/2099580348115939579.jpg",
+    "source": "x",
+    "sourceId": "2099580348115939579",
+    "tags": [
+      "x-bookmark",
+      "indie",
+      "enemy",
+      "combat",
+      "gamedev"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Original Look Indie Game",
+    "summary": "书签称「近来见过最有原创感的画面」的独立作实机。",
+    "url": "https://x.com/Aurelien_Gz/status/2099587035350589612",
+    "imageUrl": "/covers/2099587035350589612.jpg",
+    "source": "x",
+    "sourceId": "2099587035350589612",
+    "tags": [
+      "x-bookmark",
+      "indie",
+      "stylized",
+      "lookdev"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Pixel Art Loop",
+    "summary": "像素动画短循环，可读几何与像素表现参考。",
+    "url": "https://x.com/Myartbytes1/status/2099638559762518527",
+    "imageUrl": "/covers/2099638559762518527.jpg",
+    "source": "x",
+    "sourceId": "2099638559762518527",
+    "tags": [
+      "x-bookmark",
+      "pixelart",
+      "animation",
+      "loop"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "three.js Tropical Fish Chase",
+    "summary": "three.js 热带作品集里追鱼的小瞬间，水体/生物交互视觉。",
+    "url": "https://x.com/nowsomemv/status/2099506310794600740",
+    "imageUrl": "/covers/2099506310794600740.jpg",
+    "source": "x",
+    "sourceId": "2099506310794600740",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "water",
+      "fish",
+      "portfolio"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Pixel Room Building Timelapse",
+    "summary": "像素房间建造延时，Townscaper 式室内搭建氛围。",
+    "url": "https://x.com/greenisginger/status/2099295671308444018",
+    "imageUrl": "/covers/2099295671308444018.jpg",
+    "source": "x",
+    "sourceId": "2099295671308444018",
+    "tags": [
+      "x-bookmark",
+      "pixelart",
+      "room",
+      "build",
+      "timelapse"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Dorayaki of Sorrow",
+    "summary": "《悲伤铜锣烧》像素短片风画面，饱和玩具色叙事像素。",
+    "url": "https://x.com/omiothuke20/status/2099345227685523548",
+    "imageUrl": "/covers/2099345227685523548.jpg",
+    "source": "x",
+    "sourceId": "2099345227685523548",
+    "tags": [
+      "x-bookmark",
+      "pixelart",
+      "narrative",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": ">Parallax_",
+    "summary": "PSX/视差风独立短作，复古帧缓冲氛围。",
+    "url": "https://ewaizer.itch.io/parallax",
+    "imageUrl": "/covers/itch-ewaizer-parallax.jpg",
+    "source": "itch",
+    "sourceId": "itch-ewaizer-parallax",
+    "tags": [
+      "itch",
+      "psx",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "A wild River Adventure",
+    "summary": "Godot 河流冒险，自然场景与探索节奏。",
+    "url": "https://inner-elysium.itch.io/a-wild-river-adventure",
+    "imageUrl": "/covers/itch-inner-elysium-a-wild-river-adventure.jpg",
+    "source": "itch",
+    "sourceId": "itch-inner-elysium-a-wild-river-adventure",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "AEROPUNX DEMO",
+    "summary": "低多边形飞行/朋克风试玩，可读几何。",
+    "url": "https://stickdriftt.itch.io/aeropunx-demo",
+    "imageUrl": "/covers/itch-stickdriftt-aeropunx-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-stickdriftt-aeropunx-demo",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Abyss Chamber",
+    "summary": "Godot 深渊密室恐怖，暗调体积感。",
+    "url": "https://colour-arts.itch.io/abyss-chamber-horror-game",
+    "imageUrl": "/covers/itch-colour-arts-abyss-chamber-horror-game.jpg",
+    "source": "itch",
+    "sourceId": "itch-colour-arts-abyss-chamber-horror-game",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Afternote",
+    "summary": "PSX 风叙事短作，复古帧缓冲美学。",
+    "url": "https://duckcheese.itch.io/afternote",
+    "imageUrl": "/covers/itch-duckcheese-afternote.jpg",
+    "source": "itch",
+    "sourceId": "itch-duckcheese-afternote",
+    "tags": [
+      "itch",
+      "psx",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Bacchanalia",
+    "summary": "低多边形风格化场景向独立作。",
+    "url": "https://drboem.itch.io/bacchanalia",
+    "imageUrl": "/covers/itch-drboem-bacchanalia.jpg",
+    "source": "itch",
+    "sourceId": "itch-drboem-bacchanalia",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Backrooms 95 (Demo)",
+    "summary": "PSX/95 风 Backrooms 探索试玩。",
+    "url": "https://dreamveloper.itch.io/backrooms-95-demo",
+    "imageUrl": "/covers/itch-dreamveloper-backrooms-95-demo.jpg",
+    "source": "itch",
+    "sourceId": "itch-dreamveloper-backrooms-95-demo",
+    "tags": [
+      "itch",
+      "psx",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Before We Fall",
+    "summary": "低多边形氛围叙事，黄金时刻可读造型。",
+    "url": "https://kunic.itch.io/before-we-fall",
+    "imageUrl": "/covers/itch-kunic-before-we-fall.jpg",
+    "source": "itch",
+    "sourceId": "itch-kunic-before-we-fall",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Botanika",
+    "summary": "Godot 植物/园艺向，温和生长系统。",
+    "url": "https://lafilleducode.itch.io/botanika",
+    "imageUrl": "/covers/itch-lafilleducode-botanika.jpg",
+    "source": "itch",
+    "sourceId": "itch-lafilleducode-botanika",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "C.A.T.",
+    "summary": "Godot 3D 短作，风格化角色互动。",
+    "url": "https://pushpinbird.itch.io/cat",
+    "imageUrl": "/covers/itch-pushpinbird-cat.jpg",
+    "source": "itch",
+    "sourceId": "itch-pushpinbird-cat",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "CLIMB",
+    "summary": "PSX 风攀爬向短作。",
+    "url": "https://kyle-horwood.itch.io/climb",
+    "imageUrl": "/covers/itch-kyle-horwood-climb.jpg",
+    "source": "itch",
+    "sourceId": "itch-kyle-horwood-climb",
+    "tags": [
+      "itch",
+      "psx",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Caparezza Tapes",
+    "summary": "PSX 风磁带/音乐视觉短作，复古帧缓冲。",
+    "url": "https://paninoalsalame09.itch.io/caparezza-tapes",
+    "imageUrl": "/covers/itch-paninoalsalame09-caparezza-tapes.jpg",
+    "source": "itch",
+    "sourceId": "itch-paninoalsalame09-caparezza-tapes",
+    "tags": [
+      "itch",
+      "psx",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Chaos Farms",
+    "summary": "混乱农场模拟，活系统建造循环。",
+    "url": "https://frostbiteretrodev.itch.io/chaos-farm",
+    "imageUrl": "/covers/itch-frostbiteretrodev-chaos-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-frostbiteretrodev-chaos-farm",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Coffee & Chill",
+    "summary": "Godot 咖啡休闲场景，轻松氛围向。",
+    "url": "https://efe-s.itch.io/coffe-chill",
+    "imageUrl": "/covers/itch-efe-s-coffe-chill.jpg",
+    "source": "itch",
+    "sourceId": "itch-efe-s-coffe-chill",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Con-Star",
+    "summary": "Godot 星空/太空题材独立短作。",
+    "url": "https://igor-iapu.itch.io/con-star",
+    "imageUrl": "/covers/itch-igor-iapu-con-star.jpg",
+    "source": "itch",
+    "sourceId": "itch-igor-iapu-con-star",
+    "tags": [
+      "itch",
+      "godot",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Cubic Snake 3D",
+    "summary": "体素经典蛇机街机，体素几何清晰。",
+    "url": "https://usefulsoc.itch.io/cubic-snake-3d-arcade-voxel",
+    "imageUrl": "/covers/itch-usefulsoc-cubic-snake-3d-arcade-voxel.jpg",
+    "source": "itch",
+    "sourceId": "itch-usefulsoc-cubic-snake-3d-arcade-voxel",
+    "tags": [
+      "itch",
+      "voxel",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Cubicle Culprit",
+    "summary": "体素办公室题材独立短作。",
+    "url": "https://7bstudios.itch.io/cubicle-culprit",
+    "imageUrl": "/covers/itch-7bstudios-cubicle-culprit.jpg",
+    "source": "itch",
+    "sourceId": "itch-7bstudios-cubicle-culprit",
+    "tags": [
+      "itch",
+      "voxel",
+      "free",
+      "3d"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "WorldBox - God Simulator",
+    "summary": "神视角沙盒文明模拟，直接贴合 WorldBox 向口味。",
+    "url": "https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/",
+    "imageUrl": "/covers/steam-1206560.jpg",
+    "source": "steam",
+    "sourceId": "steam-1206560",
+    "tags": [
+      "steam",
+      "indie",
+      "sim"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Teardown",
+    "summary": "体素物理破坏沙盒，可破坏世界。",
+    "url": "https://store.steampowered.com/app/1167630/Teardown/",
+    "imageUrl": "/covers/steam-1167630.jpg",
+    "source": "steam",
+    "sourceId": "steam-1167630",
+    "tags": [
+      "steam",
+      "indie",
+      "sim"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Paralives",
+    "summary": "风格化生活模拟，建造与居民循环。",
+    "url": "https://store.steampowered.com/app/1118520/Paralives/",
+    "imageUrl": "/covers/steam-1118520.jpg",
+    "source": "steam",
+    "sourceId": "steam-1118520",
+    "tags": [
+      "steam",
+      "indie",
+      "sim"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Organized Inside",
+    "summary": "Godot 展柜：室内整理/收纳玩法，轻松系统循环。",
+    "url": "https://godotengine.org/showcase/organized-inside/",
+    "imageUrl": "/covers/godot-organized-inside.jpg",
+    "source": "godot",
+    "sourceId": "godot-organized-inside",
+    "tags": [
+      "godot",
+      "showcase",
+      "indie"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Spooky Express",
+    "summary": "Godot 展柜：幽灵快递，风格化关卡与节奏。",
+    "url": "https://godotengine.org/showcase/spooky-express/",
+    "imageUrl": "/covers/godot-spooky-express.jpg",
+    "source": "godot",
+    "sourceId": "godot-spooky-express",
+    "tags": [
+      "godot",
+      "showcase",
+      "indie"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "game",
+    "title": "Rift Riff",
+    "summary": "Godot 展柜：裂隙节奏向，可读几何与手感。",
+    "url": "https://godotengine.org/showcase/rift-riff/",
+    "imageUrl": "/covers/godot-rift-riff.jpg",
+    "source": "godot",
+    "sourceId": "godot-rift-riff",
+    "tags": [
+      "godot",
+      "showcase",
+      "indie"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Shadertoy Bridge",
+    "summary": "three.js 官方示例：webgpu_shadertoy，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_shadertoy",
+    "imageUrl": "/covers/threejs-webgpu_shadertoy.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadertoy",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Texture",
+    "summary": "three.js 官方示例：webgpu_compute_texture，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_compute_texture",
+    "imageUrl": "/covers/threejs-webgpu_compute_texture.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_texture",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Ping-pong",
+    "summary": "three.js 官方示例：webgpu_compute_texture_pingpong，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_compute_texture_pingpong",
+    "imageUrl": "/covers/threejs-webgpu_compute_texture_pingpong.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_texture_pingpong",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Progressive Shadowmap",
+    "summary": "three.js 官方示例：webgpu_shadowmap_progressive，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_shadowmap_progressive",
+    "imageUrl": "/covers/threejs-webgpu_shadowmap_progressive.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadowmap_progressive",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU VSM Shadows",
+    "summary": "three.js 官方示例：webgpu_shadowmap_vsm，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_shadowmap_vsm",
+    "imageUrl": "/covers/threejs-webgpu_shadowmap_vsm.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadowmap_vsm",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Tonemapping",
+    "summary": "three.js 官方示例：webgpu_tonemapping，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_tonemapping",
+    "imageUrl": "/covers/threejs-webgpu_tonemapping.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tonemapping",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Video Panorama",
+    "summary": "three.js 官方示例：webgpu_video_panorama，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webgpu_video_panorama",
+    "imageUrl": "/covers/threejs-webgpu_video_panorama.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_video_panorama",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "webxr vr sandbox",
+    "summary": "three.js 官方示例：webxr_vr_sandbox，偏材料/体积/后处理技术美术。",
+    "url": "https://threejs.org/examples/#webxr_vr_sandbox",
+    "imageUrl": "/covers/threejs-webxr_vr_sandbox.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webxr_vr_sandbox",
+    "tags": [
+      "threejs",
+      "demo",
+      "webxr"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Clouds (Shadertoy)",
+    "summary": "体积云光线步进，天空体积感。",
+    "url": "https://www.shadertoy.com/view/XsX3zB",
+    "imageUrl": "/covers/shadertoy-XsX3zB.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XsX3zB",
+    "tags": [
+      "shadertoy",
+      "glsl",
+      "clouds"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Elevated (Shadertoy)",
+    "summary": "程序化山脉地形飞行，世界生成感。",
+    "url": "https://www.shadertoy.com/view/MlXSWX",
+    "imageUrl": "/covers/shadertoy-MlXSWX.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-MlXSWX",
+    "tags": [
+      "shadertoy",
+      "glsl",
+      "elevated"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Plasma Globe (Shadertoy)",
+    "summary": "电浆球 SDF，发光能量材质。",
+    "url": "https://www.shadertoy.com/view/4dl3zn",
+    "imageUrl": "/covers/shadertoy-4dl3zn.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-4dl3zn",
+    "tags": [
+      "shadertoy",
+      "glsl",
+      "plasma"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Rainier Mood (Shadertoy)",
+    "summary": "雨夜情绪场景，湿润反射氛围。",
+    "url": "https://www.shadertoy.com/view/lsSXzD",
+    "imageUrl": "/covers/shadertoy-lsSXzD.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-lsSXzD",
+    "tags": [
+      "shadertoy",
+      "glsl",
+      "rainier"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "Phantom Star (Shadertoy)",
+    "summary": "星云/恒星体积光。",
+    "url": "https://www.shadertoy.com/view/WtfBDf",
+    "imageUrl": "/covers/shadertoy-WtfBDf.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-WtfBDf",
+    "tags": [
+      "shadertoy",
+      "glsl",
+      "phantom"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Instancing Morph",
+    "summary": "实例化变形网格，群体动画技术向。",
+    "url": "https://threejs.org/examples/#webgpu_instancing_morph",
+    "imageUrl": "/covers/threejs-webgpu_instancing_morph.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_instancing_morph",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Skinning Instancing",
+    "summary": "蒙皮实例化，角色群渲染。",
+    "url": "https://threejs.org/examples/#webgpu_skinning_instancing",
+    "imageUrl": "/covers/threejs-webgpu_skinning_instancing.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_skinning_instancing",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Rect Area Light",
+    "summary": "矩形面光照明。",
+    "url": "https://threejs.org/examples/#webgpu_lights_rectarealight",
+    "imageUrl": "/covers/threejs-webgpu_lights_rectarealight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lights_rectarealight",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Backdrop",
+    "summary": "背景景深合成。",
+    "url": "https://threejs.org/examples/#webgpu_backdrop",
+    "imageUrl": "/covers/threejs-webgpu_backdrop.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_backdrop",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Compute Snow",
+    "summary": "计算着色器雪花粒子。",
+    "url": "https://threejs.org/examples/#webgpu_compute_particles_snow",
+    "imageUrl": "/covers/threejs-webgpu_compute_particles_snow.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_particles_snow",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Clearcoat",
+    "summary": "清漆层汽车漆向材料。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_clearcoat",
+    "imageUrl": "/covers/threejs-webgl_materials_physical_clearcoat.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_materials_physical_clearcoat",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Transmission",
+    "summary": "物理透射玻璃。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_transmission",
+    "imageUrl": "/covers/threejs-webgl_materials_physical_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_materials_physical_transmission",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Anaglyph",
+    "summary": "浮雕立体效果。",
+    "url": "https://threejs.org/examples/#webgl_effects_anaglyph",
+    "imageUrl": "/covers/threejs-webgl_effects_anaglyph.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_effects_anaglyph",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Depth of Field",
+    "summary": "景深后处理。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_dof",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_dof.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_dof",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL GLTF Transmission",
+    "summary": "GLTF 透射材质加载。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_transmission",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_loader_gltf_transmission",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Particles",
+    "summary": "粒子系统。",
+    "url": "https://threejs.org/examples/#webgpu_particles",
+    "imageUrl": "/covers/threejs-webgpu_particles.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_particles",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL Ocean Shader",
+    "summary": "经典海洋着色器。",
+    "url": "https://threejs.org/examples/#webgl_shaders_ocean",
+    "imageUrl": "/covers/threejs-webgl_shaders_ocean.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_shaders_ocean",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL HDR Env Maps",
+    "summary": "HDR 环境贴图材料。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_hdr",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps_hdr.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_materials_envmaps_hdr",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Sobel",
+    "summary": "Sobel 边缘后处理。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_sobel",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_sobel.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_sobel",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Spotlight",
+    "summary": "聚光灯照明。",
+    "url": "https://threejs.org/examples/#webgpu_lights_spotlight",
+    "imageUrl": "/covers/threejs-webgpu_lights_spotlight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_lights_spotlight",
+    "tags": [
+      "threejs",
+      "demo",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-16"
+  },
+  {
     "type": "inspiration",
     "title": "KayKit Medieval Hexagon 中世纪六角包",
     "summary": "卡通化中世纪六角地块与建筑，直接贴合神视角六边形星球据点。",
