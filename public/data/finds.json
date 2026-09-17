@@ -1,5 +1,1349 @@
 [
   {
+    "type": "game",
+    "title": "Two Point Hospital Full Health Collection",
+    "summary": "Two Point 医院合集上架主机，沙盒经营医院系统向，可作神游文明管理参考。",
+    "url": "https://x.com/TwoPointStudios/status/2100224531361149208",
+    "imageUrl": "/covers/2100224531361149208.jpg",
+    "source": "x",
+    "sourceId": "2100224531361149208",
+    "tags": [
+      "x-bookmark",
+      "hospital",
+      "management",
+      "sandbox",
+      "console"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Abi and the Waterwheel Springs",
+    "summary": "独立平台跳跃：弹簧与机关移动，风格化角色与关卡动线清晰。",
+    "url": "https://x.com/HerobeatStudios/status/2100212018280116709",
+    "imageUrl": "/covers/2100212018280116709.jpg",
+    "source": "x",
+    "sourceId": "2100212018280116709",
+    "tags": [
+      "x-bookmark",
+      "platformer",
+      "indie",
+      "puzzle-movement"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Arco — Steam achievements countdown",
+    "summary": "Arco 发售倒计时补成就，像素战术 RPG 节奏感强。",
+    "url": "https://x.com/arcoficarus/status/2100206624279240721",
+    "imageUrl": "/covers/2100206624279240721.jpg",
+    "source": "x",
+    "sourceId": "2100206624279240721",
+    "tags": [
+      "x-bookmark",
+      "pixel",
+      "rpg",
+      "tactics",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "TFT-style butterfly explosion VFX",
+    "summary": "风格化蝴蝶爆炸特效（TFT 灵感），粒子与 NPR 爆炸可读性好。",
+    "url": "https://x.com/80Level/status/2100151634638627232",
+    "imageUrl": "/covers/2100151634638627232.jpg",
+    "source": "x",
+    "sourceId": "2100151634638627232",
+    "tags": [
+      "x-bookmark",
+      "vfx",
+      "stylized",
+      "particles",
+      "80lv"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "GPT-assisted color correction pipeline",
+    "summary": "用生成模型做资产校色流程演示，偏技术美术调色工作流。",
+    "url": "https://x.com/Stefan_3D_AI/status/2099818024555401240",
+    "imageUrl": "/covers/2099818024555401240.jpg",
+    "source": "x",
+    "sourceId": "2099818024555401240",
+    "tags": [
+      "x-bookmark",
+      "tech-art",
+      "color",
+      "pipeline",
+      "ai-tool"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Asset Design for Indie Games (LearnSquared)",
+    "summary": "独立游戏资产设计课程预告片，风格化建模与造型参考。",
+    "url": "https://x.com/learnsquared/status/2099585449542971592",
+    "imageUrl": "/covers/2099585449542971592.jpg",
+    "source": "x",
+    "sourceId": "2099585449542971592",
+    "tags": [
+      "x-bookmark",
+      "education",
+      "asset-design",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Realtime vector graphics lib (Unity/Godot)",
+    "summary": "Unity/Godot 实时矢量图形库 WIP，可用于清晰 HUD/矢量场景。",
+    "url": "https://x.com/80Level/status/2099793414699020345",
+    "imageUrl": "/covers/2099793414699020345.jpg",
+    "source": "x",
+    "sourceId": "2099793414699020345",
+    "tags": [
+      "x-bookmark",
+      "vector",
+      "godot",
+      "unity",
+      "library",
+      "tool"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Tower defense lighting/spawn update",
+    "summary": "塔防原型加光照与刷怪布局改进，独立系统向迭代。",
+    "url": "https://x.com/Gimdeka/status/2100038135224902011",
+    "imageUrl": "/covers/2100038135224902011.jpg",
+    "source": "x",
+    "sourceId": "2100038135224902011",
+    "tags": [
+      "x-bookmark",
+      "tower-defense",
+      "lighting",
+      "indiedev"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Noio games clip",
+    "summary": "Noio 工作室短片演示，Townscaper 作者向玩具感建造气质。",
+    "url": "https://x.com/noio_games/status/2099877933053567066",
+    "imageUrl": "/covers/2099877933053567066.jpg",
+    "source": "x",
+    "sourceId": "2099877933053567066",
+    "tags": [
+      "x-bookmark",
+      "townscaper",
+      "toy",
+      "build",
+      "indie"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "BrineSpace",
+    "summary": "盐水太空殖民地模拟：资源与居住系统，贴合神游文明层。",
+    "url": "https://brinshadewater.itch.io/brinespace",
+    "imageUrl": "/covers/itch-brinshadewater-brinespace.jpg",
+    "source": "itch",
+    "sourceId": "itch-brinshadewater-brinespace",
+    "tags": [
+      "colony",
+      "simulation",
+      "space",
+      "colony-sim"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Crown Below",
+    "summary": "地下王国建造/经营向，竖井与聚落扩张有殖民地气质。",
+    "url": "https://kaktora.itch.io/crown-below",
+    "imageUrl": "/covers/itch-kaktora-crown-below.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaktora-crown-below",
+    "tags": [
+      "colony",
+      "build",
+      "underground",
+      "colony-sim"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Deckstead",
+    "summary": "卡组驱动的聚落经营，系统向独立小品。",
+    "url": "https://stoljakub.itch.io/deckstead",
+    "imageUrl": "/covers/itch-stoljakub-deckstead.jpg",
+    "source": "itch",
+    "sourceId": "itch-stoljakub-deckstead",
+    "tags": [
+      "colony",
+      "deckbuilding",
+      "management",
+      "colony-sim"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Harvest is Nigh",
+    "summary": "3D 收获/农事向小品，金黄田野与季节感。",
+    "url": "https://feralhog.itch.io/harvest-is-nigh",
+    "imageUrl": "/covers/itch-feralhog-harvest-is-nigh.jpg",
+    "source": "itch",
+    "sourceId": "itch-feralhog-harvest-is-nigh",
+    "tags": [
+      "3d",
+      "farm",
+      "harvest",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "La Nouvelle Cité",
+    "summary": "新城建设主题 3D，城市扩张与布局可读。",
+    "url": "https://tasememory.itch.io/la-nouvelle-cite",
+    "imageUrl": "/covers/itch-tasememory-la-nouvelle-cite.jpg",
+    "source": "itch",
+    "sourceId": "itch-tasememory-la-nouvelle-cite",
+    "tags": [
+      "3d",
+      "city-build",
+      "french",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "The Last Keep",
+    "summary": "末世要塞防守/经营，堡垒系统向。",
+    "url": "https://pallobby.itch.io/the-last-keep",
+    "imageUrl": "/covers/itch-pallobby-the-last-keep.jpg",
+    "source": "itch",
+    "sourceId": "itch-pallobby-the-last-keep",
+    "tags": [
+      "3d",
+      "fortress",
+      "survival",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "HearthWar",
+    "summary": "体素战争/据点，方块可读的冲突地图。",
+    "url": "https://fracture-studios.itch.io/hearthwar",
+    "imageUrl": "/covers/itch-fracture-studios-hearthwar.jpg",
+    "source": "itch",
+    "sourceId": "itch-fracture-studios-hearthwar",
+    "tags": [
+      "voxel",
+      "war",
+      "strategy",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Prismcraft",
+    "summary": "体素建造/合成，棱镜材质玩具感强。",
+    "url": "https://lairhisson.itch.io/prismcraft",
+    "imageUrl": "/covers/itch-lairhisson-prismcraft.jpg",
+    "source": "itch",
+    "sourceId": "itch-lairhisson-prismcraft",
+    "tags": [
+      "voxel",
+      "craft",
+      "build",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Moonlite",
+    "summary": "体素月夜冒险，低多边形剪影清晰。",
+    "url": "https://lectorinteractive.itch.io/moonlite",
+    "imageUrl": "/covers/itch-lectorinteractive-moonlite.jpg",
+    "source": "itch",
+    "sourceId": "itch-lectorinteractive-moonlite",
+    "tags": [
+      "voxel",
+      "adventure",
+      "night",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "GoatCart",
+    "summary": "体素山羊推车小品，玩具感物理。",
+    "url": "https://gamingpugsstudios.itch.io/goatcart",
+    "imageUrl": "/covers/itch-gamingpugsstudios-goatcart.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamingpugsstudios-goatcart",
+    "tags": [
+      "voxel",
+      "physics",
+      "toy",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Helm Hopper",
+    "summary": "体素跳跃平台，卡通头盔角色。",
+    "url": "https://pantoygames.itch.io/helm-hopper",
+    "imageUrl": "/covers/itch-pantoygames-helm-hopper.jpg",
+    "source": "itch",
+    "sourceId": "itch-pantoygames-helm-hopper",
+    "tags": [
+      "voxel",
+      "platformer",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Morning Will Wait",
+    "summary": "体素晨光叙事小品，暖色日照。",
+    "url": "https://studiolokal.itch.io/morningwillwait",
+    "imageUrl": "/covers/itch-studiolokal-morningwillwait.jpg",
+    "source": "itch",
+    "sourceId": "itch-studiolokal-morningwillwait",
+    "tags": [
+      "voxel",
+      "narrative",
+      "golden-hour",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Glutton",
+    "summary": "体素吞噬成长，物理体积变化有趣。",
+    "url": "https://rentanerd.itch.io/glutton",
+    "imageUrl": "/covers/itch-rentanerd-glutton.jpg",
+    "source": "itch",
+    "sourceId": "itch-rentanerd-glutton",
+    "tags": [
+      "voxel",
+      "physics",
+      "voxel"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "A Cig Please",
+    "summary": "PSX 复古帧缓冲气质，低精度材质与抖动。",
+    "url": "https://inneclipse.itch.io/a-cig-please",
+    "imageUrl": "/covers/itch-inneclipse-a-cig-please.jpg",
+    "source": "itch",
+    "sourceId": "itch-inneclipse-a-cig-please",
+    "tags": [
+      "psx",
+      "retro",
+      "horror",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "COST OF TRUST",
+    "summary": "PSX 风叙事冒险，复古 CRT/抖动美学。",
+    "url": "https://alexeynazariev.itch.io/cost-of-trust",
+    "imageUrl": "/covers/itch-alexeynazariev-cost-of-trust.jpg",
+    "source": "itch",
+    "sourceId": "itch-alexeynazariev-cost-of-trust",
+    "tags": [
+      "psx",
+      "adventure",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "DISCHARGE",
+    "summary": "PSX 风格动作，低模与仿旧帧缓冲。",
+    "url": "https://k-wandev.itch.io/discharge",
+    "imageUrl": "/covers/itch-k-wandev-discharge.jpg",
+    "source": "itch",
+    "sourceId": "itch-k-wandev-discharge",
+    "tags": [
+      "psx",
+      "action",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Distorted Minds",
+    "summary": "PSX 心理恐怖，扭曲场景与体积感。",
+    "url": "https://shatterglassgames.itch.io/distorted-minds",
+    "imageUrl": "/covers/itch-shatterglassgames-distorted-minds.jpg",
+    "source": "itch",
+    "sourceId": "itch-shatterglassgames-distorted-minds",
+    "tags": [
+      "psx",
+      "horror",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Eternal Memento",
+    "summary": "PSX 回忆向探索，怀旧低精度光影。",
+    "url": "https://cattymations.itch.io/eternal-memento",
+    "imageUrl": "/covers/itch-cattymations-eternal-memento.jpg",
+    "source": "itch",
+    "sourceId": "itch-cattymations-eternal-memento",
+    "tags": [
+      "psx",
+      "exploration",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Fast Food at All Costs",
+    "summary": "PSX 快餐荒诞模拟，玩具化职场。",
+    "url": "https://daniel-catdev.itch.io/fast-food-at-all-costs",
+    "imageUrl": "/covers/itch-daniel-catdev-fast-food-at-all-costs.jpg",
+    "source": "itch",
+    "sourceId": "itch-daniel-catdev-fast-food-at-all-costs",
+    "tags": [
+      "psx",
+      "simulation",
+      "comedy",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Frank's Trail",
+    "summary": "PSX 公路/小径探索，复古三维散步。",
+    "url": "https://wiktor-games.itch.io/franks-trail",
+    "imageUrl": "/covers/itch-wiktor-games-franks-trail.jpg",
+    "source": "itch",
+    "sourceId": "itch-wiktor-games-franks-trail",
+    "tags": [
+      "psx",
+      "exploration",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "GASMAN Beta",
+    "summary": "PSX 煤气工生存，工业低模场景。",
+    "url": "https://hlebuss.itch.io/gasman",
+    "imageUrl": "/covers/itch-hlebuss-gasman.jpg",
+    "source": "itch",
+    "sourceId": "itch-hlebuss-gasman",
+    "tags": [
+      "psx",
+      "survival",
+      "psx"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Dungeon Juice",
+    "summary": "程序化地牢生成，果汁感打击与布局。",
+    "url": "https://ptrefall.itch.io/dungeon-juice",
+    "imageUrl": "/covers/itch-ptrefall-dungeon-juice.jpg",
+    "source": "itch",
+    "sourceId": "itch-ptrefall-dungeon-juice",
+    "tags": [
+      "procedural",
+      "dungeon",
+      "roguelike",
+      "procedural-generation"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "EVOLVE — Demo",
+    "summary": "程序化进化/变异系统试玩。",
+    "url": "https://kaylordev.itch.io/evolve",
+    "imageUrl": "/covers/itch-kaylordev-evolve.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaylordev-evolve",
+    "tags": [
+      "procedural",
+      "evolution",
+      "demo",
+      "procedural-generation"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Greed Dive",
+    "summary": "程序化深潜掠夺，洞穴生成。",
+    "url": "https://yelmgames.itch.io/greed-dive",
+    "imageUrl": "/covers/itch-yelmgames-greed-dive.jpg",
+    "source": "itch",
+    "sourceId": "itch-yelmgames-greed-dive",
+    "tags": [
+      "procedural",
+      "exploration",
+      "procedural-generation"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Event Horizon",
+    "summary": "Godot 事件视界向科幻，空间感强。",
+    "url": "https://blackboxgame.itch.io/event-horizon",
+    "imageUrl": "/covers/itch-blackboxgame-event-horizon.jpg",
+    "source": "itch",
+    "sourceId": "itch-blackboxgame-event-horizon",
+    "tags": [
+      "godot",
+      "sci-fi",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Afraid Of Wolves",
+    "summary": "Godot 风格化叙事/生存氛围。",
+    "url": "https://foxdancemedia.itch.io/afraid-of-wolves",
+    "imageUrl": "/covers/itch-foxdancemedia-afraid-of-wolves.jpg",
+    "source": "itch",
+    "sourceId": "itch-foxdancemedia-afraid-of-wolves",
+    "tags": [
+      "godot",
+      "survival",
+      "stylized",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "APEX Circuit",
+    "summary": "Godot 竞速电路，清晰几何赛道。",
+    "url": "https://verdict-engine.itch.io/apex-circuit",
+    "imageUrl": "/covers/itch-verdict-engine-apex-circuit.jpg",
+    "source": "itch",
+    "sourceId": "itch-verdict-engine-apex-circuit",
+    "tags": [
+      "godot",
+      "racing",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Bucket",
+    "summary": "3D 水桶解谜/物理，玩具交互。",
+    "url": "https://theunestabilitystudios.itch.io/bucket",
+    "imageUrl": "/covers/itch-theunestabilitystudios-bucket.jpg",
+    "source": "itch",
+    "sourceId": "itch-theunestabilitystudios-bucket",
+    "tags": [
+      "3d",
+      "physics",
+      "puzzle",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Midnight Shrine (Alpha)",
+    "summary": "午夜神社 3D 氛围探索，东方风神龛。",
+    "url": "https://dexidecg.itch.io/midnight-shrine-alpha",
+    "imageUrl": "/covers/itch-dexidecg-midnight-shrine-alpha.jpg",
+    "source": "itch",
+    "sourceId": "itch-dexidecg-midnight-shrine-alpha",
+    "tags": [
+      "3d",
+      "atmosphere",
+      "exploration",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Raycast Game v01",
+    "summary": "射线投射复古 3D，类 Wolfenstein 帧缓冲。",
+    "url": "https://superzabass.itch.io/raycast-game-v01",
+    "imageUrl": "/covers/itch-superzabass-raycast-game-v01.jpg",
+    "source": "itch",
+    "sourceId": "itch-superzabass-raycast-game-v01",
+    "tags": [
+      "3d",
+      "raycast",
+      "retro",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "3D Pacman",
+    "summary": "三维吃豆人，可读迷宫几何。",
+    "url": "https://dangmu.itch.io/3d-pacman",
+    "imageUrl": "/covers/itch-dangmu-3d-pacman.jpg",
+    "source": "itch",
+    "sourceId": "itch-dangmu-3d-pacman",
+    "tags": [
+      "3d",
+      "arcade",
+      "maze",
+      "3d"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Cargo Industry",
+    "summary": "货运工业模拟：物流与生产线，工厂系统向。",
+    "url": "https://store.steampowered.com/app/5155330/",
+    "imageUrl": "/covers/steam-5155330.jpg",
+    "source": "steam",
+    "sourceId": "steam-5155330",
+    "tags": [
+      "factory",
+      "logistics",
+      "simulation",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Hunter's Guild",
+    "summary": "猎人公会任务/据点经营，系统驱动冒险。",
+    "url": "https://store.steampowered.com/app/5109990/",
+    "imageUrl": "/covers/steam-5109990.jpg",
+    "source": "steam",
+    "sourceId": "steam-5109990",
+    "tags": [
+      "guild",
+      "management",
+      "adventure",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Old Market Restored",
+    "summary": "旧市集修复经营，场景布置与生活系统。",
+    "url": "https://store.steampowered.com/app/4986890/",
+    "imageUrl": "/covers/steam-4986890.jpg",
+    "source": "steam",
+    "sourceId": "steam-4986890",
+    "tags": [
+      "restoration",
+      "management",
+      "cozy",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Lucent",
+    "summary": "光影解谜/氛围向独立作，体积光气质。",
+    "url": "https://store.steampowered.com/app/5178670/",
+    "imageUrl": "/covers/steam-5178670.jpg",
+    "source": "steam",
+    "sourceId": "steam-5178670",
+    "tags": [
+      "lighting",
+      "puzzle",
+      "atmosphere",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "LIMINAL SORTING",
+    "summary": "阈限空间整理，超现实场景与秩序系统。",
+    "url": "https://store.steampowered.com/app/5088450/",
+    "imageUrl": "/covers/steam-5088450.jpg",
+    "source": "steam",
+    "sourceId": "steam-5088450",
+    "tags": [
+      "liminal",
+      "sorting",
+      "atmosphere",
+      "steam"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Garden",
+    "summary": "迷你花园养成，玩具感园艺与日照。",
+    "url": "https://godotengine.org/showcase/tiny-garden/",
+    "imageUrl": "/covers/godot-tiny-garden.jpg",
+    "source": "godot",
+    "sourceId": "godot-tiny-garden",
+    "tags": [
+      "garden",
+      "cozy",
+      "toy",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Of Life and Land",
+    "summary": "生命与土地模拟，生态/聚落系统厚重。",
+    "url": "https://godotengine.org/showcase/of-life-and-land/",
+    "imageUrl": "/covers/godot-of-life-and-land.jpg",
+    "source": "godot",
+    "sourceId": "godot-of-life-and-land",
+    "tags": [
+      "simulation",
+      "ecology",
+      "colony",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Kamaeru: A Frog Refuge",
+    "summary": "青蛙庇护所经营，饱和色自然场景。",
+    "url": "https://godotengine.org/showcase/kamaeru/",
+    "imageUrl": "/covers/godot-kamaeru.jpg",
+    "source": "godot",
+    "sourceId": "godot-kamaeru",
+    "tags": [
+      "frog",
+      "management",
+      "nature",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Usagi Shima",
+    "summary": "兔岛布置养成，日系玩具感岛居。",
+    "url": "https://godotengine.org/showcase/usagi-shima/",
+    "imageUrl": "/covers/godot-usagi-shima.jpg",
+    "source": "godot",
+    "sourceId": "godot-usagi-shima",
+    "tags": [
+      "cozy",
+      "island",
+      "toy",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Tiny Pasture",
+    "summary": "迷你牧场，俯视畜牧与日照。",
+    "url": "https://godotengine.org/showcase/tiny-pasture/",
+    "imageUrl": "/covers/godot-tiny-pasture.jpg",
+    "source": "godot",
+    "sourceId": "godot-tiny-pasture",
+    "tags": [
+      "farm",
+      "pasture",
+      "cozy",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Koira",
+    "summary": "双人狗狗叙事冒险，风格化 3D。",
+    "url": "https://godotengine.org/showcase/koira/",
+    "imageUrl": "/covers/godot-koira.jpg",
+    "source": "godot",
+    "sourceId": "godot-koira",
+    "tags": [
+      "adventure",
+      "cozy",
+      "stylized",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "The Garden Path",
+    "summary": "花园小径生活模拟，慢节奏经营。",
+    "url": "https://godotengine.org/showcase/the-garden-path/",
+    "imageUrl": "/covers/godot-the-garden-path.jpg",
+    "source": "godot",
+    "sourceId": "godot-the-garden-path",
+    "tags": [
+      "garden",
+      "life-sim",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "BPCEM EnvMap",
+    "summary": "视差修正立方体贴图环境反射。",
+    "url": "https://threejs.org/examples/#webgpu_materials_envmaps_bpcem",
+    "imageUrl": "/covers/threejs-webgpu_materials_envmaps_bpcem.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_envmaps_bpcem",
+    "tags": [
+      "envmap",
+      "reflection",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Ground-Projected EnvMap",
+    "summary": "地面投影环境贴图，接触阴影。",
+    "url": "https://threejs.org/examples/#webgpu_materials_envmaps_groundprojected",
+    "imageUrl": "/covers/threejs-webgpu_materials_envmaps_groundprojected.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_envmaps_groundprojected",
+    "tags": [
+      "envmap",
+      "lighting",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Afterimage",
+    "summary": "残影拖尾后处理，运动拖影。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_afterimage",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_afterimage.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_afterimage",
+    "tags": [
+      "afterimage",
+      "motion",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "DoF v2",
+    "summary": "景深后处理，体积感焦外虚化。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_dof2",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_dof2.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_dof2",
+    "tags": [
+      "dof",
+      "postprocessing",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "SSAO",
+    "summary": "屏幕空间环境光遮蔽，暗角缝隙可读。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_ssao",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_ssao.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_postprocessing_ssao",
+    "tags": [
+      "ssao",
+      "ao",
+      "postprocessing",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 3D LUT",
+    "summary": "三维查找表调色，电影感校色。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_3dlut",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_3dlut.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_3dlut",
+    "tags": [
+      "lut",
+      "color",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU DoF Basic",
+    "summary": "基础景深，WebGPU 路径。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_dof_basic",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_dof_basic.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_dof_basic",
+    "tags": [
+      "dof",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Lensflare",
+    "summary": "镜头光晕后处理，强光散射。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_lensflare",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_lensflare.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_lensflare",
+    "tags": [
+      "lensflare",
+      "postprocessing",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Lensflares",
+    "summary": "经典镜头光斑，强光源装饰。",
+    "url": "https://threejs.org/examples/#webgl_lensflares",
+    "imageUrl": "/covers/threejs-webgl_lensflares.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_lensflares",
+    "tags": [
+      "lensflare",
+      "lighting",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Tone Mapping",
+    "summary": "色调映射对比，HDR→SDR。",
+    "url": "https://threejs.org/examples/#webgl_tonemapping",
+    "imageUrl": "/covers/threejs-webgl_tonemapping.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_tonemapping",
+    "tags": [
+      "tonemapping",
+      "hdr",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU compute reduce",
+    "summary": "three.js 示例 webgpu_compute_reduce，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_compute_reduce",
+    "imageUrl": "/covers/threejs-webgpu_compute_reduce.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_reduce",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU compute sort bitonic",
+    "summary": "three.js 示例 webgpu_compute_sort_bitonic，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_compute_sort_bitonic",
+    "imageUrl": "/covers/threejs-webgpu_compute_sort_bitonic.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_compute_sort_bitonic",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Equirectangular Panorama",
+    "summary": "等距柱状全景环境。",
+    "url": "https://threejs.org/examples/#webgl_panorama_equirectangular",
+    "imageUrl": "/covers/threejs-webgl_panorama_equirectangular.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_panorama_equirectangular",
+    "tags": [
+      "panorama",
+      "envmap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGL video panorama equirectangular",
+    "summary": "three.js 示例 webgl_video_panorama_equirectangular，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgl_video_panorama_equirectangular",
+    "imageUrl": "/covers/threejs-webgl_video_panorama_equirectangular.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_video_panorama_equirectangular",
+    "tags": [
+      "threejs",
+      "webgl",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU pmrem equirectangular",
+    "summary": "three.js 示例 webgpu_pmrem_equirectangular，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_pmrem_equirectangular",
+    "imageUrl": "/covers/threejs-webgpu_pmrem_equirectangular.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_pmrem_equirectangular",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "VSM Shadows",
+    "summary": "方差阴影贴图，软阴影。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_vsm",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_vsm.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_shadowmap_vsm",
+    "tags": [
+      "shadow",
+      "vsm",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Spotlight",
+    "summary": "聚光灯阴影与衰减演示。",
+    "url": "https://threejs.org/examples/#webgl_lights_spotlight",
+    "imageUrl": "/covers/threejs-webgl_lights_spotlight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_lights_spotlight",
+    "tags": [
+      "spotlight",
+      "lighting",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU postprocessing transition",
+    "summary": "three.js 示例 webgpu_postprocessing_transition，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_transition",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_transition.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_transition",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU postprocessing ssaa",
+    "summary": "three.js 示例 webgpu_postprocessing_ssaa，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssaa",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_ssaa.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_ssaa",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU shadowmap pointlight",
+    "summary": "three.js 示例 webgpu_shadowmap_pointlight，技术美术向演示。",
+    "url": "https://threejs.org/examples/#webgpu_shadowmap_pointlight",
+    "imageUrl": "/covers/threejs-webgpu_shadowmap_pointlight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadowmap_pointlight",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU Shadow Map",
+    "summary": "WebGPU 阴影贴图基础。",
+    "url": "https://threejs.org/examples/#webgpu_shadowmap",
+    "imageUrl": "/covers/threejs-webgpu_shadowmap.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_shadowmap",
+    "tags": [
+      "shadow",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "PointLight Shadows",
+    "summary": "点光源阴影立方体贴图。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_pointlight",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_pointlight.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_shadowmap_pointlight",
+    "tags": [
+      "shadow",
+      "pointlight",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Fractal Land",
+    "summary": "分形地形飞行，程序化地貌。",
+    "url": "https://www.shadertoy.com/view/XsfGRn",
+    "imageUrl": "/covers/shadertoy-XsfGRn.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XsfGRn",
+    "tags": [
+      "fractal",
+      "terrain",
+      "shadertoy"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Sparks",
+    "summary": "火花粒子轨迹。",
+    "url": "https://www.shadertoy.com/view/XlSSzK",
+    "imageUrl": "/covers/shadertoy-XlSSzK.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-XlSSzK",
+    "tags": [
+      "sparks",
+      "particles",
+      "shadertoy"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Lava Shader",
+    "summary": "熔岩噪声着色器，流动自发光材质。",
+    "url": "https://threejs.org/examples/#webgl_shader_lava",
+    "imageUrl": "/covers/threejs-webgl_shader_lava.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_shader_lava",
+    "tags": [
+      "lava",
+      "shader",
+      "noise",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "glTF Dispersion",
+    "summary": "色散透射材质，玻璃棱镜彩虹感。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_dispersion",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_dispersion.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_loader_gltf_dispersion",
+    "tags": [
+      "dispersion",
+      "glass",
+      "gltf",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "TSL Halftone",
+    "summary": "TSL 半色调印刷风，NPR 网点。",
+    "url": "https://threejs.org/examples/#webgpu_tsl_halftone",
+    "imageUrl": "/covers/threejs-webgpu_tsl_halftone.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_tsl_halftone",
+    "tags": [
+      "halftone",
+      "tsl",
+      "npr",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Simple GI",
+    "summary": "简易全局光照近似。",
+    "url": "https://threejs.org/examples/#webgl_simple_gi",
+    "imageUrl": "/covers/threejs-webgl_simple_gi.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_simple_gi",
+    "tags": [
+      "gi",
+      "lighting",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Point Sprites",
+    "summary": "点精灵粒子广告牌。",
+    "url": "https://threejs.org/examples/#webgl_points_sprites",
+    "imageUrl": "/covers/threejs-webgl_points_sprites.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_points_sprites",
+    "tags": [
+      "particles",
+      "sprites",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Radial Blur",
+    "summary": "径向模糊冲击波感。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_radial_blur",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_radial_blur.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_postprocessing_radial_blur",
+    "tags": [
+      "blur",
+      "postprocessing",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Morph Sphere",
+    "summary": "球形 morph target 变形。",
+    "url": "https://threejs.org/examples/#webgl_morphtargets_sphere",
+    "imageUrl": "/covers/threejs-webgl_morphtargets_sphere.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgl_morphtargets_sphere",
+    "tags": [
+      "morph",
+      "geometry",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Lightmap Materials",
+    "summary": "光照贴图材质。",
+    "url": "https://threejs.org/examples/#webgpu_materials_lightmap",
+    "imageUrl": "/covers/threejs-webgpu_materials_lightmap.jpg",
+    "source": "threejs",
+    "sourceId": "threejs-webgpu_materials_lightmap",
+    "tags": [
+      "lightmap",
+      "baking",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "game",
+    "title": "Gourdlets",
+    "summary": "葫芦小镇建造，Townscaper 气质玩具城。",
+    "url": "https://godotengine.org/showcase/gourdlets/",
+    "imageUrl": "/covers/godot-gourdlets.jpg",
+    "source": "godot",
+    "sourceId": "godot-gourdlets",
+    "tags": [
+      "build",
+      "toy",
+      "town",
+      "godot"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
+    "type": "shader",
+    "title": "Plasma Globe",
+    "summary": "等离子球辉光，能量丝线。",
+    "url": "https://www.shadertoy.com/view/4sfGRn",
+    "imageUrl": "/covers/shadertoy-4sfGRn.jpg",
+    "source": "shadertoy",
+    "sourceId": "shadertoy-4sfGRn",
+    "tags": [
+      "plasma",
+      "glow",
+      "shadertoy"
+    ],
+    "collectedAt": "2026-09-17"
+  },
+  {
     "type": "inspiration",
     "title": "Sunnyside World 阳光像素世界",
     "summary": "高饱和俯视农田与小屋世界，玩具感剪影清晰，神游文明扩张地图很有参考。",
