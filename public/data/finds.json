@@ -1,5 +1,575 @@
 [
   {
+    "id": "itch-fenrir-edge-islands",
+    "type": "game",
+    "title": "Edge Islands",
+    "summary": "极端环境生存与岛屿/边疆探索。",
+    "url": "https://fenrir.itch.io/edge-islands",
+    "imageUrl": "/covers/itch-fenrir-edge-islands.jpg",
+    "source": "itch",
+    "sourceId": "itch-fenrir-edge-islands",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-exe-ko-orium",
+    "type": "game",
+    "title": "ORIUM",
+    "summary": "太空站/轨道设施运营与建造。",
+    "url": "https://exe-ko.itch.io/orium",
+    "imageUrl": "/covers/itch-exe-ko-orium.jpg",
+    "source": "itch",
+    "sourceId": "itch-exe-ko-orium",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-drmelon-colourny",
+    "type": "game",
+    "title": "Colourny",
+    "summary": "轻量定居/城市涂色管理小品。",
+    "url": "https://drmelon.itch.io/colourny",
+    "imageUrl": "/covers/itch-drmelon-colourny.jpg",
+    "source": "itch",
+    "sourceId": "itch-drmelon-colourny",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-ibol17-the-martian-frontier",
+    "type": "game",
+    "title": "The Martian Frontier",
+    "summary": "殖民地/定居点建造与资源循环，系统向独立作。",
+    "url": "https://ibol17.itch.io/the-martian-frontier",
+    "imageUrl": "/covers/itch-ibol17-the-martian-frontier.jpg",
+    "source": "itch",
+    "sourceId": "itch-ibol17-the-martian-frontier",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-notime4games-edge-of-expanse",
+    "type": "game",
+    "title": "Edge of Expanse",
+    "summary": "极端环境生存与岛屿/边疆探索。",
+    "url": "https://notime4games.itch.io/edge-of-expanse",
+    "imageUrl": "/covers/itch-notime4games-edge-of-expanse.jpg",
+    "source": "itch",
+    "sourceId": "itch-notime4games-edge-of-expanse",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-jakerutter-mars-colony",
+    "type": "game",
+    "title": "Mars Colony",
+    "summary": "殖民地/定居点建造与资源循环，系统向独立作。",
+    "url": "https://jakerutter.itch.io/mars-colony",
+    "imageUrl": "/covers/itch-jakerutter-mars-colony.jpg",
+    "source": "itch",
+    "sourceId": "itch-jakerutter-mars-colony",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-kerowav-resourceful",
+    "type": "game",
+    "title": "Resourceful",
+    "summary": "工厂/自动化与物流管线，建造系统可读。",
+    "url": "https://kerowav.itch.io/resourceful",
+    "imageUrl": "/covers/itch-kerowav-resourceful.jpg",
+    "source": "itch",
+    "sourceId": "itch-kerowav-resourceful",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-lostdiver-cosmichive",
+    "type": "game",
+    "title": "Cosmic Hive",
+    "summary": "蚁群/蜂巢式群体模拟与扩张。",
+    "url": "https://lostdiver.itch.io/cosmichive",
+    "imageUrl": "/covers/itch-lostdiver-cosmichive.jpg",
+    "source": "itch",
+    "sourceId": "itch-lostdiver-cosmichive",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-jacquesj-space-station-simulator",
+    "type": "game",
+    "title": "Space Station Simulator",
+    "summary": "太空站/轨道设施运营与建造。",
+    "url": "https://jacquesj.itch.io/space-station-simulator",
+    "imageUrl": "/covers/itch-jacquesj-space-station-simulator.jpg",
+    "source": "itch",
+    "sourceId": "itch-jacquesj-space-station-simulator",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-tvdboom-marabunta",
+    "type": "game",
+    "title": "Marabunta",
+    "summary": "蚁群/蜂巢式群体模拟与扩张。",
+    "url": "https://tvdboom.itch.io/marabunta",
+    "imageUrl": "/covers/itch-tvdboom-marabunta.jpg",
+    "source": "itch",
+    "sourceId": "itch-tvdboom-marabunta",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-circuitroot-endlessvine",
+    "type": "game",
+    "title": "Endless Vine",
+    "summary": "树木/植被生长或自然生态模拟。",
+    "url": "https://circuitroot.itch.io/endlessvine",
+    "imageUrl": "/covers/itch-circuitroot-endlessvine.jpg",
+    "source": "itch",
+    "sourceId": "itch-circuitroot-endlessvine",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-pkpanya-projectnova",
+    "type": "game",
+    "title": "ProjectNova",
+    "summary": "太空站/轨道设施运营与建造。",
+    "url": "https://pkpanya.itch.io/projectnova",
+    "imageUrl": "/covers/itch-pkpanya-projectnova.jpg",
+    "source": "itch",
+    "sourceId": "itch-pkpanya-projectnova",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-coreloop-arboreal",
+    "type": "game",
+    "title": "Arboreal [Demo]",
+    "summary": "树木/植被生长或自然生态模拟。",
+    "url": "https://coreloop.itch.io/arboreal",
+    "imageUrl": "/covers/itch-coreloop-arboreal.jpg",
+    "source": "itch",
+    "sourceId": "itch-coreloop-arboreal",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-ppakalns-settletopia",
+    "type": "game",
+    "title": "Settletopia",
+    "summary": "轻量定居/城市涂色管理小品。",
+    "url": "https://ppakalns.itch.io/settletopia",
+    "imageUrl": "/covers/itch-ppakalns-settletopia.jpg",
+    "source": "itch",
+    "sourceId": "itch-ppakalns-settletopia",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-mischa-kosmograd",
+    "type": "game",
+    "title": "Kosmograd – Playtest Build",
+    "summary": "太空站/轨道设施运营与建造。",
+    "url": "https://mischa.itch.io/kosmograd",
+    "imageUrl": "/covers/itch-mischa-kosmograd.jpg",
+    "source": "itch",
+    "sourceId": "itch-mischa-kosmograd",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-way-games-bit-colony",
+    "type": "game",
+    "title": "Bit Colony",
+    "summary": "殖民地/定居点建造与资源循环，系统向独立作。",
+    "url": "https://way-games.itch.io/bit-colony",
+    "imageUrl": "/covers/itch-way-games-bit-colony.jpg",
+    "source": "itch",
+    "sourceId": "itch-way-games-bit-colony",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-oberhamsi-aussenposten",
+    "type": "game",
+    "title": "Aussenposten",
+    "summary": "独立系统/风格化 3D 小品，适合参考玩法与美术。",
+    "url": "https://oberhamsi.itch.io/aussenposten",
+    "imageUrl": "/covers/itch-oberhamsi-aussenposten.jpg",
+    "source": "itch",
+    "sourceId": "itch-oberhamsi-aussenposten",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "itch-jr-morgan-permafrost",
+    "type": "game",
+    "title": "Permafrost",
+    "summary": "极端环境生存与岛屿/边疆探索。",
+    "url": "https://jr-morgan.itch.io/permafrost",
+    "imageUrl": "/covers/itch-jr-morgan-permafrost.jpg",
+    "source": "itch",
+    "sourceId": "itch-jr-morgan-permafrost",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "steam-3454660",
+    "type": "game",
+    "title": "Color Factory: Automation Meets Canvas",
+    "summary": "工厂自动化/物流系统向独立作，流水线与产能可读。",
+    "url": "https://store.steampowered.com/app/3454660/",
+    "imageUrl": "/covers/steam-3454660.jpg",
+    "source": "steam",
+    "sourceId": "3454660",
+    "tags": [
+      "steam",
+      "automation"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "steam-2303390",
+    "type": "game",
+    "title": "Planetary Factory - An Idle Automation Game",
+    "summary": "工厂自动化/物流系统向独立作，流水线与产能可读。",
+    "url": "https://store.steampowered.com/app/2303390/",
+    "imageUrl": "/covers/steam-2303390.jpg",
+    "source": "steam",
+    "sourceId": "2303390",
+    "tags": [
+      "steam",
+      "automation"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_lights_ies_spotlight",
+    "type": "shader",
+    "title": "WEBGPU Lights IES Spotlight",
+    "summary": "光照/阴影/反射探针与空间光感。",
+    "url": "https://threejs.org/examples/#webgpu_lights_ies_spotlight",
+    "imageUrl": "/covers/threejs-webgpu_lights_ies_spotlight.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_lights_ies_spotlight",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_postprocessing_ssgi_ballpool",
+    "type": "shader",
+    "title": "WEBGPU Postprocessing SSGI Ballpool",
+    "summary": "后处理/屏幕空间效果演示，氛围与层次参考。",
+    "url": "https://threejs.org/examples/#webgpu_postprocessing_ssgi_ballpool",
+    "imageUrl": "/covers/threejs-webgpu_postprocessing_ssgi_ballpool.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_postprocessing_ssgi_ballpool",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_points_dynamic",
+    "type": "shader",
+    "title": "WEBGL Points Dynamic",
+    "summary": "实例化渲染与大规模物体排布。",
+    "url": "https://threejs.org/examples/#webgl_points_dynamic",
+    "imageUrl": "/covers/threejs-webgl_points_dynamic.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_points_dynamic",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_modifier_tessellation",
+    "type": "shader",
+    "title": "WEBGL Modifier Tessellation",
+    "summary": "three.js 视觉/着色器示例，材质或管线参考。",
+    "url": "https://threejs.org/examples/#webgl_modifier_tessellation",
+    "imageUrl": "/covers/threejs-webgl_modifier_tessellation.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_modifier_tessellation",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_shadowmap_progressive",
+    "type": "shader",
+    "title": "WEBGL Shadowmap Progressive",
+    "summary": "光照/阴影/反射探针与空间光感。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_progressive",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_progressive.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmap_progressive",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_video_kinect",
+    "type": "shader",
+    "title": "WEBGL Video Kinect",
+    "summary": "three.js 视觉/着色器示例，材质或管线参考。",
+    "url": "https://threejs.org/examples/#webgl_video_kinect",
+    "imageUrl": "/covers/threejs-webgl_video_kinect.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_video_kinect",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_depth_texture",
+    "type": "shader",
+    "title": "WEBGPU Depth Texture",
+    "summary": "three.js 视觉/着色器示例，材质或管线参考。",
+    "url": "https://threejs.org/examples/#webgpu_depth_texture",
+    "imageUrl": "/covers/threejs-webgpu_depth_texture.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_depth_texture",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_rtt",
+    "type": "shader",
+    "title": "WEBGPU Rtt",
+    "summary": "three.js 视觉/着色器示例，材质或管线参考。",
+    "url": "https://threejs.org/examples/#webgpu_rtt",
+    "imageUrl": "/covers/threejs-webgpu_rtt.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_rtt",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_xr_shadows",
+    "type": "shader",
+    "title": "WEBGPU XR Shadows",
+    "summary": "光照/阴影/反射探针与空间光感。",
+    "url": "https://threejs.org/examples/#webgpu_xr_shadows",
+    "imageUrl": "/covers/threejs-webgpu_xr_shadows.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_xr_shadows",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_materials_normalmap_object_space",
+    "type": "shader",
+    "title": "WEBGL Materials Normalmap Object Space",
+    "summary": "高级材质：透射/清漆/虹彩/次表面。",
+    "url": "https://threejs.org/examples/#webgl_materials_normalmap_object_space",
+    "imageUrl": "/covers/threejs-webgl_materials_normalmap_object_space.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_normalmap_object_space",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_filters",
+    "type": "shader",
+    "title": "WEBGL Materials Texture Filters",
+    "summary": "高级材质：透射/清漆/虹彩/次表面。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_filters",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_filters.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_filters",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_manualmipmap",
+    "type": "shader",
+    "title": "WEBGL Materials Texture Manualmipmap",
+    "summary": "高级材质：透射/清漆/虹彩/次表面。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_manualmipmap",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_manualmipmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_manualmipmap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_shadowmap",
+    "type": "shader",
+    "title": "WEBGL Shadowmap",
+    "summary": "光照/阴影/反射探针与空间光感。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap",
+    "imageUrl": "/covers/threejs-webgl_shadowmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgl_shadowmap_viewer",
+    "type": "shader",
+    "title": "WEBGL Shadowmap Viewer",
+    "summary": "光照/阴影/反射探针与空间光感。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_viewer",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_viewer.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmap_viewer",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_morphtargets",
+    "type": "shader",
+    "title": "WEBGPU Morphtargets",
+    "summary": "蒙皮/形变动画渲染示例。",
+    "url": "https://threejs.org/examples/#webgpu_morphtargets",
+    "imageUrl": "/covers/threejs-webgpu_morphtargets.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_morphtargets",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_mrt_mask",
+    "type": "shader",
+    "title": "WEBGPU MRT Mask",
+    "summary": "批处理/多渲染目标管线。",
+    "url": "https://threejs.org/examples/#webgpu_mrt_mask",
+    "imageUrl": "/covers/threejs-webgpu_mrt_mask.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_mrt_mask",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_lines_fat",
+    "type": "shader",
+    "title": "WEBGPU Lines Fat",
+    "summary": "粒子/线框批处理与大规模绘制。",
+    "url": "https://threejs.org/examples/#webgpu_lines_fat",
+    "imageUrl": "/covers/threejs-webgpu_lines_fat.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_lines_fat",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
+    "id": "threejs-webgpu_upscaling_taau",
+    "type": "shader",
+    "title": "WEBGPU Upscaling TAAU",
+    "summary": "后处理/屏幕空间效果演示，氛围与层次参考。",
+    "url": "https://threejs.org/examples/#webgpu_upscaling_taau",
+    "imageUrl": "/covers/threejs-webgpu_upscaling_taau.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_upscaling_taau",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-20"
+  },
+  {
     "id": "2100684466427707784",
     "type": "game",
     "title": "WildRoot",
