@@ -1,5 +1,605 @@
 [
   {
+    "id": "x-2101494982645342440",
+    "type": "game",
+    "title": "The Pixel Form — Formation Facing",
+    "summary": "像素化编队对战：新增对角朝向与一键旋转，整体大于部分的战术可读性。",
+    "url": "https://x.com/i/status/2101494982645342440",
+    "imageUrl": "/covers/x-2101494982645342440.jpg",
+    "source": "x",
+    "sourceId": "2101494982645342440",
+    "tags": [
+      "x",
+      "rts",
+      "formation"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101322806394806398",
+    "type": "game",
+    "title": "PAO PAO",
+    "summary": "海边小镇餐厅生活模拟：种地/钓鱼/布置餐厅，可最多 4 人同乐。",
+    "url": "https://x.com/i/status/2101322806394806398",
+    "imageUrl": "/covers/x-2101322806394806398.jpg",
+    "source": "x",
+    "sourceId": "2101322806394806398",
+    "tags": [
+      "x",
+      "cozy",
+      "life-sim"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101144265384698028",
+    "type": "game",
+    "title": "Room Movers",
+    "summary": "双人合作搬家解谜：抬重家具、布置空屋，轻松生活向合作小品。",
+    "url": "https://x.com/i/status/2101144265384698028",
+    "imageUrl": "/covers/x-2101144265384698028.jpg",
+    "source": "x",
+    "sourceId": "2101144265384698028",
+    "tags": [
+      "x",
+      "co-op",
+      "puzzle"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101386110072967217",
+    "type": "game",
+    "title": "My Otter Friends",
+    "summary": "水獭修复被淹岛屿的温馨探索：游泳潜水、救助动物、重建家园。",
+    "url": "https://x.com/i/status/2101386110072967217",
+    "imageUrl": "/covers/x-2101386110072967217.jpg",
+    "source": "x",
+    "sourceId": "2101386110072967217",
+    "tags": [
+      "x",
+      "cozy",
+      "exploration"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101449810112848216",
+    "type": "game",
+    "title": "Defilade (Hind Attack)",
+    "summary": "RTS 直升机交火演示：重机枪火力与战术机动作战场面。",
+    "url": "https://x.com/i/status/2101449810112848216",
+    "imageUrl": "/covers/x-2101449810112848216.jpg",
+    "source": "x",
+    "sourceId": "2101449810112848216",
+    "tags": [
+      "x",
+      "rts",
+      "indiedev"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101317978293714980",
+    "type": "game",
+    "title": "Resting Relic (WIP)",
+    "summary": "独立开发起步向 WIP 演示：从零开始搭场景的过程记录。",
+    "url": "https://x.com/i/status/2101317978293714980",
+    "imageUrl": "/covers/x-2101317978293714980.jpg",
+    "source": "x",
+    "sourceId": "2101317978293714980",
+    "tags": [
+      "x",
+      "wip",
+      "indiedev"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-eeneskpln-farmidle",
+    "type": "game",
+    "title": "FarmIdle",
+    "summary": "农场挂机建造，基地扩张与作物循环。",
+    "url": "https://eeneskpln.itch.io/farmidle",
+    "imageUrl": "/covers/itch-eeneskpln-farmidle.jpg",
+    "source": "itch",
+    "sourceId": "itch-eeneskpln-farmidle",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-trickertrav-echo-frontier",
+    "type": "game",
+    "title": "Echo Frontier",
+    "summary": "边疆探索/定居向基地建造。",
+    "url": "https://trickertrav.itch.io/echo-frontier",
+    "imageUrl": "/covers/itch-trickertrav-echo-frontier.jpg",
+    "source": "itch",
+    "sourceId": "itch-trickertrav-echo-frontier",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-infynityy-pc-builder",
+    "type": "game",
+    "title": "PC Builder",
+    "summary": "装机模拟：部件搭配与桌面工作区管理。",
+    "url": "https://infynityy.itch.io/pc-builder",
+    "imageUrl": "/covers/itch-infynityy-pc-builder.jpg",
+    "source": "itch",
+    "sourceId": "itch-infynityy-pc-builder",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-cairnheim-cairnheim",
+    "type": "game",
+    "title": "Cairnheim",
+    "summary": "殖民地/聚落建造与生存系统。",
+    "url": "https://cairnheim.itch.io/cairnheim",
+    "imageUrl": "/covers/itch-cairnheim-cairnheim.jpg",
+    "source": "itch",
+    "sourceId": "itch-cairnheim-cairnheim",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-jonwalter-frith-and-fell",
+    "type": "game",
+    "title": "Frith & Fell",
+    "summary": "风格化聚落/殖民地向独立作。",
+    "url": "https://jonwalter.itch.io/frith-and-fell",
+    "imageUrl": "/covers/itch-jonwalter-frith-and-fell.jpg",
+    "source": "itch",
+    "sourceId": "itch-jonwalter-frith-and-fell",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-produno-games-studios-spaceslog",
+    "type": "game",
+    "title": "SpaceSlog",
+    "summary": "太空后勤/殖民地运营节奏。",
+    "url": "https://produno-games-studios.itch.io/spaceslog",
+    "imageUrl": "/covers/itch-produno-games-studios-spaceslog.jpg",
+    "source": "itch",
+    "sourceId": "itch-produno-games-studios-spaceslog",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-rzr77-ares-foundry-frontera-roja",
+    "type": "game",
+    "title": "ARES FOUNDRY — Frontera Roja",
+    "summary": "铸造厂/边境前哨资源建造。",
+    "url": "https://rzr77.itch.io/ares-foundry-frontera-roja",
+    "imageUrl": "/covers/itch-rzr77-ares-foundry-frontera-roja.jpg",
+    "source": "itch",
+    "sourceId": "itch-rzr77-ares-foundry-frontera-roja",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-idlehandsunion-farhold",
+    "type": "game",
+    "title": "Farhold",
+    "summary": "据点防守与基地扩建。",
+    "url": "https://idlehandsunion.itch.io/farhold",
+    "imageUrl": "/covers/itch-idlehandsunion-farhold.jpg",
+    "source": "itch",
+    "sourceId": "itch-idlehandsunion-farhold",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-oneeyedpossum-radical-combinator",
+    "type": "game",
+    "title": "Radical Combinator (Demo)",
+    "summary": "工厂组合器/自动化流水线 Demo。",
+    "url": "https://oneeyedpossum.itch.io/radical-combinator",
+    "imageUrl": "/covers/itch-oneeyedpossum-radical-combinator.jpg",
+    "source": "itch",
+    "sourceId": "itch-oneeyedpossum-radical-combinator",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-huihan-valley-season",
+    "type": "game",
+    "title": "Valley Season",
+    "summary": "山谷季节管理与生活节奏。",
+    "url": "https://huihan.itch.io/valley-season",
+    "imageUrl": "/covers/itch-huihan-valley-season.jpg",
+    "source": "itch",
+    "sourceId": "itch-huihan-valley-season",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-clixal-labs-deskairo-grow",
+    "type": "game",
+    "title": "Deskairo Grow",
+    "summary": "桌面种植生长管理小品。",
+    "url": "https://clixal-labs.itch.io/deskairo-grow",
+    "imageUrl": "/covers/itch-clixal-labs-deskairo-grow.jpg",
+    "source": "itch",
+    "sourceId": "itch-clixal-labs-deskairo-grow",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "itch-benerits-beneloil",
+    "type": "game",
+    "title": "BenelOil: Gas Station Tycoon",
+    "summary": "加油站经营模拟：价格与补给循环。",
+    "url": "https://benerits.itch.io/beneloil",
+    "imageUrl": "/covers/itch-benerits-beneloil.jpg",
+    "source": "itch",
+    "sourceId": "itch-benerits-beneloil",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101115250393350205",
+    "type": "shader",
+    "title": "Smooth LOD Dithering (three.js)",
+    "summary": "three.js 中 Bayer 矩阵抖动实现的平滑 LOD 过渡，技术美术可读。",
+    "url": "https://x.com/i/status/2101115250393350205",
+    "imageUrl": "/covers/x-2101115250393350205.jpg",
+    "source": "x",
+    "sourceId": "2101115250393350205",
+    "tags": [
+      "x",
+      "threejs",
+      "lod"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101427532016832751",
+    "type": "shader",
+    "title": "Masonry++ (Tiny Glades bricks)",
+    "summary": "逆向 Tiny Glades 砌砖逻辑的程序化墙体/砖块排布实验。",
+    "url": "https://x.com/i/status/2101427532016832751",
+    "imageUrl": "/covers/x-2101427532016832751.jpg",
+    "source": "x",
+    "sourceId": "2101427532016832751",
+    "tags": [
+      "x",
+      "procgen",
+      "masonry"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101351876797047205",
+    "type": "shader",
+    "title": "Masonry Practice",
+    "summary": "程序化砌体练习短片：砖块排列与墙体生长过程。",
+    "url": "https://x.com/i/status/2101351876797047205",
+    "imageUrl": "/covers/x-2101351876797047205.jpg",
+    "source": "x",
+    "sourceId": "2101351876797047205",
+    "tags": [
+      "x",
+      "procgen",
+      "masonry"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101477090428395657",
+    "type": "shader",
+    "title": "Water Swamp (three.js)",
+    "summary": "浏览器内沼泽水面反射与风化小船：three.js 水体质感实验。",
+    "url": "https://x.com/i/status/2101477090428395657",
+    "imageUrl": "/covers/x-2101477090428395657.jpg",
+    "source": "x",
+    "sourceId": "2101477090428395657",
+    "tags": [
+      "x",
+      "threejs",
+      "water"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101323598984348001",
+    "type": "shader",
+    "title": "Wave Crash Study",
+    "summary": "3D 作品集中的海浪拍岸研究：破碎浪与岸线交互的难点演示。",
+    "url": "https://x.com/i/status/2101323598984348001",
+    "imageUrl": "/covers/x-2101323598984348001.jpg",
+    "source": "x",
+    "sourceId": "2101323598984348001",
+    "tags": [
+      "x",
+      "water",
+      "vfx"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101468916232962159",
+    "type": "shader",
+    "title": "Rainbow Icon (PixelComposer)",
+    "summary": "PixelComposer 彩虹图标动效：像素工具向视觉实验。",
+    "url": "https://pixel-composer.com/projects/Rainbow-Icon",
+    "imageUrl": "/covers/x-2101468916232962159.jpg",
+    "source": "x",
+    "sourceId": "2101468916232962159",
+    "tags": [
+      "x",
+      "pixel",
+      "tool"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101261041711948259",
+    "type": "shader",
+    "title": "Boolean Process #Cramorant",
+    "summary": "布尔造型过程的 3D 建模/视觉短片，形体切割可读。",
+    "url": "https://x.com/i/status/2101261041711948259",
+    "imageUrl": "/covers/x-2101261041711948259.jpg",
+    "source": "x",
+    "sourceId": "2101261041711948259",
+    "tags": [
+      "x",
+      "modeling",
+      "boolean"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101505411832860944",
+    "type": "shader",
+    "title": "Rare UI — Motion Components",
+    "summary": "开源动画 React 组件库动效演示：交互反馈与过渡丝滑，可作 UI 动效参考。",
+    "url": "https://rareui.com",
+    "imageUrl": "/covers/x-2101505411832860944.jpg",
+    "source": "x",
+    "sourceId": "2101505411832860944",
+    "tags": [
+      "x",
+      "ui",
+      "motion"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "x-2101597433457516781",
+    "type": "shader",
+    "title": "Rare UI — JS Port Demo",
+    "summary": "将 RareUI 组件用原生 JS 复刻到博客的开源收录页动效展示。",
+    "url": "https://x.com/i/status/2101597433457516781",
+    "imageUrl": "/covers/x-2101597433457516781.jpg",
+    "source": "x",
+    "sourceId": "2101597433457516781",
+    "tags": [
+      "x",
+      "ui",
+      "motion"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgpu_materials",
+    "type": "shader",
+    "title": "WEBGPU Materials",
+    "summary": "WebGPU 材质总览：物理/光照响应参考。",
+    "url": "https://threejs.org/examples/#webgpu_materials",
+    "imageUrl": "/covers/threejs-webgpu_materials.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_materials",
+    "tags": [
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_anisotropy",
+    "type": "shader",
+    "title": "WEBGL Materials Texture Anisotropy",
+    "summary": "各向异性纹理过滤，车漆/织物细节可读。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_anisotropy",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_anisotropy.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_anisotropy",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_shadowmap_pcss",
+    "type": "shader",
+    "title": "WEBGL Shadowmap PCSS",
+    "summary": "百分比渐近软阴影，体积光影层次。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_pcss",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_pcss.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmap_pcss",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_shadowmap_csm",
+    "type": "shader",
+    "title": "WEBGL Shadowmap CSM",
+    "summary": "级联阴影贴图，大场景日照过渡。",
+    "url": "https://threejs.org/examples/#webgl_shadowmap_csm",
+    "imageUrl": "/covers/threejs-webgl_shadowmap_csm.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmap_csm",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_taa",
+    "type": "shader",
+    "title": "WEBGL Postprocessing TAA",
+    "summary": "时间抗锯齿后处理，边缘更干净。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_taa",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_taa.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_taa",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_sobel",
+    "type": "shader",
+    "title": "WEBGL Postprocessing Sobel",
+    "summary": "Sobel 边缘检测后处理，NPR 线稿感。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_sobel",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_sobel.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_sobel",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_tsl_shadowmap",
+    "type": "shader",
+    "title": "WEBGL TSL Shadowmap",
+    "summary": "TSL 节点阴影示例，新管线写法参考。",
+    "url": "https://threejs.org/examples/#webgl_tsl_shadowmap",
+    "imageUrl": "/covers/threejs-webgl_tsl_shadowmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_tsl_shadowmap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_materials_envmaps_groundprojected",
+    "type": "shader",
+    "title": "WEBGL EnvMaps Ground Projected",
+    "summary": "地面投影环境贴图，反射与接地更自然。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_groundprojected",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps_groundprojected.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_envmaps_groundprojected",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_materials_matcap",
+    "type": "shader",
+    "title": "WEBGL Materials Matcap",
+    "summary": "MatCap 材质快速造型光照。",
+    "url": "https://threejs.org/examples/#webgl_materials_matcap",
+    "imageUrl": "/covers/threejs-webgl_materials_matcap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_matcap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_lightprobe_cubecamera",
+    "type": "shader",
+    "title": "WEBGL Lightprobe CubeCamera",
+    "summary": "立方体相机光照探针，局部反射捕捉。",
+    "url": "https://threejs.org/examples/#webgl_lightprobe_cubecamera",
+    "imageUrl": "/covers/threejs-webgl_lightprobe_cubecamera.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lightprobe_cubecamera",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_materials_displacementmap",
+    "type": "shader",
+    "title": "WEBGL Materials Displacement Map",
+    "summary": "位移贴图几何细节抬升。",
+    "url": "https://threejs.org/examples/#webgl_materials_displacementmap",
+    "imageUrl": "/covers/threejs-webgl_materials_displacementmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_displacementmap",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_smaa",
+    "type": "shader",
+    "title": "WEBGL Postprocessing SMAA",
+    "summary": "形态学抗锯齿后处理。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_smaa",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_smaa.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_smaa",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-21"
+  },
+  {
     "id": "itch-fenrir-edge-islands",
     "type": "game",
     "title": "Edge Islands",
