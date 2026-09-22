@@ -1,5 +1,620 @@
 [
   {
+    "id": "x-2101929420168778097",
+    "type": "game",
+    "title": "Terminal Reign",
+    "summary": "科幻战术模拟：遥控装甲载具作战，偏系统向独立新作。",
+    "url": "https://x.com/i/status/2101929420168778097",
+    "imageUrl": "/covers/x-2101929420168778097.jpg",
+    "source": "x",
+    "sourceId": "2101929420168778097",
+    "tags": [
+      "x",
+      "tactical",
+      "sci-fi"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101563385783497144",
+    "type": "game",
+    "title": "Polders",
+    "summary": "Townscaper 味荷兰圩田城市建造：前后对比可见美术与体块成长。",
+    "url": "https://x.com/i/status/2101563385783497144",
+    "imageUrl": "/covers/x-2101563385783497144.jpg",
+    "source": "x",
+    "sourceId": "2101563385783497144",
+    "tags": [
+      "x",
+      "city-builder",
+      "stylized"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101948213792227593",
+    "type": "game",
+    "title": "Biome Passes (WIP)",
+    "summary": "程序化生物群系铺陈：地表色带与生态分区一眼可读。",
+    "url": "https://x.com/i/status/2101948213792227593",
+    "imageUrl": "/covers/x-2101948213792227593.jpg",
+    "source": "x",
+    "sourceId": "2101948213792227593",
+    "tags": [
+      "x",
+      "worldgen",
+      "biomes"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101935517470490814",
+    "type": "game",
+    "title": "Sputnika Game",
+    "summary": "把行星当积木「投掷合体」的重力谜题，轻系统重手感。",
+    "url": "https://x.com/i/status/2101935517470490814",
+    "imageUrl": "/covers/x-2101935517470490814.jpg",
+    "source": "x",
+    "sourceId": "2101935517470490814",
+    "tags": [
+      "x",
+      "puzzle",
+      "physics"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101715686913425702",
+    "type": "game",
+    "title": "The Hollowing",
+    "summary": "大气向第一人称「飞行维护」恐怖模拟：在巨型结构间巡检通讯塔。",
+    "url": "https://x.com/i/status/2101715686913425702",
+    "imageUrl": "/covers/x-2101715686913425702.jpg",
+    "source": "x",
+    "sourceId": "2101715686913425702",
+    "tags": [
+      "x",
+      "atmospheric",
+      "sim"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101692337479114907",
+    "type": "game",
+    "title": "Praetor — Sandstorm",
+    "summary": "像素中世纪 RTS：沙暴压境下的 Inevitable 交战场面。",
+    "url": "https://x.com/i/status/2101692337479114907",
+    "imageUrl": "/covers/x-2101692337479114907.jpg",
+    "source": "x",
+    "sourceId": "2101692337479114907",
+    "tags": [
+      "x",
+      "rts",
+      "pixel"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101729494218539147",
+    "type": "game",
+    "title": "Let's Build a Dungeon",
+    "summary": "经营游戏工作室并同时制作 RPG 的双层模拟，偏神模拟/管理。",
+    "url": "https://x.com/i/status/2101729494218539147",
+    "imageUrl": "/covers/x-2101729494218539147.jpg",
+    "source": "x",
+    "sourceId": "2101729494218539147",
+    "tags": [
+      "x",
+      "management",
+      "god-sim"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101750706533183621",
+    "type": "game",
+    "title": "Interior Lighting Pass",
+    "summary": "建筑内外光照分层反馈：进屋后压暗外部世界的可读性实验。",
+    "url": "https://x.com/i/status/2101750706533183621",
+    "imageUrl": "/covers/x-2101750706533183621.jpg",
+    "source": "x",
+    "sourceId": "2101750706533183621",
+    "tags": [
+      "x",
+      "stylized",
+      "lighting"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-amipolygon-harvest-it",
+    "type": "game",
+    "title": "Harvest It",
+    "summary": "低多边形收割机经营：整片田收割与升级循环，轻松沙盒感。",
+    "url": "https://amipolygon.itch.io/harvest-it",
+    "imageUrl": "/covers/itch-amipolygon-harvest-it.jpg",
+    "source": "itch",
+    "sourceId": "5028896",
+    "tags": [
+      "itch",
+      "lowpoly",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-dexiz31-fishercat",
+    "type": "game",
+    "title": "Blue Kitten Fishing",
+    "summary": "低多边形小猫钓鱼：慢节奏治愈向，程序感水面与小岛。",
+    "url": "https://dexiz31.itch.io/fishercat",
+    "imageUrl": "/covers/itch-dexiz31-fishercat.jpg",
+    "source": "itch",
+    "sourceId": "5036284",
+    "tags": [
+      "itch",
+      "procgen",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-nagi-1025-octopolis",
+    "type": "game",
+    "title": "Octopolis",
+    "summary": "章鱼视角 3D 动作探索，低多边形海洋世界。",
+    "url": "https://nagi-1025.itch.io/octopolis",
+    "imageUrl": "/covers/itch-nagi-1025-octopolis.jpg",
+    "source": "itch",
+    "sourceId": "5035390",
+    "tags": [
+      "itch",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-indie-game-dev-studio-tree-house-building-sim",
+    "type": "game",
+    "title": "Tree House Building Sim Demo",
+    "summary": "树屋建造模拟 Demo：垂直居住与搭建乐趣。",
+    "url": "https://indie-game-dev-studio.itch.io/tree-house-building-sim",
+    "imageUrl": "/covers/itch-indie-game-dev-studio-tree-house-building-sim.jpg",
+    "source": "itch",
+    "sourceId": "5033135",
+    "tags": [
+      "itch",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-renzopederzoli-tomato-temple",
+    "type": "game",
+    "title": "Tomato Temple",
+    "summary": "用番茄智取石像守护者、修复神庙的解谜小品。",
+    "url": "https://renzopederzoli.itch.io/tomato-temple",
+    "imageUrl": "/covers/itch-renzopederzoli-tomato-temple.jpg",
+    "source": "itch",
+    "sourceId": "5029541",
+    "tags": [
+      "itch",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-kezno-simulated-company",
+    "type": "game",
+    "title": "Simulated company",
+    "summary": "微型公司模拟：选办公室、招伙伴接项目。",
+    "url": "https://kezno.itch.io/simulated-company",
+    "imageUrl": "/covers/itch-kezno-simulated-company.jpg",
+    "source": "itch",
+    "sourceId": "5037906",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-pato-foil-yaax-ibal",
+    "type": "game",
+    "title": "Yáax Ibal",
+    "summary": "古玛雅世界动作冒险，风格化 3D 场景。",
+    "url": "https://pato-foil.itch.io/yaax-ibal",
+    "imageUrl": "/covers/itch-pato-foil-yaax-ibal.jpg",
+    "source": "itch",
+    "sourceId": "5037514",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-sdrucito-crisis-room",
+    "type": "game",
+    "title": "Crisis Room",
+    "summary": "民防/复杂问题处置室模拟，偏系统决策。",
+    "url": "https://sdrucito.itch.io/crisis-room",
+    "imageUrl": "/covers/itch-sdrucito-crisis-room.jpg",
+    "source": "itch",
+    "sourceId": "5035315",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-mark-forster-hexxagon",
+    "type": "game",
+    "title": "Hexxagon",
+    "summary": "干净的双人六边形领地策略，棋盘可读性强。",
+    "url": "https://mark-forster.itch.io/hexxagon",
+    "imageUrl": "/covers/itch-mark-forster-hexxagon.jpg",
+    "source": "itch",
+    "sourceId": "5036658",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-walkingparasiticgames-urban-rise",
+    "type": "game",
+    "title": "Urban Rise",
+    "summary": "城市建造向独立作，地块扩张与天际线。",
+    "url": "https://walkingparasiticgames.itch.io/urban-rise",
+    "imageUrl": "/covers/itch-walkingparasiticgames-urban-rise.jpg",
+    "source": "itch",
+    "sourceId": "5036825",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-harrisonscott-flip-shop",
+    "type": "game",
+    "title": "Flip Shop",
+    "summary": "翻新转卖小店经营：收购物件与空间布置。",
+    "url": "https://harrisonscott.itch.io/flip-shop",
+    "imageUrl": "/covers/itch-harrisonscott-flip-shop.jpg",
+    "source": "itch",
+    "sourceId": "5036409",
+    "tags": [
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "itch-d4m1x-retro-pc-building",
+    "type": "game",
+    "title": "retro pc building",
+    "summary": "PSX 味复古装机店：进货、组装、卖电脑的经营循环。",
+    "url": "https://d4m1x.itch.io/retro-pc-building",
+    "imageUrl": "/covers/itch-d4m1x-retro-pc-building.jpg",
+    "source": "itch",
+    "sourceId": "5022810",
+    "tags": [
+      "itch",
+      "psx"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101653557107736872",
+    "type": "shader",
+    "title": "Archery Range Concepts",
+    "summary": "风格化 RTS 建筑概念铺陈（射箭场）：体块/材质迭代清晰，偏 NPR 建筑。",
+    "url": "https://x.com/i/status/2101653557107736872",
+    "imageUrl": "/covers/x-2101653557107736872.jpg",
+    "source": "x",
+    "sourceId": "2101653557107736872",
+    "tags": [
+      "x",
+      "concept",
+      "npr"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101718033228087491",
+    "type": "shader",
+    "title": "Paintable Soft-Body (Unity)",
+    "summary": "可绘制软体形变与碰撞响应插件演示，角色二次运动技术向。",
+    "url": "https://x.com/i/status/2101718033228087491",
+    "imageUrl": "/covers/x-2101718033228087491.jpg",
+    "source": "x",
+    "sourceId": "2101718033228087491",
+    "tags": [
+      "x",
+      "tech-art",
+      "softbody"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101729745486417949",
+    "type": "shader",
+    "title": "Fake Water Depth / Glass Dunes",
+    "summary": "假水深与玻璃后沙丘：平面墙体用数学撑起景深，绕轨仍成立。",
+    "url": "https://x.com/i/status/2101729745486417949",
+    "imageUrl": "/covers/x-2101729745486417949.jpg",
+    "source": "x",
+    "sourceId": "2101729745486417949",
+    "tags": [
+      "x",
+      "shader",
+      "water"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101748227582402944",
+    "type": "shader",
+    "title": "Water Masking with SDFs",
+    "summary": "用 SDF 做水面遮罩：船体外/泳池内控水，着色器可控水体边界。",
+    "url": "https://x.com/i/status/2101748227582402944",
+    "imageUrl": "/covers/x-2101748227582402944.jpg",
+    "source": "x",
+    "sourceId": "2101748227582402944",
+    "tags": [
+      "x",
+      "shader",
+      "sdf"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "x-2101756018967355485",
+    "type": "shader",
+    "title": "Rain Study",
+    "summary": "雨水氛围研究短片：粒子与湿润表面的视觉节奏。",
+    "url": "https://x.com/i/status/2101756018967355485",
+    "imageUrl": "/covers/x-2101756018967355485.jpg",
+    "source": "x",
+    "sourceId": "2101756018967355485",
+    "tags": [
+      "x",
+      "vfx",
+      "atmosphere"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_glitch",
+    "type": "shader",
+    "title": "WEBGL Postprocessing Glitch",
+    "summary": "后处理故障/撕裂效果，赛博故障视觉参考。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_glitch",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_glitch.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_glitch",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_masking",
+    "type": "shader",
+    "title": "WEBGL Postprocessing Masking",
+    "summary": "后处理遮罩合成，分层特效可控。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_masking",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_masking.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_masking",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_ssaa",
+    "type": "shader",
+    "title": "WEBGL Postprocessing SSAA",
+    "summary": "超级采样抗锯齿后处理，边缘更干净。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_ssaa",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_ssaa.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_ssaa",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_transition",
+    "type": "shader",
+    "title": "WEBGL Postprocessing Transition",
+    "summary": "场景过渡后处理，镜头切换可用。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_transition",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_transition.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_transition",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing_backgrounds",
+    "type": "shader",
+    "title": "WEBGL Postprocessing Backgrounds",
+    "summary": "后处理背景层，氛围底图技巧。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing_backgrounds",
+    "imageUrl": "/covers/threejs-webgl_postprocessing_backgrounds.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing_backgrounds",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_postprocessing",
+    "type": "shader",
+    "title": "WEBGL Postprocessing",
+    "summary": "基础后处理管线总览，入门必看。",
+    "url": "https://threejs.org/examples/#webgl_postprocessing",
+    "imageUrl": "/covers/threejs-webgl_postprocessing.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_postprocessing",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_rotation",
+    "type": "shader",
+    "title": "WEBGL Materials Texture Rotation",
+    "summary": "纹理旋转材质，UV 动画小技巧。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_rotation",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_rotation.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_rotation",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_partialupdate",
+    "type": "shader",
+    "title": "WEBGL Materials Texture Partialupdate",
+    "summary": "纹理局部更新，动态地图/小地图可用。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_partialupdate",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_partialupdate.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_partialupdate",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_lights_rectarealight",
+    "type": "shader",
+    "title": "WEBGL Lights Rectarealight",
+    "summary": "矩形面光，室内柔光可读。",
+    "url": "https://threejs.org/examples/#webgl_lights_rectarealight",
+    "imageUrl": "/covers/threejs-webgl_lights_rectarealight.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lights_rectarealight",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_lights_spotlights",
+    "type": "shader",
+    "title": "WEBGL Lights Spotlights",
+    "summary": "聚光灯阵列，舞台/巷道光影。",
+    "url": "https://threejs.org/examples/#webgl_lights_spotlights",
+    "imageUrl": "/covers/threejs-webgl_lights_spotlights.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lights_spotlights",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_lights_hemisphere",
+    "type": "shader",
+    "title": "WEBGL Lights Hemisphere",
+    "summary": "半球光，室外柔和环境光。",
+    "url": "https://threejs.org/examples/#webgl_lights_hemisphere",
+    "imageUrl": "/covers/threejs-webgl_lights_hemisphere.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lights_hemisphere",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_points_billboards",
+    "type": "shader",
+    "title": "WEBGL Points Billboards",
+    "summary": "广告牌粒子点精灵，植被/雨雪可用。",
+    "url": "https://threejs.org/examples/#webgl_points_billboards",
+    "imageUrl": "/covers/threejs-webgl_points_billboards.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_points_billboards",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_sprites",
+    "type": "shader",
+    "title": "WEBGL Sprites",
+    "summary": "精灵图示例，2.5D 元素混排。",
+    "url": "https://threejs.org/examples/#webgl_sprites",
+    "imageUrl": "/covers/threejs-webgl_sprites.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_sprites",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_shadowmesh",
+    "type": "shader",
+    "title": "WEBGL Shadowmesh",
+    "summary": "阴影网格技巧，风格化投影。",
+    "url": "https://threejs.org/examples/#webgl_shadowmesh",
+    "imageUrl": "/covers/threejs-webgl_shadowmesh.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_shadowmesh",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
+    "id": "threejs-webgl_lod",
+    "type": "shader",
+    "title": "WEBGL LOD",
+    "summary": "几何 LOD 切换，大世界性能与形体过渡。",
+    "url": "https://threejs.org/examples/#webgl_lod",
+    "imageUrl": "/covers/threejs-webgl_lod.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lod",
+    "tags": [
+      "threejs",
+      "shader"
+    ],
+    "collectedAt": "2026-09-22"
+  },
+  {
     "id": "x-2101494982645342440",
     "type": "game",
     "title": "The Pixel Form — Formation Facing",
