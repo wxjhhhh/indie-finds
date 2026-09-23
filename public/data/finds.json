@@ -1,5 +1,605 @@
 [
   {
+    "id": "x-2082859852137988358",
+    "type": "game",
+    "title": "WildRoot",
+    "summary": "神秘森林殖民：季节与挫折改写叙事的 cozy 殖民地模拟。",
+    "url": "https://x.com/RahulDa92930910/status/2082859852137988358",
+    "imageUrl": "/covers/x-2082859852137988358.jpg",
+    "source": "x",
+    "sourceId": "2082859852137988358",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2101998661760651684",
+    "type": "game",
+    "title": "Indie RTS Raw Gameplay",
+    "summary": "未剪辑 RTS 实机：单位调度与战场可读性原片。",
+    "url": "https://x.com/Smitty_Games/status/2101998661760651684",
+    "imageUrl": "/covers/x-2101998661760651684.jpg",
+    "source": "x",
+    "sourceId": "2101998661760651684",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102053295187513383",
+    "type": "game",
+    "title": "HODKA",
+    "summary": "荒野金属探测挖宝：搜刮废铁回营改装厢式货车的探索模拟。",
+    "url": "https://x.com/whatgamesv1/status/2102053295187513383",
+    "imageUrl": "/covers/x-2102053295187513383.jpg",
+    "source": "x",
+    "sourceId": "2102053295187513383",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102057638108487861",
+    "type": "game",
+    "title": "Praetor Tower Defense",
+    "summary": "中世纪 Praetor 塔防对局片段，圈地与防线节奏。",
+    "url": "https://x.com/Gimdeka/status/2102057638108487861",
+    "imageUrl": "/covers/x-2102057638108487861.jpg",
+    "source": "x",
+    "sourceId": "2102057638108487861",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102109944585552251",
+    "type": "game",
+    "title": "Pilot in a Storm Physics",
+    "summary": "风暴中航行物理：惯性漂移、高速宽转弯与命令跟船。",
+    "url": "https://x.com/thepixelform/status/2102109944585552251",
+    "imageUrl": "/covers/x-2102109944585552251.jpg",
+    "source": "x",
+    "sourceId": "2102109944585552251",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102137346091044992",
+    "type": "game",
+    "title": "Defilade",
+    "summary": "新 RTS《Defilade》官方 Steam 预告，阵地与掩体向战术。",
+    "url": "https://x.com/Neucollective/status/2102137346091044992",
+    "imageUrl": "/covers/x-2102137346091044992.jpg",
+    "source": "x",
+    "sourceId": "2102137346091044992",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102207276413264010",
+    "type": "game",
+    "title": "Ball Physics Multiplayer Refactor",
+    "summary": "多人球物理重构后手感改善，偏物理玩具/运动系统。",
+    "url": "https://x.com/BusinessKongDev/status/2102207276413264010",
+    "imageUrl": "/covers/x-2102207276413264010.jpg",
+    "source": "x",
+    "sourceId": "2102207276413264010",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102269168737550569",
+    "type": "game",
+    "title": "Lawnpocalypse",
+    "summary": "侏儒开车割草的清扫×肉鸽：默默停不下来的解压循环。",
+    "url": "https://x.com/G_Godaka/status/2102269168737550569",
+    "imageUrl": "/covers/x-2102269168737550569.jpg",
+    "source": "x",
+    "sourceId": "2102269168737550569",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102320577902166272",
+    "type": "game",
+    "title": "Colonist Wheat→Windmill Loop",
+    "summary": "殖民者拾麦→风车→面粉的十秒生产力循环，殖民地微观系统。",
+    "url": "https://x.com/RahulDa92930910/status/2102320577902166272",
+    "imageUrl": "/covers/x-2102320577902166272.jpg",
+    "source": "x",
+    "sourceId": "2102320577902166272",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102354335644717230",
+    "type": "game",
+    "title": "Battleships Diorama (three.js)",
+    "summary": "three.js/WebGPU 立体沙盘海战：战舰对战小场景，性能迭代中。",
+    "url": "https://x.com/manto_vincenzo/status/2102354335644717230",
+    "imageUrl": "/covers/x-2102354335644717230.jpg",
+    "source": "x",
+    "sourceId": "2102354335644717230",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102357694468509933",
+    "type": "game",
+    "title": "HD-2D Action Project (unnamed)",
+    "summary": "HD-2D 风格动作项目开发中，画面层次接近古典 JRPG 透视。",
+    "url": "https://x.com/ZongZi0209/status/2102357694468509933",
+    "imageUrl": "/covers/x-2102357694468509933.jpg",
+    "source": "x",
+    "sourceId": "2102357694468509933",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102413898481795118",
+    "type": "game",
+    "title": "Docked Exploration WIP",
+    "summary": "正在做靠岸探索：主角与码头场景，偏探索向独立作。",
+    "url": "https://x.com/ray_ervian/status/2102413898481795118",
+    "imageUrl": "/covers/x-2102413898481795118.jpg",
+    "source": "x",
+    "sourceId": "2102413898481795118",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-beholdernx-adrorium",
+    "type": "game",
+    "title": "ADRORIUM",
+    "summary": "太空/站点向模拟建造，系统层叠的运营感。",
+    "url": "https://beholdernx.itch.io/adrorium",
+    "imageUrl": "/covers/itch-beholdernx-adrorium.jpg",
+    "source": "itch",
+    "sourceId": "beholdernx/adrorium",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-deadkir-chernozem",
+    "type": "game",
+    "title": "CHERNOZEM (PROTOTYPE)",
+    "summary": "切尔诺泽姆原型：土地/生存向 prototype。",
+    "url": "https://deadkir.itch.io/chernozem",
+    "imageUrl": "/covers/itch-deadkir-chernozem.jpg",
+    "source": "itch",
+    "sourceId": "deadkir/chernozem",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-kawpum-family-business",
+    "type": "game",
+    "title": "Family Business",
+    "summary": "家族生意经营向独立作，空间与人手调度。",
+    "url": "https://kawpum.itch.io/family-business",
+    "imageUrl": "/covers/itch-kawpum-family-business.jpg",
+    "source": "itch",
+    "sourceId": "kawpum/family-business",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-mrdrnose-votv",
+    "type": "game",
+    "title": "Voices Of The Void Alpha",
+    "summary": "信号塔监听模拟：夜班值守与异常信号的氛围系统作。",
+    "url": "https://mrdrnose.itch.io/votv",
+    "imageUrl": "/covers/itch-mrdrnose-votv.jpg",
+    "source": "itch",
+    "sourceId": "mrdrnose/votv",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-rubic-cairn",
+    "type": "game",
+    "title": "Cairn",
+    "summary": "石冢/徒步氛围探索，极简 3D 行走体验。",
+    "url": "https://rubic.itch.io/cairn",
+    "imageUrl": "/covers/itch-rubic-cairn.jpg",
+    "source": "itch",
+    "sourceId": "rubic/cairn",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-torigamedev-the-plant-shop",
+    "type": "game",
+    "title": "The Plant Shop (Demo)",
+    "summary": "植物店经营 Demo：摆放绿植与店面布置的治愈经营。",
+    "url": "https://torigamedev.itch.io/the-plant-shop",
+    "imageUrl": "/covers/itch-torigamedev-the-plant-shop.jpg",
+    "source": "itch",
+    "sourceId": "torigamedev/the-plant-shop",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-totoriel-solarsandbox",
+    "type": "game",
+    "title": "Solar Sandbox",
+    "summary": "太阳系沙盒：在程序感轨道与星球间建造游玩。",
+    "url": "https://totoriel.itch.io/solarsandbox",
+    "imageUrl": "/covers/itch-totoriel-solarsandbox.jpg",
+    "source": "itch",
+    "sourceId": "totoriel/solarsandbox",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "itch-yko79135-mars-nations-colony-frontier",
+    "type": "game",
+    "title": "Mars Nations: Colony Frontier",
+    "summary": "火星殖民地前线：国族扩张与生存建造。",
+    "url": "https://yko79135.itch.io/mars-nations-colony-frontier",
+    "imageUrl": "/covers/itch-yko79135-mars-nations-colony-frontier.jpg",
+    "source": "itch",
+    "sourceId": "yko79135/mars-nations-colony-frontier",
+    "tags": [
+      "itch",
+      "indie"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2101913976041058454",
+    "type": "shader",
+    "title": "Boss Defeat Hit-Stop VFX",
+    "summary": "Boss 击杀演出：命中停顿/慢动作/冲击感的打击反馈 VFX。",
+    "url": "https://x.com/YasukazuUmekita/status/2101913976041058454",
+    "imageUrl": "/covers/x-2101913976041058454.jpg",
+    "source": "x",
+    "sourceId": "2101913976041058454",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2101929678491767225",
+    "type": "shader",
+    "title": "Codex+Blender Rainy 711 Night",
+    "summary": "Codex+Blender 雨夜 711 场景：商业电影感灯光与湿润材质。",
+    "url": "https://x.com/Saccc_c/status/2101929678491767225",
+    "imageUrl": "/covers/x-2101929678491767225.jpg",
+    "source": "x",
+    "sourceId": "2101929678491767225",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2101974945089859957",
+    "type": "shader",
+    "title": "Pixel Shooting Star Anim",
+    "summary": "点阵流星动画练习，轻量 VFX 循环。",
+    "url": "https://x.com/Nuaah_Box/status/2101974945089859957",
+    "imageUrl": "/covers/x-2101974945089859957.jpg",
+    "source": "x",
+    "sourceId": "2101974945089859957",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2101987169770311872",
+    "type": "shader",
+    "title": "Low-Poly Grass Experiment",
+    "summary": "低多边形草地实验：GameMaker 风向与层叠草叶。",
+    "url": "https://x.com/NPJarcade/status/2101987169770311872",
+    "imageUrl": "/covers/x-2101987169770311872.jpg",
+    "source": "x",
+    "sourceId": "2101987169770311872",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102021087148015852",
+    "type": "shader",
+    "title": "Overscale Style Look",
+    "summary": "Overscale 风格化视觉示范，夸张比例材质表现。",
+    "url": "https://x.com/OVolosin82152/status/2102021087148015852",
+    "imageUrl": "/covers/x-2102021087148015852.jpg",
+    "source": "x",
+    "sourceId": "2102021087148015852",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102167814341628238",
+    "type": "shader",
+    "title": "Water Graphics Upgrade",
+    "summary": "水面图形升级短片：反射/波动可读性提升。",
+    "url": "https://x.com/leo_massaroli/status/2102167814341628238",
+    "imageUrl": "/covers/x-2102167814341628238.jpg",
+    "source": "x",
+    "sourceId": "2102167814341628238",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102214003867234763",
+    "type": "shader",
+    "title": "Trim Sheet Tutorial",
+    "summary": "大世界用一张纹理复用的 Trim Sheet 制作讲解，技美向。",
+    "url": "https://x.com/vtuberkaibou/status/2102214003867234763",
+    "imageUrl": "/covers/x-2102214003867234763.jpg",
+    "source": "x",
+    "sourceId": "2102214003867234763",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102379360460456372",
+    "type": "shader",
+    "title": "Dark Souls Firelink Shrine Tribute",
+    "summary": "黑暗之魂火祭场旧版致敬场景，氛围光影重建。",
+    "url": "https://x.com/NOP_Pixels/status/2102379360460456372",
+    "imageUrl": "/covers/x-2102379360460456372.jpg",
+    "source": "x",
+    "sourceId": "2102379360460456372",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102391422712525297",
+    "type": "shader",
+    "title": "F1 Car Paint + GLB Export",
+    "summary": "MCP+Astra 设计 F1 涂装并导出 GLB，材质换色与部件形变工具。",
+    "url": "https://x.com/emmanuel_2m/status/2102391422712525297",
+    "imageUrl": "/covers/x-2102391422712525297.jpg",
+    "source": "x",
+    "sourceId": "2102391422712525297",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102398401446887892",
+    "type": "shader",
+    "title": "Model Physics + Hytale Cobblemon",
+    "summary": "模型物理折腾与 Hytale Cobblemon 模组观感测试。",
+    "url": "https://x.com/KaaykyRPG/status/2102398401446887892",
+    "imageUrl": "/covers/x-2102398401446887892.jpg",
+    "source": "x",
+    "sourceId": "2102398401446887892",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102427728788050431",
+    "type": "shader",
+    "title": "Stylized Rock Generator (Houdini)",
+    "summary": "Houdini 风格化岩石生成：网格锐化启发的程序化岩石。",
+    "url": "https://x.com/HoudiniSchool/status/2102427728788050431",
+    "imageUrl": "/covers/x-2102427728788050431.jpg",
+    "source": "x",
+    "sourceId": "2102427728788050431",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "x-2102431706703700116",
+    "type": "shader",
+    "title": "3D Pixel Art Tool Bundle",
+    "summary": "Blender 内绘像素的 3D pixelart 三件套工具流。",
+    "url": "https://x.com/Pixel_Salvaje/status/2102431706703700116",
+    "imageUrl": "/covers/x-2102431706703700116.jpg",
+    "source": "x",
+    "sourceId": "2102431706703700116",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_lights_physical",
+    "type": "shader",
+    "title": "WEBGL Lights Physical",
+    "summary": "物理灯光衰减与能量守恒光照示范。",
+    "url": "https://threejs.org/examples/#webgl_lights_physical",
+    "imageUrl": "/covers/threejs-webgl_lights_physical.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lights_physical",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_lights_sunlight",
+    "type": "shader",
+    "title": "WEBGL Lights Sunlight",
+    "summary": "阳光方向光与阴影，室外黄金时刻参考。",
+    "url": "https://threejs.org/examples/#webgl_lights_sunlight",
+    "imageUrl": "/covers/threejs-webgl_lights_sunlight.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lights_sunlight",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_loader_gltf_iridescence",
+    "type": "shader",
+    "title": "WEBGL Loader GLTF Iridescence",
+    "summary": "glTF 虹彩材质加载：薄膜干涉色随视角变。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_iridescence",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_iridescence.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_gltf_iridescence",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_loader_gltf_transmission",
+    "type": "shader",
+    "title": "WEBGL Loader GLTF Transmission",
+    "summary": "glTF 透射扩展：玻璃场景资源管线。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_transmission",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_gltf_transmission",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_materials_envmaps_hdr",
+    "type": "shader",
+    "title": "WEBGL Materials Envmaps HDR",
+    "summary": "HDR 环境贴图反射，金属/镜面环境光。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_hdr",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps_hdr.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_envmaps_hdr",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_materials_physical_clearcoat",
+    "type": "shader",
+    "title": "WEBGL Materials Physical Clearcoat",
+    "summary": "清漆层物理材质：车漆/钢琴漆高光分层。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_clearcoat",
+    "imageUrl": "/covers/threejs-webgl_materials_physical_clearcoat.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_physical_clearcoat",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_materials_physical_transmission",
+    "type": "shader",
+    "title": "WEBGL Materials Physical Transmission",
+    "summary": "物理透射材质：玻璃/液体厚度与色散可读。",
+    "url": "https://threejs.org/examples/#webgl_materials_physical_transmission",
+    "imageUrl": "/covers/threejs-webgl_materials_physical_transmission.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_physical_transmission",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
+    "id": "threejs-webgl_materials_toon",
+    "type": "shader",
+    "title": "WEBGL Materials Toon",
+    "summary": "卡通/NPR toon 材质，硬边明暗适合风格化角色。",
+    "url": "https://threejs.org/examples/#webgl_materials_toon",
+    "imageUrl": "/covers/threejs-webgl_materials_toon.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_toon",
+    "tags": [
+      "threejs",
+      "webgl"
+    ],
+    "collectedAt": "2026-09-23"
+  },
+  {
     "id": "x-2101929420168778097",
     "type": "game",
     "title": "Terminal Reign",
