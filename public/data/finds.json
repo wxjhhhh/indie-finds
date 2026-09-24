@@ -1,5 +1,611 @@
 [
   {
+    "id": "x-2102671763125448799",
+    "type": "game",
+    "title": "钓鱼机制",
+    "summary": "独立作钓鱼机制试玩：抛竿与收线手感迭代中。",
+    "url": "https://x.com/AtomioDev/status/2102671763125448799",
+    "imageUrl": "/covers/x-2102671763125448799.jpg",
+    "source": "x",
+    "sourceId": "2102671763125448799",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102680947938525278",
+    "type": "game",
+    "title": "Upcoming Indie Gameplay 15s",
+    "summary": "未命名独立作 15 秒实机：节奏与镜头可读性原片。",
+    "url": "https://x.com/SpringloadedDev/status/2102680947938525278",
+    "imageUrl": "/covers/x-2102680947938525278.jpg",
+    "source": "x",
+    "sourceId": "2102680947938525278",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102473418461331553",
+    "type": "game",
+    "title": "Planet Grudge Bullet Hell",
+    "summary": "记仇星球弹幕射击：救人逃生、本地双人与大量武器。",
+    "url": "https://x.com/clemmygames/status/2102473418461331553",
+    "imageUrl": "/covers/x-2102473418461331553.jpg",
+    "source": "x",
+    "sourceId": "2102473418461331553",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102593293905526923",
+    "type": "game",
+    "title": "Factorio×Million-Kill TD",
+    "summary": "类 Factorio×百万击杀塔防混搭预告，工厂与防线叠乐。",
+    "url": "https://x.com/stmatomato/status/2102593293905526923",
+    "imageUrl": "/covers/x-2102593293905526923.jpg",
+    "source": "x",
+    "sourceId": "2102593293905526923",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102533883535200300",
+    "type": "game",
+    "title": "Pirate Ship Survivors",
+    "summary": "海盗船生存：鱼叉迫击炮清潮，船长派系与改装。",
+    "url": "https://x.com/clemmygames/status/2102533883535200300",
+    "imageUrl": "/covers/x-2102533883535200300.jpg",
+    "source": "x",
+    "sourceId": "2102533883535200300",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102322021967229430",
+    "type": "game",
+    "title": "My Tennis Apocalypse",
+    "summary": "Roguelike 网球《My Tennis Apocalypse》新预告。",
+    "url": "https://x.com/nexindie/status/2102322021967229430",
+    "imageUrl": "/covers/x-2102322021967229430.jpg",
+    "source": "x",
+    "sourceId": "2102322021967229430",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102059294522786127",
+    "type": "game",
+    "title": "Fallen Fates Kat Form",
+    "summary": "Fallen Fates 狼伴 Kat 跟随形态研究，角色陪伴系统设计。",
+    "url": "https://x.com/HibernianWS/status/2102059294522786127",
+    "imageUrl": "/covers/x-2102059294522786127.jpg",
+    "source": "x",
+    "sourceId": "2102059294522786127",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101659771510153405",
+    "type": "game",
+    "title": "Jump + Shotgun Pixel",
+    "summary": "像素跳跃+霰弹枪动作循环，平台射击手感片段。",
+    "url": "https://x.com/otsoga_/status/2101659771510153405",
+    "imageUrl": "/covers/x-2101659771510153405.jpg",
+    "source": "x",
+    "sourceId": "2101659771510153405",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102247821382766856",
+    "type": "game",
+    "title": "GameMaker Pixel Game Test",
+    "summary": "GameMaker 像素新作测试中，关卡与角色同屏验证。",
+    "url": "https://x.com/CreativeHandOf/status/2102247821382766856",
+    "imageUrl": "/covers/x-2102247821382766856.jpg",
+    "source": "x",
+    "sourceId": "2102247821382766856",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102134835493965884",
+    "type": "game",
+    "title": "Aztec Enemy Pack",
+    "summary": "阿兹特克敌人像素包上架，动画帧与战斗可读性。",
+    "url": "https://x.com/baybars_kemal/status/2102134835493965884",
+    "imageUrl": "/covers/x-2102134835493965884.jpg",
+    "source": "x",
+    "sourceId": "2102134835493965884",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102308747762872382",
+    "type": "game",
+    "title": "Pyxel 3.0 Cube",
+    "summary": "Pyxel 3.0（Pyxel Cube）开发中：Python 复古引擎升级。",
+    "url": "https://x.com/kitao/status/2102308747762872382",
+    "imageUrl": "/covers/x-2102308747762872382.jpg",
+    "source": "x",
+    "sourceId": "2102308747762872382",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102037796215279852",
+    "type": "game",
+    "title": "Same-Race Enemy Variants",
+    "summary": "同族敌人变体展示，草系造型与战斗识别度。",
+    "url": "https://x.com/SpnHippo/status/2102037796215279852",
+    "imageUrl": "/covers/x-2102037796215279852.jpg",
+    "source": "x",
+    "sourceId": "2102037796215279852",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102161583979814918",
+    "type": "game",
+    "title": "Bigger Sword Roguelike",
+    "summary": "大剑=更好：像素 Roguelike/RPG Steam 愿望单向。",
+    "url": "https://x.com/GarrettSavo/status/2102161583979814918",
+    "imageUrl": "/covers/x-2102161583979814918.jpg",
+    "source": "x",
+    "sourceId": "2102161583979814918",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102050224114126910",
+    "type": "game",
+    "title": "40s Upcoming Indie",
+    "summary": "未命名独立作 40 秒实机，玩法节奏切片。",
+    "url": "https://x.com/Taikwy/status/2102050224114126910",
+    "imageUrl": "/covers/x-2102050224114126910.jpg",
+    "source": "x",
+    "sourceId": "2102050224114126910",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101410886501941625",
+    "type": "game",
+    "title": "Indie Game Feel Meme",
+    "summary": "做独立游戏的体感meme动画，开发者自嘲向。",
+    "url": "https://x.com/RicotoniGames/status/2101410886501941625",
+    "imageUrl": "/covers/x-2101410886501941625.jpg",
+    "source": "x",
+    "sourceId": "2101410886501941625",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101936857000902896",
+    "type": "game",
+    "title": "The Fledge",
+    "summary": "企鹅育雏生存《The Fledge》公布，2027 PC，Steam 页已开。",
+    "url": "https://x.com/nexindie/status/2101936857000902896",
+    "imageUrl": "/covers/x-2101936857000902896.jpg",
+    "source": "x",
+    "sourceId": "2101936857000902896",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101699860919656758",
+    "type": "game",
+    "title": "Demo 2.1 Shotgun Reveal",
+    "summary": "Demo 2.1 展示新霰弹枪：护手暂隐为亮武器。",
+    "url": "https://x.com/eiasninelives/status/2101699860919656758",
+    "imageUrl": "/covers/x-2101699860919656758.jpg",
+    "source": "x",
+    "sourceId": "2101699860919656758",
+    "tags": [
+      "x-bookmark",
+      "game"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "itch-bit-of-bitz-civilia",
+    "type": "game",
+    "title": "Civilia",
+    "summary": "殖民地/文明建造向：扩张聚落与秩序的 colony 风独立作。",
+    "url": "https://bit-of-bitz.itch.io/civilia",
+    "imageUrl": "/covers/itch-bit-of-bitz-civilia.jpg",
+    "source": "itch",
+    "sourceId": "bit-of-bitz/civilia",
+    "tags": [
+      "colony",
+      "builder",
+      "itch"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "itch-philbgarner-frontier-new-worlds",
+    "type": "game",
+    "title": "Frontier New Worlds",
+    "summary": "边疆新世界：拓荒与新地图探索的前线生存建造。",
+    "url": "https://philbgarner.itch.io/frontier-new-worlds",
+    "imageUrl": "/covers/itch-philbgarner-frontier-new-worlds.jpg",
+    "source": "itch",
+    "sourceId": "philbgarner/frontier-new-worlds",
+    "tags": [
+      "frontier",
+      "colony",
+      "itch"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "itch-topographinteractive-slow-roads",
+    "type": "game",
+    "title": "Slow Roads",
+    "summary": "Slow Roads：无尽程序化公路驾驶，风景与道路生成一体。",
+    "url": "https://topographinteractive.itch.io/slow-roads",
+    "imageUrl": "/covers/itch-topographinteractive-slow-roads.jpg",
+    "source": "itch",
+    "sourceId": "topographinteractive/slow-roads",
+    "tags": [
+      "procgen",
+      "driving",
+      "itch"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102668353169183096",
+    "type": "shader",
+    "title": "Pixquare 像素场景左右对比",
+    "summary": "Pixquare 像素场景左右选择：神社与水景构图练习。",
+    "url": "https://x.com/pixquare_app/status/2102668353169183096",
+    "imageUrl": "/covers/x-2102668353169183096.jpg",
+    "source": "x",
+    "sourceId": "2102668353169183096",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102382410335699019",
+    "type": "shader",
+    "title": "QR Tsunami Tree Collage",
+    "summary": "QR/海啸/树/报纸拼贴视觉，平面与像素混搭实验。",
+    "url": "https://x.com/RhosGFX/status/2102382410335699019",
+    "imageUrl": "/covers/x-2102382410335699019.jpg",
+    "source": "x",
+    "sourceId": "2102382410335699019",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102405824396300328",
+    "type": "shader",
+    "title": "Ground Sculpt Bake Test",
+    "summary": "地面雕刻烘焙进场景：地形可读性大幅提升的 lookdev。",
+    "url": "https://x.com/elJosby/status/2102405824396300328",
+    "imageUrl": "/covers/x-2102405824396300328.jpg",
+    "source": "x",
+    "sourceId": "2102405824396300328",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102473005678969275",
+    "type": "shader",
+    "title": "Godot Stylized Explosion",
+    "summary": "Godot 风格化爆炸：噪声层叠、冲击波与烟雾拆解。",
+    "url": "https://x.com/jettelly/status/2102473005678969275",
+    "imageUrl": "/covers/x-2102473005678969275.jpg",
+    "source": "x",
+    "sourceId": "2102473005678969275",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102556132912832897",
+    "type": "shader",
+    "title": "Icicle PixelComposer",
+    "summary": "PixelComposer 冰锥特效循环，像素风粒子工具演示。",
+    "url": "https://x.com/MakhamDev/status/2102556132912832897",
+    "imageUrl": "/covers/x-2102556132912832897.jpg",
+    "source": "x",
+    "sourceId": "2102556132912832897",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102297113652797857",
+    "type": "shader",
+    "title": "Dot Animation Editor WIP",
+    "summary": "自研点阵动画编辑器：与 Astra 共创的工具向起步。",
+    "url": "https://x.com/hs48games/status/2102297113652797857",
+    "imageUrl": "/covers/x-2102297113652797857.jpg",
+    "source": "x",
+    "sourceId": "2102297113652797857",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101844219027747240",
+    "type": "shader",
+    "title": "Blockbench Pixel Flags",
+    "summary": "Blockbench 像素旗帜：Minecraft 风方块美术。",
+    "url": "https://x.com/9xG67WDecrBe3xk/status/2101844219027747240",
+    "imageUrl": "/covers/x-2101844219027747240.jpg",
+    "source": "x",
+    "sourceId": "2101844219027747240",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102067875599020292",
+    "type": "shader",
+    "title": "Pixel Sword Swing",
+    "summary": "像素剑挥砍动画练习，武器反馈可读性。",
+    "url": "https://x.com/Pixel_Pit/status/2102067875599020292",
+    "imageUrl": "/covers/x-2102067875599020292.jpg",
+    "source": "x",
+    "sourceId": "2102067875599020292",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102037884299854075",
+    "type": "shader",
+    "title": "Pixel Scene Progress",
+    "summary": "像素场景进度更新，构图与色块层次推进。",
+    "url": "https://x.com/LouisPretends/status/2102037884299854075",
+    "imageUrl": "/covers/x-2102037884299854075.jpg",
+    "source": "x",
+    "sourceId": "2102037884299854075",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102074159492895187",
+    "type": "shader",
+    "title": "Character Run Cycle",
+    "summary": "角色走慢改跑：循环动画节奏调整中。",
+    "url": "https://x.com/kurinadev/status/2102074159492895187",
+    "imageUrl": "/covers/x-2102074159492895187.jpg",
+    "source": "x",
+    "sourceId": "2102074159492895187",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101950084753813821",
+    "type": "shader",
+    "title": "Pixquare Dithering Tip",
+    "summary": "Pixquare 抖动笔刷用法：轮廓下 Dithering 选项教学。",
+    "url": "https://x.com/pixquare_app/status/2101950084753813821",
+    "imageUrl": "/covers/x-2101950084753813821.jpg",
+    "source": "x",
+    "sourceId": "2101950084753813821",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102339992240685347",
+    "type": "shader",
+    "title": "cmzw Visual Loop",
+    "summary": "cmzw 视觉循环短片，抽象运动图形实验。",
+    "url": "https://x.com/cmzw_/status/2102339992240685347",
+    "imageUrl": "/covers/x-2102339992240685347.jpg",
+    "source": "x",
+    "sourceId": "2102339992240685347",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102270474877100399",
+    "type": "shader",
+    "title": "Unity3D VFX Still",
+    "summary": "Unity VFX 静帧/截图，粒子与后期氛围参考。",
+    "url": "https://x.com/unity3dvfx/status/2102270474877100399",
+    "imageUrl": "/covers/x-2102270474877100399.jpg",
+    "source": "x",
+    "sourceId": "2102270474877100399",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102008375009833009",
+    "type": "shader",
+    "title": "HG_EX Pixel Styles",
+    "summary": "多风格点阵画作合集，作者技法不定期更新。",
+    "url": "https://x.com/HG_EX/status/2102008375009833009",
+    "imageUrl": "/covers/x-2102008375009833009.jpg",
+    "source": "x",
+    "sourceId": "2102008375009833009",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2101655776804982972",
+    "type": "shader",
+    "title": "2-Month Pixel Progress",
+    "summary": "两月像素进步对照：坚持学画的进度切片。",
+    "url": "https://x.com/Kinsanepixels/status/2101655776804982972",
+    "imageUrl": "/covers/x-2101655776804982972.jpg",
+    "source": "x",
+    "sourceId": "2101655776804982972",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102201713851580580",
+    "type": "shader",
+    "title": "Painting Came to Life",
+    "summary": "如画作活过来的动态场景，光影与笔触感视频。",
+    "url": "https://x.com/naturehealyou/status/2102201713851580580",
+    "imageUrl": "/covers/x-2102201713851580580.jpg",
+    "source": "x",
+    "sourceId": "2102201713851580580",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102004927736254593",
+    "type": "shader",
+    "title": "Pixel Game Art Tease",
+    "summary": "像素游戏美术预告，更多素材即将放出。",
+    "url": "https://x.com/AndroxPixelArt/status/2102004927736254593",
+    "imageUrl": "/covers/x-2102004927736254593.jpg",
+    "source": "x",
+    "sourceId": "2102004927736254593",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "x-2102101203941458367",
+    "type": "shader",
+    "title": "MC Camera Studio Mod",
+    "summary": "Minecraft Camera Studio 类模组：Forge/NeoForge 轻松录制。",
+    "url": "https://x.com/bandai_y/status/2102101203941458367",
+    "imageUrl": "/covers/x-2102101203941458367.jpg",
+    "source": "x",
+    "sourceId": "2102101203941458367",
+    "tags": [
+      "x-bookmark",
+      "shader"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "threejs-webgl_materials_envmaps_exr",
+    "type": "shader",
+    "title": "WEBGL Materials Envmaps EXR",
+    "summary": "EXR HDR 环境贴图：高动态范围反射采样。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_exr",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps_exr.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_envmaps_exr",
+    "tags": [
+      "envmap",
+      "hdr",
+      "exr",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
+    "id": "threejs-webgl_lightprobe",
+    "type": "shader",
+    "title": "WEBGL Lightprobe",
+    "summary": "光照探针：场景间接光烘焙与探针采样。",
+    "url": "https://threejs.org/examples/#webgl_lightprobe",
+    "imageUrl": "/covers/threejs-webgl_lightprobe.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lightprobe",
+    "tags": [
+      "lightprobe",
+      "gi",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-24"
+  },
+  {
     "id": "x-2082859852137988358",
     "type": "game",
     "title": "WildRoot",
