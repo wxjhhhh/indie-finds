@@ -1,5 +1,626 @@
 [
   {
+    "type": "game",
+    "title": "exoplanet outpost demo 外星前哨殖民地 Demo",
+    "summary": "外星前哨殖民地：资源扩张与生存系统。",
+    "url": "https://aartform.itch.io/exoplanet-outpost-demo",
+    "imageUrl": "/covers/itch-aartform-exoplanet-outpost-demo.jpg",
+    "source": "itch",
+    "sourceId": "aartform/exoplanet-outpost-demo",
+    "tags": [
+      "colony",
+      "3d",
+      "demo",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "farm factory demo 农场工厂 Demo",
+    "summary": "农场与工厂结合的产线经营 Demo。",
+    "url": "https://sasbyxan.itch.io/farm-factory-demo",
+    "imageUrl": "/covers/itch-sasbyxan-farm-factory-demo.jpg",
+    "source": "itch",
+    "sourceId": "sasbyxan/farm-factory-demo",
+    "tags": [
+      "factory",
+      "farm",
+      "demo",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "its not my horse 这不是我的马 (PSX)",
+    "summary": "PSX 复古风怪奇叙事小品。",
+    "url": "https://apple-farm.itch.io/its-not-my-horse",
+    "imageUrl": "/covers/itch-apple-farm-its-not-my-horse.jpg",
+    "source": "itch",
+    "sourceId": "apple-farm/its-not-my-horse",
+    "tags": [
+      "psx",
+      "retro",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "sanguine dungeon unity 血红地牢 Unity",
+    "summary": "Unity 地牢探索，饱和色与黑暗氛围。",
+    "url": "https://sanguine-nite.itch.io/sanguine-dungeon-unity",
+    "imageUrl": "/covers/itch-sanguine-nite-sanguine-dungeon-unity.jpg",
+    "source": "itch",
+    "sourceId": "sanguine-nite/sanguine-dungeon-unity",
+    "tags": [
+      "unity",
+      "dungeon",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "earth outpost 地球前哨",
+    "summary": "前哨基地建设与殖民地扩张。",
+    "url": "https://instantplay.itch.io/earth-outpost",
+    "imageUrl": "/covers/itch-instantplay-earth-outpost.jpg",
+    "source": "itch",
+    "sourceId": "instantplay/earth-outpost",
+    "tags": [
+      "colony",
+      "outpost",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "factory time is money 工厂：时间即金钱",
+    "summary": "工厂建造与时间资源调度。",
+    "url": "https://vegegamer.itch.io/factory-time-is-money",
+    "imageUrl": "/covers/itch-vegegamer-factory-time-is-money.jpg",
+    "source": "itch",
+    "sourceId": "vegegamer/factory-time-is-money",
+    "tags": [
+      "factory",
+      "systems",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "minimalists 极简主义者",
+    "summary": "极简美学下的殖民地/生存系统。",
+    "url": "https://abyssaltheking.itch.io/minimalists",
+    "imageUrl": "/covers/itch-abyssaltheking-minimalists.jpg",
+    "source": "itch",
+    "sourceId": "abyssaltheking/minimalists",
+    "tags": [
+      "colony",
+      "minimal",
+      "systems",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "mysummerfactory 我的夏日工厂",
+    "summary": "夏日氛围的工厂建造小品。",
+    "url": "https://yadenergy.itch.io/mysummerfactory",
+    "imageUrl": "/covers/itch-yadenergy-mysummerfactory.jpg",
+    "source": "itch",
+    "sourceId": "yadenergy/mysummerfactory",
+    "tags": [
+      "factory",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "parafactory 平行工厂",
+    "summary": "非常规空间里的工厂产线。",
+    "url": "https://fefeefeefe.itch.io/parafactory",
+    "imageUrl": "/covers/itch-fefeefeefe-parafactory.jpg",
+    "source": "itch",
+    "sourceId": "fefeefeefe/parafactory",
+    "tags": [
+      "factory",
+      "systems",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "planet drinker 啜星者",
+    "summary": "行星尺度资源榨取与系统循环。",
+    "url": "https://1000lava.itch.io/planet-drinker",
+    "imageUrl": "/covers/itch-1000lava-planet-drinker.jpg",
+    "source": "itch",
+    "sourceId": "1000lava/planet-drinker",
+    "tags": [
+      "planet",
+      "systems",
+      "procgen",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "planet spinner 行星纺车",
+    "summary": "旋转行星上的建造/系统玩法。",
+    "url": "https://nitramnibus.itch.io/planet-spinner",
+    "imageUrl": "/covers/itch-nitramnibus-planet-spinner.jpg",
+    "source": "itch",
+    "sourceId": "nitramnibus/planet-spinner",
+    "tags": [
+      "planet",
+      "sandbox",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "relicworks jungle factory 遗迹丛林工厂",
+    "summary": "丛林遗迹里铺设工厂物流。",
+    "url": "https://echoiststorm.itch.io/relicworks-jungle-factory",
+    "imageUrl": "/covers/itch-echoiststorm-relicworks-jungle-factory.jpg",
+    "source": "itch",
+    "sourceId": "echoiststorm/relicworks-jungle-factory",
+    "tags": [
+      "factory",
+      "jungle",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "superpower sandbox 超能力沙盒",
+    "summary": "体素/超能力沙盒自由建造。",
+    "url": "https://qris01.itch.io/superpower-sandbox",
+    "imageUrl": "/covers/itch-qris01-superpower-sandbox.jpg",
+    "source": "itch",
+    "sourceId": "qris01/superpower-sandbox",
+    "tags": [
+      "voxel",
+      "sandbox",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "voxel swarm overdrive 体素蜂群过载",
+    "summary": "体素蜂群战斗与系统过载。",
+    "url": "https://nemesisdevx.itch.io/voxel-swarm-overdrive",
+    "imageUrl": "/covers/itch-nemesisdevx-voxel-swarm-overdrive.jpg",
+    "source": "itch",
+    "sourceId": "nemesisdevx/voxel-swarm-overdrive",
+    "tags": [
+      "voxel",
+      "swarm",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "999 mazes dx 999 迷宫 DX",
+    "summary": "程序生成迷宫探索 DX 版。",
+    "url": "https://alexandershen.itch.io/999-mazes-dx",
+    "imageUrl": "/covers/itch-alexandershen-999-mazes-dx.jpg",
+    "source": "itch",
+    "sourceId": "alexandershen/999-mazes-dx",
+    "tags": [
+      "procgen",
+      "maze",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "abyssal descent 深渊沉降",
+    "summary": "向下深入的程序地城/深渊探索。",
+    "url": "https://petrockstudios.itch.io/abyssal-descent",
+    "imageUrl": "/covers/itch-petrockstudios-abyssal-descent.jpg",
+    "source": "itch",
+    "sourceId": "petrockstudios/abyssal-descent",
+    "tags": [
+      "procgen",
+      "dungeon",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "brass orrery 黄铜天文仪",
+    "summary": "发条天文机械与程序轨道美学。",
+    "url": "https://nsarg1.itch.io/brass-orrery",
+    "imageUrl": "/covers/itch-nsarg1-brass-orrery.jpg",
+    "source": "itch",
+    "sourceId": "nsarg1/brass-orrery",
+    "tags": [
+      "procgen",
+      "steampunk",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "cavehaulers 洞穴搬运工",
+    "summary": "洞穴物流搬运与系统协作。",
+    "url": "https://phillystudios.itch.io/cavehaulers",
+    "imageUrl": "/covers/itch-phillystudios-cavehaulers.jpg",
+    "source": "itch",
+    "sourceId": "phillystudios/cavehaulers",
+    "tags": [
+      "systems",
+      "cave",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "chad aura farmer 光环农夫",
+    "summary": "农场经营向的轻松系统小品。",
+    "url": "https://lauiss.itch.io/chad-aura-farmer",
+    "imageUrl": "/covers/itch-lauiss-chad-aura-farmer.jpg",
+    "source": "itch",
+    "sourceId": "lauiss/chad-aura-farmer",
+    "tags": [
+      "farm",
+      "systems",
+      "itch",
+      "3d"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "game",
+    "title": "climb and punishment 攀爬与惩罚",
+    "summary": "三维攀爬与惩罚反馈的物理关卡。",
+    "url": "https://anokcraft.itch.io/climb-and-punishment",
+    "imageUrl": "/covers/itch-anokcraft-climb-and-punishment.jpg",
+    "source": "itch",
+    "sourceId": "anokcraft/climb-and-punishment",
+    "tags": [
+      "physics",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 粗线线框",
+    "summary": "WebGPU 粗线与线框渲染。",
+    "url": "https://threejs.org/examples/#webgpu_lines_fat_wireframe",
+    "imageUrl": "/covers/threejs-webgpu_lines_fat_wireframe.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_lines_fat_wireframe",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU glTF 加载",
+    "summary": "WebGPU 路径加载 glTF 场景。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_loader_gltf",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 压缩 glTF",
+    "summary": "WebGPU 加载压缩 glTF 资源。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_compressed",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_compressed.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_loader_gltf_compressed",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 漫反射粗糙度 glTF",
+    "summary": "glTF 漫反射/粗糙度材质路径。",
+    "url": "https://threejs.org/examples/#webgpu_loader_gltf_diffuse_roughness",
+    "imageUrl": "/covers/threejs-webgpu_loader_gltf_diffuse_roughness.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_loader_gltf_diffuse_roughness",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 网格批处理",
+    "summary": "WebGPU 网格批绘制性能示例。",
+    "url": "https://threejs.org/examples/#webgpu_mesh_batch",
+    "imageUrl": "/covers/threejs-webgpu_mesh_batch.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_mesh_batch",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU XR 立方体",
+    "summary": "WebGPU XR 立方体场景。",
+    "url": "https://threejs.org/examples/#webgpu_xr_cubes",
+    "imageUrl": "/covers/threejs-webgpu_xr_cubes.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_xr_cubes",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU XR 过山车",
+    "summary": "WebGPU XR 过山车体验。",
+    "url": "https://threejs.org/examples/#webgpu_xr_rollercoaster",
+    "imageUrl": "/covers/threejs-webgpu_xr_rollercoaster.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_xr_rollercoaster",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "动画组",
+    "summary": "动画剪辑编组控制示例。",
+    "url": "https://threejs.org/examples/#misc_animation_groups",
+    "imageUrl": "/covers/threejs-misc_animation_groups.jpg",
+    "source": "threejs",
+    "sourceId": "misc_animation_groups",
+    "tags": [
+      "threejs",
+      "misc",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "动画关键帧",
+    "summary": "关键帧动画编辑示例。",
+    "url": "https://threejs.org/examples/#misc_animation_keys",
+    "imageUrl": "/covers/threejs-misc_animation_keys.jpg",
+    "source": "threejs",
+    "sourceId": "misc_animation_keys",
+    "tags": [
+      "threejs",
+      "misc",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "立体视觉特效",
+    "summary": "立体/双目视觉效果。",
+    "url": "https://threejs.org/examples/#webgl_effects_stereo",
+    "imageUrl": "/covers/threejs-webgl_effects_stereo.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_effects_stereo",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "3MF 材质加载",
+    "summary": "3MF 模型与材质导入。",
+    "url": "https://threejs.org/examples/#webgl_loader_3mf_materials",
+    "imageUrl": "/covers/threejs-webgl_loader_3mf_materials.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_3mf_materials",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "BVH 加载",
+    "summary": "BVH 动作捕捉数据加载。",
+    "url": "https://threejs.org/examples/#webgl_loader_bvh",
+    "imageUrl": "/covers/threejs-webgl_loader_bvh.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_bvh",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "glTF 实例化",
+    "summary": "glTF 实例化批量渲染。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_instancing",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_instancing.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_gltf_instancing",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "glTF 渐进 LOD",
+    "summary": "glTF 渐进细节层级加载。",
+    "url": "https://threejs.org/examples/#webgl_loader_gltf_progressive_lod",
+    "imageUrl": "/covers/threejs-webgl_loader_gltf_progressive_lod.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_gltf_progressive_lod",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "HTML 纹理材质",
+    "summary": "把 HTML 内容烘焙为材质纹理。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_html",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_html.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_html",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "BVH 射线拾取",
+    "summary": "加速结构下的射线拾取。",
+    "url": "https://threejs.org/examples/#webgl_raycaster_bvh",
+    "imageUrl": "/covers/threejs-webgl_raycaster_bvh.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_raycaster_bvh",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU KTX2 纹理",
+    "summary": "WebGPU 加载 KTX2 压缩纹理。",
+    "url": "https://threejs.org/examples/#webgpu_loader_texture_ktx2",
+    "imageUrl": "/covers/threejs-webgpu_loader_texture_ktx2.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_loader_texture_ktx2",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "WebGPU 压缩 2D 数组纹理",
+    "summary": "压缩二维数组纹理示例。",
+    "url": "https://threejs.org/examples/#webgpu_textures_2d-array_compressed",
+    "imageUrl": "/covers/threejs-webgpu_textures_2d-array_compressed.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_textures_2d-array_compressed",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "关键帧动画",
+    "summary": "网格关键帧动画示例。",
+    "url": "https://threejs.org/examples/#webgl_animation_keyframes",
+    "imageUrl": "/covers/threejs-webgl_animation_keyframes.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_animation_keyframes",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
+    "type": "shader",
+    "title": "多重动画",
+    "summary": "多动画剪辑混合示例。",
+    "url": "https://threejs.org/examples/#webgl_animation_multiple",
+    "imageUrl": "/covers/threejs-webgl_animation_multiple.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_animation_multiple",
+    "tags": [
+      "threejs",
+      "webgl",
+      "shader"
+    ],
+    "collectedAt": "2026-09-28"
+  },
+  {
     "id": "itch-superstrellayt-amazenfactory",
     "type": "game",
     "title": "AmazenFactory 迷宫工厂",
