@@ -1,5 +1,645 @@
 [
   {
+    "id": "x-2104175477627691283",
+    "type": "game",
+    "title": "Demonic Dungeon assets 恶魔地牢资产",
+    "summary": "地牢游戏可互动资产演示。",
+    "url": "https://x.com/_V3X3D/status/2104175477627691283",
+    "imageUrl": "/covers/x-2104175477627691283.jpg",
+    "source": "x",
+    "sourceId": "2104175477627691283",
+    "tags": [
+      "x",
+      "game",
+      "assets"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104494444292534748",
+    "type": "game",
+    "title": "Build Fortify Hold the line 建造加固守线",
+    "summary": "建造与防守结合的独立游戏动态。",
+    "url": "https://x.com/ProjectAliveDev/status/2104494444292534748",
+    "imageUrl": "/covers/x-2104494444292534748.jpg",
+    "source": "x",
+    "sourceId": "2104494444292534748",
+    "tags": [
+      "x",
+      "game",
+      "building"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104233500467658934",
+    "type": "game",
+    "title": "月曜創作ダッシュデー 周一创作冲刺",
+    "summary": "日系独立游戏创作冲刺动态。",
+    "url": "https://x.com/Konoyo_Wowari/status/2104233500467658934",
+    "imageUrl": "/covers/x-2104233500467658934.jpg",
+    "source": "x",
+    "sourceId": "2104233500467658934",
+    "tags": [
+      "x",
+      "game",
+      "devlog"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104469931634872545",
+    "type": "game",
+    "title": "Testudo vs archers 龟甲阵对弓兵",
+    "summary": "物理/战斗模拟向游戏演示。",
+    "url": "https://x.com/OozyEssence/status/2104469931634872545",
+    "imageUrl": "/covers/x-2104469931634872545.jpg",
+    "source": "x",
+    "sourceId": "2104469931634872545",
+    "tags": [
+      "x",
+      "game",
+      "simulation"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104482023830409394",
+    "type": "game",
+    "title": "1550 wishlists milestone 愿望单1550",
+    "summary": "独立游戏愿望单里程碑。",
+    "url": "https://x.com/Polypoode/status/2104482023830409394",
+    "imageUrl": "/covers/x-2104482023830409394.jpg",
+    "source": "x",
+    "sourceId": "2104482023830409394",
+    "tags": [
+      "x",
+      "game",
+      "wishlist"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104479330050986480",
+    "type": "game",
+    "title": "Day-night cycle gamedev 日夜循环开发",
+    "summary": "日夜循环系统实现的 gamedev 分享。",
+    "url": "https://x.com/tinylittlestudi/status/2104479330050986480",
+    "imageUrl": "/covers/x-2104479330050986480.jpg",
+    "source": "x",
+    "sourceId": "2104479330050986480",
+    "tags": [
+      "x",
+      "game",
+      "systems"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104467896235700470",
+    "type": "game",
+    "title": "Vestalborne Steam demo submit Demo提交",
+    "summary": "Vestalborne Demo 提交 Steam。",
+    "url": "https://x.com/mythrylstudio/status/2104467896235700470",
+    "imageUrl": "/covers/x-2104467896235700470.jpg",
+    "source": "x",
+    "sourceId": "2104467896235700470",
+    "tags": [
+      "x",
+      "game",
+      "demo"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104209530477514756",
+    "type": "game",
+    "title": "Always a bigger fish 总有更大的鱼",
+    "summary": "带视觉封面的独立游戏动态。",
+    "url": "https://x.com/nowsomemv/status/2104209530477514756",
+    "imageUrl": "/covers/x-2104209530477514756.jpg",
+    "source": "x",
+    "sourceId": "2104209530477514756",
+    "tags": [
+      "x",
+      "game"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104166153165721976",
+    "type": "game",
+    "title": "Day 243 making a game 做游戏第243天",
+    "summary": "长期独立游戏开发日志。",
+    "url": "https://x.com/JuhaKiili/status/2104166153165721976",
+    "imageUrl": "/covers/x-2104166153165721976.jpg",
+    "source": "x",
+    "sourceId": "2104166153165721976",
+    "tags": [
+      "x",
+      "game",
+      "devlog"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-daki1442-automatix",
+    "type": "game",
+    "title": "AUTOMATIX 自动工厂",
+    "summary": "工厂自动化与流水线扩张系统。",
+    "url": "https://daki1442.itch.io/automatix",
+    "imageUrl": "/covers/itch-daki1442-automatix.jpg",
+    "source": "itch",
+    "sourceId": "daki1442/automatix",
+    "tags": [
+      "factory",
+      "automation",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-alve-dev-great-escape-prison",
+    "type": "game",
+    "title": "Great Escape Prison 越狱沙盒",
+    "summary": "监狱沙盒：建造/逃脱与系统互动。",
+    "url": "https://alve-dev.itch.io/great-escape-prison",
+    "imageUrl": "/covers/itch-alve-dev-great-escape-prison.jpg",
+    "source": "itch",
+    "sourceId": "alve-dev/great-escape-prison",
+    "tags": [
+      "sandbox",
+      "escape",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-ataxy73-protogaia",
+    "type": "game",
+    "title": "PROTOGAIA 原初盖亚",
+    "summary": "沙盒世界营造与探索。",
+    "url": "https://ataxy73.itch.io/protogaia",
+    "imageUrl": "/covers/itch-ataxy73-protogaia.jpg",
+    "source": "itch",
+    "sourceId": "ataxy73/protogaia",
+    "tags": [
+      "sandbox",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-scratsoft-antscout",
+    "type": "game",
+    "title": "AntScout 蚁侦",
+    "summary": "蚁群殖民地侦察与协作系统。",
+    "url": "https://scratsoft.itch.io/antscout",
+    "imageUrl": "/covers/itch-scratsoft-antscout.jpg",
+    "source": "itch",
+    "sourceId": "scratsoft/antscout",
+    "tags": [
+      "colony",
+      "ants",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-joe-hank-autosimcard-asc",
+    "type": "game",
+    "title": "ASC GreyMistWar 灰雾工厂战",
+    "summary": "工厂与战争结合的自动产线。",
+    "url": "https://joe-hank.itch.io/autosimcard-asc",
+    "imageUrl": "/covers/itch-joe-hank-autosimcard-asc.jpg",
+    "source": "itch",
+    "sourceId": "joe-hank/autosimcard-asc",
+    "tags": [
+      "factory",
+      "war",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-furkanfs-atom-by-atom-demo",
+    "type": "game",
+    "title": "Atom By Atom Demo 逐原子建造",
+    "summary": "逐原子级沙盒建造 Demo。",
+    "url": "https://furkanfs.itch.io/atom-by-atom-demo",
+    "imageUrl": "/covers/itch-furkanfs-atom-by-atom-demo.jpg",
+    "source": "itch",
+    "sourceId": "furkanfs/atom-by-atom-demo",
+    "tags": [
+      "sandbox",
+      "demo",
+      "voxel",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-elle961-corefeed",
+    "type": "game",
+    "title": "COREFEED 核心供给",
+    "summary": "工厂核心资源供给与产线。",
+    "url": "https://elle961.itch.io/corefeed",
+    "imageUrl": "/covers/itch-elle961-corefeed.jpg",
+    "source": "itch",
+    "sourceId": "elle961/corefeed",
+    "tags": [
+      "factory",
+      "logistics",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-fundreamer-create-definition",
+    "type": "game",
+    "title": "Create Definition 创造定义",
+    "summary": "工厂/创造向系统设计。",
+    "url": "https://fundreamer.itch.io/create-definition",
+    "imageUrl": "/covers/itch-fundreamer-create-definition.jpg",
+    "source": "itch",
+    "sourceId": "fundreamer/create-definition",
+    "tags": [
+      "factory",
+      "creation",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-bobedre-geoforge-assembly",
+    "type": "game",
+    "title": "GeoForge 地质锻造装配",
+    "summary": "地质资源锻造与装配工厂。",
+    "url": "https://bobedre.itch.io/geoforge-assembly",
+    "imageUrl": "/covers/itch-bobedre-geoforge-assembly.jpg",
+    "source": "itch",
+    "sourceId": "bobedre/geoforge-assembly",
+    "tags": [
+      "factory",
+      "forge",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-robinvda-logivale",
+    "type": "game",
+    "title": "LogiVale 物流谷",
+    "summary": "物流调度与工厂谷地经营。",
+    "url": "https://robinvda.itch.io/logivale",
+    "imageUrl": "/covers/itch-robinvda-logivale.jpg",
+    "source": "itch",
+    "sourceId": "robinvda/logivale",
+    "tags": [
+      "factory",
+      "logistics",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "itch-subjectop-mordi",
+    "type": "game",
+    "title": "Mordi 莫尔迪工厂",
+    "summary": "工厂建造与产线小品。",
+    "url": "https://subjectop.itch.io/mordi",
+    "imageUrl": "/covers/itch-subjectop-mordi.jpg",
+    "source": "itch",
+    "sourceId": "subjectop/mordi",
+    "tags": [
+      "factory",
+      "itch"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104204443063587086",
+    "type": "shader",
+    "title": "Water shader first attempt 水面着色器初试",
+    "summary": "水面着色器尝试，材质随光照流动。",
+    "url": "https://x.com/jhonnygoransson/status/2104204443063587086",
+    "imageUrl": "/covers/x-2104204443063587086.jpg",
+    "source": "x",
+    "sourceId": "2104204443063587086",
+    "tags": [
+      "shader",
+      "water",
+      "x"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104002281641542008",
+    "type": "shader",
+    "title": "Asset pipeline becoming code 资产管线代码化",
+    "summary": "程序化/代码驱动资产管线的技术美术向分享。",
+    "url": "https://x.com/jurlycat/status/2104002281641542008",
+    "imageUrl": "/covers/x-2104002281641542008.jpg",
+    "source": "x",
+    "sourceId": "2104002281641542008",
+    "tags": [
+      "tech-art",
+      "pipeline",
+      "x"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104112334881075414",
+    "type": "shader",
+    "title": "autoV engine VFX tool autoV特效工具",
+    "summary": "面向 Unity/Godot/UE5 的特效生成工具。",
+    "url": "https://x.com/r_etx/status/2104112334881075414",
+    "imageUrl": "/covers/x-2104112334881075414.jpg",
+    "source": "x",
+    "sourceId": "2104112334881075414",
+    "tags": [
+      "tool",
+      "vfx",
+      "godot",
+      "unity",
+      "x"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "x-2104184773954715923",
+    "type": "shader",
+    "title": "3D pixel-art renderer update 三维像素风渲染更新",
+    "summary": "三维像素风渲染器在球体等物体上的测试。",
+    "url": "https://x.com/ShaderError/status/2104184773954715923",
+    "imageUrl": "/covers/x-2104184773954715923.jpg",
+    "source": "x",
+    "sourceId": "2104184773954715923",
+    "tags": [
+      "shader",
+      "pixel",
+      "renderer",
+      "x"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_bumpmap",
+    "type": "shader",
+    "title": "Bump mapping materials 凹凸贴图材质",
+    "summary": "凹凸贴图材质：光照下表面细节。",
+    "url": "https://threejs.org/examples/#webgl_materials_bumpmap",
+    "imageUrl": "/covers/threejs-webgl_materials_bumpmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_bumpmap",
+    "tags": [
+      "materials",
+      "bump",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_envmaps",
+    "type": "shader",
+    "title": "Environment map materials 环境贴图材质",
+    "summary": "环境贴图反射材质演示。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_envmaps",
+    "tags": [
+      "materials",
+      "envmap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_envmaps_fasthdr",
+    "type": "shader",
+    "title": "Fast HDR envmaps 快速HDR环境贴图",
+    "summary": "快速 HDR 环境贴图材质路径。",
+    "url": "https://threejs.org/examples/#webgl_materials_envmaps_fasthdr",
+    "imageUrl": "/covers/threejs-webgl_materials_envmaps_fasthdr.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_envmaps_fasthdr",
+    "tags": [
+      "materials",
+      "hdr",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_normalmap",
+    "type": "shader",
+    "title": "Normal map materials 法线贴图材质",
+    "summary": "法线贴图驱动的表面光照。",
+    "url": "https://threejs.org/examples/#webgl_materials_normalmap",
+    "imageUrl": "/covers/threejs-webgl_materials_normalmap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_normalmap",
+    "tags": [
+      "materials",
+      "normalmap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_blending_custom",
+    "type": "shader",
+    "title": "Custom blending materials 自定义混合材质",
+    "summary": "自定义混合模式材质。",
+    "url": "https://threejs.org/examples/#webgl_materials_blending_custom",
+    "imageUrl": "/covers/threejs-webgl_materials_blending_custom.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_blending_custom",
+    "tags": [
+      "materials",
+      "blending",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_cubemap",
+    "type": "shader",
+    "title": "Cubemap materials 立方体贴图材质",
+    "summary": "立方体贴图反射材质。",
+    "url": "https://threejs.org/examples/#webgl_materials_cubemap",
+    "imageUrl": "/covers/threejs-webgl_materials_cubemap.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_cubemap",
+    "tags": [
+      "materials",
+      "cubemap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_cubemap_dynamic",
+    "type": "shader",
+    "title": "Dynamic cubemap 动态立方体贴图",
+    "summary": "动态立方体贴图反射更新。",
+    "url": "https://threejs.org/examples/#webgl_materials_cubemap_dynamic",
+    "imageUrl": "/covers/threejs-webgl_materials_cubemap_dynamic.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_cubemap_dynamic",
+    "tags": [
+      "materials",
+      "cubemap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_cubemap_mipmaps",
+    "type": "shader",
+    "title": "Cubemap mipmaps 立方体Mipmap",
+    "summary": "立方体贴图 Mipmap 过滤。",
+    "url": "https://threejs.org/examples/#webgl_materials_cubemap_mipmaps",
+    "imageUrl": "/covers/threejs-webgl_materials_cubemap_mipmaps.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_cubemap_mipmaps",
+    "tags": [
+      "materials",
+      "cubemap",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_texture_canvas",
+    "type": "shader",
+    "title": "Canvas texture materials 画布纹理材质",
+    "summary": "Canvas 纹理驱动的材质。",
+    "url": "https://threejs.org/examples/#webgl_materials_texture_canvas",
+    "imageUrl": "/covers/threejs-webgl_materials_texture_canvas.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_texture_canvas",
+    "tags": [
+      "materials",
+      "canvas",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_channels",
+    "type": "shader",
+    "title": "Material channels 材质通道",
+    "summary": "材质多通道可视化。",
+    "url": "https://threejs.org/examples/#webgl_materials_channels",
+    "imageUrl": "/covers/threejs-webgl_materials_channels.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_channels",
+    "tags": [
+      "materials",
+      "channels",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_materials_modified",
+    "type": "shader",
+    "title": "Modified materials 运行时改材质",
+    "summary": "运行时修改材质参数。",
+    "url": "https://threejs.org/examples/#webgl_materials_modified",
+    "imageUrl": "/covers/threejs-webgl_materials_modified.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_modified",
+    "tags": [
+      "materials",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_lightprobes",
+    "type": "shader",
+    "title": "Light probes 光照探针",
+    "summary": "光照探针间接光照。",
+    "url": "https://threejs.org/examples/#webgl_lightprobes",
+    "imageUrl": "/covers/threejs-webgl_lightprobes.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lightprobes",
+    "tags": [
+      "lighting",
+      "lightprobe",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_lightprobes_complex",
+    "type": "shader",
+    "title": "Complex light probes 复杂光照探针",
+    "summary": "复杂场景光照探针。",
+    "url": "https://threejs.org/examples/#webgl_lightprobes_complex",
+    "imageUrl": "/covers/threejs-webgl_lightprobes_complex.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lightprobes_complex",
+    "tags": [
+      "lighting",
+      "lightprobe",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_lines_fat",
+    "type": "shader",
+    "title": "Fat lines 粗线渲染",
+    "summary": "粗线几何渲染。",
+    "url": "https://threejs.org/examples/#webgl_lines_fat",
+    "imageUrl": "/covers/threejs-webgl_lines_fat.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_lines_fat",
+    "tags": [
+      "lines",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_interactive_points",
+    "type": "shader",
+    "title": "Interactive points 可交互点云",
+    "summary": "可交互点云拾取。",
+    "url": "https://threejs.org/examples/#webgl_interactive_points",
+    "imageUrl": "/covers/threejs-webgl_interactive_points.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_interactive_points",
+    "tags": [
+      "points",
+      "interactive",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
+    "id": "threejs-webgl_mesh_batch",
+    "type": "shader",
+    "title": "Mesh batch 网格批处理",
+    "summary": "网格批绘制性能与合批。",
+    "url": "https://threejs.org/examples/#webgl_mesh_batch",
+    "imageUrl": "/covers/threejs-webgl_mesh_batch.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_mesh_batch",
+    "tags": [
+      "mesh",
+      "batch",
+      "threejs"
+    ],
+    "collectedAt": "2026-09-29"
+  },
+  {
     "type": "game",
     "title": "exoplanet outpost demo 外星前哨殖民地 Demo",
     "summary": "外星前哨殖民地：资源扩张与生存系统。",
