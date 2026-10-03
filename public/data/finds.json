@@ -1,5 +1,699 @@
 [
   {
+    "id": "x-2106047858097152209",
+    "type": "game",
+    "title": "The Regreening 生态再生模拟",
+    "summary": "土壤朋克生态再生模拟：收集种子、修复栖息地，计划参加Steam Next Fest。",
+    "url": "https://x.com/4GamerNews/status/2106047858097152209",
+    "imageUrl": "/covers/x-2106047858097152209.jpg",
+    "source": "x",
+    "sourceId": "2106047858097152209",
+    "tags": [
+      "x",
+      "game",
+      "simulation",
+      "ecology",
+      "steam"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2106016047891730644",
+    "type": "game",
+    "title": "Building art share 建筑美术征集",
+    "summary": "独立开发者征集建筑美术参考，适合六边形上帝视角建造参考。",
+    "url": "https://x.com/EremaPixel/status/2106016047891730644",
+    "imageUrl": "/covers/x-2106016047891730644.jpg",
+    "source": "x",
+    "sourceId": "2106016047891730644",
+    "tags": [
+      "x",
+      "game",
+      "building",
+      "art",
+      "reference"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2105993200083349957",
+    "type": "game",
+    "title": "Crownfront battle sim 中世纪战棋",
+    "summary": "中世纪策略游戏Crownfront改进战斗模拟演示。",
+    "url": "https://x.com/esakylli/status/2105993200083349957",
+    "imageUrl": "/covers/x-2105993200083349957.jpg",
+    "source": "x",
+    "sourceId": "2105993200083349957",
+    "tags": [
+      "x",
+      "game",
+      "strategy",
+      "medieval",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2106029731887858001",
+    "type": "game",
+    "title": "Pusher pixelart 像素推箱",
+    "summary": "像素风推箱小品场景分享。",
+    "url": "https://x.com/bttlcr1/status/2106029731887858001",
+    "imageUrl": "/covers/x-2106029731887858001.jpg",
+    "source": "x",
+    "sourceId": "2106029731887858001",
+    "tags": [
+      "x",
+      "game",
+      "pixelart",
+      "puzzle"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2104927249707470869",
+    "type": "game",
+    "title": "Boiled egg scene 水煮蛋场景",
+    "summary": "像素/插画风水煮蛋场景短分享。",
+    "url": "https://x.com/yumjoeng/status/2104927249707470869",
+    "imageUrl": "/covers/x-2104927249707470869.jpg",
+    "source": "x",
+    "sourceId": "2104927249707470869",
+    "tags": [
+      "x",
+      "game",
+      "pixelart",
+      "illustration"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2104405770712576349",
+    "type": "game",
+    "title": "Suisai tipsy colors 酔彩",
+    "summary": "酔彩视觉短片——迷离彩色演出。",
+    "url": "https://x.com/yuugapaint/status/2104405770712576349",
+    "imageUrl": "/covers/x-2104405770712576349.jpg",
+    "source": "x",
+    "sourceId": "2104405770712576349",
+    "tags": [
+      "x",
+      "game",
+      "visual",
+      "animation"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-brunnosgames-settlers-of-hexlandia",
+    "type": "game",
+    "title": "Settlers of Hexlandia 六边形定居",
+    "summary": "六边形格子定居点建造，贴合上帝视角六角玩法。",
+    "url": "https://brunnosgames.itch.io/settlers-of-hexlandia",
+    "imageUrl": "/covers/itch-brunnosgames-settlers-of-hexlandia.jpg",
+    "source": "itch",
+    "sourceId": "brunnosgames-settlers-of-hexlandia",
+    "tags": [
+      "itch",
+      "game",
+      "hex",
+      "settlement",
+      "builder"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-jayseio-petit-royaume",
+    "type": "game",
+    "title": "Petit Royaume 小王国",
+    "summary": "袖珍王国建造小品，舒适低多边形小镇感。",
+    "url": "https://jayseio.itch.io/petit-royaume",
+    "imageUrl": "/covers/itch-jayseio-petit-royaume.jpg",
+    "source": "itch",
+    "sourceId": "jayseio-petit-royaume",
+    "tags": [
+      "itch",
+      "game",
+      "kingdom",
+      "builder",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-edobgames-tiny-skyline",
+    "type": "game",
+    "title": "Tiny Skyline 袖珍天际线",
+    "summary": "微型城市天际线建造，玩具感城市轮廓。",
+    "url": "https://edobgames.itch.io/tiny-skyline",
+    "imageUrl": "/covers/itch-edobgames-tiny-skyline.jpg",
+    "source": "itch",
+    "sourceId": "edobgames-tiny-skyline",
+    "tags": [
+      "itch",
+      "game",
+      "city-builder",
+      "tiny",
+      "skyline"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-pclevinjava-wasteland-settlement-demo",
+    "type": "game",
+    "title": "Wasteland Settlement 废土定居点",
+    "summary": "废土定居点Demo：在荒原搭起可运转的聚落。",
+    "url": "https://pclevinjava.itch.io/wasteland-settlement-demo",
+    "imageUrl": "/covers/itch-pclevinjava-wasteland-settlement-demo.jpg",
+    "source": "itch",
+    "sourceId": "pclevinjava-wasteland-settlement-demo",
+    "tags": [
+      "itch",
+      "game",
+      "settlement",
+      "survival",
+      "demo"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-megumih-i-want-that-castle-now",
+    "type": "game",
+    "title": "I Want That Castle Now 我要那座城堡",
+    "summary": "城堡攻取/建造向小品，轻松策略味道。",
+    "url": "https://megumih.itch.io/i-want-that-castle-now",
+    "imageUrl": "/covers/itch-megumih-i-want-that-castle-now.jpg",
+    "source": "itch",
+    "sourceId": "megumih-i-want-that-castle-now",
+    "tags": [
+      "itch",
+      "game",
+      "castle",
+      "builder"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-larnin-1bit-tower",
+    "type": "game",
+    "title": "1bit Tower 一比特塔防",
+    "summary": "1-bit美学塔防，极简复古画面。",
+    "url": "https://larnin.itch.io/1bit-tower",
+    "imageUrl": "/covers/itch-larnin-1bit-tower.jpg",
+    "source": "itch",
+    "sourceId": "larnin-1bit-tower",
+    "tags": [
+      "itch",
+      "game",
+      "tower",
+      "1bit",
+      "retro"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-pixdra-bits",
+    "type": "game",
+    "title": "Bits 比特建造",
+    "summary": "像素积木式建造小品。",
+    "url": "https://pixdra.itch.io/bits",
+    "imageUrl": "/covers/itch-pixdra-bits.jpg",
+    "source": "itch",
+    "sourceId": "pixdra-bits",
+    "tags": [
+      "itch",
+      "game",
+      "pixel",
+      "building"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-griffinbuilds-studio-bricks-bribes",
+    "type": "game",
+    "title": "Bricks & Bribes 砖块与贿赂",
+    "summary": "建造与经营混合：砌砖之外还有人情交易。",
+    "url": "https://griffinbuilds-studio.itch.io/bricks-bribes",
+    "imageUrl": "/covers/itch-griffinbuilds-studio-bricks-bribes.jpg",
+    "source": "itch",
+    "sourceId": "griffinbuilds-studio-bricks-bribes",
+    "tags": [
+      "itch",
+      "game",
+      "building",
+      "management"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-tk8cabin-haulmyhome",
+    "type": "game",
+    "title": "Haul My Home 拖走我家",
+    "summary": "把家装上车拖走的移动家园玩法。",
+    "url": "https://tk8cabin.itch.io/haulmyhome",
+    "imageUrl": "/covers/itch-tk8cabin-haulmyhome.jpg",
+    "source": "itch",
+    "sourceId": "tk8cabin-haulmyhome",
+    "tags": [
+      "itch",
+      "game",
+      "home",
+      "vehicle",
+      "systems"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-arcadesquirrel-floodplain",
+    "type": "game",
+    "title": "Floodplain 洪泛平原",
+    "summary": "洪泛平原生存/建设，与水位博弈。",
+    "url": "https://arcadesquirrel.itch.io/floodplain",
+    "imageUrl": "/covers/itch-arcadesquirrel-floodplain.jpg",
+    "source": "itch",
+    "sourceId": "arcadesquirrel-floodplain",
+    "tags": [
+      "itch",
+      "game",
+      "survival",
+      "water",
+      "systems"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-typeit-planet-trek",
+    "type": "game",
+    "title": "Planet Trek 行星跋涉",
+    "summary": "行星探索跋涉向3D小品。",
+    "url": "https://typeit.itch.io/planet-trek",
+    "imageUrl": "/covers/itch-typeit-planet-trek.jpg",
+    "source": "itch",
+    "sourceId": "typeit-planet-trek",
+    "tags": [
+      "itch",
+      "game",
+      "exploration",
+      "planet",
+      "3d"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-tripgeo-tanklands",
+    "type": "game",
+    "title": "Tanklands 坦克地",
+    "summary": "坦克与地形互动的沙盘感玩法。",
+    "url": "https://tripgeo.itch.io/tanklands",
+    "imageUrl": "/covers/itch-tripgeo-tanklands.jpg",
+    "source": "itch",
+    "sourceId": "tripgeo-tanklands",
+    "tags": [
+      "itch",
+      "game",
+      "tank",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-nobujapan-kunitori",
+    "type": "game",
+    "title": "Kunitori 国取",
+    "summary": "日式国取/领地争夺向策略小品。",
+    "url": "https://nobujapan.itch.io/kunitori",
+    "imageUrl": "/covers/itch-nobujapan-kunitori.jpg",
+    "source": "itch",
+    "sourceId": "nobujapan-kunitori",
+    "tags": [
+      "itch",
+      "game",
+      "strategy",
+      "territory"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "itch-1buttonwonder-castle-siege",
+    "type": "game",
+    "title": "Castle Siege 城堡攻城",
+    "summary": "一键式城堡攻城小品，节奏轻快。",
+    "url": "https://1buttonwonder.itch.io/castle-siege",
+    "imageUrl": "/covers/itch-1buttonwonder-castle-siege.jpg",
+    "source": "itch",
+    "sourceId": "1buttonwonder-castle-siege",
+    "tags": [
+      "itch",
+      "game",
+      "castle",
+      "siege"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "x-2105716628457669020",
+    "type": "shader",
+    "title": "2DURP water pixelart 像素水面",
+    "summary": "Unity 2DURP像素风实时水面技术预览。",
+    "url": "https://x.com/FlavourEdge/status/2105716628457669020",
+    "imageUrl": "/covers/x-2105716628457669020.jpg",
+    "source": "x",
+    "sourceId": "2105716628457669020",
+    "tags": [
+      "x",
+      "shader",
+      "water",
+      "pixelart",
+      "unity",
+      "urp"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_materials_blending",
+    "type": "shader",
+    "title": "Materials Blending 材质混合",
+    "summary": "WebGL材质混合模式演示，叠加/柔光等合成效果。",
+    "url": "https://threejs.org/examples/#webgl_materials_blending",
+    "imageUrl": "/covers/threejs-webgl_materials_blending.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_materials_blending",
+    "tags": [
+      "threejs",
+      "shader",
+      "materials",
+      "blending"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgpu_multiple_canvas",
+    "type": "shader",
+    "title": "WebGPU Multiple Canvas 多画布",
+    "summary": "WebGPU多Canvas同步渲染示例。",
+    "url": "https://threejs.org/examples/#webgpu_multiple_canvas",
+    "imageUrl": "/covers/threejs-webgpu_multiple_canvas.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_multiple_canvas",
+    "tags": [
+      "threejs",
+      "shader",
+      "webgpu",
+      "canvas"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgpu_textures_partialupdate",
+    "type": "shader",
+    "title": "Textures Partial Update 纹理局部更新",
+    "summary": "WebGPU纹理局部更新，适合动态贴花/地图。",
+    "url": "https://threejs.org/examples/#webgpu_textures_partialupdate",
+    "imageUrl": "/covers/threejs-webgpu_textures_partialupdate.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_textures_partialupdate",
+    "tags": [
+      "threejs",
+      "shader",
+      "webgpu",
+      "texture"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_renderer_pathtracer",
+    "type": "shader",
+    "title": "Pathtracer 路径追踪",
+    "summary": "three.js路径追踪渲染器示例，软阴影与间接光。",
+    "url": "https://threejs.org/examples/#webgl_renderer_pathtracer",
+    "imageUrl": "/covers/threejs-webgl_renderer_pathtracer.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_renderer_pathtracer",
+    "tags": [
+      "threejs",
+      "shader",
+      "pathtracer",
+      "gi"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_interactive_raycasting_points",
+    "type": "shader",
+    "title": "Raycasting Points 点云拾取",
+    "summary": "交互式点云射线拾取可视化。",
+    "url": "https://threejs.org/examples/#webgl_interactive_raycasting_points",
+    "imageUrl": "/covers/threejs-webgl_interactive_raycasting_points.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_interactive_raycasting_points",
+    "tags": [
+      "threejs",
+      "shader",
+      "points",
+      "raycasting"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_clipculldistance",
+    "type": "shader",
+    "title": "Clip Cull Distance 裁剪距离",
+    "summary": "GPU裁剪距离控制，用于截面/体积揭示。",
+    "url": "https://threejs.org/examples/#webgl_clipculldistance",
+    "imageUrl": "/covers/threejs-webgl_clipculldistance.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_clipculldistance",
+    "tags": [
+      "threejs",
+      "shader",
+      "clipping",
+      "advanced"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-css3d_sprites",
+    "type": "shader",
+    "title": "CSS3D Sprites 精灵层",
+    "summary": "CSS3D精灵与WebGL场景混合层。",
+    "url": "https://threejs.org/examples/#css3d_sprites",
+    "imageUrl": "/covers/threejs-css3d_sprites.jpg",
+    "source": "threejs",
+    "sourceId": "css3d_sprites",
+    "tags": [
+      "threejs",
+      "shader",
+      "css3d",
+      "sprites"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webaudio_visualizer",
+    "type": "shader",
+    "title": "Audio Visualizer 音频可视化",
+    "summary": "WebAudio驱动的频谱可视化场景。",
+    "url": "https://threejs.org/examples/#webaudio_visualizer",
+    "imageUrl": "/covers/threejs-webaudio_visualizer.jpg",
+    "source": "threejs",
+    "sourceId": "webaudio_visualizer",
+    "tags": [
+      "threejs",
+      "shader",
+      "audio",
+      "visualizer"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webxr_vr_panorama",
+    "type": "shader",
+    "title": "VR Panorama VR全景",
+    "summary": "VR全景贴图浏览示例。",
+    "url": "https://threejs.org/examples/#webxr_vr_panorama",
+    "imageUrl": "/covers/threejs-webxr_vr_panorama.jpg",
+    "source": "threejs",
+    "sourceId": "webxr_vr_panorama",
+    "tags": [
+      "threejs",
+      "shader",
+      "vr",
+      "panorama"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webxr_vr_panorama_depth",
+    "type": "shader",
+    "title": "VR Panorama Depth 深度全景",
+    "summary": "带深度的VR全景，增强空间感。",
+    "url": "https://threejs.org/examples/#webxr_vr_panorama_depth",
+    "imageUrl": "/covers/threejs-webxr_vr_panorama_depth.jpg",
+    "source": "threejs",
+    "sourceId": "webxr_vr_panorama_depth",
+    "tags": [
+      "threejs",
+      "shader",
+      "vr",
+      "depth"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webxr_xr_marchingcubes",
+    "type": "shader",
+    "title": "XR Marching Cubes 行进立方体",
+    "summary": "XR中的Marching Cubes等值面，程序化形体。",
+    "url": "https://threejs.org/examples/#webxr_xr_marchingcubes",
+    "imageUrl": "/covers/threejs-webxr_xr_marchingcubes.jpg",
+    "source": "threejs",
+    "sourceId": "webxr_xr_marchingcubes",
+    "tags": [
+      "threejs",
+      "shader",
+      "xr",
+      "marching-cubes"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_loader_texture_ultrahdr",
+    "type": "shader",
+    "title": "UltraHDR Texture 超HDR贴图",
+    "summary": "UltraHDR纹理加载与展示。",
+    "url": "https://threejs.org/examples/#webgl_loader_texture_ultrahdr",
+    "imageUrl": "/covers/threejs-webgl_loader_texture_ultrahdr.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_texture_ultrahdr",
+    "tags": [
+      "threejs",
+      "shader",
+      "hdr",
+      "texture"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_loader_texture_hdr",
+    "type": "shader",
+    "title": "HDR Texture HDR贴图",
+    "summary": "经典HDR环境贴图加载示例。",
+    "url": "https://threejs.org/examples/#webgl_loader_texture_hdr",
+    "imageUrl": "/covers/threejs-webgl_loader_texture_hdr.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_texture_hdr",
+    "tags": [
+      "threejs",
+      "shader",
+      "hdr",
+      "envmap"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_random_uv",
+    "type": "shader",
+    "title": "Random UV 随机UV",
+    "summary": "随机UV扰动，碎裂/噪声贴图实验。",
+    "url": "https://threejs.org/examples/#webgl_random_uv",
+    "imageUrl": "/covers/threejs-webgl_random_uv.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_random_uv",
+    "tags": [
+      "threejs",
+      "shader",
+      "uv",
+      "noise"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_raycaster_sprite",
+    "type": "shader",
+    "title": "Raycaster Sprite 精灵拾取",
+    "summary": "精灵与射线拾取交互演示。",
+    "url": "https://threejs.org/examples/#webgl_raycaster_sprite",
+    "imageUrl": "/covers/threejs-webgl_raycaster_sprite.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_raycaster_sprite",
+    "tags": [
+      "threejs",
+      "shader",
+      "sprite",
+      "raycaster"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgl_loader_vox",
+    "type": "shader",
+    "title": "VOX Loader 体素加载",
+    "summary": "MagicaVoxel VOX体素模型加载展示。",
+    "url": "https://threejs.org/examples/#webgl_loader_vox",
+    "imageUrl": "/covers/threejs-webgl_loader_vox.jpg",
+    "source": "threejs",
+    "sourceId": "webgl_loader_vox",
+    "tags": [
+      "threejs",
+      "shader",
+      "voxel",
+      "loader"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-css3d_molecules",
+    "type": "shader",
+    "title": "CSS3D Molecules 分子结构",
+    "summary": "CSS3D分子结构可视化。",
+    "url": "https://threejs.org/examples/#css3d_molecules",
+    "imageUrl": "/covers/threejs-css3d_molecules.jpg",
+    "source": "threejs",
+    "sourceId": "css3d_molecules",
+    "tags": [
+      "threejs",
+      "shader",
+      "css3d",
+      "molecules"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-misc_exporter_gltf_normals",
+    "type": "shader",
+    "title": "glTF Normals Export 法线导出",
+    "summary": "导出带法线的glTF，检查法线可视化。",
+    "url": "https://threejs.org/examples/#misc_exporter_gltf_normals",
+    "imageUrl": "/covers/threejs-misc_exporter_gltf_normals.jpg",
+    "source": "threejs",
+    "sourceId": "misc_exporter_gltf_normals",
+    "tags": [
+      "threejs",
+      "shader",
+      "gltf",
+      "normals"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
+    "id": "threejs-webgpu_texturegrad",
+    "type": "shader",
+    "title": "Texture Grad 纹理梯度",
+    "summary": "WebGPU textureGrad显式梯度采样。",
+    "url": "https://threejs.org/examples/#webgpu_texturegrad",
+    "imageUrl": "/covers/threejs-webgpu_texturegrad.jpg",
+    "source": "threejs",
+    "sourceId": "webgpu_texturegrad",
+    "tags": [
+      "threejs",
+      "shader",
+      "webgpu",
+      "texture"
+    ],
+    "collectedAt": "2026-10-03"
+  },
+  {
     "id": "x-2105396011770527875",
     "type": "game",
     "title": "Blender Pixel Art Studio Paper Fold 折纸像素引擎",
