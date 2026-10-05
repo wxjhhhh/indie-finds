@@ -1,5 +1,884 @@
 [
   {
+    "id": "x-2106595205415641440",
+    "type": "game",
+    "title": "Sea shore fishing & diving 海岸钓鱼潜水",
+    "summary": "独立项目海岸玩法征集：已有钓鱼与潜水，计划抓螃蟹、潜得更深。",
+    "url": "https://x.com/FlavourEdge/status/2106595205415641440",
+    "imageUrl": "/covers/x-2106595205415641440.jpg",
+    "source": "x",
+    "sourceId": "2106595205415641440",
+    "tags": [
+      "x",
+      "game",
+      "fishing",
+      "diving",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2105335659229757626",
+    "type": "game",
+    "title": "Storm burrow pixel game 暴风雨洞穴",
+    "summary": "转推denisbondare：暴风雨中跑回温暖洞穴，被称为该画风最好看的游戏之一。",
+    "url": "https://x.com/Taikwy/status/2105335659229757626",
+    "imageUrl": "/covers/x-2105335659229757626.jpg",
+    "source": "x",
+    "sourceId": "2105335659229757626",
+    "tags": [
+      "x",
+      "game",
+      "pixelart",
+      "atmosphere"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2105364441693098107",
+    "type": "game",
+    "title": "Amiko Legends · Okima 阿米可传说",
+    "summary": "共享世界生物收集RPG，探索蛮荒世界Okima，Steam可加愿望单。",
+    "url": "https://x.com/AmikoLegends/status/2105364441693098107",
+    "imageUrl": "/covers/x-2105364441693098107.jpg",
+    "source": "x",
+    "sourceId": "2105364441693098107",
+    "tags": [
+      "x",
+      "game",
+      "creature-collection",
+      "rpg",
+      "steam"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2100274449484271996",
+    "type": "game",
+    "title": "POLDERS reveal 圩田城建",
+    "summary": "Townscaper致敬的荷兰圩田城市建造：围海造地，长出歪扭热闹小镇，正式开始宣发。",
+    "url": "https://x.com/i_am_feenster/status/2100274449484271996",
+    "imageUrl": "/covers/x-2100274449484271996.jpg",
+    "source": "x",
+    "sourceId": "2100274449484271996",
+    "tags": [
+      "x",
+      "game",
+      "city-builder",
+      "townscaper",
+      "water"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-devplayrepeat-holmgard",
+    "type": "game",
+    "title": "Holmgard 霍姆加德",
+    "summary": "在不断生长的六边形岛屿上建维京村庄、守住海岸抵御哥布林——六边形格建造与你的神视角项目同构。（itch 免费/自定价·Windows/Linux）",
+    "url": "https://devplayrepeat.itch.io/holmgard",
+    "imageUrl": "/covers/itch-devplayrepeat-holmgard.jpg",
+    "source": "itch",
+    "sourceId": "devplayrepeat-holmgard",
+    "tags": [
+      "itch",
+      "game",
+      "hex",
+      "city-builder",
+      "viking",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-bomborascla-driftwood",
+    "type": "game",
+    "title": "Driftwood 漂流木",
+    "summary": "迷你岛屿建造：摆放建筑、冲分、扬帆前往下一座岛，低多边形暖色小海岛。（itch $1·Windows/Linux/macOS/Android/Web）",
+    "url": "https://bomborascla.itch.io/driftwood",
+    "imageUrl": "/covers/itch-bomborascla-driftwood.jpg",
+    "source": "itch",
+    "sourceId": "bomborascla-driftwood",
+    "tags": [
+      "itch",
+      "game",
+      "island",
+      "city-builder",
+      "low-poly",
+      "sailing"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-junxue3355gmailcom-tidetown",
+    "type": "game",
+    "title": "Tidetown 潮汐小镇",
+    "summary": "Townscaper式海上搭小镇玩具：无目标无计时，彩色积木房屋随手生长。（itch 免费/自定价·Web）",
+    "url": "https://junxue3355gmailcom.itch.io/tidetown",
+    "imageUrl": "/covers/itch-junxue3355gmailcom-tidetown.jpg",
+    "source": "itch",
+    "sourceId": "junxue3355gmailcom-tidetown",
+    "tags": [
+      "itch",
+      "game",
+      "townscaper",
+      "toy",
+      "city-builder",
+      "sea"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-saiss-komachi",
+    "type": "game",
+    "title": "Komachi 小町",
+    "summary": "看日本小岛城镇自己过日子的治愈立体模型：城建+活体居民系统，无失败。（itch $2·Windows/Linux）",
+    "url": "https://saiss.itch.io/komachi",
+    "imageUrl": "/covers/itch-saiss-komachi.jpg",
+    "source": "itch",
+    "sourceId": "saiss-komachi",
+    "tags": [
+      "itch",
+      "game",
+      "diorama",
+      "city-builder",
+      "japan",
+      "living-system"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-stark52-nomad",
+    "type": "game",
+    "title": "Nomad 六足游城",
+    "summary": "长着六条腿的移动城镇逃离虫群：在甲板上建造、搜刮废墟、翻越山口。（itch 免费/自定价·Web）",
+    "url": "https://stark52.itch.io/nomad",
+    "imageUrl": "/covers/itch-stark52-nomad.jpg",
+    "source": "itch",
+    "sourceId": "stark52-nomad",
+    "tags": [
+      "itch",
+      "game",
+      "walking-city",
+      "base-building",
+      "survival",
+      "3d"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-caramelelectron-relics-of-the-ancients",
+    "type": "game",
+    "title": "Relics of the Ancients 远古遗物",
+    "summary": "神明模拟：奇迹是真的、神却不是——上帝视角引导部落，与你的神游戏方向对口。（itch 免费/自定价·Web）",
+    "url": "https://caramelelectron.itch.io/relics-of-the-ancients",
+    "imageUrl": "/covers/itch-caramelelectron-relics-of-the-ancients.jpg",
+    "source": "itch",
+    "sourceId": "caramelelectron-relics-of-the-ancients",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "strategy",
+      "tribe",
+      "browser"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-gallaex253-asterra",
+    "type": "game",
+    "title": "Asterra 星球塑造",
+    "summary": "雕刻活的星球、演化生命、塑造文明，从单细胞走到宇宙网——上帝视角世界生成。（itch $15·Windows）",
+    "url": "https://gallaex253.itch.io/asterra",
+    "imageUrl": "/covers/itch-gallaex253-asterra.jpg",
+    "source": "itch",
+    "sourceId": "gallaex253-asterra",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "planet",
+      "evolution",
+      "procgen"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-coreydmjohnson-sundrift",
+    "type": "game",
+    "title": "Sundrift 日漂群岛",
+    "summary": "在阳光群岛间航行、游泳与潜水的浏览器3D海上探索，海湾岩壁有阳光感。（itch 免费/自定价·Web）",
+    "url": "https://coreydmjohnson.itch.io/sundrift",
+    "imageUrl": "/covers/itch-coreydmjohnson-sundrift.jpg",
+    "source": "itch",
+    "sourceId": "coreydmjohnson-sundrift",
+    "tags": [
+      "itch",
+      "game",
+      "sailing",
+      "ocean",
+      "exploration",
+      "3d"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-csaf-tidepost",
+    "type": "game",
+    "title": "TIDEPOST 潮汐邮差",
+    "summary": "在九座岛之间送信，真实洋流场就是玩法本身——海流可视化很美。（itch 免费/自定价·Web）",
+    "url": "https://csaf.itch.io/tidepost",
+    "imageUrl": "/covers/itch-csaf-tidepost.jpg",
+    "source": "itch",
+    "sourceId": "csaf-tidepost",
+    "tags": [
+      "itch",
+      "game",
+      "sailing",
+      "ocean-sim",
+      "current-field",
+      "3d"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-outoftokensstudio-efficient-deforestation-simulator",
+    "type": "game",
+    "title": "Efficient Deforestation Simulator 高效伐木",
+    "summary": "一刀引发连锁反应的物理伐木：让树精准倒向……某样东西。（itch 免费/自定价·Web）",
+    "url": "https://outoftokensstudio.itch.io/efficient-deforestation-simulator",
+    "imageUrl": "/covers/itch-outoftokensstudio-efficient-deforestation-simulator.jpg",
+    "source": "itch",
+    "sourceId": "outoftokensstudio-efficient-deforestation-simulator",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "simulation",
+      "trees",
+      "3d"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-physulis-aetherflow",
+    "type": "game",
+    "title": "Aetherflow 以太流",
+    "summary": "在雪中小镇操纵水、雪与蒸汽：冲浪、冻住路人、借力飞上屋顶，流体元素系统。（itch 免费/自定价·Web）",
+    "url": "https://physulis.itch.io/aetherflow",
+    "imageUrl": "/covers/itch-physulis-aetherflow.jpg",
+    "source": "itch",
+    "sourceId": "physulis-aetherflow",
+    "tags": [
+      "itch",
+      "game",
+      "fluid",
+      "water",
+      "snow",
+      "webgpu"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-stuurboord-windbender",
+    "type": "game",
+    "title": "Windbender.io 御风帆船",
+    "summary": "WebGPU物理驱动的在线帆船竞速，风与浪的航行手感。（itch 免费/自定价·Web）",
+    "url": "https://stuurboord.itch.io/windbender",
+    "imageUrl": "/covers/itch-stuurboord-windbender.jpg",
+    "source": "itch",
+    "sourceId": "stuurboord-windbender",
+    "tags": [
+      "itch",
+      "game",
+      "sailing",
+      "webgpu",
+      "physics",
+      "multiplayer"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-yohsuke-zw-keikoku-camp",
+    "type": "game",
+    "title": "Keikoku Camp 溪谷露营",
+    "summary": "露营模拟：所有贴图、模型与音效全部用代码程序生成，零素材文件，篝火夜景。（itch 免费/自定价·Web）",
+    "url": "https://yohsuke-zw.itch.io/keikoku-camp",
+    "imageUrl": "/covers/itch-yohsuke-zw-keikoku-camp.jpg",
+    "source": "itch",
+    "sourceId": "yohsuke-zw-keikoku-camp",
+    "tags": [
+      "itch",
+      "game",
+      "procgen",
+      "camping",
+      "threejs",
+      "no-assets"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-0oq0o-shallows",
+    "type": "game",
+    "title": "Shallows 浅滩",
+    "summary": "海岸沙盒：桌面微缩模型般的方块海滩岛屿，WebGPU。（itch 免费/自定价·Web）",
+    "url": "https://0oq0o.itch.io/shallows",
+    "imageUrl": "/covers/itch-0oq0o-shallows.jpg",
+    "source": "itch",
+    "sourceId": "0oq0o-shallows",
+    "tags": [
+      "itch",
+      "game",
+      "sandbox",
+      "coast",
+      "diorama",
+      "webgpu"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "steam-5130100",
+    "type": "game",
+    "title": "Hanok: From Thatch to Palace 韩屋：从茅屋到宫殿",
+    "summary": "按真实工法一石一椽搭建韩国传统民居，11座引导建造——文化风格化3D建造。（Steam $11.04·Win·Sep 28, 2026发售）",
+    "url": "https://store.steampowered.com/app/5130100/",
+    "imageUrl": "/covers/steam-5130100.jpg",
+    "source": "steam",
+    "sourceId": "5130100",
+    "tags": [
+      "steam",
+      "game",
+      "building",
+      "korea",
+      "cultural",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "steam-3903640",
+    "type": "game",
+    "title": "Archipeo 群岛帝国",
+    "summary": "复古风城市建造：在群岛上自动化复杂供应链，单人或16人联机。（Steam $12.99·Win·Sep 25, 2026发售）",
+    "url": "https://store.steampowered.com/app/3903640/",
+    "imageUrl": "/covers/steam-3903640.jpg",
+    "source": "steam",
+    "sourceId": "3903640",
+    "tags": [
+      "steam",
+      "game",
+      "city-builder",
+      "supply-chain",
+      "islands",
+      "automation"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "steam-4026060",
+    "type": "game",
+    "title": "All Roads Connected 条条大路",
+    "summary": "无尽世界里修路连通无数聚落、发掘遗物，带领国家进入工业时代——修路+世界生成。（Steam $6.74·Win·Sep 24, 2026发售）",
+    "url": "https://store.steampowered.com/app/4026060/",
+    "imageUrl": "/covers/steam-4026060.jpg",
+    "source": "steam",
+    "sourceId": "4026060",
+    "tags": [
+      "steam",
+      "game",
+      "road-building",
+      "procgen",
+      "settlements",
+      "industry"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "steam-2315630",
+    "type": "game",
+    "title": "Formica 蚁群战争",
+    "summary": "写实俯视角RTS：指挥成群蚂蚁和白蚁采集、扩巢、攻灭敌巢，活体群落。（Steam Free·Win·Sep 25, 2026发售）",
+    "url": "https://store.steampowered.com/app/2315630/",
+    "imageUrl": "/covers/steam-2315630.jpg",
+    "source": "steam",
+    "sourceId": "2315630",
+    "tags": [
+      "steam",
+      "game",
+      "colony",
+      "ants",
+      "rts",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "steam-5080000",
+    "type": "game",
+    "title": "Morgenrot 晨曦群岛",
+    "summary": "活着的岛屿世界里的城建经济策略：建聚落、管产业链、补给居民。（Steam $8.99·Win/Linux·Sep 30, 2026发售）",
+    "url": "https://store.steampowered.com/app/5080000/",
+    "imageUrl": "/covers/steam-5080000.jpg",
+    "source": "steam",
+    "sourceId": "5080000",
+    "tags": [
+      "steam",
+      "game",
+      "city-builder",
+      "islands",
+      "economy",
+      "living-world"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2106586854342676712",
+    "type": "shader",
+    "title": "hun0fx Pixel Art VFX Generator 像素特效生成器",
+    "summary": "首个工具发布：像素风VFX特效生成器，有免费Demo，首两周75折。",
+    "url": "https://x.com/hun0fx/status/2106586854342676712",
+    "imageUrl": "/covers/x-2106586854342676712.jpg",
+    "source": "x",
+    "sourceId": "2106586854342676712",
+    "tags": [
+      "x",
+      "shader",
+      "vfx",
+      "pixelart",
+      "tool"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2106430978273210808",
+    "type": "shader",
+    "title": "Pixel art effect tests 像素特效测试",
+    "summary": "像素风爆炸/魔法等特效动画测试合集。",
+    "url": "https://x.com/hun0fx/status/2106430978273210808",
+    "imageUrl": "/covers/x-2106430978273210808.jpg",
+    "source": "x",
+    "sourceId": "2106430978273210808",
+    "tags": [
+      "x",
+      "shader",
+      "vfx",
+      "pixelart"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "x-2104213620426973557",
+    "type": "shader",
+    "title": "2D look rendered with 3D 3D渲染2D画风",
+    "summary": "讨论用3D渲染出2D像素观感的做法被模仿：观感对了，实现方式不再重要。",
+    "url": "https://x.com/iced_coffee_dev/status/2104213620426973557",
+    "imageUrl": "/covers/x-2104213620426973557.jpg",
+    "source": "x",
+    "sourceId": "2104213620426973557",
+    "tags": [
+      "x",
+      "shader",
+      "3d-pixel",
+      "rendering",
+      "npr"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-mamuk-journey-to-a-black-hole",
+    "type": "shader",
+    "title": "Journey to a Black Hole 黑洞之旅",
+    "summary": "开源黑洞探索演示：实时引力透镜弯曲光线+HDR材质。（itch 免费/自定价·Windows）",
+    "url": "https://mamuk.itch.io/journey-to-a-black-hole",
+    "imageUrl": "/covers/itch-mamuk-journey-to-a-black-hole.jpg",
+    "source": "itch",
+    "sourceId": "mamuk-journey-to-a-black-hole",
+    "tags": [
+      "itch",
+      "shader",
+      "raytracing",
+      "black-hole",
+      "lensing",
+      "hdr"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-kureii-shader-library-an-interactive-grimoire-of-real-time-rendering",
+    "type": "shader",
+    "title": "Shader Library Grimoire 实时渲染魔典",
+    "summary": "第一人称漫游的Godot 4高级着色器技术展示馆，可交互逐个看效果。（itch 免费/自定价·Windows/Linux）",
+    "url": "https://kureii.itch.io/shader-library-an-interactive-grimoire-of-real-time-rendering",
+    "imageUrl": "/covers/itch-kureii-shader-library-an-interactive-grimoire-of-real-time-rendering.jpg",
+    "source": "itch",
+    "sourceId": "kureii-shader-library-an-interactive-grimoire-of-real-time-rendering",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "shader-showcase",
+      "rendering"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-gennai-pyrolux-fire-explosion-vfx",
+    "type": "shader",
+    "title": "PYROLUX 火焰爆炸特效",
+    "summary": "Godot 4程序化火焰/爆炸/烟/火花/熔岩VFX，3D+2D，支持Web。（itch $4.49·Web）",
+    "url": "https://gennai.itch.io/pyrolux-fire-explosion-vfx",
+    "imageUrl": "/covers/itch-gennai-pyrolux-fire-explosion-vfx.jpg",
+    "source": "itch",
+    "sourceId": "gennai-pyrolux-fire-explosion-vfx",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "fire",
+      "vfx",
+      "smoke",
+      "lava"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-outoftokensstudio-tidewater-unity",
+    "type": "shader",
+    "title": "Tidewater 潮水海洋",
+    "summary": "Unity 6 URP海洋：能看进水里、能航行能潜水，含焦散、浮力与航迹。（itch $9.99·资源包）",
+    "url": "https://outoftokensstudio.itch.io/tidewater-unity",
+    "imageUrl": "/covers/itch-outoftokensstudio-tidewater-unity.jpg",
+    "source": "itch",
+    "sourceId": "outoftokensstudio-tidewater-unity",
+    "tags": [
+      "itch",
+      "shader",
+      "unity",
+      "ocean",
+      "water",
+      "caustics",
+      "buoyancy"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-fcidade-pixel-water-pro-godot-shader",
+    "type": "shader",
+    "title": "Pixel Water Pro 像素水",
+    "summary": "Godot像素水着色器：鱼、水草、焦散、船行波纹，可手绘海岸。（itch $3.95·资源包）",
+    "url": "https://fcidade.itch.io/pixel-water-pro-godot-shader",
+    "imageUrl": "/covers/itch-fcidade-pixel-water-pro-godot-shader.jpg",
+    "source": "itch",
+    "sourceId": "fcidade-pixel-water-pro-godot-shader",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "pixel-water",
+      "caustics"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-astral-trash-impossible-wrong-physics-raymarching-pack",
+    "type": "shader",
+    "title": "Impossible Raymarching 不可能物理",
+    "summary": "WebGL2光线步进/SDF“错误物理”环境包，迷幻无限结构。（itch $6·资源包）",
+    "url": "https://astral-trash.itch.io/impossible-wrong-physics-raymarching-pack",
+    "imageUrl": "/covers/itch-astral-trash-impossible-wrong-physics-raymarching-pack.jpg",
+    "source": "itch",
+    "sourceId": "astral-trash-impossible-wrong-physics-raymarching-pack",
+    "tags": [
+      "itch",
+      "shader",
+      "raymarching",
+      "sdf",
+      "webgl2"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-lumenaxfx-interactive-webgl-bioluminescent-shader-lab-multi-species",
+    "type": "shader",
+    "title": "Bioluminescent Shader Lab 生物荧光实验室",
+    "summary": "WebGL2发光PBR花朵材质实验工具：三种花+自定义贴图，荧光随光变化。（itch $9.90·Web）",
+    "url": "https://lumenaxfx.itch.io/interactive-webgl-bioluminescent-shader-lab-multi-species",
+    "imageUrl": "/covers/itch-lumenaxfx-interactive-webgl-bioluminescent-shader-lab-multi-species.jpg",
+    "source": "itch",
+    "sourceId": "lumenaxfx-interactive-webgl-bioluminescent-shader-lab-multi-species",
+    "tags": [
+      "itch",
+      "shader",
+      "webgl",
+      "bioluminescent",
+      "pbr",
+      "material"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-nomadsponge-unity-painterlytoon-shader",
+    "type": "shader",
+    "title": "Painterly Toon Shader 油画卡通着色",
+    "summary": "Unity风格化无光照着色器，做出油画笔触/卡通效果（NPR）。（itch 免费/自定价·Windows）",
+    "url": "https://nomadsponge.itch.io/unity-painterlytoon-shader",
+    "imageUrl": "/covers/itch-nomadsponge-unity-painterlytoon-shader.jpg",
+    "source": "itch",
+    "sourceId": "nomadsponge-unity-painterlytoon-shader",
+    "tags": [
+      "itch",
+      "shader",
+      "unity",
+      "npr",
+      "painterly",
+      "toon"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-programmer-jeff-procedural-pixelated-planet-shader-playground",
+    "type": "shader",
+    "title": "Pixelated Planet Playground 像素星球",
+    "summary": "实时OpenGL程序化像素星球生成器，大量着色器参数，附源码。（itch $1.13·资源包）",
+    "url": "https://programmer-jeff.itch.io/procedural-pixelated-planet-shader-playground",
+    "imageUrl": "/covers/itch-programmer-jeff-procedural-pixelated-planet-shader-playground.jpg",
+    "source": "itch",
+    "sourceId": "programmer-jeff-procedural-pixelated-planet-shader-playground",
+    "tags": [
+      "itch",
+      "shader",
+      "procgen",
+      "planet",
+      "pixel",
+      "opengl"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-antzgames-godot-endless-waves",
+    "type": "shader",
+    "title": "Godot Endless Waves 无尽海浪",
+    "summary": "Godot无限平铺海浪+浮力，帆船在浪上起伏。（itch 免费/自定价·Web）",
+    "url": "https://antzgames.itch.io/godot-endless-waves",
+    "imageUrl": "/covers/itch-antzgames-godot-endless-waves.jpg",
+    "source": "itch",
+    "sourceId": "antzgames-godot-endless-waves",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "ocean",
+      "waves",
+      "buoyancy"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-metalraindev-metalrain-gpu-tests",
+    "type": "shader",
+    "title": "Metalrain GPU Tests 金属雨",
+    "summary": "GPU加速物理测试集：沙落、火蔓延、水沸腾、植物生长——像素级活体模拟。（itch 免费/自定价·Windows/Web）",
+    "url": "https://metalraindev.itch.io/metalrain-gpu-tests",
+    "imageUrl": "/covers/itch-metalraindev-metalrain-gpu-tests.jpg",
+    "source": "itch",
+    "sourceId": "metalraindev-metalrain-gpu-tests",
+    "tags": [
+      "itch",
+      "shader",
+      "gpu",
+      "falling-sand",
+      "fire",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-beastpanda-tiny-water-lab",
+    "type": "shader",
+    "title": "Tiny Water Lab 迷你水实验室",
+    "summary": "实时粒子水小沙盒，看水流冲刷机关。（itch 免费/自定价·Windows/Web）",
+    "url": "https://beastpanda.itch.io/tiny-water-lab",
+    "imageUrl": "/covers/itch-beastpanda-tiny-water-lab.jpg",
+    "source": "itch",
+    "sourceId": "beastpanda-tiny-water-lab",
+    "tags": [
+      "itch",
+      "shader",
+      "particles",
+      "water",
+      "fluid-sim"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-shearspace-shear-space",
+    "type": "shader",
+    "title": "Shear Space 剪切空间",
+    "summary": "低多边形太空模拟，主打GPU驱动的材质物理（剪切/形变）。（itch 免费/自定价·Windows）",
+    "url": "https://shearspace.itch.io/shear-space",
+    "imageUrl": "/covers/itch-shearspace-shear-space.jpg",
+    "source": "itch",
+    "sourceId": "shearspace-shear-space",
+    "tags": [
+      "itch",
+      "shader",
+      "gpu",
+      "material-physics",
+      "low-poly",
+      "space"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-patsie-horde-tech-demo",
+    "type": "shader",
+    "title": "Horde Tech Demo 十万兽人",
+    "summary": "浏览器塔防技术演示：十万兽人全部在显卡上模拟，来攻你的唯一堡垒。（itch 免费/自定价·Web）",
+    "url": "https://patsie.itch.io/horde-tech-demo",
+    "imageUrl": "/covers/itch-patsie-horde-tech-demo.jpg",
+    "source": "itch",
+    "sourceId": "patsie-horde-tech-demo",
+    "tags": [
+      "itch",
+      "shader",
+      "gpu-sim",
+      "crowd",
+      "webgpu",
+      "tech-demo"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-lx-0-particle-life",
+    "type": "shader",
+    "title": "Particle Life 粒子生命",
+    "summary": "数万粒子+一张非对称规则矩阵，涌现出细胞、蠕虫与追逐者的活体化学。（itch 免费/自定价·Web）",
+    "url": "https://lx-0.itch.io/particle-life",
+    "imageUrl": "/covers/itch-lx-0-particle-life.jpg",
+    "source": "itch",
+    "sourceId": "lx-0-particle-life",
+    "tags": [
+      "itch",
+      "shader",
+      "particle-life",
+      "emergence",
+      "webgpu",
+      "sim"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-emaceart-lofi-psx-playable-demo",
+    "type": "shader",
+    "title": "LoFi PSX Screen FX 低保真PSX",
+    "summary": "浏览器里边走边切换PSX屏幕特效：抖动、低分辨率、色深。（itch 免费/自定价·Web）",
+    "url": "https://emaceart.itch.io/lofi-psx-playable-demo",
+    "imageUrl": "/covers/itch-emaceart-lofi-psx-playable-demo.jpg",
+    "source": "itch",
+    "sourceId": "emaceart-lofi-psx-playable-demo",
+    "tags": [
+      "itch",
+      "shader",
+      "psx",
+      "retro",
+      "post-processing"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-2am-psx-retro-framework-urp",
+    "type": "shader",
+    "title": "PSX Retro Framework PS1渲染框架",
+    "summary": "Unity 6 URP的PS1风渲染工具包：顶点抖动、仿射贴图、低精度。（itch $15·资源包）",
+    "url": "https://2am.itch.io/psx-retro-framework-urp",
+    "imageUrl": "/covers/itch-2am-psx-retro-framework-urp.jpg",
+    "source": "itch",
+    "sourceId": "2am-psx-retro-framework-urp",
+    "tags": [
+      "itch",
+      "shader",
+      "psx",
+      "unity",
+      "retro",
+      "rendering"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-shmeadow-sh-pixelation",
+    "type": "shader",
+    "title": "SH 3D Pixelation Studio 3D像素化工作室",
+    "summary": "把3D模型实时像素化/渲染成像素精灵的工具——对口3D转像素渲染流程。（itch $11.99·Windows）",
+    "url": "https://shmeadow.itch.io/sh-pixelation",
+    "imageUrl": "/covers/itch-shmeadow-sh-pixelation.jpg",
+    "source": "itch",
+    "sourceId": "shmeadow-sh-pixelation",
+    "tags": [
+      "itch",
+      "shader",
+      "3d-pixel",
+      "pixelation",
+      "tool"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-berryhibiscus-ember-anime-flames-godot",
+    "type": "shader",
+    "title": "EMBER Anime Flames 动漫火焰",
+    "summary": "10种雕塑式动漫火焰特效：网格驱动+着色器，Godot 4可编辑。（itch $6.99·资源包）",
+    "url": "https://berryhibiscus.itch.io/ember-anime-flames-godot",
+    "imageUrl": "/covers/itch-berryhibiscus-ember-anime-flames-godot.jpg",
+    "source": "itch",
+    "sourceId": "berryhibiscus-ember-anime-flames-godot",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "fire",
+      "anime",
+      "stylized-vfx"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-viewerstudio-viewerstudio-forest-demo",
+    "type": "shader",
+    "title": "ViewerStudio Forest 高斯泼溅森林",
+    "summary": "纯浏览器的高斯泼溅（Gaussian Splat）森林漫游，含碰撞与音频。（itch 免费/自定价·Web）",
+    "url": "https://viewerstudio.itch.io/viewerstudio-forest-demo",
+    "imageUrl": "/covers/itch-viewerstudio-viewerstudio-forest-demo.jpg",
+    "source": "itch",
+    "sourceId": "viewerstudio-viewerstudio-forest-demo",
+    "tags": [
+      "itch",
+      "shader",
+      "gaussian-splat",
+      "web",
+      "forest"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
+    "id": "itch-haruka-apps-games-signal-valley-1985-pyxel-signal",
+    "type": "shader",
+    "title": "Signal Valley 1985 像素信号",
+    "summary": "雨夜1985小镇广场3D场景，实时转成复古Pyxel帧缓冲画面。（itch 免费/自定价·Web）",
+    "url": "https://haruka-apps-games.itch.io/signal-valley-1985-pyxel-signal",
+    "imageUrl": "/covers/itch-haruka-apps-games-signal-valley-1985-pyxel-signal.jpg",
+    "source": "itch",
+    "sourceId": "haruka-apps-games-signal-valley-1985-pyxel-signal",
+    "tags": [
+      "itch",
+      "shader",
+      "retro-framebuffer",
+      "rain",
+      "3d-to-pixel",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-05"
+  },
+  {
     "id": "x-2106396779717570700",
     "type": "game",
     "title": "Machine gun towers Day249 机枪塔",
