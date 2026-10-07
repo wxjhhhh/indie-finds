@@ -1,5 +1,828 @@
 [
   {
+    "id": "x-2107141431080931664",
+    "type": "game",
+    "title": "Defilade 掩体RTS 破10万愿望单",
+    "summary": "Niche Gamer：主打掩体与战壕的复古风RTS《Defilade》愿望单破10万，沙漠小镇里步兵依掩体推进、烟尘与直升机交火。",
+    "url": "https://x.com/nichegamer/status/2107141431080931664",
+    "imageUrl": "/covers/x-2107141431080931664.jpg",
+    "source": "x",
+    "sourceId": "2107141431080931664",
+    "tags": [
+      "x",
+      "game",
+      "rts",
+      "cover-system",
+      "retro",
+      "wishlist"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "x-2107264972913013083",
+    "type": "game",
+    "title": "Air Combat New Biome WIP 空战新生物群系",
+    "summary": "回合制PvP空战作者的新生物群系WIP：俯视沙漠峡谷、岩柱与扬尘里的战机对决，竖屏实机片段。",
+    "url": "https://x.com/gusvogelnice/status/2107264972913013083",
+    "imageUrl": "/covers/x-2107264972913013083.jpg",
+    "source": "x",
+    "sourceId": "2107264972913013083",
+    "tags": [
+      "x",
+      "game",
+      "air-combat",
+      "biome",
+      "wip",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "x-2107365301553901795",
+    "type": "game",
+    "title": "Save the Earth 拯救地球",
+    "summary": "Game*Spark：地球环境保全模拟，分析全球环境问题、管理生态、投放环保事业守护整颗星球；一周后转付费，现在入库永久免费（Steam）。",
+    "url": "https://x.com/gamespark/status/2107365301553901795",
+    "imageUrl": "/covers/x-2107365301553901795.jpg",
+    "source": "x",
+    "sourceId": "2107365301553901795",
+    "tags": [
+      "x",
+      "game",
+      "earth-sim",
+      "ecosystem",
+      "god-view",
+      "steam"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "x-2107425636918992958",
+    "type": "game",
+    "title": "Peaceful Two Kingdoms 平和的两国",
+    "summary": "骑士国作者新片段「平和な両国」：两国之间挖满战壕的沙土平原与城堡聚落，程序化生成的战场地形——上帝视角大地图参考。",
+    "url": "https://x.com/mimicryludens/status/2107425636918992958",
+    "imageUrl": "/covers/x-2107425636918992958.jpg",
+    "source": "x",
+    "sourceId": "2107425636918992958",
+    "tags": [
+      "x",
+      "game",
+      "procgen",
+      "trenches",
+      "kingdoms",
+      "terrain"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-railisland-rail-island",
+    "type": "game",
+    "title": "Rail Island 铁路岛",
+    "summary": "放松向交通沙盒：自己塑造岛屿地形，铺铁路、架桥、挖隧道、加城镇植被，再排信号看列车跑起来——地形+路网双系统。（itch 免费/自定价·Web）",
+    "url": "https://railisland.itch.io/rail-island",
+    "imageUrl": "/covers/itch-railisland-rail-island.jpg",
+    "source": "itch",
+    "sourceId": "railisland-rail-island",
+    "tags": [
+      "itch",
+      "game",
+      "railway",
+      "terrain",
+      "sandbox",
+      "3d",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-undamc1991-evolution-game",
+    "type": "game",
+    "title": "Evolution Game 演化游戏",
+    "summary": "不设计生命，只改变世界：随机星球海洋里的单细胞带可遗传性状并突变，你调营养、水温、风暴、海脊，看自然选择——上帝视角活体系统，Godot。（itch 免费/自定价·Web）",
+    "url": "https://undamc1991.itch.io/evolution-game",
+    "imageUrl": "/covers/itch-undamc1991-evolution-game.jpg",
+    "source": "itch",
+    "sourceId": "undamc1991-evolution-game",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "evolution",
+      "ocean",
+      "godot",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-forsakenmike-among-the-faithful",
+    "type": "game",
+    "title": "Among the Faithful 信众之间",
+    "summary": "中世纪上帝模拟：聚落世代繁衍、宗教传播、领袖兴起、怪物游荡，世界自己运转，你只以神的身份干预——对口WorldBox式项目。（itch 免费/自定价·Windows）",
+    "url": "https://forsakenmike.itch.io/among-the-faithful",
+    "imageUrl": "/covers/itch-forsakenmike-among-the-faithful.jpg",
+    "source": "itch",
+    "sourceId": "forsakenmike-among-the-faithful",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "medieval",
+      "life-sim",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-mahjong-kawasaki-meerkat-savanna",
+    "type": "game",
+    "title": "Meerkat Savanna 狐獴草原",
+    "summary": "卡拉哈里3D生态模拟：养一群狐獴繁衍多代，哨兵轮换、按天敌变换的警报声、雨季旱季交替水塘涨落——细致的活体生态系统。（itch $15·Windows）",
+    "url": "https://mahjong-kawasaki.itch.io/meerkat-savanna",
+    "imageUrl": "/covers/itch-mahjong-kawasaki-meerkat-savanna.jpg",
+    "source": "itch",
+    "sourceId": "mahjong-kawasaki-meerkat-savanna",
+    "tags": [
+      "itch",
+      "game",
+      "ecosystem",
+      "3d",
+      "animals",
+      "life-sim",
+      "seasons"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-berlinrider-terafactory",
+    "type": "game",
+    "title": "TeraFactory 万亿工厂",
+    "summary": "开放世界3D工厂自动化：一把镐起步，熔锭、造零件，最后传送带嗡嗡、核电站供电的全自动工厂，Unity网页版。（itch 免费/自定价·Web）",
+    "url": "https://berlinrider.itch.io/terafactory",
+    "imageUrl": "/covers/itch-berlinrider-terafactory.jpg",
+    "source": "itch",
+    "sourceId": "berlinrider-terafactory",
+    "tags": [
+      "itch",
+      "game",
+      "factory",
+      "automation",
+      "open-world",
+      "unity",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-iambenlopes-factorydefense",
+    "type": "game",
+    "title": "Factory TD 工厂塔防",
+    "summary": "塔只发射工厂产出的弹药：矿机采石伐木、传送带运回主塔造箭和炮弹，再用墙引导骷髅绕路——低多边形产线+塔防。（itch 免费/自定价·Windows）",
+    "url": "https://iambenlopes.itch.io/factorydefense",
+    "imageUrl": "/covers/itch-iambenlopes-factorydefense.jpg",
+    "source": "itch",
+    "sourceId": "iambenlopes-factorydefense",
+    "tags": [
+      "itch",
+      "game",
+      "factory",
+      "belts",
+      "tower-defense",
+      "low-poly"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-pikario-spice-ltd",
+    "type": "game",
+    "title": "SPICE Limited 空间有限公司",
+    "summary": "讽刺小岛城建：在小岛上“开发”空间、填海造地，轻松的3D俯视城建，Godot制作（LD54）。（itch 免费/自定价·Web/Windows/macOS/Linux）",
+    "url": "https://pikario.itch.io/spice-ltd",
+    "imageUrl": "/covers/itch-pikario-spice-ltd.jpg",
+    "source": "itch",
+    "sourceId": "pikario-spice-ltd",
+    "tags": [
+      "itch",
+      "game",
+      "city-builder",
+      "island",
+      "terraform",
+      "godot"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-bearsharktopus-beton-brut",
+    "type": "game",
+    "title": "Beton Brut 粗野主义住区",
+    "summary": "致敬粗野主义的剖面住区模拟：卡车运来公寓、楼梯核、平台、花园、洗衣房，居民入住上班晾衣生孩子换房退休——无分数的活体小社会，Godot。（itch $2·Web/Windows/macOS/Linux）",
+    "url": "https://bearsharktopus.itch.io/beton-brut",
+    "imageUrl": "/covers/itch-bearsharktopus-beton-brut.jpg",
+    "source": "itch",
+    "sourceId": "bearsharktopus-beton-brut",
+    "tags": [
+      "itch",
+      "game",
+      "brutalism",
+      "city-builder",
+      "life-sim",
+      "godot",
+      "cross-section"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-nonaveragejoe-voxel-front",
+    "type": "game",
+    "title": "Voxel Front 体素前线",
+    "summary": "二战体素坦克战：战场完全可破坏，无血条，每发炮弹按真实装甲追踪穿深，50+载具可研发。（itch 免费/自定价·下载版）",
+    "url": "https://nonaveragejoe.itch.io/voxel-front",
+    "imageUrl": "/covers/itch-nonaveragejoe-voxel-front.jpg",
+    "source": "itch",
+    "sourceId": "nonaveragejoe-voxel-front",
+    "tags": [
+      "itch",
+      "game",
+      "voxel",
+      "destruction",
+      "tanks",
+      "ww2",
+      "physics"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-raemon-reload-fpv-clearance",
+    "type": "game",
+    "title": "FPV // Clearance FPV清场",
+    "summary": "开FPV自杀无人机清理程序生成建筑：爆炸在墙和楼板上撕出焦黑破洞、钢筋外露，打掉承重整层塌下——低多边形真实破坏，Godot。（itch 免费/自定价·Windows/Android）",
+    "url": "https://raemon-reload.itch.io/fpv-clearance",
+    "imageUrl": "/covers/itch-raemon-reload-fpv-clearance.jpg",
+    "source": "itch",
+    "sourceId": "raemon-reload-fpv-clearance",
+    "tags": [
+      "itch",
+      "game",
+      "destruction",
+      "fpv",
+      "godot",
+      "procedural",
+      "physics"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-toddln-rotorbound",
+    "type": "game",
+    "title": "ROTORBOUND 旋翼生计",
+    "summary": "手感调校的直升机飞行：不做繁琐座舱，但无自动平衡，学会飞后在低多边形开放世界跑运输谋生，计划2027上Steam。（itch 免费/自定价·Windows）",
+    "url": "https://toddln.itch.io/rotorbound",
+    "imageUrl": "/covers/itch-toddln-rotorbound.jpg",
+    "source": "itch",
+    "sourceId": "toddln-rotorbound",
+    "tags": [
+      "itch",
+      "game",
+      "helicopter",
+      "flight",
+      "physics",
+      "open-world",
+      "low-poly"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-makoto366-wild-trail-rally",
+    "type": "game",
+    "title": "Wild Trail Rally 野径拉力",
+    "summary": "three.js拉力计时赛：红色4x4穿过森林土路、一排鸟居、地下神殿、吊桥和悬崖之字路，15段一气呵成。（itch $2·Web/Windows/macOS/Linux）",
+    "url": "https://makoto366.itch.io/wild-trail-rally",
+    "imageUrl": "/covers/itch-makoto366-wild-trail-rally.jpg",
+    "source": "itch",
+    "sourceId": "makoto366-wild-trail-rally",
+    "tags": [
+      "itch",
+      "game",
+      "rally",
+      "threejs",
+      "driving",
+      "torii",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-perpapanda-dayfield",
+    "type": "game",
+    "title": "Dayfield 日野农场",
+    "summary": "彩色3D乡村农场：种地养动物、加工面粉面包奶酪、开车跑订单与工厂合同，浏览器即玩。（itch 免费/自定价·Web）",
+    "url": "https://perpapanda.itch.io/dayfield",
+    "imageUrl": "/covers/itch-perpapanda-dayfield.jpg",
+    "source": "itch",
+    "sourceId": "perpapanda-dayfield",
+    "tags": [
+      "itch",
+      "game",
+      "farming",
+      "3d",
+      "automation",
+      "driving",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-timany19-cultivation-stories",
+    "type": "game",
+    "title": "Cultivation Stories 修仙物语",
+    "summary": "修仙人生模拟：开局前先生成世界并推演几百年——村落、宗门、家族、恩怨、战争，然后你才出生其中，Godot像素。（itch 免费/自定价·Windows/Linux）",
+    "url": "https://timany19.itch.io/cultivation-stories",
+    "imageUrl": "/covers/itch-timany19-cultivation-stories.jpg",
+    "source": "itch",
+    "sourceId": "timany19-cultivation-stories",
+    "tags": [
+      "itch",
+      "game",
+      "living-world",
+      "history-sim",
+      "xianxia",
+      "godot",
+      "procgen"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "steam-4034080",
+    "type": "game",
+    "title": "Floating Frontiers 浮空边境",
+    "summary": "极简浮空小镇城建：组合3D方块堆出无限生长的漂浮城镇、经营邻接加成与田园景观——Townscaper式积木感。（Steam $5.09·Win/Mac·Oct 6, 2026发售）",
+    "url": "https://store.steampowered.com/app/4034080/",
+    "imageUrl": "/covers/steam-4034080.jpg",
+    "source": "steam",
+    "sourceId": "4034080",
+    "tags": [
+      "steam",
+      "game",
+      "city-builder",
+      "floating",
+      "blocks",
+      "toy"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "steam-5268700",
+    "type": "game",
+    "title": "Bressnath 布雷斯纳斯沼地",
+    "summary": "在被淹没的沼泽重建据点：资源不再生，每一担都靠人力扛回，挖废墟、守防线，最终铺一条横穿沼泽的堤道。（Steam $0.99·Win/Mac/Linux·Oct 4, 2026发售）",
+    "url": "https://store.steampowered.com/app/5268700/",
+    "imageUrl": "/covers/steam-5268700.jpg",
+    "source": "steam",
+    "sourceId": "5268700",
+    "tags": [
+      "steam",
+      "game",
+      "settlement",
+      "fen",
+      "survival",
+      "causeway"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "steam-5213540",
+    "type": "game",
+    "title": "Unmoored Isle 漂泊之岛",
+    "summary": "孤岛上的种田+开店+城建+防海盗，独特的城门盘问系统筛选来客，手绘风等距小镇（抢先体验）。（Steam $4.99·Win·Oct 3, 2026发售）",
+    "url": "https://store.steampowered.com/app/5213540/",
+    "imageUrl": "/covers/steam-5213540.jpg",
+    "source": "steam",
+    "sourceId": "5213540",
+    "tags": [
+      "steam",
+      "game",
+      "city-builder",
+      "island",
+      "farming",
+      "defense"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "x-2107365238475755615",
+    "type": "shader",
+    "title": "Raid Haven Tsunami VFX 海啸淹岛特效",
+    "summary": "Jettelly转发：Tabbin1给《Raid Haven》加了淹没整座岛的海啸突袭，Godot水体与VFX实现，r/godot有拆解。",
+    "url": "https://x.com/jettelly/status/2107365238475755615",
+    "imageUrl": "/covers/x-2107365238475755615.jpg",
+    "source": "x",
+    "sourceId": "2107365238475755615",
+    "tags": [
+      "x",
+      "shader",
+      "godot",
+      "water",
+      "tsunami",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-gennai-weather-vfx-godot-4",
+    "type": "shader",
+    "title": "Weather VFX for Godot 4 天气特效",
+    "summary": "Godot 4雨雪雾风沙尘暴、云影与雷暴，3D优先，一行代码在整套天气状态间混合；另有免费3D雨样包（涟漪+水花）。（itch $4.49·Web）",
+    "url": "https://gennai.itch.io/weather-vfx-godot-4",
+    "imageUrl": "/covers/itch-gennai-weather-vfx-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "gennai-weather-vfx-godot-4",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "weather",
+      "rain",
+      "fog",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-dimensionalmios-almios-surface-marks",
+    "type": "shader",
+    "title": "Surface Marks FX 表面痕迹",
+    "summary": "Godot 4持久贴花：血迹、焦痕、裂纹、脚印、轮胎印会留下，车轮还会沾上碾过的颜色——网页Demo可试。（itch $7.99·资源包）",
+    "url": "https://dimensionalmios.itch.io/almios-surface-marks",
+    "imageUrl": "/covers/itch-dimensionalmios-almios-surface-marks.jpg",
+    "source": "itch",
+    "sourceId": "dimensionalmios-almios-surface-marks",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "decals",
+      "tyre-tracks",
+      "persistent",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-retrodimensions-psx-effects-pack",
+    "type": "shader",
+    "title": "PSX Effects Pack PS1风特效包",
+    "summary": "Unity 6 URP的47个PS1风世界特效：像素火、烟、水、传送门，自带低分贴图、限色板与溶解着色器。（itch $5.99·资源包）",
+    "url": "https://retrodimensions.itch.io/psx-effects-pack",
+    "imageUrl": "/covers/itch-retrodimensions-psx-effects-pack.jpg",
+    "source": "itch",
+    "sourceId": "retrodimensions-psx-effects-pack",
+    "tags": [
+      "itch",
+      "shader",
+      "psx",
+      "unity",
+      "urp",
+      "retro",
+      "particles"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-chunhuvfx-vfxgen",
+    "type": "shader",
+    "title": "VFXGen 风格化特效贴图生成器",
+    "summary": "Unity编辑器内节点式生成卡通特效贴图与序列帧：刀光、冲击、符文圈、闪电、火焰循环，一键导出。（itch $29.99·资源包）",
+    "url": "https://chunhuvfx.itch.io/vfxgen",
+    "imageUrl": "/covers/itch-chunhuvfx-vfxgen.jpg",
+    "source": "itch",
+    "sourceId": "chunhuvfx-vfxgen",
+    "tags": [
+      "itch",
+      "shader",
+      "unity",
+      "vfx",
+      "node-editor",
+      "flipbook",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-berryhibiscus-aquil-nature-vfx-godot-4",
+    "type": "shader",
+    "title": "AQUIL Nature VFX 自然特效",
+    "summary": "Godot 4.4的6个3D自然特效：弧形水幕组成的皇冠水花、喷泉、瀑布、漩涡、风吹落叶与花瓣。（itch $4.66·资源包）",
+    "url": "https://berryhibiscus.itch.io/aquil-nature-vfx-godot-4",
+    "imageUrl": "/covers/itch-berryhibiscus-aquil-nature-vfx-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "berryhibiscus-aquil-nature-vfx-godot-4",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "water",
+      "waterfall",
+      "nature",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-bubbabba-pixel-weather-kit",
+    "type": "shader",
+    "title": "Pixel Weather Kit 像素天气",
+    "summary": "Godot 4天气过渡：雨后地面保持湿润留水洼，雪积在地上和树篱上，雷声延迟到达，一个shader全局驱动所有树叶的风。（itch $3·资源包）",
+    "url": "https://bubbabba.itch.io/pixel-weather-kit",
+    "imageUrl": "/covers/itch-bubbabba-pixel-weather-kit.jpg",
+    "source": "itch",
+    "sourceId": "bubbabba-pixel-weather-kit",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "weather",
+      "wet-ground",
+      "snow",
+      "shader"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-mumuani-elemental-domain-kit-godot-vfx",
+    "type": "shader",
+    "title": "Elemental Domain Kit 元素领域",
+    "summary": "Godot 4.7六种元素领域法术+收尾：流光、向内引力、折射水体、湍流火、碎裂冰与喷发岩石，可编辑。（itch $6.99·资源包）",
+    "url": "https://mumuani.itch.io/elemental-domain-kit-godot-vfx",
+    "imageUrl": "/covers/itch-mumuani-elemental-domain-kit-godot-vfx.jpg",
+    "source": "itch",
+    "sourceId": "mumuani-elemental-domain-kit-godot-vfx",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "vfx",
+      "refraction",
+      "elements",
+      "magic"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-jupiter-the-warlock-pixel-cosmos-studio",
+    "type": "shader",
+    "title": "Pixel Cosmos Studio 像素宇宙工作室",
+    "summary": "免费生成像素/体素3D星球与太空天空盒：岛屿世界、气态巨行星、冰与熔岩，动态云层海洋与星环，可导出到Godot/Unity。（itch 免费/自定价·Web）",
+    "url": "https://jupiter-the-warlock.itch.io/pixel-cosmos-studio",
+    "imageUrl": "/covers/itch-jupiter-the-warlock-pixel-cosmos-studio.jpg",
+    "source": "itch",
+    "sourceId": "jupiter-the-warlock-pixel-cosmos-studio",
+    "tags": [
+      "itch",
+      "shader",
+      "procedural",
+      "planets",
+      "voxel",
+      "pixel",
+      "godot"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-madrasco-gridmap-autotiler",
+    "type": "shader",
+    "title": "GridMap Autotiler 网格自动拼接",
+    "summary": "Godot 4 GridMap自动拼接+六边形网格：一种地形只画一个物件，插件自动放对端头/拐角/T字/边缘——对口你的六边形地图。（itch $10·资源包）",
+    "url": "https://madrasco.itch.io/gridmap-autotiler",
+    "imageUrl": "/covers/itch-madrasco-gridmap-autotiler.jpg",
+    "source": "itch",
+    "sourceId": "madrasco-gridmap-autotiler",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "hex-grid",
+      "autotile",
+      "level-editor",
+      "tool"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-borick-mandelbulb-descent",
+    "type": "shader",
+    "title": "Mandelbulb Descent 曼德尔球坠落",
+    "summary": "无限分形坠落：相机/飞船/显微镜三种视角，每个像素实时按公式计算，含海马谷等著名坐标与多种分形族。（itch 免费/自定价·Web）",
+    "url": "https://borick.itch.io/mandelbulb-descent",
+    "imageUrl": "/covers/itch-borick-mandelbulb-descent.jpg",
+    "source": "itch",
+    "sourceId": "borick-mandelbulb-descent",
+    "tags": [
+      "itch",
+      "shader",
+      "fractal",
+      "raymarching",
+      "generative",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-silpi-formula-sea",
+    "type": "shader",
+    "title": "Formula Sea 公式之海",
+    "summary": "奇异之海：由公式生成的小生物，基因决定身体、肌肉与游动，相遇可融合继承规则，夜晚星空在水面摇曳——人工生命。（itch 免费/自定价·Web）",
+    "url": "https://silpi.itch.io/formula-sea",
+    "imageUrl": "/covers/itch-silpi-formula-sea.jpg",
+    "source": "itch",
+    "sourceId": "silpi-formula-sea",
+    "tags": [
+      "itch",
+      "shader",
+      "artificial-life",
+      "generative",
+      "3d",
+      "ocean",
+      "web"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-halbarito-into-the-wormhole",
+    "type": "shader",
+    "title": "Into the Wormhole 穿越虫洞",
+    "summary": "物理学者把本科论文做成游戏：按数学真实渲染的可穿越虫洞实时光线弯曲，第一人称解谜，Unity。（itch 免费/自定价·Web/Windows）",
+    "url": "https://halbarito.itch.io/into-the-wormhole",
+    "imageUrl": "/covers/itch-halbarito-into-the-wormhole.jpg",
+    "source": "itch",
+    "sourceId": "halbarito-into-the-wormhole",
+    "tags": [
+      "itch",
+      "shader",
+      "wormhole",
+      "lensing",
+      "physics",
+      "unity",
+      "rendering"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-choco-ted-polydoodle",
+    "type": "shader",
+    "title": "Polydoodle 多边形涂鸦",
+    "summary": "Godot 4编辑器内的picoCAD式低多边形建模+贴图绘制，不开Blender就能快速做道具。（itch $4.99·资源包）",
+    "url": "https://choco-ted.itch.io/polydoodle",
+    "imageUrl": "/covers/itch-choco-ted-polydoodle.jpg",
+    "source": "itch",
+    "sourceId": "choco-ted-polydoodle",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "low-poly",
+      "modeler",
+      "texture-paint",
+      "tool"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-berryhibiscus-frostbound-ii-10-stylized-ice-vfx-for-godot-4",
+    "type": "shader",
+    "title": "FROSTBOUND II 风格化冰特效",
+    "summary": "Godot 4.4十个3D冰系攻击：冰刃、冰矛齐射、冰花绽放、冰锥雨、极地气旋、滚动雪崩，速度对齐碎片与溶解拖尾。（itch $6.99·资源包）",
+    "url": "https://berryhibiscus.itch.io/frostbound-ii-10-stylized-ice-vfx-for-godot-4",
+    "imageUrl": "/covers/itch-berryhibiscus-frostbound-ii-10-stylized-ice-vfx-for-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "berryhibiscus-frostbound-ii-10-stylized-ice-vfx-for-godot-4",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "ice",
+      "vfx",
+      "stylized",
+      "particles"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "itch-nomicrostudio-moveset",
+    "type": "shader",
+    "title": "Moveset 程序化动作",
+    "summary": "Blender插件：用滑杆给任意人形骨骼生成834个程序化动画（走跑、待机、受击等），14种角色状态，烘焙成Action。（itch $30·资源包）",
+    "url": "https://nomicrostudio.itch.io/moveset",
+    "imageUrl": "/covers/itch-nomicrostudio-moveset.jpg",
+    "source": "itch",
+    "sourceId": "nomicrostudio-moveset",
+    "tags": [
+      "itch",
+      "shader",
+      "blender",
+      "procedural-animation",
+      "tech-art",
+      "rig"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "steam-5219520",
+    "type": "shader",
+    "title": "Sediment 沉积",
+    "summary": "像素物理沙盒：50种材料全是物理——沙找安息角、水会结冰、熔岩结壳成石、火药会炸，可自定义材料并上创意工坊。（Steam $1.39·Win·Oct 1, 2026发售）",
+    "url": "https://store.steampowered.com/app/5219520/",
+    "imageUrl": "/covers/steam-5219520.jpg",
+    "source": "steam",
+    "sourceId": "5219520",
+    "tags": [
+      "steam",
+      "shader",
+      "falling-sand",
+      "physics",
+      "cellular-automata",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "80lv-whitewater-solver",
+    "type": "shader",
+    "title": "Guided Bubbles & Wet Foam Solver 白水泡沫解算器",
+    "summary": "Alexander Vasilenko基于Wētā研究的Houdini白水解算器：补上POP Fluid缺的表面张力，气泡成团、湿泡沫随水流动更真实。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/vfx-artist-shared-advanced-whitewater-solver-based-on-w-t-s-research",
+    "imageUrl": "/covers/80lv-whitewater-solver.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-whitewater-solver",
+    "tags": [
+      "80lv",
+      "shader",
+      "houdini",
+      "water",
+      "foam",
+      "fluid",
+      "tech-art"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "80lv-procedural-fly-swarm",
+    "type": "shader",
+    "title": "Procedural Fly Swarm 程序化虫群",
+    "summary": "ibotpl的Blender程序化飞虫/飞蛾群搭建拆解，整套生成器可在Gumroad获取。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/3d-artist-shows-how-to-make-procedural-fly-swarm-in-blender",
+    "imageUrl": "/covers/80lv-procedural-fly-swarm.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-procedural-fly-swarm",
+    "tags": [
+      "80lv",
+      "shader",
+      "blender",
+      "procedural",
+      "swarm",
+      "geometry-nodes"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "80lv-ue-light-shadow-painting",
+    "type": "shader",
+    "title": "UE5 Light & Shadow Painting 实时光影绘制",
+    "summary": "《沙丘：觉醒》灯光师Karim Yasser的UE5插件WIP：像2D绘画一样在引擎里实时、非破坏地“画”光与影。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/artist-develops-unreal-engine-plug-in-for-real-time-light-shadow-painting",
+    "imageUrl": "/covers/80lv-ue-light-shadow-painting.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-ue-light-shadow-painting",
+    "tags": [
+      "80lv",
+      "shader",
+      "unreal",
+      "lighting",
+      "tool",
+      "painting"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
+    "id": "80lv-red-sand-desert",
+    "type": "shader",
+    "title": "Red Sand Desert 红沙荒漠",
+    "summary": "Antonin Pardon的风格化荒漠场景：红色发光雾气笼罩巨岩与遗迹，Blender+UE+Substance制作——体积雾氛围参考。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/check-out-this-magnificent-stylized-desert-scene-with-glowing-red-fog",
+    "imageUrl": "/covers/80lv-red-sand-desert.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-red-sand-desert",
+    "tags": [
+      "80lv",
+      "shader",
+      "stylized",
+      "environment",
+      "volumetric-fog",
+      "unreal"
+    ],
+    "collectedAt": "2026-10-07"
+  },
+  {
     "id": "x-2107025549264863290",
     "type": "game",
     "title": "Roguelike City Builder 肉鸽城建",
