@@ -1,5 +1,1103 @@
 [
   {
+    "id": "x-2107810459701358835",
+    "type": "game",
+    "title": "Tribal Chief Battle WIP 族长突击",
+    "summary": "いちみりご新片段：部落战斗动作越来越顺滑，族长只会召唤族人却亲自冲进敌阵阵亡——俯视角草地营地里的成群小人与集结指令，上帝视角部族战斗参考。",
+    "url": "https://x.com/ichimirigo/status/2107810459701358835",
+    "imageUrl": "/covers/x-2107810459701358835.jpg",
+    "source": "x",
+    "sourceId": "2107810459701358835",
+    "tags": [
+      "x",
+      "game",
+      "tribe",
+      "rts",
+      "wip",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "x-2107590320330547643",
+    "type": "game",
+    "title": "Rust/Metal Village Port 村庄游戏 Rust 移植",
+    "summary": "JungleSilicon把网页小镇游戏移植到Rust+Metal，顺滑度对比明显，还顺手写了JSX游戏UI渲染器——俯视红瓦房村庄里一群小人与技能栏。",
+    "url": "https://x.com/JungleSilicon/status/2107590320330547643",
+    "imageUrl": "/covers/x-2107590320330547643.jpg",
+    "source": "x",
+    "sourceId": "2107590320330547643",
+    "tags": [
+      "x",
+      "game",
+      "rust",
+      "metal",
+      "village",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "x-2107391351218119139",
+    "type": "game",
+    "title": "Atomio New Building System 新建造系统",
+    "summary": "Atomio开发者展示新的建造系统：夜色低多边形森林地面上按网格放置建筑块，生存+建造的3D沙盒。",
+    "url": "https://x.com/AtomioDev/status/2107391351218119139",
+    "imageUrl": "/covers/x-2107391351218119139.jpg",
+    "source": "x",
+    "sourceId": "2107391351218119139",
+    "tags": [
+      "x",
+      "game",
+      "building",
+      "survival",
+      "low-poly",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-alimm17-tidefall-colony",
+    "type": "game",
+    "title": "Tidefall Colony 潮落殖民地",
+    "summary": "周期洪水的低多边形殖民地城建：低地肥沃但会被淹，要在产出与风险之间布局、筑堤、备粮——地形+灾害系统的Unity原型。（itch 免费/自定价·Web）",
+    "url": "https://alimm17.itch.io/tidefall-colony",
+    "imageUrl": "/covers/itch-alimm17-tidefall-colony.jpg",
+    "source": "itch",
+    "sourceId": "alimm17-tidefall-colony",
+    "tags": [
+      "itch",
+      "game",
+      "colony",
+      "flood",
+      "city-builder",
+      "low-poly",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-onebitkid-pathipelago",
+    "type": "game",
+    "title": "Pathipelago 小径群岛",
+    "summary": "等距小岛村庄：你只盖房子、田地和作坊，路没人修——村民每天上下班踩出来的小径自己变成道路，每个村民都有名字和故事。（itch 免费/自定价·Web）",
+    "url": "https://onebitkid.itch.io/pathipelago",
+    "imageUrl": "/covers/itch-onebitkid-pathipelago.jpg",
+    "source": "itch",
+    "sourceId": "onebitkid-pathipelago",
+    "tags": [
+      "itch",
+      "game",
+      "desire-paths",
+      "village",
+      "life-sim",
+      "isometric",
+      "pixel"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-iznobeat-byby",
+    "type": "game",
+    "title": "BYBY 一格一格的小城",
+    "summary": "六边形地块城建：住宅、商店、工业、公园、电车线按边拼接，城市自己活起来——车找车位、电车接站、三点放学、消防车鸣笛穿城，对口六边形网格。（itch 免费/自定价·Windows/macOS/Linux）",
+    "url": "https://iznobeat.itch.io/byby",
+    "imageUrl": "/covers/itch-iznobeat-byby.jpg",
+    "source": "itch",
+    "sourceId": "iznobeat-byby",
+    "tags": [
+      "itch",
+      "game",
+      "hex",
+      "city-builder",
+      "living-city",
+      "trams",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-elmichaj-knotenpunkt",
+    "type": "game",
+    "title": "Knotenpunkt 交通枢纽",
+    "summary": "不只建一座城而是一个区域：多张地图并排生长，城市接壤后形成通勤流，公交、电车、轮渡、缆车、地铁线路都由你排线定价，Godot。（itch $5·Windows/Linux）",
+    "url": "https://elmichaj.itch.io/knotenpunkt",
+    "imageUrl": "/covers/itch-elmichaj-knotenpunkt.jpg",
+    "source": "itch",
+    "sourceId": "elmichaj-knotenpunkt",
+    "tags": [
+      "itch",
+      "game",
+      "city-builder",
+      "transit",
+      "region",
+      "godot",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-rotronik-workbench-tycoon",
+    "type": "game",
+    "title": "Workbench Tycoon 木工坊大亨",
+    "summary": "从徒手砍树、扛木头去锯开始，到车床、木工房、传送带——3D低多边形小作坊一步步长成工厂帝国，网页即玩。（itch 免费/自定价·Web）",
+    "url": "https://rotronik.itch.io/workbench-tycoon",
+    "imageUrl": "/covers/itch-rotronik-workbench-tycoon.jpg",
+    "source": "itch",
+    "sourceId": "rotronik-workbench-tycoon",
+    "tags": [
+      "itch",
+      "game",
+      "factory",
+      "conveyor",
+      "3d",
+      "low-poly",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-rooaary-havoc-hollow",
+    "type": "game",
+    "title": "Havoc Hollow 浩劫山谷",
+    "summary": "16人物理乱斗：拔树当武器、开小车撞人、把钟楼砸到别人头上，中世纪小镇场景全物理可破坏，Unity。（itch 免费/自定价·Windows/Linux）",
+    "url": "https://rooaary.itch.io/havoc-hollow",
+    "imageUrl": "/covers/itch-rooaary-havoc-hollow.jpg",
+    "source": "itch",
+    "sourceId": "rooaary-havoc-hollow",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "destruction",
+      "multiplayer",
+      "medieval",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-robin-johansson-mundus-vivus",
+    "type": "game",
+    "title": "Mundus Vivus 活的世界",
+    "summary": "复杂自适应模拟驱动的活世界：动态森林、侵蚀地形，再叠加产业链与研究树的经济策略——“野性自然 vs 精密经济”的系统对撞原型。（itch 免费/自定价·Windows/Linux）",
+    "url": "https://robin-johansson.itch.io/mundus-vivus",
+    "imageUrl": "/covers/itch-robin-johansson-mundus-vivus.jpg",
+    "source": "itch",
+    "sourceId": "robin-johansson-mundus-vivus",
+    "tags": [
+      "itch",
+      "game",
+      "living-world",
+      "erosion",
+      "ecosystem",
+      "procedural",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-befuddlebug-veil-of-the-volcano-lite",
+    "type": "game",
+    "title": "Veil of the Volcano 火山之幔",
+    "summary": "火山阴影下的小岛部落：天气与季节变化，在火山爆发前囤够食物和淡水度过余波，3D低多边形，Godot。（itch 免费/自定价·Web）",
+    "url": "https://befuddlebug.itch.io/veil-of-the-volcano-lite",
+    "imageUrl": "/covers/itch-befuddlebug-veil-of-the-volcano-lite.jpg",
+    "source": "itch",
+    "sourceId": "befuddlebug-veil-of-the-volcano-lite",
+    "tags": [
+      "itch",
+      "game",
+      "tribe",
+      "island",
+      "volcano",
+      "seasons",
+      "godot"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-tresnovemstudio-maps-and-islands",
+    "type": "game",
+    "title": "Maps & Islands 地图与岛屿",
+    "summary": "在低多边形火山岛上第一人称走动、读地形，再把旗子位置钉到纸质地图上——地形可读性的小游戏，网页即玩。（itch 免费/自定价·Web）",
+    "url": "https://tresnovemstudio.itch.io/maps-and-islands",
+    "imageUrl": "/covers/itch-tresnovemstudio-maps-and-islands.jpg",
+    "source": "itch",
+    "sourceId": "tresnovemstudio-maps-and-islands",
+    "tags": [
+      "itch",
+      "game",
+      "low-poly",
+      "island",
+      "terrain",
+      "exploration",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-tommyaiseisaku-hakoniwa-plants",
+    "type": "game",
+    "title": "HAKONIWA Plants 箱庭植物",
+    "summary": "砖与玻璃的小温室，买块根植物、龙舌兰和仙人掌，换盆浇水看它们慢慢长——精致的3D箱庭微缩场景，网页即玩。（itch 免费/自定价·Web）",
+    "url": "https://tommyaiseisaku.itch.io/hakoniwa-plants",
+    "imageUrl": "/covers/itch-tommyaiseisaku-hakoniwa-plants.jpg",
+    "source": "itch",
+    "sourceId": "tommyaiseisaku-hakoniwa-plants",
+    "tags": [
+      "itch",
+      "game",
+      "hakoniwa",
+      "miniature",
+      "3d",
+      "plants",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-tommyaiseisaku-hakoniwa-aqua",
+    "type": "game",
+    "title": "HAKONIWA Aqua 箱庭水族",
+    "summary": "安静房间里的鱼缸：循环水体、放鱼、用真水草和沉木造景然后只是看着——3D水族箱庭，网页即玩。（itch 免费/自定价·Web）",
+    "url": "https://tommyaiseisaku.itch.io/hakoniwa-aqua",
+    "imageUrl": "/covers/itch-tommyaiseisaku-hakoniwa-aqua.jpg",
+    "source": "itch",
+    "sourceId": "tommyaiseisaku-hakoniwa-aqua",
+    "tags": [
+      "itch",
+      "game",
+      "hakoniwa",
+      "aquarium",
+      "3d",
+      "water",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-funbaguette-shoddy",
+    "type": "game",
+    "title": "Shoddy 烂工程",
+    "summary": "活火山岛上最便宜的施工队：最多4人合作按预算搭塔，搭得歪也行——卡通3D物理建造派对，Unity。（itch 免费/自定价·Windows/macOS）",
+    "url": "https://funbaguette.itch.io/shoddy",
+    "imageUrl": "/covers/itch-funbaguette-shoddy.jpg",
+    "source": "itch",
+    "sourceId": "funbaguette-shoddy",
+    "tags": [
+      "itch",
+      "game",
+      "building",
+      "physics",
+      "co-op",
+      "3d",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-mougie-corecrawler",
+    "type": "game",
+    "title": "CoreCrawler 核心爬行者",
+    "summary": "讽刺星球开采：开着爬行车碾进毛球群、敲碎水晶树、抽干整片海，车越吃越大从卡车长成履带上的公司园区——饱和玩具色3D。（itch $3.99·Windows）",
+    "url": "https://mougie.itch.io/corecrawler",
+    "imageUrl": "/covers/itch-mougie-corecrawler.jpg",
+    "source": "itch",
+    "sourceId": "mougie-corecrawler",
+    "tags": [
+      "itch",
+      "game",
+      "toy-color",
+      "3d",
+      "destruction",
+      "satire",
+      "growth"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-milkmanuk-offboarding",
+    "type": "game",
+    "title": "OFFBOARDING 离职",
+    "summary": "粗野主义高塔里的滑板幸存者：滑、刷、腾空攒Flow，站着不动就被“合规”吞没，从地下死商场一路滑到楼顶。（itch 免费/自定价·Web/Windows）",
+    "url": "https://milkmanuk.itch.io/offboarding",
+    "imageUrl": "/covers/itch-milkmanuk-offboarding.jpg",
+    "source": "itch",
+    "sourceId": "milkmanuk-offboarding",
+    "tags": [
+      "itch",
+      "game",
+      "brutalism",
+      "skateboard",
+      "3d",
+      "roguelike"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-essial-legato",
+    "type": "game",
+    "title": "Legato 连奏",
+    "summary": "King's Field式第一人称哥特RPG：640x360的PS1风渲染，无任务标记和指南针，暴风雨洞穴、铁根丘陵与失忆的村庄，Unity。（itch 免费/自定价·Windows/macOS/Linux）",
+    "url": "https://essial.itch.io/legato",
+    "imageUrl": "/covers/itch-essial-legato.jpg",
+    "source": "itch",
+    "sourceId": "essial-legato",
+    "tags": [
+      "itch",
+      "game",
+      "psx",
+      "gothic",
+      "kings-field",
+      "retro",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-samthesoldier-the-last-heron",
+    "type": "game",
+    "title": "The Last Heron 最后的白鹭",
+    "summary": "浏览器里的开放世界武士冒险：樱花谷、竹林骑行，决斗、潜行、驯服伙伴、钓鱼种田，七章流程。（itch 免费/自定价·Web）",
+    "url": "https://samthesoldier.itch.io/the-last-heron",
+    "imageUrl": "/covers/itch-samthesoldier-the-last-heron.jpg",
+    "source": "itch",
+    "sourceId": "samthesoldier-the-last-heron",
+    "tags": [
+      "itch",
+      "game",
+      "open-world",
+      "samurai",
+      "3d",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-elementos20-fresno-quebrado",
+    "type": "game",
+    "title": "Fresno Quebrado 破碎的白蜡",
+    "summary": "燃烧山谷里的中世纪开放世界：每场决斗由招架与破防决定，暗色火光与雾——黑暗哥特氛围。（itch $5·Windows/Linux）",
+    "url": "https://elementos20.itch.io/fresno-quebrado",
+    "imageUrl": "/covers/itch-elementos20-fresno-quebrado.jpg",
+    "source": "itch",
+    "sourceId": "elementos20-fresno-quebrado",
+    "tags": [
+      "itch",
+      "game",
+      "dark-fantasy",
+      "medieval",
+      "open-world",
+      "souls-like"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-danielv8-rose-and-blade",
+    "type": "game",
+    "title": "Rose & Blade 玫瑰与刃",
+    "summary": "three.js网页物理剑斗：每个骑士都是主动布娃娃，肌肉拉着真实身体保持平衡、迈步，用鼠标挥剑可断肢——1461年玫瑰战争。（itch 免费/自定价·Web）",
+    "url": "https://danielv8.itch.io/rose-and-blade",
+    "imageUrl": "/covers/itch-danielv8-rose-and-blade.jpg",
+    "source": "itch",
+    "sourceId": "danielv8-rose-and-blade",
+    "tags": [
+      "itch",
+      "game",
+      "active-ragdoll",
+      "physics",
+      "threejs",
+      "medieval",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-therealfibonacc-mortals-and-miracles",
+    "type": "game",
+    "title": "Mortals & Miracles 凡人与神迹",
+    "summary": "像素上帝模拟：抬升山脉、播种生命，看小王国从石斧发展到星舰；降雨祝福或投陨石、瘟疫和龙，还能与其他神联机——WorldBox式直接参考。（itch 免费/自定价·Web）",
+    "url": "https://therealfibonacc.itch.io/mortals-and-miracles",
+    "imageUrl": "/covers/itch-therealfibonacc-mortals-and-miracles.jpg",
+    "source": "itch",
+    "sourceId": "therealfibonacc-mortals-and-miracles",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "worldbox-like",
+      "civilization",
+      "pixel",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-kkrossstudio-woodlock",
+    "type": "game",
+    "title": "Woodlock 木锁",
+    "summary": "安静的3D木头玩具拼装：滑动旋转木块拼回蘑菇、鸭子、帆船、火箭，最后一块咔哒入位后玩具自己抛光上架——木质玩具感。（itch 免费/自定价·Web）",
+    "url": "https://kkrossstudio.itch.io/woodlock",
+    "imageUrl": "/covers/itch-kkrossstudio-woodlock.jpg",
+    "source": "itch",
+    "sourceId": "kkrossstudio-woodlock",
+    "tags": [
+      "itch",
+      "game",
+      "toy",
+      "wood",
+      "3d",
+      "puzzle",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-5176180",
+    "type": "game",
+    "title": "Things That Happen on the Map 地图上发生的事",
+    "summary": "生成一个世界然后看历史从交互系统里涌现：战争、联盟、经济、城市、家族与个人，从国界变化一路缩放到个人生活——WorldBox式世界史模拟。（Steam $1.59·Win/Mac·Oct 6, 2026发售）",
+    "url": "https://store.steampowered.com/app/5176180/",
+    "imageUrl": "/covers/steam-5176180.jpg",
+    "source": "steam",
+    "sourceId": "5176180",
+    "tags": [
+      "steam",
+      "game",
+      "world-sim",
+      "history",
+      "emergent",
+      "god-view"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-3854870",
+    "type": "game",
+    "title": "ShipCrafter 造船师",
+    "summary": "海战沙盒：自己组装战舰部件、解锁新组件，在开阔海面上与越来越强的敌舰对轰——3D造船+物理海战。（Steam $5.59·Win/Linux·Sep 30, 2026发售）",
+    "url": "https://store.steampowered.com/app/3854870/",
+    "imageUrl": "/covers/steam-3854870.jpg",
+    "source": "steam",
+    "sourceId": "3854870",
+    "tags": [
+      "steam",
+      "game",
+      "shipbuilding",
+      "naval",
+      "sandbox",
+      "3d"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-2429930",
+    "type": "game",
+    "title": "Power Network Tycoon 电网大亨",
+    "summary": "基于物理的高压电网模拟：架设输电线路、监控负荷、应对环境挑战，夜景小城的灯一盏盏亮起来。（Steam $11.24·Win/Mac/Linux·Sep 30, 2026发售）",
+    "url": "https://store.steampowered.com/app/2429930/",
+    "imageUrl": "/covers/steam-2429930.jpg",
+    "source": "steam",
+    "sourceId": "2429930",
+    "tags": [
+      "steam",
+      "game",
+      "power-grid",
+      "physics",
+      "infrastructure",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-3265840",
+    "type": "game",
+    "title": "BioEden 生态伊甸",
+    "summary": "温馨的生态修复经营：为几十种动物调配完美生物群系，用穹顶与地形让荒芜星球重获生机——彩色3D生态系统。（Steam $21.99·Win·Sep 3, 2026发售）",
+    "url": "https://store.steampowered.com/app/3265840/",
+    "imageUrl": "/covers/steam-3265840.jpg",
+    "source": "steam",
+    "sourceId": "3265840",
+    "tags": [
+      "steam",
+      "game",
+      "ecosystem",
+      "biomes",
+      "restoration",
+      "3d"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-5133090",
+    "type": "game",
+    "title": "Pressure Works 气压工坊",
+    "summary": "拼接气动零件、用软管连接，造出真正能运转的机器：气压既是动力也是线路，驱动气缸、曲柄发动机，用阀门搭逻辑电路。（Steam $4.99·Win·Oct 1, 2026发售）",
+    "url": "https://store.steampowered.com/app/5133090/",
+    "imageUrl": "/covers/steam-5133090.jpg",
+    "source": "steam",
+    "sourceId": "5133090",
+    "tags": [
+      "steam",
+      "game",
+      "pneumatics",
+      "machines",
+      "physics",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "steam-5284980",
+    "type": "game",
+    "title": "AeroBloom 绽放城",
+    "summary": "扔飞盘把海滨城市一块一块炸开：体素方块城市可逐块破坏，配跑酷挑战，饱和玩具色的世界随破坏亮起来。（Steam $2.79·Win·Oct 6, 2026发售）",
+    "url": "https://store.steampowered.com/app/5284980/",
+    "imageUrl": "/covers/steam-5284980.jpg",
+    "source": "steam",
+    "sourceId": "5284980",
+    "tags": [
+      "steam",
+      "game",
+      "voxel",
+      "destruction",
+      "toy-color",
+      "parkour"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "80lv-graveyard-keeper-2-3d",
+    "type": "game",
+    "title": "Graveyard Keeper 2 墓园管理者2",
+    "summary": "Lazy Bear Games联创透露：这款星露谷式墓园经营续作里几乎每个物件都是真3D模型再渲染成像素画，为了真实光影与透视——3D像素化渲染的商业案例。（80.lv 文章·游戏已发售于Steam）",
+    "url": "https://80.lv/articles/almost-every-object-in-this-stardew-valley-style-cemetery-sim-is-actually-3d",
+    "imageUrl": "/covers/80lv-graveyard-keeper-2-3d.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-graveyard-keeper-2-3d",
+    "tags": [
+      "80lv",
+      "game",
+      "pixel-3d",
+      "graveyard",
+      "unity",
+      "management"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "x-2107457834266861630",
+    "type": "shader",
+    "title": "Thatched Houses with Fences 茅草屋与篱笆",
+    "summary": "monomello的茅草屋组件加上了石篱笆：草顶小屋、松树、门口灯火的手绘风小场景，模块化建筑资产参考（适合放置建筑）。",
+    "url": "https://x.com/monomello_/status/2107457834266861630",
+    "imageUrl": "/covers/x-2107457834266861630.jpg",
+    "source": "x",
+    "sourceId": "2107457834266861630",
+    "tags": [
+      "x",
+      "shader",
+      "stylized",
+      "diorama",
+      "buildings",
+      "hand-painted"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "x-2107522631322972650",
+    "type": "shader",
+    "title": "NOP Pixels Waterfall Isle 像素瀑布小岛",
+    "summary": "NOP_Pixels回顾旧作：等距像素小岛上的瀑布、岩石、树和篝火，水流动画循环——像素美术配色与水体画法参考。",
+    "url": "https://x.com/NOP_Pixels/status/2107522631322972650",
+    "imageUrl": "/covers/x-2107522631322972650.jpg",
+    "source": "x",
+    "sourceId": "2107522631322972650",
+    "tags": [
+      "x",
+      "shader",
+      "pixel-art",
+      "waterfall",
+      "isometric",
+      "animation"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "x-2107566778851217800",
+    "type": "shader",
+    "title": "GTA1 Driving Physics Demo GTA1 驾驶物理",
+    "summary": "前GTA开发者Obbe Vermeij推荐：Pat Kerr公开了当年救活GTA1驾驶手感的2D车辆物理，做成可玩网页Demo，漂移轨迹与手刹可视化。（原收藏无图，封面取自80.lv对该Demo的报道截图）",
+    "url": "https://x.com/ObbeVermeij/status/2107566778851217800",
+    "imageUrl": "/covers/x-2107566778851217800.jpg",
+    "source": "x",
+    "sourceId": "2107566778851217800",
+    "tags": [
+      "x",
+      "shader",
+      "vehicle-physics",
+      "gta",
+      "web",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-ys-room-13-water-normal-maps-12-matcaps",
+    "type": "shader",
+    "title": "Water Normal Maps & MatCaps 水面法线包",
+    "summary": "13张无缝水体法线（水滴、雨涟漪、毛细波、涌浪、湿石板、水洼）+12个水MatCap，PC与Quest两档——湿石与水面材质直接可用。（itch $5.99·资源包）",
+    "url": "https://ys-room.itch.io/13-water-normal-maps-12-matcaps",
+    "imageUrl": "/covers/itch-ys-room-13-water-normal-maps-12-matcaps.jpg",
+    "source": "itch",
+    "sourceId": "ys-room-13-water-normal-maps-12-matcaps",
+    "tags": [
+      "itch",
+      "shader",
+      "water",
+      "normal-maps",
+      "matcap",
+      "wet-stone",
+      "ripples"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-romulo-g-d-voxel-nature",
+    "type": "shader",
+    "title": "Voxel Nature 体素自然",
+    "summary": "Unity URP像素体素树：半米方块+16px贴图，叶片按圆冠受光、边缘透光有光晕，随风摆动、像素级锐利阴影，11树种×4季节。（itch $2.99·资源包）",
+    "url": "https://romulo-g-d.itch.io/voxel-nature",
+    "imageUrl": "/covers/itch-romulo-g-d-voxel-nature.jpg",
+    "source": "itch",
+    "sourceId": "romulo-g-d-voxel-nature",
+    "tags": [
+      "itch",
+      "shader",
+      "voxel",
+      "pixel-art",
+      "trees",
+      "wind",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-chilllands-medieval-hex-worlds",
+    "type": "shader",
+    "title": "Medieval Hex Worlds 中世纪六边形世界",
+    "summary": "388个低多边形模型族、10种文化（远东、中亚、拜占庭、北欧…）共用12种建筑角色，按六边形精确对接——直接对口六边形上帝视角项目的可放置建筑。（itch $7.99·资源包）",
+    "url": "https://chilllands.itch.io/medieval-hex-worlds",
+    "imageUrl": "/covers/itch-chilllands-medieval-hex-worlds.jpg",
+    "source": "itch",
+    "sourceId": "chilllands-medieval-hex-worlds",
+    "tags": [
+      "itch",
+      "shader",
+      "hex",
+      "low-poly",
+      "buildings",
+      "medieval",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-chilllands-hex-atelier",
+    "type": "shader",
+    "title": "Hex Atelier 六边形画坊",
+    "summary": "上面那套的免费浏览器地图绘制器：在连通的六边形世界上“画”出城镇、农田与要塞，保存并导出3D布局。（itch 免费/自定价·Web）",
+    "url": "https://chilllands.itch.io/hex-atelier",
+    "imageUrl": "/covers/itch-chilllands-hex-atelier.jpg",
+    "source": "itch",
+    "sourceId": "chilllands-hex-atelier",
+    "tags": [
+      "itch",
+      "shader",
+      "hex",
+      "map-painter",
+      "low-poly",
+      "web",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-lowendplay-instant-tree-maker",
+    "type": "shader",
+    "title": "Instant Tree Maker 即时造树",
+    "summary": "几秒生成风格化带贴图的3D树，不用开Blender、一次买断无订阅，可导出到Godot等引擎——手绘感植被。（itch 6.30€·Windows）",
+    "url": "https://lowendplay.itch.io/instant-tree-maker",
+    "imageUrl": "/covers/itch-lowendplay-instant-tree-maker.jpg",
+    "source": "itch",
+    "sourceId": "lowendplay-instant-tree-maker",
+    "tags": [
+      "itch",
+      "shader",
+      "procedural",
+      "trees",
+      "stylized",
+      "godot",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-vefects-pixel-craft-vfx-unity-demo",
+    "type": "shader",
+    "title": "Pixel Craft VFX 像素工艺特效",
+    "summary": "Vefects的像素化风格特效包网页Demo：方块化的火、水、魔法、爆炸等，Minecraft式像素VFX，Unity。（itch 免费/自定价·Web）",
+    "url": "https://vefects.itch.io/pixel-craft-vfx-unity-demo",
+    "imageUrl": "/covers/itch-vefects-pixel-craft-vfx-unity-demo.jpg",
+    "source": "itch",
+    "sourceId": "vefects-pixel-craft-vfx-unity-demo",
+    "tags": [
+      "itch",
+      "shader",
+      "pixel",
+      "vfx",
+      "unity",
+      "stylized",
+      "demo"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-invlvl-wearcraft",
+    "type": "shader",
+    "title": "WearCraft 磨损工坊",
+    "summary": "给PBR贴图组程序化生成磨损：加载albedo/法线/粗糙度/高度，批量出N种不同的掉漆、划痕、锈迹变体并导出。（itch 免费/自定价·Windows）",
+    "url": "https://invlvl.itch.io/wearcraft",
+    "imageUrl": "/covers/itch-invlvl-wearcraft.jpg",
+    "source": "itch",
+    "sourceId": "invlvl-wearcraft",
+    "tags": [
+      "itch",
+      "shader",
+      "pbr",
+      "procedural",
+      "wear",
+      "textures",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-frakassets-pixor",
+    "type": "shader",
+    "title": "Pixor 3D转像素",
+    "summary": "把3D模型渲染成清爽的动画像素精灵：每个朝向每一帧都确定一致，Blender建模→Pixor渲染→Aseprite修——3D像素化管线参考。（itch $13.99·Windows/Linux）",
+    "url": "https://frakassets.itch.io/pixor",
+    "imageUrl": "/covers/itch-frakassets-pixor.jpg",
+    "source": "itch",
+    "sourceId": "frakassets-pixor",
+    "tags": [
+      "itch",
+      "shader",
+      "3d-to-pixel",
+      "sprites",
+      "pixel-art",
+      "blender",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-icemaan-tallboy-pixel-art-buildings-with-interiors",
+    "type": "shader",
+    "title": "Tallboy 像素建筑建模器",
+    "summary": "输出像素画的3D建模器：用盒子挤出、环切、内插搭等距建筑，调色板上色后按1纹素=1像素出图，还能看到室内房间——免费。（itch 免费/自定价·Web/Windows）",
+    "url": "https://icemaan.itch.io/tallboy-pixel-art-buildings-with-interiors",
+    "imageUrl": "/covers/itch-icemaan-tallboy-pixel-art-buildings-with-interiors.jpg",
+    "source": "itch",
+    "sourceId": "icemaan-tallboy-pixel-art-buildings-with-interiors",
+    "tags": [
+      "itch",
+      "shader",
+      "pixel-art",
+      "isometric",
+      "buildings",
+      "modeler",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-dreammixgames-hill-maker",
+    "type": "shader",
+    "title": "Hill Maker 造山者",
+    "summary": "Blender低多边形地形插件：快速塑造山丘与地块，专为低多边形优化，也能拉到高模。（itch $8.99·资源包）",
+    "url": "https://dreammixgames.itch.io/hill-maker",
+    "imageUrl": "/covers/itch-dreammixgames-hill-maker.jpg",
+    "source": "itch",
+    "sourceId": "dreammixgames-hill-maker",
+    "tags": [
+      "itch",
+      "shader",
+      "blender",
+      "terrain",
+      "low-poly",
+      "addon"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-retrodimensions-psx-texture-cruncher",
+    "type": "shader",
+    "title": "PSX Texture Cruncher PSX贴图压缩器",
+    "summary": "Unity编辑器工具：把现代贴图批量转成低分辨率、限色的PS1风资产，即时预览多种预设。（itch $5.99·资源包）",
+    "url": "https://retrodimensions.itch.io/psx-texture-cruncher",
+    "imageUrl": "/covers/itch-retrodimensions-psx-texture-cruncher.jpg",
+    "source": "itch",
+    "sourceId": "retrodimensions-psx-texture-cruncher",
+    "tags": [
+      "itch",
+      "shader",
+      "psx",
+      "unity",
+      "textures",
+      "retro",
+      "tool"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-vrhart-wavefield",
+    "type": "shader",
+    "title": "Wavefield 波场",
+    "summary": "干涉工作台：每个像素累加所有波源的相位，摩尔纹不是画的而是算出来的，18个预设、可“繁殖”、导出GIF/WebM。（itch 免费/自定价·Web）",
+    "url": "https://vrhart.itch.io/wavefield",
+    "imageUrl": "/covers/itch-vrhart-wavefield.jpg",
+    "source": "itch",
+    "sourceId": "vrhart-wavefield",
+    "tags": [
+      "itch",
+      "shader",
+      "wave-interference",
+      "generative",
+      "moire",
+      "physics",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-benkt1-sandbox",
+    "type": "shader",
+    "title": "Sandbox 等距流体沙盒",
+    "summary": "等距3D地形上的流体沙盒：放石、沙、水、熔岩、雾和泡沫，按I模拟侵蚀，WASM开源——GPU沙/流体式实时模拟。（itch 免费/自定价·Web）",
+    "url": "https://benkt1.itch.io/sandbox",
+    "imageUrl": "/covers/itch-benkt1-sandbox.jpg",
+    "source": "itch",
+    "sourceId": "benkt1-sandbox",
+    "tags": [
+      "itch",
+      "shader",
+      "fluid",
+      "erosion",
+      "lava",
+      "isometric",
+      "wasm"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-bananaft-yedomaglobula",
+    "type": "shader",
+    "title": "Yedoma Globula 冻土球",
+    "summary": "第一人称开放世界分形探索：在荒凉的3D分形世界徒步、攀爬、喷气背包，开飞船穿雾气洞穴——实时光线步进渲染。（itch $10·Windows/Linux）",
+    "url": "https://bananaft.itch.io/yedomaglobula",
+    "imageUrl": "/covers/itch-bananaft-yedomaglobula.jpg",
+    "source": "itch",
+    "sourceId": "bananaft-yedomaglobula",
+    "tags": [
+      "itch",
+      "shader",
+      "fractal",
+      "raymarching",
+      "open-world",
+      "atmospheric"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-crizomb-ray-marching-cosmique",
+    "type": "shader",
+    "title": "Ray Marching Cosmique 宇宙光线步进",
+    "summary": "受《马里奥银河》启发的冥想小品：光线步进同时负责渲染和物理，分形小星球上的神秘氛围，Unity。（itch 免费/自定价·Windows）",
+    "url": "https://crizomb.itch.io/ray-marching-cosmique",
+    "imageUrl": "/covers/itch-crizomb-ray-marching-cosmique.jpg",
+    "source": "itch",
+    "sourceId": "crizomb-ray-marching-cosmique",
+    "tags": [
+      "itch",
+      "shader",
+      "raymarching",
+      "fractal",
+      "unity",
+      "contemplative"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-connorbell-angeline",
+    "type": "shader",
+    "title": "Angeline 安吉琳",
+    "summary": "VR生成式冥想空间：万花筒式分形算法反复折叠、缩放、旋转多面体生成地表，你的移动会改变形状与声音。（itch 免费/自定价·Windows）",
+    "url": "https://connorbell.itch.io/angeline",
+    "imageUrl": "/covers/itch-connorbell-angeline.jpg",
+    "source": "itch",
+    "sourceId": "connorbell-angeline",
+    "tags": [
+      "itch",
+      "shader",
+      "fractal",
+      "vr",
+      "generative",
+      "raymarching"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-j35ta-decoupled-cellular-matrix-engine-webgpu-procedural-core",
+    "type": "shader",
+    "title": "Cellular Matrix Engine WebGPU细胞矩阵引擎",
+    "summary": "WebGPU确定性程序化模拟内核：Q16.16定点运动学无漂移、传送门坐标变换，R键重生成地牢矩阵，浏览器可试。（itch $1·Web）",
+    "url": "https://j35ta.itch.io/decoupled-cellular-matrix-engine-webgpu-procedural-core",
+    "imageUrl": "/covers/itch-j35ta-decoupled-cellular-matrix-engine-webgpu-procedural-core.jpg",
+    "source": "itch",
+    "sourceId": "j35ta-decoupled-cellular-matrix-engine-webgpu-procedural-core",
+    "tags": [
+      "itch",
+      "shader",
+      "webgpu",
+      "procedural",
+      "cellular",
+      "deterministic",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-mahmoud-sirano-pocket-universe",
+    "type": "shader",
+    "title": "Pocket Universe 口袋宇宙",
+    "summary": "把尘埃聚成恒星、把行星甩进轨道，听它们演奏——轨道物理生成式音乐玩具，浏览器即玩。（itch 免费/自定价·Web）",
+    "url": "https://mahmoud-sirano.itch.io/pocket-universe",
+    "imageUrl": "/covers/itch-mahmoud-sirano-pocket-universe.jpg",
+    "source": "itch",
+    "sourceId": "mahmoud-sirano-pocket-universe",
+    "tags": [
+      "itch",
+      "shader",
+      "orbital-physics",
+      "generative",
+      "music",
+      "web"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-the-gaba-ghoul-aysdan",
+    "type": "shader",
+    "title": "All Your Stellar Days and Nights 星辰昼夜",
+    "summary": "环境美术+音乐展示：风格化小岛4分钟昼夜循环，四套预烘焙光照（黎明/白天/黄昏/夜晚），点亮的建筑可拉近查看，Unity。（itch 免费/自定价·资源包）",
+    "url": "https://the-gaba-ghoul.itch.io/aysdan",
+    "imageUrl": "/covers/itch-the-gaba-ghoul-aysdan.jpg",
+    "source": "itch",
+    "sourceId": "the-gaba-ghoul-aysdan",
+    "tags": [
+      "itch",
+      "shader",
+      "stylized",
+      "day-night",
+      "lighting",
+      "diorama",
+      "unity"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-dabba9-snapscape-village",
+    "type": "shader",
+    "title": "Snapscape Village 拼接乡村",
+    "summary": "50块现代波兰乡村地形瓦片：土路直弯T字、麦田边、过河农桥、电围栏牧场与玉米/麦茬/土豆田的完整自动拼接——免费模块化田园。（itch 免费/自定价·资源包）",
+    "url": "https://dabba9.itch.io/snapscape-village",
+    "imageUrl": "/covers/itch-dabba9-snapscape-village.jpg",
+    "source": "itch",
+    "sourceId": "dabba9-snapscape-village",
+    "tags": [
+      "itch",
+      "shader",
+      "modular",
+      "tiles",
+      "low-poly",
+      "village",
+      "free"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "itch-mars0hod-cablepath-generator",
+    "type": "shader",
+    "title": "CablePath Generator 线缆生成器",
+    "summary": "Blender程序化线缆插件：在物体与端口之间直接拉线，选线型、接头与材质，移动任一端口自动重算。（itch $9·资源包）",
+    "url": "https://mars0hod.itch.io/cablepath-generator",
+    "imageUrl": "/covers/itch-mars0hod-cablepath-generator.jpg",
+    "source": "itch",
+    "sourceId": "mars0hod-cablepath-generator",
+    "tags": [
+      "itch",
+      "shader",
+      "blender",
+      "procedural",
+      "cables",
+      "addon"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "80lv-silk-and-sorrow-fake-3d",
+    "type": "shader",
+    "title": "Silk & Sorrow Fake-3D Godot 伪3D技巧",
+    "summary": "两人用Godot做的Darkwood/饥荒式合作恐怖游戏：树木看起来立体其实全是2D精灵，用一套小型代码视差系统伪造3D纵深。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/see-how-developers-faked-3d-look-in-godot-for-their-darkwood-inspired-co-op-horror",
+    "imageUrl": "/covers/80lv-silk-and-sorrow-fake-3d.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-silk-and-sorrow-fake-3d",
+    "tags": [
+      "80lv",
+      "shader",
+      "godot",
+      "fake-3d",
+      "parallax",
+      "2.5d",
+      "horror"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
+    "id": "80lv-threejs-jelly-dessert",
+    "type": "shader",
+    "title": "Three.js Jelly Dessert 果冻甜点",
+    "summary": "技术美术mesq的three.js果冻甜点：手绘法线+TSL后处理做出半透明果冻，渐变笔触风格化，Q弹抖动动画，frutiger aero感。（80.lv 文章·免费）",
+    "url": "https://80.lv/articles/look-at-this-jiggly-jelly-dessert-made-with-three-js",
+    "imageUrl": "/covers/80lv-threejs-jelly-dessert.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-threejs-jelly-dessert",
+    "tags": [
+      "80lv",
+      "shader",
+      "threejs",
+      "tsl",
+      "jelly",
+      "hand-painted-normals",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-08"
+  },
+  {
     "id": "x-2107141431080931664",
     "type": "game",
     "title": "Defilade 掩体RTS 破10万愿望单",
