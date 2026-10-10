@@ -1,5 +1,1619 @@
 [
   {
+    "id": "x-2108563694313714036",
+    "type": "game",
+    "title": "WildRoot 野根",
+    "summary": "《WildRoot》Steam发售：在神秘森林里安家、扩张殖民地，看着居民自己把家园建起来——森林殖民地模拟。",
+    "url": "https://x.com/RahulDa92930910/status/2108563694313714036",
+    "imageUrl": "/covers/x-2108563694313714036.jpg",
+    "source": "x",
+    "sourceId": "2108563694313714036",
+    "tags": [
+      "x",
+      "game",
+      "colony",
+      "forest",
+      "steam",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108522783458074983",
+    "type": "game",
+    "title": "Caravan AI 商队AI",
+    "summary": "chris_wallura给世界补上商队：AI还很粗，但商队已经在路上走了——开放世界商队系统开发日志。",
+    "url": "https://x.com/chris_wallura/status/2108522783458074983",
+    "imageUrl": "/covers/x-2108522783458074983.jpg",
+    "source": "x",
+    "sourceId": "2108522783458074983",
+    "tags": [
+      "x",
+      "game",
+      "caravan",
+      "ai",
+      "devlog",
+      "world"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108502240101273891",
+    "type": "game",
+    "title": "Tehom Lake Town 深渊湖镇",
+    "summary": "#Tehom湖泊小镇区域：几周搭出的模块化房屋拼成临水聚落——模块化建筑与湖岸城镇参考。",
+    "url": "https://x.com/trys_____/status/2108502240101273891",
+    "imageUrl": "/covers/x-2108502240101273891.jpg",
+    "source": "x",
+    "sourceId": "2108502240101273891",
+    "tags": [
+      "x",
+      "game",
+      "modular",
+      "town",
+      "lake",
+      "building"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108254241869734274",
+    "type": "game",
+    "title": "Camera Rotation Fix 镜头旋转",
+    "summary": "根据反馈补上镜头旋转后终于能看清前方了——第三人称/探索原型的相机调参。",
+    "url": "https://x.com/Mkeyla_Creates/status/2108254241869734274",
+    "imageUrl": "/covers/x-2108254241869734274.jpg",
+    "source": "x",
+    "sourceId": "2108254241869734274",
+    "tags": [
+      "x",
+      "game",
+      "camera",
+      "devlog",
+      "prototype",
+      "3d"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108167300650004589",
+    "type": "game",
+    "title": "Wrongosaurus 错龙造物",
+    "summary": "Opus 5.5做的恐龙组装游戏：科学准确度可选，把造物玩成“错得可爱”的生物拼装——造物沙盒原型。",
+    "url": "https://x.com/hakimieiqbal/status/2108167300650004589",
+    "imageUrl": "/covers/x-2108167300650004589.jpg",
+    "source": "x",
+    "sourceId": "2108167300650004589",
+    "tags": [
+      "x",
+      "game",
+      "creature",
+      "dinosaur",
+      "sandbox",
+      "ai-built"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108232888668061733",
+    "type": "game",
+    "title": "Survival Chase three.js 生存追逐",
+    "summary": "Step 5 Preview从零写出的Three.js生存追逐：浏览器里跑逃、全流程一气呵成——网页三维动作原型。",
+    "url": "https://x.com/Bhavani_00007/status/2108232888668061733",
+    "imageUrl": "/covers/x-2108232888668061733.jpg",
+    "source": "x",
+    "sourceId": "2108232888668061733",
+    "tags": [
+      "x",
+      "game",
+      "threejs",
+      "survival",
+      "chase",
+      "web"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108336208891801999",
+    "type": "game",
+    "title": "Jelly Pirate Cove 果冻海盗湾",
+    "summary": "同一提示词下Opus与GPT各捏一座果冻风海盗湾：玩具感小岛与码头——风格化小场景生成对比。",
+    "url": "https://x.com/vib3coded/status/2108336208891801999",
+    "imageUrl": "/covers/x-2108336208891801999.jpg",
+    "source": "x",
+    "sourceId": "2108336208891801999",
+    "tags": [
+      "x",
+      "game",
+      "stylized",
+      "pirate",
+      "island",
+      "toy-like"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108321284065030312",
+    "type": "game",
+    "title": "Pathfinding Combat Pack 寻路战斗包",
+    "summary": "回到原点：做一套易复用的寻路+战斗包——策略/行动游戏通用战斗框架。",
+    "url": "https://x.com/Lizzergas/status/2108321284065030312",
+    "imageUrl": "/covers/x-2108321284065030312.jpg",
+    "source": "x",
+    "sourceId": "2108321284065030312",
+    "tags": [
+      "x",
+      "game",
+      "pathfinding",
+      "combat",
+      "framework",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108279382272086265",
+    "type": "game",
+    "title": "Star Seeker Laser SFX 寻星者激光音效",
+    "summary": "今日更新正式换掉激光音效：星空射击手感又磨了一刀——太空动作手感调参。",
+    "url": "https://x.com/starseekergame_/status/2108279382272086265",
+    "imageUrl": "/covers/x-2108279382272086265.jpg",
+    "source": "x",
+    "sourceId": "2108279382272086265",
+    "tags": [
+      "x",
+      "game",
+      "space",
+      "sfx",
+      "shooter",
+      "update"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108241008060510587",
+    "type": "game",
+    "title": "SUPERPANEL 超级面板",
+    "summary": "Godot硬核战术FPS《SUPERPANEL》：单人或合作，免费试玩已上Steam——面板掩体战术射击。",
+    "url": "https://x.com/jettelly/status/2108241008060510587",
+    "imageUrl": "/covers/x-2108241008060510587.jpg",
+    "source": "x",
+    "sourceId": "2108241008060510587",
+    "tags": [
+      "x",
+      "game",
+      "godot",
+      "tactical",
+      "fps",
+      "demo",
+      "steam"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108477229839921403",
+    "type": "game",
+    "title": "SOJOURNER 旅人太阳系",
+    "summary": "在真实太阳系数据里找回家的路：NASA/JPL轨道数据驱动的三维航行——浏览器太阳系探索。",
+    "url": "https://x.com/threejs/status/2108477229839921403",
+    "imageUrl": "/covers/x-2108477229839921403.jpg",
+    "source": "x",
+    "sourceId": "2108477229839921403",
+    "tags": [
+      "x",
+      "game",
+      "threejs",
+      "space",
+      "solar-system",
+      "web"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108117708726587541",
+    "type": "game",
+    "title": "New Rad City 新辐射城",
+    "summary": "1989曼哈顿废墟上的核后开放世界RPG，浏览器即玩——复古废土网页大世界。",
+    "url": "https://x.com/threejs/status/2108117708726587541",
+    "imageUrl": "/covers/x-2108117708726587541.jpg",
+    "source": "x",
+    "sourceId": "2108117708726587541",
+    "tags": [
+      "x",
+      "game",
+      "rpg",
+      "open-world",
+      "post-apoc",
+      "web",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108705322575753305",
+    "type": "game",
+    "title": "Planetary Hex Colony 行星六边形殖民地",
+    "summary": "从3D美术转独立：Unity里行星六边形网格+殖民系统终于转起来——六边形上帝视角殖民。",
+    "url": "https://x.com/imofi77/status/2108705322575753305",
+    "imageUrl": "/covers/x-2108705322575753305.jpg",
+    "source": "x",
+    "sourceId": "2108705322575753305",
+    "tags": [
+      "x",
+      "game",
+      "hex",
+      "colony",
+      "unity",
+      "god-view"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108614078747033853",
+    "type": "game",
+    "title": "Medieval City Corner 中世纪城角",
+    "summary": "Godot像素中世纪城建的一角安静成型：木屋巷道与城墙——像素城建氛围参考。",
+    "url": "https://x.com/ikar0x_dev/status/2108614078747033853",
+    "imageUrl": "/covers/x-2108614078747033853.jpg",
+    "source": "x",
+    "sourceId": "2108614078747033853",
+    "tags": [
+      "x",
+      "game",
+      "city-builder",
+      "pixel-art",
+      "godot",
+      "medieval"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108602728113181052",
+    "type": "game",
+    "title": "Sandcastle Tide Sim 沙堡潮汐",
+    "summary": "三分钟堆沙堡，再看真实潮汐模拟把它冲垮：护城河进水、墙塌塔陷——沙与水耦合小游戏。",
+    "url": "https://x.com/comster/status/2108602728113181052",
+    "imageUrl": "/covers/x-2108602728113181052.jpg",
+    "source": "x",
+    "sourceId": "2108602728113181052",
+    "tags": [
+      "x",
+      "game",
+      "sand",
+      "tide",
+      "simulation",
+      "threejs",
+      "physics"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108573204730286566",
+    "type": "game",
+    "title": "Vultures PS2 Look 秃鹫PS2风",
+    "summary": "Godot作品《Vultures》往PS2时代画风靠：扫描线与低精度模型——复古帧缓冲美学。",
+    "url": "https://x.com/jettelly/status/2108573204730286566",
+    "imageUrl": "/covers/x-2108573204730286566.jpg",
+    "source": "x",
+    "sourceId": "2108573204730286566",
+    "tags": [
+      "x",
+      "game",
+      "godot",
+      "ps2",
+      "retro",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-borick-deepdig-colony",
+    "type": "game",
+    "title": "Deepdig Colony 深掘殖民地",
+    "summary": "向下挖、向上建，让小小地下殖民地继续喘气——地下殖民地模拟。（itch 免费/自定价·Web）",
+    "url": "https://borick.itch.io/deepdig-colony",
+    "imageUrl": "/covers/itch-borick-deepdig-colony.jpg",
+    "source": "itch",
+    "sourceId": "borick-deepdig-colony",
+    "tags": [
+      "itch",
+      "game",
+      "colony-sim",
+      "digging",
+      "underground"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-mrr1665-orbital-gardnener",
+    "type": "game",
+    "title": "Orbital Gardener 轨道园丁",
+    "summary": "一颗种子一颗种子地种出银河——轨道尺度的神谕种植。（itch 免费/自定价·Web）",
+    "url": "https://mrr1665.itch.io/orbital-gardnener",
+    "imageUrl": "/covers/itch-mrr1665-orbital-gardnener.jpg",
+    "source": "itch",
+    "sourceId": "mrr1665-orbital-gardnener",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "space",
+      "gardening",
+      "incremental"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-agloe-everchronicle",
+    "type": "game",
+    "title": "Everchronicle 永世编年",
+    "summary": "幻想世界自己运转并写下历史：你偶尔插手——观察型活世界。（itch 免费/自定价·Windows）",
+    "url": "https://agloe.itch.io/everchronicle",
+    "imageUrl": "/covers/itch-agloe-everchronicle.jpg",
+    "source": "itch",
+    "sourceId": "agloe-everchronicle",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "living-world",
+      "chronicle"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-foolish-mortals-moon-god",
+    "type": "game",
+    "title": "Moon God 月之神",
+    "summary": "行星尺度增量殖民/文明：当月神看着族群扩张——大型神游模拟。（itch 免费/自定价·Windows/Linux/Android）",
+    "url": "https://foolish-mortals.itch.io/moon-god",
+    "imageUrl": "/covers/itch-foolish-mortals-moon-god.jpg",
+    "source": "itch",
+    "sourceId": "foolish-mortals-moon-god",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "colony",
+      "incremental",
+      "planet"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-jokupelle-ages-of-conflict",
+    "type": "game",
+    "title": "Ages of Conflict 冲突年代",
+    "summary": "多地图大混战世界战争模拟：随机化开局看诸国厮杀——WorldBox近亲。（itch $6.99·Web/Windows/Linux）",
+    "url": "https://jokupelle.itch.io/ages-of-conflict",
+    "imageUrl": "/covers/itch-jokupelle-ages-of-conflict.jpg",
+    "source": "itch",
+    "sourceId": "jokupelle-ages-of-conflict",
+    "tags": [
+      "itch",
+      "game",
+      "worldbox-like",
+      "war-sim",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-waxb-kubernites",
+    "type": "game",
+    "title": "Kubernites Kube骑士",
+    "summary": "外表温馨中世纪城建，内核其实是Kubernetes集群隐喻——极客向城镇建造。（itch 免费/自定价·Windows/macOS/Linux）",
+    "url": "https://waxb.itch.io/kubernites",
+    "imageUrl": "/covers/itch-waxb-kubernites.jpg",
+    "source": "itch",
+    "sourceId": "waxb-kubernites",
+    "tags": [
+      "itch",
+      "game",
+      "city-builder",
+      "cozy",
+      "kubernetes",
+      "metaphor"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-gamestergame-civ-maker",
+    "type": "game",
+    "title": "CIV Maker 文明制造",
+    "summary": "从一座城到一个国家：自己捏文明——文明构建沙盒。（itch 免费/自定价·Windows/Android）",
+    "url": "https://gamestergame.itch.io/civ-maker",
+    "imageUrl": "/covers/itch-gamestergame-civ-maker.jpg",
+    "source": "itch",
+    "sourceId": "gamestergame-civ-maker",
+    "tags": [
+      "itch",
+      "game",
+      "civilization",
+      "city-builder",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-billythegod-tidal-isles",
+    "type": "game",
+    "title": "Tidal Isles 潮汐群岛",
+    "summary": "15回合里抽建筑、管资源，造出一座潮汐岛——短局岛屿城建。（itch $3.99·下载版）",
+    "url": "https://billythegod.itch.io/tidal-isles",
+    "imageUrl": "/covers/itch-billythegod-tidal-isles.jpg",
+    "source": "itch",
+    "sourceId": "billythegod-tidal-isles",
+    "tags": [
+      "itch",
+      "game",
+      "island",
+      "city-builder",
+      "draft"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-zhizaostudio-park-tycoon",
+    "type": "game",
+    "title": "Park Tycoon 公园大亨",
+    "summary": "像素风公园经营：从一片草皮起步摆设施，让人愿意来消磨下午。（itch 免费/自定价·Web）",
+    "url": "https://zhizaostudio.itch.io/park-tycoon",
+    "imageUrl": "/covers/itch-zhizaostudio-park-tycoon.jpg",
+    "source": "itch",
+    "sourceId": "zhizaostudio-park-tycoon",
+    "tags": [
+      "itch",
+      "game",
+      "tycoon",
+      "pixel-art",
+      "management",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-ogzkaanarda-unfactory",
+    "type": "game",
+    "title": "Unfactory 反工厂",
+    "summary": "工厂游戏反过来：废料场里20万件杂物要拆光，越拆越多——逆向拆解工厂。（itch 免费/自定价·下载版）",
+    "url": "https://ogzkaanarda.itch.io/unfactory",
+    "imageUrl": "/covers/itch-ogzkaanarda-unfactory.jpg",
+    "source": "itch",
+    "sourceId": "ogzkaanarda-unfactory",
+    "tags": [
+      "itch",
+      "game",
+      "factory",
+      "low-poly",
+      "automation",
+      "reverse"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-milicen-last-on-earth",
+    "type": "game",
+    "title": "Last Earth 最后的地球",
+    "summary": "Defold低多边形：最后的哨兵机器人试图把干裂大地救回绿色。（itch 免费/自定价·Web）",
+    "url": "https://milicen.itch.io/last-on-earth",
+    "imageUrl": "/covers/itch-milicen-last-on-earth.jpg",
+    "source": "itch",
+    "sourceId": "milicen-last-on-earth",
+    "tags": [
+      "itch",
+      "game",
+      "low-poly",
+      "defold",
+      "eco",
+      "robots"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-ronlarion-isotrucker",
+    "type": "game",
+    "title": "IsoTrucker 等距卡车",
+    "summary": "Three.js等距共享世界跑运输公司：五座城、昼夜车流自己动——网页物流经营。（itch 免费/自定价·Web）",
+    "url": "https://ronlarion.itch.io/isotrucker",
+    "imageUrl": "/covers/itch-ronlarion-isotrucker.jpg",
+    "source": "itch",
+    "sourceId": "ronlarion-isotrucker",
+    "tags": [
+      "itch",
+      "game",
+      "isometric",
+      "trucking",
+      "threejs",
+      "management"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-devgb-antbound",
+    "type": "game",
+    "title": "ANTBOUND 蚁界",
+    "summary": "后院荒地变成巨大活世界：铺蚁道、护蚁后、扩张殖民地——浏览器蚂蚁殖民。（itch 免费/自定价·Web）",
+    "url": "https://devgb.itch.io/antbound",
+    "imageUrl": "/covers/itch-devgb-antbound.jpg",
+    "source": "itch",
+    "sourceId": "devgb-antbound",
+    "tags": [
+      "itch",
+      "game",
+      "ants",
+      "colony-sim",
+      "browser",
+      "pixel-art"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-iridlings-iridlings-build-survive-protect",
+    "type": "game",
+    "title": "IRIDLINGS 虹晶人",
+    "summary": "白天采集建家养娃，夜里尸潮自适应变强——家庭向殖民地生存。（itch $8.44·Windows）",
+    "url": "https://iridlings.itch.io/iridlings-build-survive-protect",
+    "imageUrl": "/covers/itch-iridlings-iridlings-build-survive-protect.jpg",
+    "source": "itch",
+    "sourceId": "iridlings-iridlings-build-survive-protect",
+    "tags": [
+      "itch",
+      "game",
+      "colony-sim",
+      "base-building",
+      "survival",
+      "3d"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-voxnovalys-studio-hatchery-of-worlds",
+    "type": "game",
+    "title": "Hatchery of Worlds 世界孵化器",
+    "summary": "你是孵行星的宇宙巨龙：世界熟了就……吃掉——黑暗可爱神游。（itch 免费/自定价·Windows）",
+    "url": "https://voxnovalys-studio.itch.io/hatchery-of-worlds",
+    "imageUrl": "/covers/itch-voxnovalys-studio-hatchery-of-worlds.jpg",
+    "source": "itch",
+    "sourceId": "voxnovalys-studio-hatchery-of-worlds",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "dragon",
+      "idle",
+      "planets"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-mirko-parola-godwill",
+    "type": "game",
+    "title": "GOD//WILL 神意",
+    "summary": "叙事神游：从文明篝火到火星殖民，你回应或拒绝祈祷——选择驱动的神。（itch 免费/自定价·Web）",
+    "url": "https://mirko-parola.itch.io/godwill",
+    "imageUrl": "/covers/itch-mirko-parola-godwill.jpg",
+    "source": "itch",
+    "sourceId": "mirko-parola-godwill",
+    "tags": [
+      "itch",
+      "game",
+      "god-game",
+      "narrative",
+      "choices"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-coreyhiggins-dolvun",
+    "type": "game",
+    "title": "Dolvun 多尔文谷",
+    "summary": "六名早期人类下树：回合制石器时代部落生存策略——部落养成。（itch 免费/自定价·Web）",
+    "url": "https://coreyhiggins.itch.io/dolvun",
+    "imageUrl": "/covers/itch-coreyhiggins-dolvun.jpg",
+    "source": "itch",
+    "sourceId": "coreyhiggins-dolvun",
+    "tags": [
+      "itch",
+      "game",
+      "colony-sim",
+      "stone-age",
+      "turn-based"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-iarosiaros202-outpost-void",
+    "type": "game",
+    "title": "Outpost 前哨",
+    "summary": "波前边缘的殖民地：撑住并升起信标，还支持本地合作与扮演AI——前哨城建。（itch 免费/自定价·Web）",
+    "url": "https://iarosiaros202.itch.io/outpost-void",
+    "imageUrl": "/covers/itch-iarosiaros202-outpost-void.jpg",
+    "source": "itch",
+    "sourceId": "iarosiaros202-outpost-void",
+    "tags": [
+      "itch",
+      "game",
+      "colony-sim",
+      "city-builder",
+      "co-op"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-5226840",
+    "type": "game",
+    "title": "Great Tribal Wars 大部落战争",
+    "summary": "选文明建城管资源、外交与开战争夺霸权——早期文明战略。（Steam $3.59·Win·Oct 9, 2026发售）",
+    "url": "https://store.steampowered.com/app/5226840/",
+    "imageUrl": "/covers/steam-5226840.jpg",
+    "source": "steam",
+    "sourceId": "5226840",
+    "tags": [
+      "steam",
+      "game",
+      "tribal",
+      "strategy",
+      "civilization",
+      "early-access"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-4747620",
+    "type": "game",
+    "title": "Pirate Island 海盗岛",
+    "summary": "海上孤岛生存：砍树挖矿建房抵御敌人——海盗岛沙盒。（Steam $3.49·Win·Oct 9, 2026发售）",
+    "url": "https://store.steampowered.com/app/4747620/",
+    "imageUrl": "/covers/steam-4747620.jpg",
+    "source": "steam",
+    "sourceId": "4747620",
+    "tags": [
+      "steam",
+      "game",
+      "survival",
+      "island",
+      "pirates",
+      "building"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-5032820",
+    "type": "game",
+    "title": "Powder Inc. 粉雪度假村",
+    "summary": "滑雪场大亨：账本、暴风雪、雪崩，雪怪还在旁观——山地度假村经营。（Steam $8.67·Win·Oct 9, 2026发售）",
+    "url": "https://store.steampowered.com/app/5032820/",
+    "imageUrl": "/covers/steam-5032820.jpg",
+    "source": "steam",
+    "sourceId": "5032820",
+    "tags": [
+      "steam",
+      "game",
+      "tycoon",
+      "ski",
+      "simulation",
+      "management"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-3948100",
+    "type": "game",
+    "title": "Towerfolk 塔民",
+    "summary": "中世纪聚落：采集建城管民、王室任务与战场——塔楼城邦经营。（Steam $6.59·Win·Oct 9, 2026发售）",
+    "url": "https://store.steampowered.com/app/3948100/",
+    "imageUrl": "/covers/steam-3948100.jpg",
+    "source": "steam",
+    "sourceId": "3948100",
+    "tags": [
+      "steam",
+      "game",
+      "medieval",
+      "city-builder",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-4970790",
+    "type": "game",
+    "title": "Project Oasis 绿洲计划",
+    "summary": "管每个定居者、复杂建造与苛刻环境，选择塑造故事——定居点模拟。（Steam $5.99·Win/Linux·Oct 8, 2026发售）",
+    "url": "https://store.steampowered.com/app/4970790/",
+    "imageUrl": "/covers/steam-4970790.jpg",
+    "source": "steam",
+    "sourceId": "4970790",
+    "tags": [
+      "steam",
+      "game",
+      "settlement",
+      "colony",
+      "survival",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "steam-5179130",
+    "type": "game",
+    "title": "Sandcastle Battle 沙堡对决",
+    "summary": "限时主题堆沙堡再投票，或纯沙盒放松——沙滩建造派对。（Steam $2.39·Win·Oct 2, 2026发售）",
+    "url": "https://store.steampowered.com/app/5179130/",
+    "imageUrl": "/covers/steam-5179130.jpg",
+    "source": "steam",
+    "sourceId": "5179130",
+    "tags": [
+      "steam",
+      "game",
+      "building",
+      "sandbox",
+      "multiplayer",
+      "casual"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108511734919205112",
+    "type": "shader",
+    "title": "Water Cycle Demo 水循环演示",
+    "summary": "交互式教学工具库新上“水循环”演示：调了三小时的水汽凝结与降水可视化——科普向流体/大气可视化。",
+    "url": "https://x.com/jinglian/status/2108511734919205112",
+    "imageUrl": "/covers/x-2108511734919205112.jpg",
+    "source": "x",
+    "sourceId": "2108511734919205112",
+    "tags": [
+      "x",
+      "shader",
+      "education",
+      "water",
+      "fluid",
+      "interactive"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108483186389074155",
+    "type": "shader",
+    "title": "Pixel Anticipation 像素预备动作",
+    "summary": "点阵动画里加“挥剑前的蓄力”等预备动作会更丰富——像素动画节奏与预备帧参考。",
+    "url": "https://x.com/denchan_BSpro/status/2108483186389074155",
+    "imageUrl": "/covers/x-2108483186389074155.jpg",
+    "source": "x",
+    "sourceId": "2108483186389074155",
+    "tags": [
+      "x",
+      "shader",
+      "pixel-art",
+      "animation",
+      "anticipation",
+      "tutorial"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108306375176585388",
+    "type": "shader",
+    "title": "Godot Cool Effekt Godot酷炫效果",
+    "summary": "rutgermegahertz分享的Godot效果演示：引擎标签拉满的视觉实验——Godot技术美术灵感。",
+    "url": "https://x.com/rutgermegahertz/status/2108306375176585388",
+    "imageUrl": "/covers/x-2108306375176585388.jpg",
+    "source": "x",
+    "sourceId": "2108306375176585388",
+    "tags": [
+      "x",
+      "shader",
+      "godot",
+      "vfx",
+      "tech-art",
+      "demo"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2107983880208969920",
+    "type": "shader",
+    "title": "Cloud-to-Fire RGBA 云噪变火焰",
+    "summary": "懂RGBA就能从云噪做出火焰：用RGB控色、也控焦点，做成动画T光遮罩风——火焰/噪波特效拆解。",
+    "url": "https://x.com/ezura_fx/status/2107983880208969920",
+    "imageUrl": "/covers/x-2107983880208969920.jpg",
+    "source": "x",
+    "sourceId": "2107983880208969920",
+    "tags": [
+      "x",
+      "shader",
+      "fire",
+      "rgba",
+      "noise",
+      "vfx",
+      "tutorial"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108455638066159795",
+    "type": "shader",
+    "title": "Zombie Apocalypse Dots 丧尸点阵素材",
+    "summary": "休息期在画适合丧尸末日的点阵素材：建筑与道具像素块——像素道具/场景素材参考。",
+    "url": "https://x.com/jyjyaa_/status/2108455638066159795",
+    "imageUrl": "/covers/x-2108455638066159795.jpg",
+    "source": "x",
+    "sourceId": "2108455638066159795",
+    "tags": [
+      "x",
+      "shader",
+      "pixel-art",
+      "assets",
+      "zombie",
+      "props"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108269300209324055",
+    "type": "shader",
+    "title": "Tidewave Ocean 潮汐波海洋",
+    "summary": "Roblox Studio插件Tidewave：编辑模式里实时捏卡通海浪高度与形状，不用进Play——卡通水体工具。",
+    "url": "https://x.com/ayzenrbx/status/2108269300209324055",
+    "imageUrl": "/covers/x-2108269300209324055.jpg",
+    "source": "x",
+    "sourceId": "2108269300209324055",
+    "tags": [
+      "x",
+      "shader",
+      "roblox",
+      "ocean",
+      "water",
+      "tool",
+      "cartoon"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108226586864726130",
+    "type": "shader",
+    "title": "Pixel Art Mini Tutorials 像素小教程",
+    "summary": "TransientCode整理的像素小教程合集：造型与上色步骤拆开讲——像素画基础流程。",
+    "url": "https://x.com/TransientCode/status/2108226586864726130",
+    "imageUrl": "/covers/x-2108226586864726130.jpg",
+    "source": "x",
+    "sourceId": "2108226586864726130",
+    "tags": [
+      "x",
+      "shader",
+      "pixel-art",
+      "tutorial",
+      "workflow"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108210820551188892",
+    "type": "shader",
+    "title": "Pixel Village Tutorial 像素小村落",
+    "summary": "迷你教程：怎么画一座小村落——屋顶、道路与植被的像素构图。",
+    "url": "https://x.com/mirrutatep/status/2108210820551188892",
+    "imageUrl": "/covers/x-2108210820551188892.jpg",
+    "source": "x",
+    "sourceId": "2108210820551188892",
+    "tags": [
+      "x",
+      "shader",
+      "pixel-art",
+      "village",
+      "tutorial",
+      "isometric"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108153934309453838",
+    "type": "shader",
+    "title": "Toolbox Model 工具箱模型",
+    "summary": "很中意的工具箱硬表面模型：螺丝、卡扣与磨损细节清楚——道具硬表面参考。",
+    "url": "https://x.com/zzz_anettai/status/2108153934309453838",
+    "imageUrl": "/covers/x-2108153934309453838.jpg",
+    "source": "x",
+    "sourceId": "2108153934309453838",
+    "tags": [
+      "x",
+      "shader",
+      "hard-surface",
+      "prop",
+      "model",
+      "toolbox"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108494880435835210",
+    "type": "shader",
+    "title": "Procedural Tokyo 程序化东京",
+    "summary": "three.js官方转发：一颗种子长出东京塔与街区，纯程序化城市可在浏览器飞——WebGL程序化城市场景。",
+    "url": "https://x.com/threejs/status/2108494880435835210",
+    "imageUrl": "/covers/x-2108494880435835210.jpg",
+    "source": "x",
+    "sourceId": "2108494880435835210",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "procedural",
+      "city",
+      "web"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108328281904992441",
+    "type": "shader",
+    "title": "Gigacity 巨城",
+    "summary": "无模型无贴图：一个数字长出摩天楼、窗后房间、车流与灯光，还能开车穿峡谷——WebGPU程序化巨城。",
+    "url": "https://x.com/threejs/status/2108328281904992441",
+    "imageUrl": "/covers/x-2108328281904992441.jpg",
+    "source": "x",
+    "sourceId": "2108328281904992441",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "procedural",
+      "city",
+      "webgpu",
+      "driving"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108144964412821831",
+    "type": "shader",
+    "title": "CD Rainbow Diffraction CD彩虹衍射",
+    "summary": "光盘1.6µm螺旋纹的光谱衍射着色：转动、拉近、还能印自己的标签——物理光学材质演示。",
+    "url": "https://x.com/threejs/status/2108144964412821831",
+    "imageUrl": "/covers/x-2108144964412821831.jpg",
+    "source": "x",
+    "sourceId": "2108144964412821831",
+    "tags": [
+      "x",
+      "shader",
+      "diffraction",
+      "iridescence",
+      "shader",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108400339871473984",
+    "type": "shader",
+    "title": "three.js Tech Art Demo 技术美术演示",
+    "summary": "three.js官方高互动转发的技术美术演示（965赞）：材质与光影在浏览器里直接跑。",
+    "url": "https://x.com/threejs/status/2108400339871473984",
+    "imageUrl": "/covers/x-2108400339871473984.jpg",
+    "source": "x",
+    "sourceId": "2108400339871473984",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "tech-art",
+      "web",
+      "demo"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108478256500662428",
+    "type": "shader",
+    "title": "akella Visual Demo akella视觉演示",
+    "summary": "three.js转发akella的视觉实验：高收藏的着色器向短片感演示。",
+    "url": "https://x.com/threejs/status/2108478256500662428",
+    "imageUrl": "/covers/x-2108478256500662428.jpg",
+    "source": "x",
+    "sourceId": "2108478256500662428",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "shader",
+      "demo",
+      "visual"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108512804722663915",
+    "type": "shader",
+    "title": "Mobile Gem Shader 手机宝石着色",
+    "summary": "不用光追的手机友好宝石着色：假深度与反射写进《Unity着色器圣经》——宝石/折射技术美术。",
+    "url": "https://x.com/jettelly/status/2108512804722663915",
+    "imageUrl": "/covers/x-2108512804722663915.jpg",
+    "source": "x",
+    "sourceId": "2108512804722663915",
+    "tags": [
+      "x",
+      "shader",
+      "unity",
+      "gem",
+      "shader",
+      "refraction"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108543008253653403",
+    "type": "shader",
+    "title": "ManifoldCSG Bullet Holes 实时弹孔CSG",
+    "summary": "子弹打穿墙体会真的挖掉网格：Unity开源ManifoldCSG做运行时布尔——破坏与CSG技术。",
+    "url": "https://x.com/jettelly/status/2108543008253653403",
+    "imageUrl": "/covers/x-2108543008253653403.jpg",
+    "source": "x",
+    "sourceId": "2108543008253653403",
+    "tags": [
+      "x",
+      "shader",
+      "unity",
+      "csg",
+      "destruction",
+      "tech-art"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108482606920618256",
+    "type": "shader",
+    "title": "Godot Subway Shader Looks 地铁着色多方案",
+    "summary": "同一地铁站切几套着色器外观：Autumns在Godot里比风格——场景级风格化着色对比。",
+    "url": "https://x.com/jettelly/status/2108482606920618256",
+    "imageUrl": "/covers/x-2108482606920618256.jpg",
+    "source": "x",
+    "sourceId": "2108482606920618256",
+    "tags": [
+      "x",
+      "shader",
+      "godot",
+      "stylized",
+      "shader",
+      "subway"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108422202303611249",
+    "type": "shader",
+    "title": "Godot Gemstone Shader 宝石着色器",
+    "summary": "Godot里无光追伪造宝石纵深与反射——跨引擎宝石材质对照Unity版。",
+    "url": "https://x.com/jettelly/status/2108422202303611249",
+    "imageUrl": "/covers/x-2108422202303611249.jpg",
+    "source": "x",
+    "sourceId": "2108422202303611249",
+    "tags": [
+      "x",
+      "shader",
+      "godot",
+      "gem",
+      "shader",
+      "refraction"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2107878627509727658",
+    "type": "shader",
+    "title": "Color-Stealing Beam 夺色光束",
+    "summary": "UE光束先抽走世界颜色再开火：后处理吸色+蓄力轮廓——色彩驱动的VFX拆解。",
+    "url": "https://x.com/jettelly/status/2107878627509727658",
+    "imageUrl": "/covers/x-2107878627509727658.jpg",
+    "source": "x",
+    "sourceId": "2107878627509727658",
+    "tags": [
+      "x",
+      "shader",
+      "ue5",
+      "vfx",
+      "post-process",
+      "beam"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2107757828534399476",
+    "type": "shader",
+    "title": "Godot Water Rework 水体返工",
+    "summary": "采纳反馈后重做的Godot水面：前后对比差异巨大——水体迭代案例。",
+    "url": "https://x.com/jettelly/status/2107757828534399476",
+    "imageUrl": "/covers/x-2107757828534399476.jpg",
+    "source": "x",
+    "sourceId": "2107757828534399476",
+    "tags": [
+      "x",
+      "shader",
+      "godot",
+      "water",
+      "ocean",
+      "iteration"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2107836941660021138",
+    "type": "shader",
+    "title": "Tiny City + Mini Skate 迷你城市",
+    "summary": "Kenney即将免费放出Tiny City与加倍内容的Mini Skate——CC0城市/滑板素材预告。",
+    "url": "https://x.com/KenneyNL/status/2107836941660021138",
+    "imageUrl": "/covers/x-2107836941660021138.jpg",
+    "source": "x",
+    "sourceId": "2107836941660021138",
+    "tags": [
+      "x",
+      "shader",
+      "kenney",
+      "assets",
+      "cc0",
+      "city",
+      "low-poly"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108653333439185151",
+    "type": "shader",
+    "title": "One-File Ocean Island 单文件海岛",
+    "summary": "整座岛只是一个JS文件：四层正弦叠成海浪，船随浪颠簸，浅处起泡沫——着色器海洋小品。",
+    "url": "https://x.com/ho0tm1c/status/2108653333439185151",
+    "imageUrl": "/covers/x-2108653333439185151.jpg",
+    "source": "x",
+    "sourceId": "2108653333439185151",
+    "tags": [
+      "x",
+      "shader",
+      "ocean",
+      "water",
+      "foam",
+      "shader",
+      "js"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108610131378495849",
+    "type": "shader",
+    "title": "Unity Stylized Ocean 风格化无限海",
+    "summary": "Unity风格化海：从玩家视角看像无限洋面，还便宜到可以常开——游戏向水体着色。",
+    "url": "https://x.com/fursakne/status/2108610131378495849",
+    "imageUrl": "/covers/x-2108610131378495849.jpg",
+    "source": "x",
+    "sourceId": "2108610131378495849",
+    "tags": [
+      "x",
+      "shader",
+      "unity",
+      "water",
+      "ocean",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108601842729107640",
+    "type": "shader",
+    "title": "Blender Caustics Test 焦散测试",
+    "summary": "Blender自定义构建上的焦散实验：光斑在物体间跳舞——焦散/光线研究。",
+    "url": "https://x.com/F_Rimasson/status/2108601842729107640",
+    "imageUrl": "/covers/x-2108601842729107640.jpg",
+    "source": "x",
+    "sourceId": "2108601842729107640",
+    "tags": [
+      "x",
+      "shader",
+      "blender",
+      "caustics",
+      "tech-art"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2107447768830628136",
+    "type": "shader",
+    "title": "Tsushima-like Grass 对马风草地",
+    "summary": "用Three.js Grassworks复刻《对马岛》那种草地：WebGPU草海可定制风格。",
+    "url": "https://x.com/Bk23544/status/2107447768830628136",
+    "imageUrl": "/covers/x-2107447768830628136.jpg",
+    "source": "x",
+    "sourceId": "2107447768830628136",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "webgpu",
+      "grass",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108558971502289314",
+    "type": "shader",
+    "title": "Holographic Glass Cube 全息玻璃立方",
+    "summary": "全息玻璃立方网格：免费源码与在线Demo——three.js折射/全息着色。",
+    "url": "https://x.com/sabosugi/status/2108558971502289314",
+    "imageUrl": "/covers/x-2108558971502289314.jpg",
+    "source": "x",
+    "sourceId": "2108558971502289314",
+    "tags": [
+      "x",
+      "shader",
+      "threejs",
+      "holographic",
+      "glass",
+      "shader"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108675667508220166",
+    "type": "shader",
+    "title": "Ink Water Simulation 墨水感水面",
+    "summary": "把模拟水面画成“墨水感”：涟漪、焦散与位图层来回改了九千字提示——NPR水面实验。",
+    "url": "https://x.com/lekanadeyeri/status/2108675667508220166",
+    "imageUrl": "/covers/x-2108675667508220166.jpg",
+    "source": "x",
+    "sourceId": "2108675667508220166",
+    "tags": [
+      "x",
+      "shader",
+      "npr",
+      "water",
+      "ink",
+      "threejs",
+      "caustics"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "x-2108547523954856444",
+    "type": "shader",
+    "title": "Endless Procedural City 无尽程序化城",
+    "summary": "一切程序化、浏览器WebGPU无尽城市：Opus写出的代码都市——程序化城飞越。",
+    "url": "https://x.com/joinwhip/status/2108547523954856444",
+    "imageUrl": "/covers/x-2108547523954856444.jpg",
+    "source": "x",
+    "sourceId": "2108547523954856444",
+    "tags": [
+      "x",
+      "shader",
+      "procedural",
+      "city",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-inkharbor-toon-forge-3d-lite",
+    "type": "shader",
+    "title": "Toon Forge 3D Lite 卡通锻造",
+    "summary": "Godot 4免费卡通/描边/溶解着色采样：纯程序、一行套预设。（itch 免费/自定价·资源包）",
+    "url": "https://inkharbor.itch.io/toon-forge-3d-lite",
+    "imageUrl": "/covers/itch-inkharbor-toon-forge-3d-lite.jpg",
+    "source": "itch",
+    "sourceId": "inkharbor-toon-forge-3d-lite",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "toon",
+      "outline",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-inkharbor-ember-vfx-3d-lite",
+    "type": "shader",
+    "title": "Ember VFX 3D Lite 余烬特效",
+    "summary": "六套免费Godot 4火焰/魔法/闪电GPU粒子：无贴图无模型可商用。（itch 免费/自定价·资源包）",
+    "url": "https://inkharbor.itch.io/ember-vfx-3d-lite",
+    "imageUrl": "/covers/itch-inkharbor-ember-vfx-3d-lite.jpg",
+    "source": "itch",
+    "sourceId": "inkharbor-ember-vfx-3d-lite",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "fire",
+      "vfx",
+      "particles"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-inkharbor-retro-screen-fx-lite",
+    "type": "shader",
+    "title": "Retro Screen FX Lite 复古屏幕",
+    "summary": "CRT/VHS/像素化/限色四套Godot复古屏幕着色，免费可商用。（itch 免费/自定价·资源包）",
+    "url": "https://inkharbor.itch.io/retro-screen-fx-lite",
+    "imageUrl": "/covers/itch-inkharbor-retro-screen-fx-lite.jpg",
+    "source": "itch",
+    "sourceId": "inkharbor-retro-screen-fx-lite",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "crt",
+      "vhs",
+      "retro"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-outoftokensstudio-firmament-defold",
+    "type": "shader",
+    "title": "Firmament Defold 苍穹",
+    "summary": "Defold体积云+昼夜+天气旋钮，草地同天气弯曲——跨引擎天空包。（itch 免费/自定价·资源包）",
+    "url": "https://outoftokensstudio.itch.io/firmament-defold",
+    "imageUrl": "/covers/itch-outoftokensstudio-firmament-defold.jpg",
+    "source": "itch",
+    "sourceId": "outoftokensstudio-firmament-defold",
+    "tags": [
+      "itch",
+      "shader",
+      "defold",
+      "volumetric-clouds",
+      "grass",
+      "sky"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-sampixelstudio-stylized-fire-fx-procedural-toon-flames-for-urp",
+    "type": "shader",
+    "title": "Stylized Fire FX 风格化火",
+    "summary": "URP程序化卡通火焰：不循环、每簇略不同——风格化火材质。（itch $0.50·资源包）",
+    "url": "https://sampixelstudio.itch.io/stylized-fire-fx-procedural-toon-flames-for-urp",
+    "imageUrl": "/covers/itch-sampixelstudio-stylized-fire-fx-procedural-toon-flames-for-urp.jpg",
+    "source": "itch",
+    "sourceId": "sampixelstudio-stylized-fire-fx-procedural-toon-flames-for-urp",
+    "tags": [
+      "itch",
+      "shader",
+      "unity",
+      "urp",
+      "fire",
+      "toon",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-gennai-free-rain-vfx-godot-4",
+    "type": "shader",
+    "title": "Free Rain VFX 免费雨效",
+    "summary": "Godot 4免费雨、涟漪与水花：完整天气包试吃版。（itch 免费/自定价·资源包）",
+    "url": "https://gennai.itch.io/free-rain-vfx-godot-4",
+    "imageUrl": "/covers/itch-gennai-free-rain-vfx-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "gennai-free-rain-vfx-godot-4",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "rain",
+      "weather",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-kururu280-cloud-pixelart-stylization-shader",
+    "type": "shader",
+    "title": "Pixelart Stylization 像素风格化",
+    "summary": "Godot 2D全屏像素风格化：像素大小等参数可调。（itch $0.50·资源包）",
+    "url": "https://kururu280-cloud.itch.io/pixelart-stylization-shader",
+    "imageUrl": "/covers/itch-kururu280-cloud-pixelart-stylization-shader.jpg",
+    "source": "itch",
+    "sourceId": "kururu280-cloud-pixelart-stylization-shader",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "pixel-art",
+      "post-process"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-inkharbor-print-and-paint-fx-free",
+    "type": "shader",
+    "title": "Print & Paint FX Free 印刷绘画",
+    "summary": "网点/纸感/描边三套免费印刷风着色，MIT可商用。（itch 免费/自定价·资源包）",
+    "url": "https://inkharbor.itch.io/print-and-paint-fx-free",
+    "imageUrl": "/covers/itch-inkharbor-print-and-paint-fx-free.jpg",
+    "source": "itch",
+    "sourceId": "inkharbor-print-and-paint-fx-free",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "halftone",
+      "print",
+      "npr"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-angelegggg-psx-style-industrial-building",
+    "type": "shader",
+    "title": "PSX Industrial Building PSX厂房",
+    "summary": "复古PSX风低多边形工业建筑，无AI——环境模块素材。（itch $2·资源包）",
+    "url": "https://angelegggg.itch.io/psx-style-industrial-building",
+    "imageUrl": "/covers/itch-angelegggg-psx-style-industrial-building.jpg",
+    "source": "itch",
+    "sourceId": "angelegggg-psx-style-industrial-building",
+    "tags": [
+      "itch",
+      "shader",
+      "psx",
+      "low-poly",
+      "building",
+      "assets"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-heyheythere-toon-look-free",
+    "type": "shader",
+    "title": "Toon Look Free 卡通外观",
+    "summary": "Godot与Unity URP免费赛璐璐硬边+描边+边缘光。（itch 免费/自定价·资源包）",
+    "url": "https://heyheythere.itch.io/toon-look-free",
+    "imageUrl": "/covers/itch-heyheythere-toon-look-free.jpg",
+    "source": "itch",
+    "sourceId": "heyheythere-toon-look-free",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "unity",
+      "cel-shading",
+      "toon"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-reebo0-stylized-vfx-godot-free",
+    "type": "shader",
+    "title": "Stylized VFX Free 风格化特效",
+    "summary": "命中火花、刀光、拾取闪光三套免费Godot风格化VFX。（itch 免费/自定价·资源包）",
+    "url": "https://reebo0.itch.io/stylized-vfx-godot-free",
+    "imageUrl": "/covers/itch-reebo0-stylized-vfx-godot-free.jpg",
+    "source": "itch",
+    "sourceId": "reebo0-stylized-vfx-godot-free",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "vfx",
+      "stylized",
+      "particles"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-useclip-retro-tv-crt-vhs-shader-urp",
+    "type": "shader",
+    "title": "URP CRT/VHS 复古电视",
+    "summary": "Unity 6 URP复古CRT/VHS屏幕着色，偏模拟恐怖氛围。（itch 免费/自定价·资源包）",
+    "url": "https://useclip.itch.io/retro-tv-crt-vhs-shader-urp",
+    "imageUrl": "/covers/itch-useclip-retro-tv-crt-vhs-shader-urp.jpg",
+    "source": "itch",
+    "sourceId": "useclip-retro-tv-crt-vhs-shader-urp",
+    "tags": [
+      "itch",
+      "shader",
+      "unity",
+      "urp",
+      "crt",
+      "vhs",
+      "retro"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-inkharbor-weather-fx-2d-lite",
+    "type": "shader",
+    "title": "Weather FX 2D Lite 天气特效",
+    "summary": "雨雪雾电四套Godot 2D天气着色，单ColorRect无粒子。（itch 免费/自定价·资源包）",
+    "url": "https://inkharbor.itch.io/weather-fx-2d-lite",
+    "imageUrl": "/covers/itch-inkharbor-weather-fx-2d-lite.jpg",
+    "source": "itch",
+    "sourceId": "inkharbor-weather-fx-2d-lite",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "weather",
+      "2d",
+      "shader"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "itch-westudesign-field-vfx-wst",
+    "type": "shader",
+    "title": "Magic Field VFX 魔法地块",
+    "summary": "Tibia风32x32地块/陷阱魔法特效，斜45度像素VFX。（itch $3.30·资源包）",
+    "url": "https://westudesign.itch.io/field-vfx-wst",
+    "imageUrl": "/covers/itch-westudesign-field-vfx-wst.jpg",
+    "source": "itch",
+    "sourceId": "westudesign-field-vfx-wst",
+    "tags": [
+      "itch",
+      "shader",
+      "godot",
+      "pixel-art",
+      "vfx",
+      "tibia"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "80lv-free-online-archive-of-ps1-n64-3d-models",
+    "type": "shader",
+    "title": "PS1/N64 Asset Archive PS1/N64素材库",
+    "summary": "Pardall Games开放的PS1与N64模型/关卡素材数据库：研究复古UV与低模的宝库。（80.lv）",
+    "url": "https://80.lv/articles/free-online-archive-of-ps1-n64-3d-models-game-assets",
+    "imageUrl": "/covers/80lv-free-online-archive-of-ps1-n64-3d-models.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-free-online-archive-of-ps1-n64-3d-models",
+    "tags": [
+      "80lv",
+      "shader",
+      "psx",
+      "n64",
+      "archive",
+      "assets"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "80lv-how-to-build-an-atmospheric-stylized-lig",
+    "type": "shader",
+    "title": "Stylized Lighthouse Scene 风格化灯塔",
+    "summary": "Albert Serrano拆解可平铺材质、植被图集与风格化灯塔场景氛围搭建。（80.lv 教程）",
+    "url": "https://80.lv/articles/how-to-build-an-atmospheric-stylized-lighthouse-scene-with-a-custom-modular-set",
+    "imageUrl": "/covers/80lv-how-to-build-an-atmospheric-stylized-lig.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-how-to-build-an-atmospheric-stylized-lig",
+    "tags": [
+      "80lv",
+      "shader",
+      "stylized",
+      "materials",
+      "environment",
+      "tutorial"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
+    "id": "80lv-this-real-life-low-resolution-interior-d",
+    "type": "shader",
+    "title": "Low-Res Home Decor 低分辨率家居",
+    "summary": "设计师把低多边形审美做成真实家居装置：把房间变成复古游戏空间。（80.lv）",
+    "url": "https://80.lv/articles/this-real-life-low-resolution-interior-design-decor-turns-any-space-into-a-retro-game-scene",
+    "imageUrl": "/covers/80lv-this-real-life-low-resolution-interior-d.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-this-real-life-low-resolution-interior-d",
+    "tags": [
+      "80lv",
+      "shader",
+      "low-poly",
+      "retro",
+      "design",
+      "real-world"
+    ],
+    "collectedAt": "2026-10-10"
+  },
+  {
     "id": "x-2108241018776625250",
     "type": "game",
     "title": "Bad Magpie 坏喜鹊",
