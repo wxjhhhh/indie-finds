@@ -1,5 +1,1231 @@
 [
   {
+    "id": "x-2109013897164546461",
+    "type": "shader",
+    "title": "Neural SDF Enterprise WebGPU 神经SDF",
+    "summary": "把企业号捏成两层MLP的神经SDF，直接在WebGPU着色器里跑——隐式曲面实时渲染。",
+    "url": "https://x.com/praeclarum/status/2109013897164546461",
+    "imageUrl": "/covers/x-2109013897164546461.jpg",
+    "source": "x",
+    "sourceId": "2109013897164546461",
+    "tags": [
+      "x",
+      "search",
+      "webgpu",
+      "sdf",
+      "neural",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108990671994700046",
+    "type": "shader",
+    "title": "WebGPU Water 水体演示",
+    "summary": "WebGPU水体贴图与波浪仍在打磨，浏览器里就能摸到实时水面——WebGPU流体/水体实验。",
+    "url": "https://x.com/SoftEngineer/status/2108990671994700046",
+    "imageUrl": "/covers/x-2108990671994700046.jpg",
+    "source": "x",
+    "sourceId": "2108990671994700046",
+    "tags": [
+      "x",
+      "search",
+      "webgpu",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108965786857668967",
+    "type": "shader",
+    "title": "Godot Ocean Foam 海浪泡沫",
+    "summary": "Emil的Godot海洋泡沫会随浪积起再散开——Jacobian驱动的动态浪花技术美术。",
+    "url": "https://x.com/jettelly/status/2108965786857668967",
+    "imageUrl": "/covers/x-2108965786857668967.jpg",
+    "source": "x",
+    "sourceId": "2108965786857668967",
+    "tags": [
+      "x",
+      "search",
+      "godot",
+      "ocean",
+      "foam",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108814795562717542",
+    "type": "shader",
+    "title": "Paintable Grass Unity 可绘草地",
+    "summary": "可绘制草地着色器：程序化抖动与碎细节随笔刷洒落——Unity草地技术美术。",
+    "url": "https://x.com/jettelly/status/2108814795562717542",
+    "imageUrl": "/covers/x-2108814795562717542.jpg",
+    "source": "x",
+    "sourceId": "2108814795562717542",
+    "tags": [
+      "x",
+      "search",
+      "unity",
+      "grass",
+      "procedural",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108725381759107490",
+    "type": "shader",
+    "title": "Eye Shader Iris Parallax 虹膜视差",
+    "summary": "虹膜视差与程序化眼神光叠在一起的眼部着色器——角色面部tech-art细节。",
+    "url": "https://x.com/keebar_techArt/status/2108725381759107490",
+    "imageUrl": "/covers/x-2108725381759107490.jpg",
+    "source": "x",
+    "sourceId": "2108725381759107490",
+    "tags": [
+      "x",
+      "search",
+      "eye",
+      "parallax",
+      "shader",
+      "techart"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108584955185950825",
+    "type": "shader",
+    "title": "Pixel Ice Cracks 像素冰裂",
+    "summary": "像素风冰块着色器，裂纹会跟着动态蔓延——像素材质与裂纹模拟。",
+    "url": "https://x.com/DistortGameDev/status/2108584955185950825",
+    "imageUrl": "/covers/x-2108584955185950825.jpg",
+    "source": "x",
+    "sourceId": "2108584955185950825",
+    "tags": [
+      "x",
+      "search",
+      "pixel",
+      "ice",
+      "shader",
+      "godot"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108844995428143579",
+    "type": "shader",
+    "title": "Fake Top-down Lights 假灯光",
+    "summary": "俯视角战斗里用着色器伪造灯光，不是真光源——Godot轻量VFX巧思。",
+    "url": "https://x.com/jettelly/status/2108844995428143579",
+    "imageUrl": "/covers/x-2108844995428143579.jpg",
+    "source": "x",
+    "sourceId": "2108844995428143579",
+    "tags": [
+      "x",
+      "search",
+      "godot",
+      "lights",
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108916402250002441",
+    "type": "shader",
+    "title": "Watercolor Reveal three.js 水彩显影",
+    "summary": "冷压纸纹理与柔光凹凸上的水彩显影——three.js程序化纸面实验。",
+    "url": "https://x.com/FrankyHungDev/status/2108916402250002441",
+    "imageUrl": "/covers/x-2108916402250002441.jpg",
+    "source": "x",
+    "sourceId": "2108916402250002441",
+    "tags": [
+      "x",
+      "search",
+      "threejs",
+      "watercolor",
+      "procedural",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108986597429698642",
+    "type": "shader",
+    "title": "GeoNodes Neural Net 几何节点神经网络",
+    "summary": "用预训练权重在几何节点里做数字识别，下一步想在模拟区训练——程序化AI实验。",
+    "url": "https://x.com/AlbinMerle/status/2108986597429698642",
+    "imageUrl": "/covers/x-2108986597429698642.jpg",
+    "source": "x",
+    "sourceId": "2108986597429698642",
+    "tags": [
+      "x",
+      "search",
+      "blender",
+      "geometry-nodes",
+      "procedural",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108874924261621904",
+    "type": "shader",
+    "title": "img2threejs 参考图变代码模型",
+    "summary": "把参考图重建成纯代码的程序化Three.js模型，可动画——视觉转可编辑几何。",
+    "url": "https://x.com/DanKornas/status/2108874924261621904",
+    "imageUrl": "/covers/x-2108874924261621904.jpg",
+    "source": "x",
+    "sourceId": "2108874924261621904",
+    "tags": [
+      "x",
+      "search",
+      "threejs",
+      "procedural",
+      "tool",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108954538812096842",
+    "type": "shader",
+    "title": "TideQuest Water Upgrade 潮汐水体升级",
+    "summary": "水体着色器前后对比：浪与反射又磨了一刀——独立游戏水体迭代。",
+    "url": "https://x.com/tidequestgame/status/2108954538812096842",
+    "imageUrl": "/covers/x-2108954538812096842.jpg",
+    "source": "x",
+    "sourceId": "2108954538812096842",
+    "tags": [
+      "x",
+      "search",
+      "water",
+      "shader",
+      "indie"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108965876133158996",
+    "type": "shader",
+    "title": "Defold Water Sim 反射折射水",
+    "summary": "水面反射环境并带折射，一万球C++扩展提速约7倍——Defold流体仿真。",
+    "url": "https://x.com/WitchcrafterRPG/status/2108965876133158996",
+    "imageUrl": "/covers/x-2108965876133158996.jpg",
+    "source": "x",
+    "sourceId": "2108965876133158996",
+    "tags": [
+      "x",
+      "search",
+      "defold",
+      "water",
+      "simulation",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2109027231851032758",
+    "type": "shader",
+    "title": "Horizon Water Shader 地平线水体",
+    "summary": "新水体着色器救了平板海天，地平线还在想放什么——飞行开放世界调景。",
+    "url": "https://x.com/jeroenpx/status/2109027231851032758",
+    "imageUrl": "/covers/x-2109027231851032758.jpg",
+    "source": "x",
+    "sourceId": "2109027231851032758",
+    "tags": [
+      "x",
+      "search",
+      "water",
+      "shader",
+      "horizon",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108888155613254113",
+    "type": "shader",
+    "title": "Shaders WebGPU Library 开源特效库",
+    "summary": "190+着色器特效开源，像叠图层一样往UI上堆GPU效果——WebGPU特效工具箱。",
+    "url": "https://x.com/rammcodes/status/2108888155613254113",
+    "imageUrl": "/covers/x-2108888155613254113.jpg",
+    "source": "x",
+    "sourceId": "2108888155613254113",
+    "tags": [
+      "x",
+      "search",
+      "webgpu",
+      "library",
+      "shader",
+      "ui"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2109055091822972955",
+    "type": "game",
+    "title": "Dust & Glory 尘土荣耀",
+    "summary": "浏览器西部生存FPS：炭笔墨水风、程序化角色与小镇匪帮——Three.js风格化射击。",
+    "url": "https://x.com/GetStreamProof/status/2109055091822972955",
+    "imageUrl": "/covers/x-2109055091822972955.jpg",
+    "source": "x",
+    "sourceId": "2109055091822972955",
+    "tags": [
+      "x",
+      "search",
+      "threejs",
+      "western",
+      "survival",
+      "web"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108905391681855540",
+    "type": "game",
+    "title": "Tyto Owl Metroidvania 鸮形密特罗",
+    "summary": "辞去工作三年打磨的猫头鹰类银河城，免费两小时Demo已上——Godot探索动作。",
+    "url": "https://x.com/jettelly/status/2108905391681855540",
+    "imageUrl": "/covers/x-2108905391681855540.jpg",
+    "source": "x",
+    "sourceId": "2108905391681855540",
+    "tags": [
+      "x",
+      "search",
+      "godot",
+      "metroidvania",
+      "owl",
+      "demo"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108819569531818494",
+    "type": "game",
+    "title": "Procedural WebGPU City 无尽城",
+    "summary": "代码生成、不断扩张的整座城，浏览器里跑——WebGPU程序化城市。",
+    "url": "https://x.com/chudry223/status/2108819569531818494",
+    "imageUrl": "/covers/x-2108819569531818494.jpg",
+    "source": "x",
+    "sourceId": "2108819569531818494",
+    "tags": [
+      "x",
+      "search",
+      "webgpu",
+      "city",
+      "procedural",
+      "web"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108761092046373272",
+    "type": "game",
+    "title": "Browser 3D World 浏览器三维世界",
+    "summary": "three.js + WebGPU + R3F在浏览器里慢慢长出自己的三维世界——网页开放世界实验。",
+    "url": "https://x.com/enyer_333/status/2108761092046373272",
+    "imageUrl": "/covers/x-2108761092046373272.jpg",
+    "source": "x",
+    "sourceId": "2108761092046373272",
+    "tags": [
+      "x",
+      "search",
+      "threejs",
+      "webgpu",
+      "world",
+      "web"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108920980215074828",
+    "type": "game",
+    "title": "Dreadroot Building Tool 恐惧根建筑工具",
+    "summary": "纯蓝图程序化建筑工具给《Dreadroot》加速铺城——关卡/建筑tech-art工具。",
+    "url": "https://x.com/Javgamedev/status/2108920980215074828",
+    "imageUrl": "/covers/x-2108920980215074828.jpg",
+    "source": "x",
+    "sourceId": "2108920980215074828",
+    "tags": [
+      "x",
+      "search",
+      "procedural",
+      "building",
+      "ue",
+      "tool"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108935591769334220",
+    "type": "game",
+    "title": "Anvil CSG Levels 砧座关卡",
+    "summary": "不出Unity就能刷刷切关卡，布局一变整图重建——CSG关卡编辑器。",
+    "url": "https://x.com/jettelly/status/2108935591769334220",
+    "imageUrl": "/covers/x-2108935591769334220.jpg",
+    "source": "x",
+    "sourceId": "2108935591769334220",
+    "tags": [
+      "x",
+      "search",
+      "unity",
+      "csg",
+      "level-editor",
+      "tool"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108603399822315825",
+    "type": "game",
+    "title": "Cave Expedition Rope 洞穴绳索",
+    "summary": "绳索和身体共用同一物理系统——洞穴探索绳索物理选型分享。",
+    "url": "https://x.com/jettelly/status/2108603399822315825",
+    "imageUrl": "/covers/x-2108603399822315825.jpg",
+    "source": "x",
+    "sourceId": "2108603399822315825",
+    "tags": [
+      "x",
+      "search",
+      "unity",
+      "physics",
+      "rope",
+      "cave"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2109042999183462503",
+    "type": "game",
+    "title": "Colony Fire Animation 殖民火焰",
+    "summary": "体素殖民地模拟里火焰动画前后对比——Godot殖民模拟特效迭代。",
+    "url": "https://x.com/Kasutsu/status/2109042999183462503",
+    "imageUrl": "/covers/x-2109042999183462503.jpg",
+    "source": "x",
+    "sourceId": "2109042999183462503",
+    "tags": [
+      "x",
+      "search",
+      "godot",
+      "colony",
+      "voxel",
+      "fire"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2109067047925870939",
+    "type": "game",
+    "title": "Godot Procedural Assets 程序化资产",
+    "summary": "早上在Godot里试程序化资产能做出什么观感——引擎开源资产实验。",
+    "url": "https://x.com/bkbrd/status/2109067047925870939",
+    "imageUrl": "/covers/x-2109067047925870939.jpg",
+    "source": "x",
+    "sourceId": "2109067047925870939",
+    "tags": [
+      "x",
+      "search",
+      "godot",
+      "procedural",
+      "assets"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108605087778312690",
+    "type": "game",
+    "title": "Three.js Worldgen 程序化世界",
+    "summary": "Three.js程序化世界生成原型四连图——网页地形/世界生成实验。",
+    "url": "https://x.com/gkurttech/status/2108605087778312690",
+    "imageUrl": "/covers/x-2108605087778312690.jpg",
+    "source": "x",
+    "sourceId": "2108605087778312690",
+    "tags": [
+      "x",
+      "search",
+      "threejs",
+      "worldgen",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "x-2108915378906689671",
+    "type": "game",
+    "title": "Create A Cat Generator 猫咪生成器",
+    "summary": "程序化猫咪：花纹、体型、动画与配饰都能调——Unity程序化生物资产。",
+    "url": "https://x.com/awtdevassets/status/2108915378906689671",
+    "imageUrl": "/covers/x-2108915378906689671.jpg",
+    "source": "x",
+    "sourceId": "2108915378906689671",
+    "tags": [
+      "x",
+      "search",
+      "unity",
+      "procedural",
+      "creature",
+      "asset"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-placeholders-tiny-brutalism",
+    "type": "game",
+    "title": "Tiny Brutalism 微型粗野主义",
+    "summary": "粗野主义积木沙盒：把小小混凝土块堆成安静小镇——玩具感建筑沙盒。",
+    "url": "https://placeholders.itch.io/tiny-brutalism",
+    "imageUrl": "/covers/itch-placeholders-tiny-brutalism.jpg",
+    "source": "itch",
+    "sourceId": "placeholders/tiny-brutalism",
+    "tags": [
+      "itch",
+      "game",
+      "sandbox",
+      "brutalism",
+      "cozy",
+      "3d"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-kodub-polytrack",
+    "type": "game",
+    "title": "PolyTrack 低多边形赛道",
+    "summary": "高速低多边形竞速，赛道干净利落——可读几何竞速。",
+    "url": "https://kodub.itch.io/polytrack",
+    "imageUrl": "/covers/itch-kodub-polytrack.jpg",
+    "source": "itch",
+    "sourceId": "kodub/polytrack",
+    "tags": [
+      "itch",
+      "game",
+      "racing",
+      "low-poly",
+      "3d"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-kinemat-studio-kinebox",
+    "type": "game",
+    "title": "Kinebox 动能箱",
+    "summary": "物理驱动的开放世界与独特武器手感——物理玩具场。",
+    "url": "https://kinemat-studio.itch.io/kinebox",
+    "imageUrl": "/covers/itch-kinemat-studio-kinebox.jpg",
+    "source": "itch",
+    "sourceId": "kinemat-studio/kinebox",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "open-world",
+      "3d"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-knives-frank-halfsword",
+    "type": "game",
+    "title": "Half Sword 半剑",
+    "summary": "中世纪物理格斗模拟，剑与肢体都较真——物理近战。",
+    "url": "https://knives-frank.itch.io/halfsword",
+    "imageUrl": "/covers/itch-knives-frank-halfsword.jpg",
+    "source": "itch",
+    "sourceId": "knives-frank/halfsword",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "medieval",
+      "combat",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-sodaraptor-hypnagogia1",
+    "type": "game",
+    "title": "Hypnagogia 催眠術",
+    "summary": "走进可交互的三维梦境世界——超现实探索。",
+    "url": "https://sodaraptor.itch.io/hypnagogia1",
+    "imageUrl": "/covers/itch-sodaraptor-hypnagogia1.jpg",
+    "source": "itch",
+    "sourceId": "sodaraptor/hypnagogia1",
+    "tags": [
+      "itch",
+      "game",
+      "dream",
+      "exploration",
+      "3d",
+      "stylized"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-figglewatts-lsd-revamped",
+    "type": "game",
+    "title": "LSD: Revamped 迷幻重制",
+    "summary": "迷幻梦境模拟器同人重制，PSX味拉满——复古梦境漫游。",
+    "url": "https://figglewatts.itch.io/lsd-revamped",
+    "imageUrl": "/covers/itch-figglewatts-lsd-revamped.jpg",
+    "source": "itch",
+    "sourceId": "figglewatts/lsd-revamped",
+    "tags": [
+      "itch",
+      "game",
+      "psx",
+      "dream",
+      "remake",
+      "retro"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-sweaters-easydeliveryco",
+    "type": "game",
+    "title": "Easy Delivery Co. 轻松送货公司",
+    "summary": "开车送货、加油勉强够用——PSX风送货日常。",
+    "url": "https://sweaters.itch.io/easydeliveryco",
+    "imageUrl": "/covers/itch-sweaters-easydeliveryco.jpg",
+    "source": "itch",
+    "sourceId": "sweaters/easydeliveryco",
+    "tags": [
+      "itch",
+      "game",
+      "psx",
+      "delivery",
+      "driving",
+      "demo"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-orsonik-gooey",
+    "type": "game",
+    "title": "GOOEY 黏糊糊",
+    "summary": "物理近战加探索，手感软弹——物理动作原型。",
+    "url": "https://orsonik.itch.io/gooey",
+    "imageUrl": "/covers/itch-orsonik-gooey.jpg",
+    "source": "itch",
+    "sourceId": "orsonik/gooey",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "melee",
+      "exploration",
+      "psx"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-maxhalden-under-the-static",
+    "type": "game",
+    "title": "Under the Static 静电之下",
+    "summary": "两百年防护只漏了一块石头——太空殖民地生存叙事。",
+    "url": "https://maxhalden.itch.io/under-the-static",
+    "imageUrl": "/covers/itch-maxhalden-under-the-static.jpg",
+    "source": "itch",
+    "sourceId": "maxhalden/under-the-static",
+    "tags": [
+      "itch",
+      "game",
+      "colony",
+      "space",
+      "survival",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-maxhalden-closed-for-renovations",
+    "type": "game",
+    "title": "Closed for Renovations 地球装修中",
+    "summary": "地球关门装修，抱歉造成星际不便——太空殖民地幽默设定。",
+    "url": "https://maxhalden.itch.io/closed-for-renovations",
+    "imageUrl": "/covers/itch-maxhalden-closed-for-renovations.jpg",
+    "source": "itch",
+    "sourceId": "maxhalden/closed-for-renovations",
+    "tags": [
+      "itch",
+      "game",
+      "colony",
+      "space",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-calandiel-gleba",
+    "type": "game",
+    "title": "Gleba 格莱巴",
+    "summary": "偏科学向的奇幻世界模拟器仍在成长——世界模拟开发中。",
+    "url": "https://calandiel.itch.io/gleba",
+    "imageUrl": "/covers/itch-calandiel-gleba.jpg",
+    "source": "itch",
+    "sourceId": "calandiel/gleba",
+    "tags": [
+      "itch",
+      "game",
+      "worldsim",
+      "procedural",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-vfqd-terra-nil",
+    "type": "game",
+    "title": "Terra Nil Prototype 地壤归零原型",
+    "summary": "反向城建：把地景重新修成生态——生态重建原型。",
+    "url": "https://vfqd.itch.io/terra-nil",
+    "imageUrl": "/covers/itch-vfqd-terra-nil.jpg",
+    "source": "itch",
+    "sourceId": "vfqd/terra-nil",
+    "tags": [
+      "itch",
+      "game",
+      "city-builder",
+      "ecology",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-thebibites-the-bibites",
+    "type": "game",
+    "title": "The Bibites 比比特",
+    "summary": "潜入真正的数字生命演化——人工生命模拟。",
+    "url": "https://thebibites.itch.io/the-bibites",
+    "imageUrl": "/covers/itch-thebibites-the-bibites.jpg",
+    "source": "itch",
+    "sourceId": "thebibites/the-bibites",
+    "tags": [
+      "itch",
+      "game",
+      "alife",
+      "simulation",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-granule-granule",
+    "type": "game",
+    "title": "Granule 颗粒",
+    "summary": "抖动朋克物理沙盒，万物皆可玩——抖动风物理玩具。",
+    "url": "https://granule.itch.io/granule",
+    "imageUrl": "/covers/itch-granule-granule.jpg",
+    "source": "itch",
+    "sourceId": "granule/granule",
+    "tags": [
+      "itch",
+      "game",
+      "physics",
+      "sandbox",
+      "ditherpunk"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-splendidland-formless-star",
+    "type": "game",
+    "title": "Formless Star 无形星",
+    "summary": "在不断变形的星球上找怪动物——程序化行星探索。",
+    "url": "https://splendidland.itch.io/formless-star",
+    "imageUrl": "/covers/itch-splendidland-formless-star.jpg",
+    "source": "itch",
+    "sourceId": "splendidland/formless-star",
+    "tags": [
+      "itch",
+      "game",
+      "procedural",
+      "planet",
+      "exploration"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-hexagonnico-dynamine",
+    "type": "game",
+    "title": "Dynamine 动力矿",
+    "summary": "扫雷如果真的在挖矿会怎样——六角采矿解谜。",
+    "url": "https://hexagonnico.itch.io/dynamine",
+    "imageUrl": "/covers/itch-hexagonnico-dynamine.jpg",
+    "source": "itch",
+    "sourceId": "hexagonnico/dynamine",
+    "tags": [
+      "itch",
+      "game",
+      "hex",
+      "mining",
+      "puzzle"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-mors-games-cascadence",
+    "type": "shader",
+    "title": "Cascadence 层叠感",
+    "summary": "号称最汁感的解谜——着色器驱动的反馈手感。",
+    "url": "https://mors-games.itch.io/cascadence",
+    "imageUrl": "/covers/itch-mors-games-cascadence.jpg",
+    "source": "itch",
+    "sourceId": "mors-games/cascadence",
+    "tags": [
+      "itch",
+      "shader",
+      "puzzle",
+      "juice",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-bobacupcake-orbs",
+    "type": "shader",
+    "title": "orbs!!!! 弹力球",
+    "summary": "街机弹力球被做成可玩一团——物理小球视觉玩具。",
+    "url": "https://bobacupcake.itch.io/orbs",
+    "imageUrl": "/covers/itch-bobacupcake-orbs.jpg",
+    "source": "itch",
+    "sourceId": "bobacupcake/orbs",
+    "tags": [
+      "itch",
+      "shader",
+      "physics",
+      "orbs",
+      "toy",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-bobacupcake-so-chunks-huh",
+    "type": "shader",
+    "title": "so... chunks, huh? 碎块啊",
+    "summary": "碎块感视觉实验——着色器/块状美学小品。",
+    "url": "https://bobacupcake.itch.io/so-chunks-huh",
+    "imageUrl": "/covers/itch-bobacupcake-so-chunks-huh.jpg",
+    "source": "itch",
+    "sourceId": "bobacupcake/so-chunks-huh",
+    "tags": [
+      "itch",
+      "shader",
+      "chunks",
+      "visual",
+      "demo"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-knifepoint-games-killer-vortex",
+    "type": "shader",
+    "title": "Killer Vortex 杀手漩涡",
+    "summary": "黑洞吞宇宙的视觉核心——漩涡/引力视觉。",
+    "url": "https://knifepoint-games.itch.io/killer-vortex",
+    "imageUrl": "/covers/itch-knifepoint-games-killer-vortex.jpg",
+    "source": "itch",
+    "sourceId": "knifepoint-games/killer-vortex",
+    "tags": [
+      "itch",
+      "shader",
+      "blackhole",
+      "vortex",
+      "visual"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-linusgaertig-wabbalidu",
+    "type": "shader",
+    "title": "Wabbalidu 晃悠节奏",
+    "summary": "催眠节奏高分游戏——波纹/节奏视觉。",
+    "url": "https://linusgaertig.itch.io/wabbalidu",
+    "imageUrl": "/covers/itch-linusgaertig-wabbalidu.jpg",
+    "source": "itch",
+    "sourceId": "linusgaertig/wabbalidu",
+    "tags": [
+      "itch",
+      "shader",
+      "rhythm",
+      "hypnotic",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-torcado-visioff",
+    "type": "shader",
+    "title": "Visioff 视效关",
+    "summary": "偏视觉实验向的小游戏——着色器氛围小品。",
+    "url": "https://torcado.itch.io/visioff",
+    "imageUrl": "/covers/itch-torcado-visioff.jpg",
+    "source": "itch",
+    "sourceId": "torcado/visioff",
+    "tags": [
+      "itch",
+      "shader",
+      "visual",
+      "shader",
+      "demo"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-frenzy-byte-fluid-frenzy-sculpt-mobile",
+    "type": "shader",
+    "title": "Fluid Frenzy S.C.U.L.P.T. 流体塑形",
+    "summary": "用塑形魔杖改造地形的流体沙盒——移动端流体/地形交互。",
+    "url": "https://frenzy-byte.itch.io/fluid-frenzy-sculpt-mobile",
+    "imageUrl": "/covers/itch-frenzy-byte-fluid-frenzy-sculpt-mobile.jpg",
+    "source": "itch",
+    "sourceId": "frenzy-byte/fluid-frenzy-sculpt-mobile",
+    "tags": [
+      "itch",
+      "shader",
+      "fluid",
+      "terrain",
+      "mobile",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-dbzer0-fragment-forge",
+    "type": "shader",
+    "title": "Fragment Forge 碎片锻造",
+    "summary": "关于demoscene的卡牌——着色器文化卡牌。",
+    "url": "https://dbzer0.itch.io/fragment-forge",
+    "imageUrl": "/covers/itch-dbzer0-fragment-forge.jpg",
+    "source": "itch",
+    "sourceId": "dbzer0/fragment-forge",
+    "tags": [
+      "itch",
+      "shader",
+      "demoscene",
+      "cards",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "itch-gubebra-chaos-in-a-circle",
+    "type": "shader",
+    "title": "Chaos in a circle 圆内混沌",
+    "summary": "圆里的混沌理论可视化——交互数学视觉。",
+    "url": "https://gubebra.itch.io/chaos-in-a-circle",
+    "imageUrl": "/covers/itch-gubebra-chaos-in-a-circle.jpg",
+    "source": "itch",
+    "sourceId": "gubebra/chaos-in-a-circle",
+    "tags": [
+      "itch",
+      "shader",
+      "chaos",
+      "math",
+      "visual",
+      "demo"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-ice-underwater-curtain-effect-for-vr-chat",
+    "type": "shader",
+    "title": "Ice Underwater Curtain 冰下水帘",
+    "summary": "VRChat冰与水下帘幕效果——水体/体积帘幕VFX。",
+    "url": "https://80.lv/articles/ice-underwater-curtain-effect-for-vr-chat",
+    "imageUrl": "/covers/80lv-ice-underwater-curtain-effect-for-vr-chat.jpg",
+    "source": "80lv",
+    "sourceId": "ice-underwater-curtain-effect-for-vr-chat",
+    "tags": [
+      "80lv",
+      "shader",
+      "vfx",
+      "water",
+      "ice",
+      "vrchat"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-3d-take-on-wolverine-with-a-toon-shader-inspired-by-a-comic-book-aesthetic",
+    "type": "shader",
+    "title": "Wolverine Toon Shader 金刚狼卡通着色",
+    "summary": "漫画感卡通着色的金刚狼三维诠释——NPR角色着色。",
+    "url": "https://80.lv/articles/3d-take-on-wolverine-with-a-toon-shader-inspired-by-a-comic-book-aesthetic",
+    "imageUrl": "/covers/80lv-3d-take-on-wolverine-with-a-toon-shader-inspired-by-a-comic-book-aesthetic.jpg",
+    "source": "80lv",
+    "sourceId": "3d-take-on-wolverine-with-a-toon-shader-inspired-by-a-comic-book-aesthetic",
+    "tags": [
+      "80lv",
+      "shader",
+      "toon",
+      "npr",
+      "shader",
+      "character"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-3d-artist-creates-stylized-blood-material-in-ue5-inspired-by-resident-evil-9",
+    "type": "shader",
+    "title": "Stylized Blood UE5 风格化血液",
+    "summary": "生化危机启发的风格化血液材质——UE5风格化流体材质。",
+    "url": "https://80.lv/articles/3d-artist-creates-stylized-blood-material-in-ue5-inspired-by-resident-evil-9",
+    "imageUrl": "/covers/80lv-3d-artist-creates-stylized-blood-material-in-ue5-inspired-by-resident-evil-9.jpg",
+    "source": "80lv",
+    "sourceId": "3d-artist-creates-stylized-blood-material-in-ue5-inspired-by-resident-evil-9",
+    "tags": [
+      "80lv",
+      "shader",
+      "blood",
+      "stylized",
+      "ue5",
+      "material"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-bring-winding-rivers-roaring-oceans-to-3d-in-unity-urp-with-aquis-pro",
+    "type": "shader",
+    "title": "AQUIS Pro Oceans 河流海洋",
+    "summary": "Unity URP里弯曲河流与咆哮海洋——水体中间件参考。",
+    "url": "https://80.lv/articles/bring-winding-rivers-roaring-oceans-to-3d-in-unity-urp-with-aquis-pro",
+    "imageUrl": "/covers/80lv-bring-winding-rivers-roaring-oceans-to-3d-in-unity-urp-with-aquis-pro.jpg",
+    "source": "80lv",
+    "sourceId": "bring-winding-rivers-roaring-oceans-to-3d-in-unity-urp-with-aquis-pro",
+    "tags": [
+      "80lv",
+      "shader",
+      "water",
+      "ocean",
+      "unity",
+      "urpp"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-how-to-make-neat-blur-shader-in-godot",
+    "type": "shader",
+    "title": "Godot Blur Shader 模糊着色器",
+    "summary": "把 neat 模糊着色器做进Godot——后处理基础。",
+    "url": "https://80.lv/articles/how-to-make-neat-blur-shader-in-godot",
+    "imageUrl": "/covers/80lv-how-to-make-neat-blur-shader-in-godot.jpg",
+    "source": "80lv",
+    "sourceId": "how-to-make-neat-blur-shader-in-godot",
+    "tags": [
+      "80lv",
+      "shader",
+      "godot",
+      "blur",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-developer-updates-realistic-skin-shader-made-with-godot",
+    "type": "shader",
+    "title": "Godot Skin Shader 皮肤着色器",
+    "summary": "Godot写实皮肤着色器的更新迭代——角色皮肤tech-art。",
+    "url": "https://80.lv/articles/developer-updates-realistic-skin-shader-made-with-godot",
+    "imageUrl": "/covers/80lv-developer-updates-realistic-skin-shader-made-with-godot.jpg",
+    "source": "80lv",
+    "sourceId": "developer-updates-realistic-skin-shader-made-with-godot",
+    "tags": [
+      "80lv",
+      "shader",
+      "godot",
+      "skin",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-learn-how-to-create-stylized-fire-shader-in-godot",
+    "type": "shader",
+    "title": "Godot Stylized Fire 风格化火焰",
+    "summary": "Godot风格化火焰着色器教程——火焰VFX入门。",
+    "url": "https://80.lv/articles/learn-how-to-create-stylized-fire-shader-in-godot",
+    "imageUrl": "/covers/80lv-learn-how-to-create-stylized-fire-shader-in-godot.jpg",
+    "source": "80lv",
+    "sourceId": "learn-how-to-create-stylized-fire-shader-in-godot",
+    "tags": [
+      "80lv",
+      "shader",
+      "godot",
+      "fire",
+      "stylized",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "80lv-check-out-this-nice-transition-shader-made-in-godot",
+    "type": "shader",
+    "title": "Godot Transition Shader 转场着色器",
+    "summary": "好看的Godot转场着色器——场景切换视觉。",
+    "url": "https://80.lv/articles/check-out-this-nice-transition-shader-made-in-godot",
+    "imageUrl": "/covers/80lv-check-out-this-nice-transition-shader-made-in-godot.jpg",
+    "source": "80lv",
+    "sourceId": "check-out-this-nice-transition-shader-made-in-godot",
+    "tags": [
+      "80lv",
+      "shader",
+      "godot",
+      "transition",
+      "shader"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-2228720",
+    "type": "game",
+    "title": "Hack 'n' Stack 堆叠乱斗",
+    "summary": "物理×塔防派对：堆路障、造弹药——物理塔防玩具场。",
+    "url": "https://store.steampowered.com/app/2228720/",
+    "imageUrl": "/covers/steam-2228720.jpg",
+    "source": "steam",
+    "sourceId": "2228720",
+    "tags": [
+      "steam",
+      "game",
+      "physics",
+      "tower-defense",
+      "party"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-2254990",
+    "type": "game",
+    "title": "Permafrost 永冻层",
+    "summary": "冰封末世生存沙盒，故事驱动探索——寒冷开放生存。",
+    "url": "https://store.steampowered.com/app/2254990/",
+    "imageUrl": "/covers/steam-2254990.jpg",
+    "source": "steam",
+    "sourceId": "2254990",
+    "tags": [
+      "steam",
+      "game",
+      "survival",
+      "sandbox",
+      "story"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-2998660",
+    "type": "game",
+    "title": "Torreta 炮塔迷宫",
+    "summary": "自己修迷宫、自己造弹药的塔防——建造向塔防。",
+    "url": "https://store.steampowered.com/app/2998660/",
+    "imageUrl": "/covers/steam-2998660.jpg",
+    "source": "steam",
+    "sourceId": "2998660",
+    "tags": [
+      "steam",
+      "game",
+      "tower-defense",
+      "builder",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-4530230",
+    "type": "game",
+    "title": "Loop One: Done 一环完成",
+    "summary": "手录无人机循环，堆出自动化工厂——工厂循环建造。",
+    "url": "https://store.steampowered.com/app/4530230/",
+    "imageUrl": "/covers/steam-4530230.jpg",
+    "source": "steam",
+    "sourceId": "4530230",
+    "tags": [
+      "steam",
+      "game",
+      "factory",
+      "automation",
+      "loops"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-4691280",
+    "type": "game",
+    "title": "Echoes: Unforgotten 回声未忘",
+    "summary": "俯视角保住定居点，指挥小队与生产——定居点生存策略。",
+    "url": "https://store.steampowered.com/app/4691280/",
+    "imageUrl": "/covers/steam-4691280.jpg",
+    "source": "steam",
+    "sourceId": "4691280",
+    "tags": [
+      "steam",
+      "game",
+      "settlement",
+      "survival",
+      "strategy",
+      "god-view"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-3167710",
+    "type": "game",
+    "title": "Piworld 派世界",
+    "summary": "多人像素生存：钓鱼种田盖房打Boss——开放像素生存。",
+    "url": "https://store.steampowered.com/app/3167710/",
+    "imageUrl": "/covers/steam-3167710.jpg",
+    "source": "steam",
+    "sourceId": "3167710",
+    "tags": [
+      "steam",
+      "game",
+      "survival",
+      "multiplayer",
+      "pixel",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-4183770",
+    "type": "game",
+    "title": "CELESTAY Craft&Slowlife 天居慢活",
+    "summary": "水下世界里钓鱼攒材，把家往天上盖——闲适建造。",
+    "url": "https://store.steampowered.com/app/4183770/",
+    "imageUrl": "/covers/steam-4183770.jpg",
+    "source": "steam",
+    "sourceId": "4183770",
+    "tags": [
+      "steam",
+      "game",
+      "building",
+      "idle",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
+    "id": "steam-5227050",
+    "type": "game",
+    "title": "Planet Escape Idle 逃星工厂",
+    "summary": "挖矿冶炼制造研究的深链工厂，边逃边造——闲置工厂建造。",
+    "url": "https://store.steampowered.com/app/5227050/",
+    "imageUrl": "/covers/steam-5227050.jpg",
+    "source": "steam",
+    "sourceId": "5227050",
+    "tags": [
+      "steam",
+      "game",
+      "factory",
+      "idle",
+      "planet"
+    ],
+    "collectedAt": "2026-10-11"
+  },
+  {
     "id": "x-2108563694313714036",
     "type": "game",
     "title": "WildRoot 野根",
