@@ -1,5 +1,1575 @@
 [
   {
+    "id": "x-2109770873326514438",
+    "type": "shader",
+    "title": "Dynamic Vegetation Shader 动态植被",
+    "summary": "Unity动态植被shader：草木随风起伏，末尾天空裂隙特效——手作tech-art植被。",
+    "url": "https://x.com/amotivational_/status/2109770873326514438",
+    "imageUrl": "/covers/x-2109770873326514438.jpg",
+    "source": "x",
+    "sourceId": "2109770873326514438",
+    "tags": [
+      "search",
+      "unity",
+      "vegetation",
+      "shader"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "x-2109779063166423388",
+    "type": "game",
+    "title": "Malas Calles Open City 恶街开放城",
+    "summary": "Godot小城加入小地图、昼夜循环、NPC步行路线与布娃娃，载具物理越玩越顺——活体系统开放世界devlog。",
+    "url": "https://x.com/MalasCallesgame/status/2109779063166423388",
+    "imageUrl": "/covers/x-2109779063166423388.jpg",
+    "source": "x",
+    "sourceId": "2109779063166423388",
+    "tags": [
+      "search",
+      "godot",
+      "vehicle-physics",
+      "ragdoll",
+      "day-night"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "x-2109781006307967052",
+    "type": "game",
+    "title": "Assembly Workshop Sim 拼装工坊",
+    "summary": "按说明书涂胶、一件件拼出产品的装配系统——Unity桌面工坊模拟，蓝图纸台面很有玩具感。",
+    "url": "https://x.com/bencheff9/status/2109781006307967052",
+    "imageUrl": "/covers/x-2109781006307967052.jpg",
+    "source": "x",
+    "sourceId": "2109781006307967052",
+    "tags": [
+      "search",
+      "unity",
+      "simulation",
+      "assembly"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "x-2109798079247376861",
+    "type": "game",
+    "title": "L.U.M.E.N. Third Floor 幽灵塔三层",
+    "summary": "Godot幽灵题材devlog第81天：完成第三层八角塔室，昏暗灯光与机关布景——哥特体积光氛围。",
+    "url": "https://x.com/MoyoJiwe/status/2109798079247376861",
+    "imageUrl": "/covers/x-2109798079247376861.jpg",
+    "source": "x",
+    "sourceId": "2109798079247376861",
+    "tags": [
+      "search",
+      "godot",
+      "devlog",
+      "gothic"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-alfer007-flipped",
+    "type": "game",
+    "title": "Flipped 翻新小屋",
+    "summary": "PS1画风第一人称房屋清洁翻新：秋树、旧屋与藏在墙里的往事——Godot复古framebuffer氛围sim。",
+    "url": "https://alfer007.itch.io/flipped",
+    "imageUrl": "/covers/itch-alfer007-flipped.jpg",
+    "source": "itch",
+    "sourceId": "alfer007-flipped",
+    "tags": [
+      "psx",
+      "renovation",
+      "godot",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-iconoclaststudios-feudal-gardens",
+    "type": "game",
+    "title": "Feudal Gardens 战国之庭",
+    "summary": "战后日本无网格造园：青蛙们想要回花园，一块块把草地堆成禅意庭院——PSX风温馨建造。",
+    "url": "https://iconoclaststudios.itch.io/feudal-gardens",
+    "imageUrl": "/covers/itch-iconoclaststudios-feudal-gardens.jpg",
+    "source": "itch",
+    "sourceId": "iconoclaststudios-feudal-gardens",
+    "tags": [
+      "city-builder",
+      "garden",
+      "psx",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-ectoplasmoule-parc-bellevue",
+    "type": "game",
+    "title": "Parc Bellevue 美景乐园",
+    "summary": "群岛上的3D低多边形游乐园：游客坐渡轮来排队尖叫，还能亲自坐上过山车——玩具感经营。",
+    "url": "https://ectoplasmoule.itch.io/parc-bellevue",
+    "imageUrl": "/covers/itch-ectoplasmoule-parc-bellevue.jpg",
+    "source": "itch",
+    "sourceId": "ectoplasmoule-parc-bellevue",
+    "tags": [
+      "theme-park",
+      "low-poly",
+      "tycoon",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-reverendozmund-supercell-chaser",
+    "type": "game",
+    "title": "Supercell Chaser 超级单体追风",
+    "summary": "Godot程序化平原追龙卷：读雷达开车就位拍照，v4.5加入光线步进体积超级单体云——体积云tech-art游戏。",
+    "url": "https://reverendozmund.itch.io/supercell-chaser",
+    "imageUrl": "/covers/itch-reverendozmund-supercell-chaser.jpg",
+    "source": "itch",
+    "sourceId": "reverendozmund-supercell-chaser",
+    "tags": [
+      "godot",
+      "volumetric-clouds",
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-rubbymanson-green-valley",
+    "type": "game",
+    "title": "Green Valley 绿谷工厂",
+    "summary": "阳光草地上的温馨工厂：手挖矿、架钻机、管道连熔炉，晚上还要守僵尸——Unity低多边形自动化合作。",
+    "url": "https://rubbymanson.itch.io/green-valley",
+    "imageUrl": "/covers/itch-rubbymanson-green-valley.jpg",
+    "source": "itch",
+    "sourceId": "rubbymanson-green-valley",
+    "tags": [
+      "factory",
+      "automation",
+      "low-poly",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-triple-donut-games-nodespawn",
+    "type": "game",
+    "title": "NodeSpawn 节点衍生",
+    "summary": "人工生命沙盒：生物逐代演化出新形态与行为——程序化生态模拟。",
+    "url": "https://triple-donut-games.itch.io/nodespawn",
+    "imageUrl": "/covers/itch-triple-donut-games-nodespawn.jpg",
+    "source": "itch",
+    "sourceId": "triple-donut-games-nodespawn",
+    "tags": [
+      "artificial-life",
+      "evolution",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-bunbasss-aoa",
+    "type": "game",
+    "title": "Ashes of Ages 时代余烬",
+    "summary": "Godot全球4X：程序化生成世界、国家、旗帜与城市，从城邦打到帝国——世界生成向大战略。",
+    "url": "https://bunbasss.itch.io/aoa",
+    "imageUrl": "/covers/itch-bunbasss-aoa.jpg",
+    "source": "itch",
+    "sourceId": "bunbasss-aoa",
+    "tags": [
+      "4x",
+      "procedural",
+      "worldgen",
+      "godot",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-fargomrglton-iskra",
+    "type": "game",
+    "title": "ISKRA 火花文明",
+    "summary": "岛民自己生活、采集、成家，你只决定文明走向：从小岛发展到新行星——自运转文明模拟。",
+    "url": "https://fargomrglton.itch.io/iskra",
+    "imageUrl": "/covers/itch-fargomrglton-iskra.jpg",
+    "source": "itch",
+    "sourceId": "fargomrglton-iskra",
+    "tags": [
+      "civilization",
+      "city-builder",
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-alpangokhan-blockcity",
+    "type": "game",
+    "title": "Block City 积木城市",
+    "summary": "网页3D玩具城：在岛上铺路架桥、配电、管交通，从空地长成都市——Townscaper式积木城建。",
+    "url": "https://alpangokhan.itch.io/blockcity",
+    "imageUrl": "/covers/itch-alpangokhan-blockcity.jpg",
+    "source": "itch",
+    "sourceId": "alpangokhan-blockcity",
+    "tags": [
+      "city-builder",
+      "toy",
+      "browser",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-heraklessi-fogwardens",
+    "type": "game",
+    "title": "Fogwardens 雾境守望",
+    "summary": "雾中六边形岛屿：每天抽5张地块/建筑卡扩岛，边缘外的雾里有敌人——hex城建+塔防桌游感。",
+    "url": "https://heraklessi.itch.io/fogwardens",
+    "imageUrl": "/covers/itch-heraklessi-fogwardens.jpg",
+    "source": "itch",
+    "sourceId": "heraklessi-fogwardens",
+    "tags": [
+      "hex",
+      "city-builder",
+      "tower-defense",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-nerijs-tinkerpatch",
+    "type": "game",
+    "title": "Tinkerpatch 修补小地",
+    "summary": "把一小块地种成能自运转的工坊：第一人称采集制作自动化，浮岛像素方块——放松自动化。",
+    "url": "https://nerijs.itch.io/tinkerpatch",
+    "imageUrl": "/covers/itch-nerijs-tinkerpatch.jpg",
+    "source": "itch",
+    "sourceId": "nerijs-tinkerpatch",
+    "tags": [
+      "automation",
+      "crafting",
+      "voxel",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-basementvibesstudios-path-to-glory",
+    "type": "game",
+    "title": "Path To Glory 荣耀之路",
+    "summary": "老派上帝游戏：塑地给信徒落脚，最多十个半神同场，抵御众神之怒——Populous气质god-game。",
+    "url": "https://basementvibesstudios.itch.io/path-to-glory",
+    "imageUrl": "/covers/itch-basementvibesstudios-path-to-glory.jpg",
+    "source": "itch",
+    "sourceId": "basementvibesstudios-path-to-glory",
+    "tags": [
+      "god-game",
+      "isometric",
+      "multiplayer",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-byte-bard-dune-company",
+    "type": "game",
+    "title": "Dune Company 沙丘公司",
+    "summary": "自己拼装载具开进可变形沙地，回车间再改——沙地变形物理沙盒，呼应GPU沙。",
+    "url": "https://byte-bard.itch.io/dune-company",
+    "imageUrl": "/covers/itch-byte-bard-dune-company.jpg",
+    "source": "itch",
+    "sourceId": "byte-bard-dune-company",
+    "tags": [
+      "sand",
+      "vehicle",
+      "physics",
+      "sandbox",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-indie-bosco-meadowfold",
+    "type": "game",
+    "title": "Meadowfold 草甸折叠",
+    "summary": "3D小岛一格格长出六边形草甸、森林、麦田和河流，转向对齐边缘得分——Dorfromantik式hex拼图。",
+    "url": "https://indie-bosco.itch.io/meadowfold",
+    "imageUrl": "/covers/itch-indie-bosco-meadowfold.jpg",
+    "source": "itch",
+    "sourceId": "indie-bosco-meadowfold",
+    "tags": [
+      "hex",
+      "tile-laying",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-itslamba-wreckbox",
+    "type": "game",
+    "title": "Wreckbox 拆楼箱",
+    "summary": "剖面建筑拆除沙盒：实时计算每格承重传到地基，超载就裂开坍塌——结构力学活体模拟。",
+    "url": "https://itslamba.itch.io/wreckbox",
+    "imageUrl": "/covers/itch-itslamba-wreckbox.jpg",
+    "source": "itch",
+    "sourceId": "itslamba-wreckbox",
+    "tags": [
+      "destruction",
+      "physics",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-ludwigpeking-a-quiet-practice",
+    "type": "game",
+    "title": "A Quiet Practice 静修",
+    "summary": "木檐下耙白砂、摆石头、塑地形，树在风中摇——无分数无计时的枯山水小品。",
+    "url": "https://ludwigpeking.itch.io/a-quiet-practice",
+    "imageUrl": "/covers/itch-ludwigpeking-a-quiet-practice.jpg",
+    "source": "itch",
+    "sourceId": "ludwigpeking-a-quiet-practice",
+    "tags": [
+      "zen-garden",
+      "relaxing",
+      "landscaping",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-jaredonanisland-saltbound-playtest",
+    "type": "game",
+    "title": "Saltbound 盐缚海域",
+    "summary": "开放世界海盗生存：从小划艇起步，在六片海、1560-1860三个世纪间造船贸易航行——航海生存。",
+    "url": "https://jaredonanisland.itch.io/saltbound-playtest",
+    "imageUrl": "/covers/itch-jaredonanisland-saltbound-playtest.jpg",
+    "source": "itch",
+    "sourceId": "jaredonanisland-saltbound-playtest",
+    "tags": [
+      "sailing",
+      "survival",
+      "open-world",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-jorotyn-hypnagogia",
+    "type": "game",
+    "title": "Hypnagogia 入眠之境",
+    "summary": "困在童年卧室的梦：门外黄昏草地立着六扇门，通往六层梦境——Godot PSX梦核探索。",
+    "url": "https://jorotyn.itch.io/hypnagogia",
+    "imageUrl": "/covers/itch-jorotyn-hypnagogia.jpg",
+    "source": "itch",
+    "sourceId": "jorotyn-hypnagogia",
+    "tags": [
+      "psx",
+      "dreamcore",
+      "godot",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-brainlessmonkey-cinderwake",
+    "type": "game",
+    "title": "Cinderwake 余烬提灯",
+    "summary": "只有一盏提灯：既是取暖火源也是唯一武器，扔出去再召回——PSX哥特暖光动作。",
+    "url": "https://brainlessmonkey.itch.io/cinderwake",
+    "imageUrl": "/covers/itch-brainlessmonkey-cinderwake.jpg",
+    "source": "itch",
+    "sourceId": "brainlessmonkey-cinderwake",
+    "tags": [
+      "psx",
+      "lantern",
+      "gothic",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-karlherrick-block-garden",
+    "type": "game",
+    "title": "Block Garden 方块花园",
+    "summary": "网页3D体素沙盒：程序化地图、种植周期、方块建造与飘云——小体素世界。",
+    "url": "https://karlherrick.itch.io/block-garden",
+    "imageUrl": "/covers/itch-karlherrick-block-garden.jpg",
+    "source": "itch",
+    "sourceId": "karlherrick-block-garden",
+    "tags": [
+      "voxel",
+      "farming",
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-edgar2384-a-shader-museum",
+    "type": "shader",
+    "title": "A Shader Museum 着色器博物馆",
+    "summary": "在线走进Unity着色器博物馆：每件展品配演示、讲解与入门教程——可行走的shader课堂。",
+    "url": "https://edgar2384.itch.io/a-shader-museum",
+    "imageUrl": "/covers/itch-edgar2384-a-shader-museum.jpg",
+    "source": "itch",
+    "sourceId": "edgar2384-a-shader-museum",
+    "tags": [
+      "unity",
+      "shader",
+      "education",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-scg-unity-assets-retro64-scg-unity-package",
+    "type": "shader",
+    "title": "Retro64 Shader 复古64",
+    "summary": "Unity N64+CRT风着色器包，出自《The Calcium Crusader 64》——复古framebuffer美学。",
+    "url": "https://scg-unity-assets.itch.io/retro64-scg-unity-package",
+    "imageUrl": "/covers/itch-scg-unity-assets-retro64-scg-unity-package.jpg",
+    "source": "itch",
+    "sourceId": "scg-unity-assets-retro64-scg-unity-package",
+    "tags": [
+      "unity",
+      "n64",
+      "crt",
+      "shader",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-gubebra-clusters-exp-10",
+    "type": "shader",
+    "title": "Clusters Exp 10 生物簇",
+    "summary": "Unity计算着色器做的第10个仿生模拟：彩色粒子簇聚合分裂——生成式生命视觉。",
+    "url": "https://gubebra.itch.io/clusters-exp-10",
+    "imageUrl": "/covers/itch-gubebra-clusters-exp-10.jpg",
+    "source": "itch",
+    "sourceId": "gubebra-clusters-exp-10",
+    "tags": [
+      "compute-shader",
+      "simulation",
+      "generative",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-kodub-dustsim",
+    "type": "shader",
+    "title": "DustSim 尘埃模拟",
+    "summary": "three.js GPU粒子模拟：数百万独立粒子绕引力质量旋转成盘——网页实时N体视觉。",
+    "url": "https://kodub.itch.io/dustsim",
+    "imageUrl": "/covers/itch-kodub-dustsim.jpg",
+    "source": "itch",
+    "sourceId": "kodub-dustsim",
+    "tags": [
+      "threejs",
+      "gpu",
+      "particles",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "itch-aswoals-nothing-out-there",
+    "type": "shader",
+    "title": "Nothing Out There 空无一物",
+    "summary": "three.js太阳系摄影：木星十小时一转、天王星侧躺公转，按真实科学渲染——宁静宇宙光影。",
+    "url": "https://aswoals.itch.io/nothing-out-there",
+    "imageUrl": "/covers/itch-aswoals-nothing-out-there.jpg",
+    "source": "itch",
+    "sourceId": "aswoals-nothing-out-there",
+    "tags": [
+      "threejs",
+      "space",
+      "photography",
+      "itch"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-2210950",
+    "type": "game",
+    "title": "Aethel Mine 以太矿业",
+    "summary": "手工太阳系里铺自动化工厂：传送带、火车、货船加真实电网，15个轨道发射里程碑——太空物流系统。",
+    "url": "https://store.steampowered.com/app/2210950/",
+    "imageUrl": "/covers/steam-2210950.jpg",
+    "source": "steam",
+    "sourceId": "2210950",
+    "tags": [
+      "factory",
+      "automation",
+      "space",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-5224920",
+    "type": "game",
+    "title": "Furnished 家具布置",
+    "summary": "画平面图再摆满家具、刷墙、调灯光的室内设计沙盒——剖面微缩房间、玩具屋质感。",
+    "url": "https://store.steampowered.com/app/5224920/",
+    "imageUrl": "/covers/steam-5224920.jpg",
+    "source": "steam",
+    "sourceId": "5224920",
+    "tags": [
+      "interior",
+      "sandbox",
+      "diorama",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-4547670",
+    "type": "game",
+    "title": "Cosy Loops 温馨环线",
+    "summary": "用鼠标塑地、铺轨、种树，小火车绕着你的作品转——无资源压力的模型铁路沙盒。",
+    "url": "https://store.steampowered.com/app/4547670/",
+    "imageUrl": "/covers/steam-4547670.jpg",
+    "source": "steam",
+    "sourceId": "4547670",
+    "tags": [
+      "train",
+      "terrain",
+      "cozy",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-1485650",
+    "type": "game",
+    "title": "Zen World 禅意世界",
+    "summary": "六边形地块拼出多彩山川，对齐边缘、探科技树——放松向hex建造策略。",
+    "url": "https://store.steampowered.com/app/1485650/",
+    "imageUrl": "/covers/steam-1485650.jpg",
+    "source": "steam",
+    "sourceId": "1485650",
+    "tags": [
+      "hex",
+      "tile-laying",
+      "strategy",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-5042740",
+    "type": "game",
+    "title": "TIMBER! Idle Village Builder 伐木村庄",
+    "summary": "伐树清空地让村庄在树桩上生长：九种职业、五个时代，从营地到中世纪王国——放置村庄建造。",
+    "url": "https://store.steampowered.com/app/5042740/",
+    "imageUrl": "/covers/steam-5042740.jpg",
+    "source": "steam",
+    "sourceId": "5042740",
+    "tags": [
+      "village-builder",
+      "idle",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-2561630",
+    "type": "game",
+    "title": "Moonfrost 月霜",
+    "summary": "陨石风暴后的世界：重建破碎村庄，种田制作结交邻居——像素温馨生活RPG，冷光夜景好看。",
+    "url": "https://store.steampowered.com/app/2561630/",
+    "imageUrl": "/covers/steam-2561630.jpg",
+    "source": "steam",
+    "sourceId": "2561630",
+    "tags": [
+      "farming",
+      "village",
+      "cozy",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-1706510",
+    "type": "game",
+    "title": "Songs of Glimmerwick 微光林之歌",
+    "summary": "以音乐施法的林地魔法学院：上课、照料学院花园、探索小岛——手绘感风格化3D。",
+    "url": "https://store.steampowered.com/app/1706510/",
+    "imageUrl": "/covers/steam-1706510.jpg",
+    "source": "steam",
+    "sourceId": "1706510",
+    "tags": [
+      "stylized",
+      "magic-school",
+      "cozy",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-2934330",
+    "type": "game",
+    "title": "RADIOSOL 辐射之阳",
+    "summary": "行星浩劫后的焦土：穿越巨构废墟与空城，躲避灼热阳光——琥珀色体积光末日漫游。",
+    "url": "https://store.steampowered.com/app/2934330/",
+    "imageUrl": "/covers/steam-2934330.jpg",
+    "source": "steam",
+    "sourceId": "2934330",
+    "tags": [
+      "atmospheric",
+      "post-apocalyptic",
+      "exploration",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "steam-4616180",
+    "type": "game",
+    "title": "Snowplow Therapy 铲雪疗法",
+    "summary": "夜里开拖拉机清路上的积雪：写实雪面、极光与流星夜空——解压驾驶，雪材质好看。",
+    "url": "https://store.steampowered.com/app/4616180/",
+    "imageUrl": "/covers/steam-4616180.jpg",
+    "source": "steam",
+    "sourceId": "4616180",
+    "tags": [
+      "snow",
+      "driving",
+      "relaxing",
+      "steam"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95206",
+    "type": "shader",
+    "title": "Lexolith WebGPU Molecules 分子动力学",
+    "summary": "浏览器科学实验室：WebGPU实时跑4096个水分子的分子动力学，three.js即时绘制——GPU模拟可视化。",
+    "url": "https://discourse.threejs.org/t/lexolith-molecular-dynamics-on-webgpu-drawn-live-with-three-js/95206",
+    "imageUrl": "/covers/threejs-forum-95206.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95206",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "simulation",
+      "molecules"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95175",
+    "type": "shader",
+    "title": "CHROMA VIVA 002 色彩流动",
+    "summary": "three.js自定义shader的互动色彩研究：搅动橙紫\"托斯卡纳日落\"流体般融合分离——触感色彩艺术。",
+    "url": "https://discourse.threejs.org/t/chroma-viva-002-an-interactive-color-study-with-three-js/95175",
+    "imageUrl": "/covers/threejs-forum-95175.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95175",
+    "tags": [
+      "threejs",
+      "shader",
+      "fluid",
+      "generative"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95164",
+    "type": "shader",
+    "title": "NUCLUME 原子到城市",
+    "summary": "从铀-235裂变到反应堆、涡轮再到点亮的城市：程序化几何+实例化的3D科普展——R3F数字展馆。",
+    "url": "https://discourse.threejs.org/t/nuclume-an-interactive-3d-journey-from-a-single-atom-to-an-illuminated-city/95164",
+    "imageUrl": "/covers/threejs-forum-95164.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95164",
+    "tags": [
+      "threejs",
+      "r3f",
+      "procedural",
+      "science"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95093",
+    "type": "shader",
+    "title": "CrankLab 曲轴实验室",
+    "summary": "程序化生成直列/V/水平对置发动机，可慢放连杆、改点火顺序并实时合成声音——机械可视化。",
+    "url": "https://discourse.threejs.org/t/cranklab-interactive-engine-explorer-with-procedural-geometry-and-sound/95093",
+    "imageUrl": "/covers/threejs-forum-95093.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95093",
+    "tags": [
+      "threejs",
+      "r3f",
+      "procedural",
+      "engine"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94175",
+    "type": "shader",
+    "title": "Three.js Grassworks 草地系统",
+    "summary": "200+小时打磨的WebGPU程序化草：GPU形变、动态风与地形交互，大片草海稳帧——草地tech-art。",
+    "url": "https://discourse.threejs.org/t/high-performance-grass-rendering-in-three-js-webgpu/94175",
+    "imageUrl": "/covers/threejs-forum-94175.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94175",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "grass",
+      "wind"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95131",
+    "type": "shader",
+    "title": "GoPuzzleGo Metal Finishes 金属拼图",
+    "summary": "three.js拼图块变成实心金属：清漆+程序化车漆闪片法线+珍珠/油膜虹彩，真实倒角反射——车漆闪片材质。",
+    "url": "https://discourse.threejs.org/t/free-game-gopuzzlego-jigsaw-puzzles-in-three-js-car-paint-metals-beveled-pieces-and-planets-you-can-assemble/95131",
+    "imageUrl": "/covers/threejs-forum-95131.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95131",
+    "tags": [
+      "threejs",
+      "car-paint",
+      "iridescence",
+      "material"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95092",
+    "type": "shader",
+    "title": "Banyan Procedural Tree 程序化榕树",
+    "summary": "单个HTML、零资源：32位种子长出每次都不同的榕树，气根与树冠——程序化植物。",
+    "url": "https://discourse.threejs.org/t/banyan-a-procedural-tree-grown-from-a-32-bit-seed-in-one-html-file/95092",
+    "imageUrl": "/covers/threejs-forum-95092.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95092",
+    "tags": [
+      "threejs",
+      "procedural",
+      "tree"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94906",
+    "type": "shader",
+    "title": "g.a.d. Ring Ray-Traced Diamond 光追钻戒",
+    "summary": "按真实圆明亮式比例生成钻石，片元shader对自身刻面平面做光线追踪——宝石色散渲染。",
+    "url": "https://discourse.threejs.org/t/g-a-d-ring-a-round-brilliant-ray-traced-against-its-own-facet-planes/94906",
+    "imageUrl": "/covers/threejs-forum-94906.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94906",
+    "tags": [
+      "threejs",
+      "ray-tracing",
+      "gem",
+      "shader"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94960",
+    "type": "shader",
+    "title": "Gargantua Black Hole 卡冈图雅黑洞",
+    "summary": "一次draw call：片元shader逐像素积分史瓦西光子轨道，光子环、二次像与多普勒增亮——WebGL物理渲染。",
+    "url": "https://discourse.threejs.org/t/gargantua-a-ray-traced-black-hole-in-my-portfolio-webgl-one-draw-call/94960",
+    "imageUrl": "/covers/threejs-forum-94960.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94960",
+    "tags": [
+      "webgl",
+      "ray-marching",
+      "black-hole",
+      "shader"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94996",
+    "type": "shader",
+    "title": "Tesseract 超立方体",
+    "summary": "超立方体在四维球面上展开成小宇宙：拖拽旋转、滚轮穿越第四维——three.js TSL+WebGPU视听作品。",
+    "url": "https://discourse.threejs.org/t/tesseract-an-interactive-audiovisual-piece/94996",
+    "imageUrl": "/covers/threejs-forum-94996.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94996",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tsl",
+      "audiovisual"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94953",
+    "type": "shader",
+    "title": "live/jam 3D Music Devices 发光乐器",
+    "summary": "程序化three.js乐器：拉丝铝、玻璃下的示波器、按音色发光渐隐的琴键——WebGPU多人合奏。",
+    "url": "https://discourse.threejs.org/t/live-jam-3d-music-devices-that-light-up-as-you-play/94953",
+    "imageUrl": "/covers/threejs-forum-94953.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94953",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "procedural",
+      "music"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95035",
+    "type": "shader",
+    "title": "Tjuvholmen in 3D 奥斯陆水岸",
+    "summary": "奥斯陆Tjuvholmen水岸街区的网页3D模型：昼/暮/夜三种光照切换——城市微缩数字孪生。",
+    "url": "https://discourse.threejs.org/t/tjuvholmen-in-3d-an-interactive-model-of-a-waterfront-neighbourhood-in-oslo/95035",
+    "imageUrl": "/covers/threejs-forum-95035.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95035",
+    "tags": [
+      "threejs",
+      "city",
+      "lighting",
+      "diorama"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95133",
+    "type": "game",
+    "title": "Slice Tilt 披萨弹珠台",
+    "summary": "把圆披萨切成四张主题弹珠台，过关后整张披萨旋转90°唤醒下一片——three.js WebGPU/TSL玩具感。",
+    "url": "https://discourse.threejs.org/t/free-game-slice-tilt-a-3d-pinball-on-a-pizza-built-with-webgpu-tsl/95133",
+    "imageUrl": "/covers/threejs-forum-95133.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95133",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "pinball",
+      "toy"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95129",
+    "type": "game",
+    "title": "Worms.js 百战天虫网页版",
+    "summary": "可破坏地形、风、爆炸击退、水与联机大厅的Worms浏览器复刻——R3F+自定义GLSL。",
+    "url": "https://discourse.threejs.org/t/worms-js-a-worms-inspired-browser-game-with-destructible-terrain-and-online-multiplayer/95129",
+    "imageUrl": "/covers/threejs-forum-95129.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95129",
+    "tags": [
+      "threejs",
+      "destructible-terrain",
+      "multiplayer"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95169",
+    "type": "game",
+    "title": "Roadarium 真实街道驾驶",
+    "summary": "OpenStreetMap生成119座真实城市，交通、电车、行人按各国规则行驶——网页驾驶模拟。",
+    "url": "https://discourse.threejs.org/t/roadarium-drive-the-real-streets-of-119-cities-in-your-browser/95169",
+    "imageUrl": "/covers/threejs-forum-95169.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95169",
+    "tags": [
+      "threejs",
+      "osm",
+      "driving",
+      "simulation"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95127",
+    "type": "game",
+    "title": "threejs café 雨夜街机咖啡馆",
+    "summary": "第一人称走进90年代街机咖啡馆：窗外永远在下雨，霓虹+GTAO/SSGI——WebGPU TSL氛围空间。",
+    "url": "https://discourse.threejs.org/t/threejs-cafe-a-90s-arcade-cafe-you-can-walk-around-in-webgpu-tsl/95127",
+    "imageUrl": "/covers/threejs-forum-95127.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95127",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tsl",
+      "neon"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95102",
+    "type": "game",
+    "title": "Mountain Lab Village 山顶实验室村庄",
+    "summary": "顶点色烘焙昼夜光照+卡通描边的山顶小屋，草地上任何人都能画路、引溪、盖风车建村——共享村庄建造。",
+    "url": "https://discourse.threejs.org/t/a-portfolio-you-can-live-in-a-cozy-lab-on-a-mountain-and-a-village-anyone-can-build/95102",
+    "imageUrl": "/covers/threejs-forum-95102.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95102",
+    "tags": [
+      "threejs",
+      "toon",
+      "village-builder"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-95090",
+    "type": "game",
+    "title": "Solar Tower Simulator 太阳能塔",
+    "summary": "给2000面定日镜写代码追日反射到塔顶，争取当天最高MWh——编程模拟游戏。",
+    "url": "https://discourse.threejs.org/t/solar-tower-simulator-game-for-coders-with-programmable-mirrors/95090",
+    "imageUrl": "/covers/threejs-forum-95090.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95090",
+    "tags": [
+      "threejs",
+      "simulation",
+      "programming"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "threejs-forum-94518",
+    "type": "game",
+    "title": "EverRealm 永恒之境",
+    "summary": "浏览器第一人称复古奇幻RPG：程序化流式地形、城镇地城、火把粒子——three.js+cannon-es开放世界。",
+    "url": "https://discourse.threejs.org/t/everrealm-a-first-person-open-world-retro-fantasy-rpg/94518",
+    "imageUrl": "/covers/threejs-forum-94518.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94518",
+    "tags": [
+      "threejs",
+      "rpg",
+      "procedural",
+      "retro"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-soft-body-simulation-can-cut-peel-break-objects-in-real-time",
+    "type": "shader",
+    "title": "OmniBody Soft-Body Sim 万物软体",
+    "summary": "KAIST的OmniBody：椭球粒子+局部XPBD+GPU并行，实时切割、剥皮、破碎可变形物体——实时物理研究。",
+    "url": "https://80.lv/articles/this-soft-body-simulation-can-cut-peel-break-objects-in-real-time",
+    "imageUrl": "/covers/80lv-this-soft-body-simulation-can-cut-peel-break-objects-in-real-time.jpg",
+    "source": "80lv",
+    "sourceId": "this-soft-body-simulation-can-cut-peel-break-objects-in-real-time",
+    "tags": [
+      "simulation",
+      "xpbd",
+      "gpu",
+      "research",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-how-to-create-realistic-waterfall-vfx-in-houdini",
+    "type": "shader",
+    "title": "Houdini Waterfall VFX 瀑布特效",
+    "summary": "Arbaz Malik拆解Houdini写实瀑布，附工程文件——水体白沫VFX流程。",
+    "url": "https://80.lv/articles/how-to-create-realistic-waterfall-vfx-in-houdini",
+    "imageUrl": "/covers/80lv-how-to-create-realistic-waterfall-vfx-in-houdini.jpg",
+    "source": "80lv",
+    "sourceId": "how-to-create-realistic-waterfall-vfx-in-houdini",
+    "tags": [
+      "houdini",
+      "water",
+      "vfx",
+      "tutorial",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-real-time-flow-map-painting-in-unreal-engine",
+    "type": "shader",
+    "title": "UE5 Flow Map Painting 实时流向图绘制",
+    "summary": "Karim Yasser的UE5插件：直接在场景里实时绘制水流flow map——水材质工具。",
+    "url": "https://80.lv/articles/real-time-flow-map-painting-in-unreal-engine",
+    "imageUrl": "/covers/80lv-real-time-flow-map-painting-in-unreal-engine.jpg",
+    "source": "80lv",
+    "sourceId": "real-time-flow-map-painting-in-unreal-engine",
+    "tags": [
+      "ue5",
+      "flowmap",
+      "water",
+      "tool",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-translating-2d-hand-drawn-industrial-themed-artwork-into-3d-scene-in-blender",
+    "type": "shader",
+    "title": "Hand-Drawn Industrial 3D 手绘工业风场景",
+    "summary": "Kay Hilman用几何节点+蜡笔把2D手绘工业插画搬成3D——线稿NPR场景。",
+    "url": "https://80.lv/articles/translating-2d-hand-drawn-industrial-themed-artwork-into-3d-scene-in-blender",
+    "imageUrl": "/covers/80lv-translating-2d-hand-drawn-industrial-themed-artwork-into-3d-scene-in-blender.jpg",
+    "source": "80lv",
+    "sourceId": "translating-2d-hand-drawn-industrial-themed-artwork-into-3d-scene-in-blender",
+    "tags": [
+      "blender",
+      "npr",
+      "geometry-nodes",
+      "grease-pencil",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-might-be-the-most-disgustingly-satisfying-fluid-simulation-you-see-today",
+    "type": "shader",
+    "title": "Gross Satisfying Fluid 黏稠流体",
+    "summary": "Houdini黏稠流体模拟：又恶心又解压的拉丝与流淌——高黏度流体tech-art。",
+    "url": "https://80.lv/articles/this-might-be-the-most-disgustingly-satisfying-fluid-simulation-you-see-today",
+    "imageUrl": "/covers/80lv-this-might-be-the-most-disgustingly-satisfying-fluid-simulation-you-see-today.jpg",
+    "source": "80lv",
+    "sourceId": "this-might-be-the-most-disgustingly-satisfying-fluid-simulation-you-see-today",
+    "tags": [
+      "houdini",
+      "fluid",
+      "simulation",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-check-out-the-nodes-behind-this-glowing-ice-blender-material",
+    "type": "shader",
+    "title": "Glowing Ice Material 发光冰材质",
+    "summary": "Ethan Du Toit的Blender发光冰材质节点，还在UE里复刻——次表面透光材质。",
+    "url": "https://80.lv/articles/check-out-the-nodes-behind-this-glowing-ice-blender-material",
+    "imageUrl": "/covers/80lv-check-out-the-nodes-behind-this-glowing-ice-blender-material.jpg",
+    "source": "80lv",
+    "sourceId": "check-out-the-nodes-behind-this-glowing-ice-blender-material",
+    "tags": [
+      "blender",
+      "ue5",
+      "material",
+      "ice",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-watch-this-creepy-fabric-rip-apart-stitch-itself-back-together",
+    "type": "shader",
+    "title": "Self-Stitching Fabric 自缝布料",
+    "summary": "Houdini布料被撕开又自己缝合回去——诡异的布料模拟VFX。",
+    "url": "https://80.lv/articles/watch-this-creepy-fabric-rip-apart-stitch-itself-back-together",
+    "imageUrl": "/covers/80lv-watch-this-creepy-fabric-rip-apart-stitch-itself-back-together.jpg",
+    "source": "80lv",
+    "sourceId": "watch-this-creepy-fabric-rip-apart-stitch-itself-back-together",
+    "tags": [
+      "houdini",
+      "cloth",
+      "vfx",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player",
+    "type": "shader",
+    "title": "Painterly Cassette Player 手绘风磁带机",
+    "summary": "奇异人生式手绘质感的3D复古磁带机动画——painterly NPR道具。",
+    "url": "https://80.lv/articles/check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player",
+    "imageUrl": "/covers/80lv-check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player.jpg",
+    "source": "80lv",
+    "sourceId": "check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player",
+    "tags": [
+      "painterly",
+      "npr",
+      "blender",
+      "prop",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-garden-of-dragons-scene-with-fog-fluid-simulations-will-take-your-breath-away",
+    "type": "shader",
+    "title": "Garden of Dragons Fog 龙之庭雾",
+    "summary": "Rebecca Ma的龙之花园：雾与流体模拟笼罩巨龙石雕——体积雾环境。",
+    "url": "https://80.lv/articles/this-garden-of-dragons-scene-with-fog-fluid-simulations-will-take-your-breath-away",
+    "imageUrl": "/covers/80lv-this-garden-of-dragons-scene-with-fog-fluid-simulations-will-take-your-breath-away.jpg",
+    "source": "80lv",
+    "sourceId": "this-garden-of-dragons-scene-with-fog-fluid-simulations-will-take-your-breath-away",
+    "tags": [
+      "houdini",
+      "fog",
+      "environment",
+      "volumetric",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-learn-to-make-hand-painted-watercolor-textures-for-3d-scenes-with-this-tutorial-series",
+    "type": "shader",
+    "title": "Hand-Painted Watercolor Textures 水彩手绘贴图",
+    "summary": "Beno Raistrick五集教程：把真实水彩手绘贴图搬进3D场景——水彩风小屋。",
+    "url": "https://80.lv/articles/learn-to-make-hand-painted-watercolor-textures-for-3d-scenes-with-this-tutorial-series",
+    "imageUrl": "/covers/80lv-learn-to-make-hand-painted-watercolor-textures-for-3d-scenes-with-this-tutorial-series.jpg",
+    "source": "80lv",
+    "sourceId": "learn-to-make-hand-painted-watercolor-textures-for-3d-scenes-with-this-tutorial-series",
+    "tags": [
+      "watercolor",
+      "hand-painted",
+      "tutorial",
+      "blender",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-breathtaking-3d-animation-of-a-butterfly-on-a-skeleton-that-looks-2d",
+    "type": "shader",
+    "title": "3D-That-Looks-2D Butterfly 似2D蝴蝶",
+    "summary": "Levi Magony回归：骷髅上的蝴蝶，3D动画看起来像2D手绘——NPR大师作品。",
+    "url": "https://80.lv/articles/breathtaking-3d-animation-of-a-butterfly-on-a-skeleton-that-looks-2d",
+    "imageUrl": "/covers/80lv-breathtaking-3d-animation-of-a-butterfly-on-a-skeleton-that-looks-2d.jpg",
+    "source": "80lv",
+    "sourceId": "breathtaking-3d-animation-of-a-butterfly-on-a-skeleton-that-looks-2d",
+    "tags": [
+      "npr",
+      "2d-look",
+      "animation",
+      "blender",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-artist-recreates-lifelike-bubble-physics-in-houdini-based-on-w-t-s-research",
+    "type": "shader",
+    "title": "Wētā-Style Bubble Solver 维塔气泡",
+    "summary": "Pavel Morozov按维塔论文做的Houdini气泡解算器——水下气泡物理。",
+    "url": "https://80.lv/articles/artist-recreates-lifelike-bubble-physics-in-houdini-based-on-w-t-s-research",
+    "imageUrl": "/covers/80lv-artist-recreates-lifelike-bubble-physics-in-houdini-based-on-w-t-s-research.jpg",
+    "source": "80lv",
+    "sourceId": "artist-recreates-lifelike-bubble-physics-in-houdini-based-on-w-t-s-research",
+    "tags": [
+      "houdini",
+      "bubbles",
+      "fluid",
+      "research",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-take-a-look-at-this-trippy-graphite-pencil-particle-fx",
+    "type": "shader",
+    "title": "Graphite Pencil Particle FX 石墨铅笔粒子",
+    "summary": "铅笔被碎成石墨粒子的迷幻破碎特效《Sketching Ideas》——Houdini粒子VFX。",
+    "url": "https://80.lv/articles/take-a-look-at-this-trippy-graphite-pencil-particle-fx",
+    "imageUrl": "/covers/80lv-take-a-look-at-this-trippy-graphite-pencil-particle-fx.jpg",
+    "source": "80lv",
+    "sourceId": "take-a-look-at-this-trippy-graphite-pencil-particle-fx",
+    "tags": [
+      "houdini",
+      "particles",
+      "destruction",
+      "vfx",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-seriously-impressive-real-time-water-caustics-that-run-in-your-browser",
+    "type": "shader",
+    "title": "Browser Real-Time Water Caustics 网页实时焦散",
+    "summary": "开源浏览器实时水面焦散，Lite/Full两版——泳池水波光斑，网页tech-art。",
+    "url": "https://80.lv/articles/seriously-impressive-real-time-water-caustics-that-run-in-your-browser",
+    "imageUrl": "/covers/80lv-seriously-impressive-real-time-water-caustics-that-run-in-your-browser.jpg",
+    "source": "80lv",
+    "sourceId": "seriously-impressive-real-time-water-caustics-that-run-in-your-browser",
+    "tags": [
+      "webgl",
+      "caustics",
+      "water",
+      "open-source",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-fluidninja-live-2-for-ue5-showcases-realistic-mud-effects",
+    "type": "shader",
+    "title": "FluidNinja LIVE-2 Mud 实时泥浆",
+    "summary": "UE5实时流体工具FluidNinja LIVE-2：小球滚过留下黏稠泥痕——可交互流体。",
+    "url": "https://80.lv/articles/fluidninja-live-2-for-ue5-showcases-realistic-mud-effects",
+    "imageUrl": "/covers/80lv-fluidninja-live-2-for-ue5-showcases-realistic-mud-effects.jpg",
+    "source": "80lv",
+    "sourceId": "fluidninja-live-2-for-ue5-showcases-realistic-mud-effects",
+    "tags": [
+      "ue5",
+      "fluid",
+      "mud",
+      "real-time",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-check-out-this-fascinating-3d-model-that-looks-like-an-oil-painting",
+    "type": "shader",
+    "title": "Oil-Painting 3D Model 油画感模型",
+    "summary": "看起来像油画的3D人物场景——笔触感painterly渲染。",
+    "url": "https://80.lv/articles/check-out-this-fascinating-3d-model-that-looks-like-an-oil-painting",
+    "imageUrl": "/covers/80lv-check-out-this-fascinating-3d-model-that-looks-like-an-oil-painting.jpg",
+    "source": "80lv",
+    "sourceId": "check-out-this-fascinating-3d-model-that-looks-like-an-oil-painting",
+    "tags": [
+      "painterly",
+      "oil-painting",
+      "blender",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-how-to-make-a-glowing-hexagon-shield-animation-with-blender-s-geometry-nodes",
+    "type": "shader",
+    "title": "Hexagon Shield GN 六边形护盾",
+    "summary": "PIXXO 3D教程：用Blender几何节点做发光六边形能量护盾——程序化VFX。",
+    "url": "https://80.lv/articles/how-to-make-a-glowing-hexagon-shield-animation-with-blender-s-geometry-nodes",
+    "imageUrl": "/covers/80lv-how-to-make-a-glowing-hexagon-shield-animation-with-blender-s-geometry-nodes.jpg",
+    "source": "80lv",
+    "sourceId": "how-to-make-a-glowing-hexagon-shield-animation-with-blender-s-geometry-nodes",
+    "tags": [
+      "blender",
+      "geometry-nodes",
+      "vfx",
+      "hex",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-hypnotizing-fluid-simulation-based-on-w-t-s-research-on-lagrangian-waves",
+    "type": "shader",
+    "title": "Lagrangian Wave Fluid 拉格朗日浪",
+    "summary": "Fred Bello按维塔拉格朗日波研究搭的Houdini水体——催眠般的浪面。",
+    "url": "https://80.lv/articles/hypnotizing-fluid-simulation-based-on-w-t-s-research-on-lagrangian-waves",
+    "imageUrl": "/covers/80lv-hypnotizing-fluid-simulation-based-on-w-t-s-research-on-lagrangian-waves.jpg",
+    "source": "80lv",
+    "sourceId": "hypnotizing-fluid-simulation-based-on-w-t-s-research-on-lagrangian-waves",
+    "tags": [
+      "houdini",
+      "water",
+      "waves",
+      "research",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-see-these-glitter-tights-sparkle-from-every-angle",
+    "type": "shader",
+    "title": "Glitter Tights Shader 闪片丝袜",
+    "summary": "Blender闪片材质从各个角度闪烁，并公开shader做法——类车漆闪片微面材质。",
+    "url": "https://80.lv/articles/see-these-glitter-tights-sparkle-from-every-angle",
+    "imageUrl": "/covers/80lv-see-these-glitter-tights-sparkle-from-every-angle.jpg",
+    "source": "80lv",
+    "sourceId": "see-these-glitter-tights-sparkle-from-every-angle",
+    "tags": [
+      "blender",
+      "glitter",
+      "flakes",
+      "material",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-artist-shows-process-of-creating-stylized-vfx-with-blender-s-geometry-nodes",
+    "type": "shader",
+    "title": "Stylized VFX with GN 几何节点风格化特效",
+    "summary": "Good Good逐步讲解用几何节点做风格化魔法特效——卡通VFX流程。",
+    "url": "https://80.lv/articles/artist-shows-process-of-creating-stylized-vfx-with-blender-s-geometry-nodes",
+    "imageUrl": "/covers/80lv-artist-shows-process-of-creating-stylized-vfx-with-blender-s-geometry-nodes.jpg",
+    "source": "80lv",
+    "sourceId": "artist-shows-process-of-creating-stylized-vfx-with-blender-s-geometry-nodes",
+    "tags": [
+      "blender",
+      "geometry-nodes",
+      "stylized",
+      "vfx",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-maalat-gorgeous-painterly-3d-still-life-of-filipino-salty-foods",
+    "type": "shader",
+    "title": "MAALAT Painterly Still Life 咸味静物",
+    "summary": "菲律宾咸蛋、鱼干的3D静物，像真油画——饱和文化风painterly。",
+    "url": "https://80.lv/articles/maalat-gorgeous-painterly-3d-still-life-of-filipino-salty-foods",
+    "imageUrl": "/covers/80lv-maalat-gorgeous-painterly-3d-still-life-of-filipino-salty-foods.jpg",
+    "source": "80lv",
+    "sourceId": "maalat-gorgeous-painterly-3d-still-life-of-filipino-salty-foods",
+    "tags": [
+      "painterly",
+      "still-life",
+      "blender",
+      "cultural",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-weird-forbidden-fruit-looks-like-it-came-from-an-early-nintendo-game",
+    "type": "shader",
+    "title": "Low-Poly Forbidden Fruit 禁果",
+    "summary": "像时之笛年代的低多边形怪苹果——早期任天堂可读形体。",
+    "url": "https://80.lv/articles/this-weird-forbidden-fruit-looks-like-it-came-from-an-early-nintendo-game",
+    "imageUrl": "/covers/80lv-this-weird-forbidden-fruit-looks-like-it-came-from-an-early-nintendo-game.jpg",
+    "source": "80lv",
+    "sourceId": "this-weird-forbidden-fruit-looks-like-it-came-from-an-early-nintendo-game",
+    "tags": [
+      "low-poly",
+      "n64",
+      "blender",
+      "prop",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-anime-style-clouds-in-blender-step-by-step-tutorial",
+    "type": "shader",
+    "title": "Anime Clouds in Blender 动画风云",
+    "summary": "Sumi分步讲解Blender动画风积云——NPR天空。",
+    "url": "https://80.lv/articles/anime-style-clouds-in-blender-step-by-step-tutorial",
+    "imageUrl": "/covers/80lv-anime-style-clouds-in-blender-step-by-step-tutorial.jpg",
+    "source": "80lv",
+    "sourceId": "anime-style-clouds-in-blender-step-by-step-tutorial",
+    "tags": [
+      "blender",
+      "anime",
+      "clouds",
+      "npr",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-platformer-lets-you-use-shadows-of-real-life-objects-to-play",
+    "type": "game",
+    "title": "Plato Shadow Platformer 影子平台",
+    "summary": "Tee Ken Ng的混合现实平台游戏：用真实物体投影当关卡——光影即玩法。",
+    "url": "https://80.lv/articles/this-platformer-lets-you-use-shadows-of-real-life-objects-to-play",
+    "imageUrl": "/covers/80lv-this-platformer-lets-you-use-shadows-of-real-life-objects-to-play.jpg",
+    "source": "80lv",
+    "sourceId": "this-platformer-lets-you-use-shadows-of-real-life-objects-to-play",
+    "tags": [
+      "mixed-reality",
+      "shadow",
+      "platformer",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-game-where-you-replace-an-entire-city-with-shiny-parking-lots-is-out-in-early-access",
+    "type": "game",
+    "title": "Car Park Capital 停车场之都",
+    "summary": "过山车大亨式：拆掉房子树木把城市变成停车场——等距经营讽刺，已抢先体验。",
+    "url": "https://80.lv/articles/this-game-where-you-replace-an-entire-city-with-shiny-parking-lots-is-out-in-early-access",
+    "imageUrl": "/covers/80lv-this-game-where-you-replace-an-entire-city-with-shiny-parking-lots-is-out-in-early-access.jpg",
+    "source": "80lv",
+    "sourceId": "this-game-where-you-replace-an-entire-city-with-shiny-parking-lots-is-out-in-early-access",
+    "tags": [
+      "tycoon",
+      "city",
+      "isometric",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-srochet-your-own-cozy-isometric-city-with-cotton-in-this-cute-game",
+    "type": "game",
+    "title": "Cotton City 棉线之城",
+    "summary": "用毛线钩出等距小城：架桥铺路、盖房种树，像一件大手工——织物质感城建。",
+    "url": "https://80.lv/articles/srochet-your-own-cozy-isometric-city-with-cotton-in-this-cute-game",
+    "imageUrl": "/covers/80lv-srochet-your-own-cozy-isometric-city-with-cotton-in-this-cute-game.jpg",
+    "source": "80lv",
+    "sourceId": "srochet-your-own-cozy-isometric-city-with-cotton-in-this-cute-game",
+    "tags": [
+      "city-builder",
+      "crochet",
+      "isometric",
+      "cozy",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-gta-1-s-vehicle-physics-are-now-playable-in-your-browser",
+    "type": "game",
+    "title": "GTA 1 Vehicle Physics 初代GTA车辆物理",
+    "summary": "前GTA程序员Patrick Kerr公开初代载具物理并做成网页可玩——经典物理系统拆解。",
+    "url": "https://80.lv/articles/gta-1-s-vehicle-physics-are-now-playable-in-your-browser",
+    "imageUrl": "/covers/80lv-gta-1-s-vehicle-physics-are-now-playable-in-your-browser.jpg",
+    "source": "80lv",
+    "sourceId": "gta-1-s-vehicle-physics-are-now-playable-in-your-browser",
+    "tags": [
+      "vehicle-physics",
+      "browser",
+      "retro",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-new-indie-rpg-is-like-fromsoftware-made-new-king-s-field-game",
+    "type": "game",
+    "title": "Queen's Domain 女王领域",
+    "summary": "像FromSoftware新做的国王密令：UE暗色地城加一点黄昏公主色调——哥特第一人称RPG。",
+    "url": "https://80.lv/articles/this-new-indie-rpg-is-like-fromsoftware-made-new-king-s-field-game",
+    "imageUrl": "/covers/80lv-this-new-indie-rpg-is-like-fromsoftware-made-new-king-s-field-game.jpg",
+    "source": "80lv",
+    "sourceId": "this-new-indie-rpg-is-like-fromsoftware-made-new-king-s-field-game",
+    "tags": [
+      "rpg",
+      "ue5",
+      "dark-fantasy",
+      "king-s-field",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-boss-rush-game-inspired-by-chinese-ink-paintings-is-built-around-tough-choices",
+    "type": "game",
+    "title": "Harmonie 和鸣",
+    "summary": "法国小团队的水墨画风Boss Rush：水彩笔触下的抉择战斗——东方文化风格化。",
+    "url": "https://80.lv/articles/this-boss-rush-game-inspired-by-chinese-ink-paintings-is-built-around-tough-choices",
+    "imageUrl": "/covers/80lv-this-boss-rush-game-inspired-by-chinese-ink-paintings-is-built-around-tough-choices.jpg",
+    "source": "80lv",
+    "sourceId": "this-boss-rush-game-inspired-by-chinese-ink-paintings-is-built-around-tough-choices",
+    "tags": [
+      "ink-painting",
+      "watercolor",
+      "boss-rush",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-befriend-corrupted-creatures-turn-them-into-automated-factory-in-this-indie-gem",
+    "type": "game",
+    "title": "Corrupted Creatures Factory 生物工厂",
+    "summary": "结交被污染的生物，把它们变成自动化工厂——生物自动化+探索+塔防。",
+    "url": "https://80.lv/articles/befriend-corrupted-creatures-turn-them-into-automated-factory-in-this-indie-gem",
+    "imageUrl": "/covers/80lv-befriend-corrupted-creatures-turn-them-into-automated-factory-in-this-indie-gem.jpg",
+    "source": "80lv",
+    "sourceId": "befriend-corrupted-creatures-turn-them-into-automated-factory-in-this-indie-gem",
+    "tags": [
+      "automation",
+      "creatures",
+      "tower-defense",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-caving-sim-uses-sounds-textures-captured-in-real-caves",
+    "type": "game",
+    "title": "Cave Expedition 洞穴远征",
+    "summary": "用真实洞穴扫描、现场录音做的洞穴探险模拟——头灯下的湿岩体积光。",
+    "url": "https://80.lv/articles/this-caving-sim-uses-sounds-textures-captured-in-real-caves",
+    "imageUrl": "/covers/80lv-this-caving-sim-uses-sounds-textures-captured-in-real-caves.jpg",
+    "source": "80lv",
+    "sourceId": "this-caving-sim-uses-sounds-textures-captured-in-real-caves",
+    "tags": [
+      "caving",
+      "simulation",
+      "photogrammetry",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-this-game-turns-you-into-500-000-physically-simulated-grains-of-sand",
+    "type": "game",
+    "title": "500,000 Grains of Sand 五十万沙粒",
+    "summary": "你就是五十万颗物理模拟的沙粒——GPU颗粒玩法。",
+    "url": "https://80.lv/articles/this-game-turns-you-into-500-000-physically-simulated-grains-of-sand",
+    "imageUrl": "/covers/80lv-this-game-turns-you-into-500-000-physically-simulated-grains-of-sand.jpg",
+    "source": "80lv",
+    "sourceId": "this-game-turns-you-into-500-000-physically-simulated-grains-of-sand",
+    "tags": [
+      "sand",
+      "particles",
+      "physics",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-chores-have-never-looked-so-good-this-cozy-cleaning-adventure-gets-a-release-date",
+    "type": "game",
+    "title": "Muri: Wildwoods 木里野林",
+    "summary": "一点点清理整座岛让它复苏——阳光下圆润角色的温馨清洁冒险。",
+    "url": "https://80.lv/articles/chores-have-never-looked-so-good-this-cozy-cleaning-adventure-gets-a-release-date",
+    "imageUrl": "/covers/80lv-chores-have-never-looked-so-good-this-cozy-cleaning-adventure-gets-a-release-date.jpg",
+    "source": "80lv",
+    "sourceId": "chores-have-never-looked-so-good-this-cozy-cleaning-adventure-gets-a-release-date",
+    "tags": [
+      "cozy",
+      "cleaning",
+      "stylized",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
+    "id": "80lv-check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city",
+    "type": "game",
+    "title": "Nivalis Nights 尼瓦利斯之夜",
+    "summary": "温馨赛博朋克生活模拟：开店经营、逛霓虹体素城市——夜景灯光很出彩，已上Steam。",
+    "url": "https://80.lv/articles/check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city",
+    "imageUrl": "/covers/80lv-check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city.jpg",
+    "source": "80lv",
+    "sourceId": "check-out-this-cozy-cyberpunk-life-sim-where-you-build-business-explore-neon-lit-city",
+    "tags": [
+      "cyberpunk",
+      "life-sim",
+      "voxel",
+      "neon",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-13"
+  },
+  {
     "id": "x-2107613435001467242",
     "type": "shader",
     "title": "WebGPU Screen-Space Water 屏幕空间水体",
