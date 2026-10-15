@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-riekahq-hex-overworld-tileset",
+    "type": "inspiration",
+    "title": "六角世界瓦片 Hex Overworld",
+    "summary": "32×32 六边形地图瓦片，含 17 种地形、动画水面与岩浆、城镇城堡道路河流，直接对标六边形大地图。",
+    "url": "https://riekahq.itch.io/hex-overworld-tileset",
+    "imageUrl": "/covers/itch-riekahq-hex-overworld-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-hex-overworld-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mythrylstudio-pixel-terrain",
+    "type": "inspiration",
+    "title": "等距像素地形 2D Pixel Terrain",
+    "summary": "等距像素地形包：草地、悬崖、水面、树石四季版本，32/64px 两套尺寸，高低差表现清楚。",
+    "url": "https://mythrylstudio.itch.io/pixel-terrain",
+    "imageUrl": "/covers/itch-mythrylstudio-pixel-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-mythrylstudio-pixel-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tinyfront-tinyfront-terrain",
+    "type": "inspiration",
+    "title": "Tinyfront 自动拼接地形",
+    "summary": "16×16 俯视自动拼接地形（水/沙/草/土）加 33 个道具，附 Godot 4 TileSet，过渡边干净。",
+    "url": "https://tinyfront.itch.io/tinyfront-terrain",
+    "imageUrl": "/covers/itch-tinyfront-tinyfront-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-tinyfront-tinyfront-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sabako-overworld-tileset-pack",
+    "type": "inspiration",
+    "title": "Overworld 大地图瓦片包",
+    "summary": "83 块大地图瓦片：47 块草水自动拼接角加树林和地物，海岸线过渡做法值得参考。",
+    "url": "https://sabako.itch.io/overworld-tileset-pack",
+    "imageUrl": "/covers/itch-sabako-overworld-tileset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-sabako-overworld-tileset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-marvyra-unique-8-bit-world-map-tileset",
+    "type": "inspiration",
+    "title": "8-bit 幻想世界地图",
+    "summary": "1200+ 块 16×16 世界地图瓦片，多种生态群落、景物和兴趣点，适合做大地图配色参考。",
+    "url": "https://marvyra.itch.io/unique-8-bit-world-map-tileset",
+    "imageUrl": "/covers/itch-marvyra-unique-8-bit-world-map-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-marvyra-unique-8-bit-world-map-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-voxel-winter-terrain-tiles-snow-ground-frozen-stream",
+    "type": "inspiration",
+    "title": "体素冬季地形 Voxel Winter Terrain",
+    "summary": "23 块无缝 8 米体素瓦片：雪地、卵石路和冰河，免费，体素地形的拼接与配色示范。",
+    "url": "https://tersco.itch.io/voxel-winter-terrain-tiles-snow-ground-frozen-stream",
+    "imageUrl": "/covers/itch-tersco-voxel-winter-terrain-tiles-snow-ground-frozen-stream.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-winter-terrain-tiles-snow-ground-frozen-stream",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelgrove-voxel-nature-kit",
+    "type": "inspiration",
+    "title": "体素自然套件 Voxel Nature Kit",
+    "summary": "10 块地形瓦片加 48 个自然道具，同时给等距像素图和 3D 体素模型，2D/3D 可对照。",
+    "url": "https://voxelgrove.itch.io/voxel-nature-kit",
+    "imageUrl": "/covers/itch-voxelgrove-voxel-nature-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-voxel-nature-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mg-lawless-voxel-tile-asset-pack",
+    "type": "inspiration",
+    "title": "体素瓦片包 Voxel Tile Pack",
+    "summary": "体素风格地块，可做等距或俯视，附 Unity 网格系统，直接能拼地图。",
+    "url": "https://mg-lawless.itch.io/voxel-tile-asset-pack",
+    "imageUrl": "/covers/itch-mg-lawless-voxel-tile-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mg-lawless-voxel-tile-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-guilherme587-stylized-voxel-sonora-pack",
+    "type": "inspiration",
+    "title": "体素沙漠 Stylized Voxel Sonora",
+    "summary": "54 个体素沙漠资产：仙人掌、树、花、岩石，带 5 档 LOD，色块简洁可读。",
+    "url": "https://guilherme587.itch.io/stylized-voxel-sonora-pack",
+    "imageUrl": "/covers/itch-guilherme587-stylized-voxel-sonora-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-guilherme587-stylized-voxel-sonora-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-guilherme587-stylized-voxel-swamp-pack",
+    "type": "inspiration",
+    "title": "体素沼泽 Stylized Voxel Swamp",
+    "summary": "57 个体素沼泽资产：树、苔藓、水草、岩石，暖绿色调很有层次。",
+    "url": "https://guilherme587.itch.io/stylized-voxel-swamp-pack",
+    "imageUrl": "/covers/itch-guilherme587-stylized-voxel-swamp-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-guilherme587-stylized-voxel-swamp-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-riekahq-topdown-character-roster",
+    "type": "inspiration",
+    "title": "俯视角色名册 Top-Down Character Roster",
+    "summary": "24 个 16×16 俯视 RPG 角色，四方向走路/待机/动作，三种肤色，小尺寸剪影一眼可读。",
+    "url": "https://riekahq.itch.io/topdown-character-roster",
+    "imageUrl": "/covers/itch-riekahq-topdown-character-roster.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-topdown-character-roster",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goblin-mol-movement-cast",
+    "type": "inspiration",
+    "title": "Movement Cast 横版四角色",
+    "summary": "四个侧视像素角色共用一套骨架，14 种动作（跑跳爬梯、受击、交互），3 套配色。",
+    "url": "https://goblin-mol.itch.io/movement-cast",
+    "imageUrl": "/covers/itch-goblin-mol-movement-cast.jpg",
+    "source": "itch",
+    "sourceId": "itch-goblin-mol-movement-cast",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-deadcakes-isometric-character-system",
+    "type": "inspiration",
+    "title": "等距角色系统 Isometric Character System",
+    "summary": "等距像素角色“换装娃娃”系统，可分层组合，适合做人口外观多样化。",
+    "url": "https://deadcakes.itch.io/isometric-character-system",
+    "imageUrl": "/covers/itch-deadcakes-isometric-character-system.jpg",
+    "source": "itch",
+    "sourceId": "itch-deadcakes-isometric-character-system",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-icetanker-medieval-heroes-and-wizards",
+    "type": "inspiration",
+    "title": "中世纪英雄与法师",
+    "summary": "28 个职业 × 3 种配色，英雄、法师与 NPC，四方向行走，职业区分清楚。",
+    "url": "https://icetanker.itch.io/medieval-heroes-and-wizards",
+    "imageUrl": "/covers/itch-icetanker-medieval-heroes-and-wizards.jpg",
+    "source": "itch",
+    "sourceId": "itch-icetanker-medieval-heroes-and-wizards",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-people-pack",
+    "type": "inspiration",
+    "title": "PEOPLE 八方向村民",
+    "summary": "14 种中世纪村民、卫兵、骑士，各 3 变体，8 方向动画，附阴影，两种尺寸。",
+    "url": "https://mmorwynn.itch.io/people-pack",
+    "imageUrl": "/covers/itch-mmorwynn-people-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-people-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chinesedragoncn-ancient-chinese-town-village-isometric-pixel-art-asset-pack-37-assets",
+    "type": "inspiration",
+    "title": "古风中式等距小镇",
+    "summary": "2.5D 等距中式民居、住宅和商铺，屋顶与檐廊轮廓鲜明，东方城镇参考。",
+    "url": "https://chinesedragoncn.itch.io/ancient-chinese-town-village-isometric-pixel-art-asset-pack-37-assets",
+    "imageUrl": "/covers/itch-chinesedragoncn-ancient-chinese-town-village-isometric-pixel-art-asset-pack-37-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-chinesedragoncn-ancient-chinese-town-village-isometric-pixel-art-asset-pack-37-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-petalbyte-tiny-town-buildings-editable-pixel-art-village-pack",
+    "type": "inspiration",
+    "title": "Tiny Town 小镇建筑",
+    "summary": "可爱像素村庄建筑，附可编辑 Aseprite 源文件，改色和拼装都方便。",
+    "url": "https://petalbyte.itch.io/tiny-town-buildings-editable-pixel-art-village-pack",
+    "imageUrl": "/covers/itch-petalbyte-tiny-town-buildings-editable-pixel-art-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-petalbyte-tiny-town-buildings-editable-pixel-art-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voxelgrove-medieval-village-kit",
+    "type": "inspiration",
+    "title": "中世纪村庄套件 Medieval Village Kit",
+    "summary": "41 个等距建筑：酒馆、铁匠铺、礼拜堂、民居、城墙城门、集市摊位，另附 3D 模型。",
+    "url": "https://voxelgrove.itch.io/medieval-village-kit",
+    "imageUrl": "/covers/itch-voxelgrove-medieval-village-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-medieval-village-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-felizkevin845-ux-crimson-medieval-town-builder-pack",
+    "type": "inspiration",
+    "title": "Crimson 中世纪城镇建造包",
+    "summary": "35 个像素资产：房屋、商铺、城堡、防御工事和树篱，红瓦配色统一。",
+    "url": "https://felizkevin845-ux.itch.io/crimson-medieval-town-builder-pack",
+    "imageUrl": "/covers/itch-felizkevin845-ux-crimson-medieval-town-builder-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-felizkevin845-ux-crimson-medieval-town-builder-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-castle-pack",
+    "type": "inspiration",
+    "title": "CASTLE 城堡城墙与攻城器械",
+    "summary": "城墙栅栏可自动拼接转角，8 座城堡建筑加 35 个攻防营地道具，战争类场景可用。",
+    "url": "https://mmorwynn.itch.io/castle-pack",
+    "imageUrl": "/covers/itch-mmorwynn-castle-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-castle-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-voxel-medieval-castle-village-pack",
+    "type": "inspiration",
+    "title": "体素中世纪城堡村庄",
+    "summary": "25 个模块化体素模型：城堡套件、村庄、树木与道具，导出 VOX/OBJ/FBX/GLB。",
+    "url": "https://tersco.itch.io/voxel-medieval-castle-village-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-medieval-castle-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-medieval-castle-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-arabian-desert-town-oasis-pack",
+    "type": "inspiration",
+    "title": "体素阿拉伯沙漠小镇",
+    "summary": "30 个体素模型：泥砖城镇、集市、清真寺、宫殿、模块化堡垒和绿洲。",
+    "url": "https://tersco.itch.io/voxel-arabian-desert-town-oasis-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-arabian-desert-town-oasis-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-arabian-desert-town-oasis-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-winter-village-christmas-market-pack",
+    "type": "inspiration",
+    "title": "体素冬日村庄与圣诞集市",
+    "summary": "30 个体素模型：雪地小屋、集市木屋、礼拜堂、松树，暖光配冷雪很好看。",
+    "url": "https://tersco.itch.io/voxel-winter-village-christmas-market-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-winter-village-christmas-market-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-winter-village-christmas-market-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-krishna-palacio-minifantasy-3d-dwarven-kingdom",
+    "type": "inspiration",
+    "title": "Minifantasy 3D 矮人王国",
+    "summary": "3D 矮人聚落资产，保留超低分辨率像素的质感，像素风转 3D 的好例子。",
+    "url": "https://krishna-palacio.itch.io/minifantasy-3d-dwarven-kingdom",
+    "imageUrl": "/covers/itch-krishna-palacio-minifantasy-3d-dwarven-kingdom.jpg",
+    "source": "itch",
+    "sourceId": "itch-krishna-palacio-minifantasy-3d-dwarven-kingdom",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-bubbabba-hd2d-lantern-town",
+    "type": "inspiration",
+    "title": "HD-2D 灯笼镇",
+    "summary": "Godot 4 的 2.5D HD-2D 小镇：357 个模型、114 个像素精灵、4 个村民，附昼夜演示。",
+    "url": "https://bubbabba.itch.io/hd2d-lantern-town",
+    "imageUrl": "/covers/itch-bubbabba-hd2d-lantern-town.jpg",
+    "source": "itch",
+    "sourceId": "itch-bubbabba-hd2d-lantern-town",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-riekahq-soft-modern-ui-kit",
+    "type": "inspiration",
+    "title": "Soft Modern 像素界面包",
+    "summary": "现代风 16×16 像素 UI：窗口、按钮、输入框、进度条、40 个图标、聊天气泡和光标。",
+    "url": "https://riekahq.itch.io/soft-modern-ui-kit",
+    "imageUrl": "/covers/itch-riekahq-soft-modern-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-soft-modern-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-quillbit-type-quillbit-ui-kit-pixel-rpg-interface-4-themes-9-slice-icons-cursors",
+    "type": "inspiration",
+    "title": "Quillbit 像素 RPG 界面",
+    "summary": "4 套主题的像素 UI：九宫格面板、按钮、条、控件、41 个图标和 6 种光标。",
+    "url": "https://quillbit-type.itch.io/quillbit-ui-kit-pixel-rpg-interface-4-themes-9-slice-icons-cursors",
+    "imageUrl": "/covers/itch-quillbit-type-quillbit-ui-kit-pixel-rpg-interface-4-themes-9-slice-icons-cursors.jpg",
+    "source": "itch",
+    "sourceId": "itch-quillbit-type-quillbit-ui-kit-pixel-rpg-interface-4-themes-9-slice-icons-cursors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-the-cooked-works-softline-ui-screens-pixel",
+    "type": "inspiration",
+    "title": "Softline 像素界面屏",
+    "summary": "16 张现成像素界面：主菜单、背包、商店、HUD 等，带模板和布局 JSON，能直接看整体版式。",
+    "url": "https://the-cooked-works.itch.io/softline-ui-screens-pixel",
+    "imageUrl": "/covers/itch-the-cooked-works-softline-ui-screens-pixel.jpg",
+    "source": "itch",
+    "sourceId": "itch-the-cooked-works-softline-ui-screens-pixel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-outoftokensstudio-jrpg-game-ui-kit",
+    "type": "inspiration",
+    "title": "16-Bit JRPG 界面套件",
+    "summary": "野外 HUD、大型技能树、国家策略层共 23 个界面，策略/HUD 参考价值高。",
+    "url": "https://outoftokensstudio.itch.io/jrpg-game-ui-kit",
+    "imageUrl": "/covers/itch-outoftokensstudio-jrpg-game-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-outoftokensstudio-jrpg-game-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-brunkagames-tropical-night-ui",
+    "type": "inspiration",
+    "title": "Tropical Night 深色金边界面",
+    "summary": "4450 个深底金边像素 UI 精灵：九宫格面板、7 种按钮状态、335 个图标、25 个界面。",
+    "url": "https://brunkagames.itch.io/tropical-night-ui",
+    "imageUrl": "/covers/itch-brunkagames-tropical-night-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-brunkagames-tropical-night-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-brunkagames-infernal-ui",
+    "type": "inspiration",
+    "title": "Infernal UI 地狱界面",
+    "summary": "1099 个精灵、79 个九宫格框、481 个图标、7 个示例界面，暗色背包界面很有质感。",
+    "url": "https://brunkagames.itch.io/infernal-ui",
+    "imageUrl": "/covers/itch-brunkagames-infernal-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-brunkagames-infernal-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelforrest-neon-bulkhead-ui-kit",
+    "type": "inspiration",
+    "title": "Neon Bulkhead 科幻界面",
+    "summary": "90 个霓虹科幻像素 UI：九宫格面板、四态按钮、进度条、26 个图标、3 个头像和 5×7 像素字体。",
+    "url": "https://pixelforrest.itch.io/neon-bulkhead-ui-kit",
+    "imageUrl": "/covers/itch-pixelforrest-neon-bulkhead-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelforrest-neon-bulkhead-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wayne-works-cozy-farm-ui-kit-30-pixel-art-buttons-frames-bars-hearts-and-digits",
+    "type": "inspiration",
+    "title": "Cozy Farm 农场界面包",
+    "summary": "30 个暖色农场像素 UI：按钮、边框、血条、爱心和数字；注意作者标注为 AI 生成。",
+    "url": "https://wayne-works.itch.io/cozy-farm-ui-kit-30-pixel-art-buttons-frames-bars-hearts-and-digits",
+    "imageUrl": "/covers/itch-wayne-works-cozy-farm-ui-kit-30-pixel-art-buttons-frames-bars-hearts-and-digits.jpg",
+    "source": "itch",
+    "sourceId": "itch-wayne-works-cozy-farm-ui-kit-30-pixel-art-buttons-frames-bars-hearts-and-digits",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-falvey-pixel-ui-kit-253-pieces-4-themes-9-slice-panels-buttons-bars",
+    "type": "inspiration",
+    "title": "Falvey 像素界面包",
+    "summary": "253 个像素 UI 件、4 套主题：九宫格面板、四态按钮、槽位、滑条和光标，成套完整。",
+    "url": "https://falvey.itch.io/falvey-pixel-ui-kit-253-pieces-4-themes-9-slice-panels-buttons-bars",
+    "imageUrl": "/covers/itch-falvey-falvey-pixel-ui-kit-253-pieces-4-themes-9-slice-panels-buttons-bars.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-falvey-pixel-ui-kit-253-pieces-4-themes-9-slice-panels-buttons-bars",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chuckyassets-psx-survival-horror-ui-kit",
+    "type": "inspiration",
+    "title": "PSX 生存恐怖界面",
+    "summary": "PS1 风生存恐怖 UI：菜单、背包、心电图 HUD、80 个图标，带 CRT/VHS 效果。",
+    "url": "https://chuckyassets.itch.io/psx-survival-horror-ui-kit",
+    "imageUrl": "/covers/itch-chuckyassets-psx-survival-horror-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-chuckyassets-psx-survival-horror-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2109544637497298951",
     "type": "shader",
     "title": "Godot Real Sea 真实海面",
