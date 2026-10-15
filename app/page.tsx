@@ -11,12 +11,39 @@ type Find = {
   imageUrl?: string;
   tags?: string[];
   genres?: string[];
+  style?: string;
+  kind?: string;
+  dim?: string;
   collectedAt: string;
 };
 
 type TopTab = "today" | "all" | "inspiration" | "model_sites";
 type SubFilter = "all" | "game" | "shader";
-type InspirationFilter = "all" | "pixel" | "cartoon" | "character" | "scene" | "ui";
+type InspStyle = "all" | "pixel" | "cartoon";
+type InspKind = "terrain" | "character" | "building" | "ui" | "other";
+type InspDim = "2d" | "3d";
+
+const INSP_KINDS: [InspKind, string][] = [
+  ["terrain", "地形"],
+  ["character", "人物"],
+  ["building", "建筑"],
+  ["ui", "UI"],
+  ["other", "其他"],
+];
+
+// 灵感条目字段缺失时回退到 tags，保证旧数据也能筛
+function inspStyleOf(x: Find): "pixel" | "cartoon" {
+  if (x.style === "cartoon" || x.style === "pixel") return x.style;
+  return x.tags?.includes("cartoon") ? "cartoon" : "pixel";
+}
+function inspKindOf(x: Find): InspKind {
+  const k = x.kind ?? x.tags?.find((t) => ["terrain", "character", "building", "ui"].includes(t));
+  return k === "terrain" || k === "character" || k === "building" || k === "ui" ? k : "other";
+}
+function inspDimOf(x: Find): InspDim {
+  const d = x.dim ?? x.tags?.find((t) => t === "2d" || t === "3d");
+  return d === "3d" ? "3d" : "2d";
+}
 type ModelSiteFilter = "all" | "packs" | "marketplace" | "textures" | "characters" | "voxels" | "tools";
 
 // 没有 genres 的游戏(如新条目，构建时打标签失败)兜底归入「其他」，保证不消失
@@ -76,7 +103,9 @@ function groupByDate(items: Find[], today: string): [string, Find[]][] {
 export default function Page() {
   const [topTab, setTopTab] = useState<TopTab>("today");
   const [subFilter, setSubFilter] = useState<SubFilter>("all");
-  const [inspirationFilter, setInspirationFilter] = useState<InspirationFilter>("all");
+  const [inspStyle, setInspStyle] = useState<InspStyle>("all");
+  const [inspKind, setInspKind] = useState<InspKind | "all">("all");
+  const [inspDim, setInspDim] = useState<InspDim | "all">("all");
   const [modelSiteFilter, setModelSiteFilter] = useState<ModelSiteFilter>("all");
   const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
   const [query, setQuery] = useState("");
@@ -129,10 +158,14 @@ export default function Page() {
   const grouped = groupByDate(allFiltered, today);
 
   const inspirationItems = finds?.filter((x) => x.type === "inspiration") ?? [];
-  const filteredInspiration =
-    inspirationFilter === "all"
-      ? inspirationItems
-      : inspirationItems.filter((x) => x.tags?.includes(inspirationFilter));
+  // 三组筛选可组合；每组的数量按“其余两组已选条件”计算
+  const inspPass = (x: Find, skip?: "style" | "kind" | "dim") =>
+    (skip === "style" || inspStyle === "all" || inspStyleOf(x) === inspStyle) &&
+    (skip === "kind" || inspKind === "all" || inspKindOf(x) === inspKind) &&
+    (skip === "dim" || inspDim === "all" || inspDimOf(x) === inspDim);
+  const filteredInspiration = inspirationItems.filter((x) => inspPass(x));
+  const inspCount = (skip: "style" | "kind" | "dim", test: (x: Find) => boolean) =>
+    inspirationItems.filter((x) => inspPass(x, skip) && test(x)).length;
 
   const modelSiteItems = finds?.filter((x) => x.type === "model_site") ?? [];
   const filteredModelSites =
@@ -241,27 +274,78 @@ export default function Page() {
       )}
 
       {topTab === "inspiration" && (
-        <nav className="sub-tabs">
-          {(
-            [
-              ["all", "全部"],
-              ["pixel", "像素"],
-              ["cartoon", "卡通"],
-              ["character", "角色"],
-              ["scene", "场景"],
-              ["ui", "UI"],
-            ] as const
-          ).map(([key, label]) => (
+        <div className="insp-filters">
+          <nav className="sub-tabs" aria-label="风格">
+            <span className="filter-label">风格</span>
+            {(
+              [
+                ["all", "全部"],
+                ["pixel", "像素"],
+                ["cartoon", "卡通"],
+              ] as const
+            ).map(([key, label]) => (
+              <button
+                key={key}
+                className={inspStyle === key ? "sub-tab active" : "sub-tab"}
+                onClick={() => setInspStyle(key)}
+                type="button"
+              >
+                {label}
+                <span className="genre-count">
+                  {inspCount("style", (x) => key === "all" || inspStyleOf(x) === key)}
+                </span>
+              </button>
+            ))}
+          </nav>
+          <nav className="sub-tabs" aria-label="类别">
+            <span className="filter-label">类别</span>
             <button
-              key={key}
-              className={inspirationFilter === key ? "sub-tab active" : "sub-tab"}
-              onClick={() => setInspirationFilter(key)}
+              className={inspKind === "all" ? "sub-tab active" : "sub-tab"}
+              onClick={() => setInspKind("all")}
               type="button"
             >
-              {label}
+              全部
+              <span className="genre-count">{inspCount("kind", () => true)}</span>
             </button>
-          ))}
-        </nav>
+            {INSP_KINDS.map(([key, label]) => {
+              const n = inspCount("kind", (x) => inspKindOf(x) === key);
+              if (n === 0 && inspKind !== key) return null;
+              return (
+                <button
+                  key={key}
+                  className={inspKind === key ? "sub-tab active" : "sub-tab"}
+                  onClick={() => setInspKind(key)}
+                  type="button"
+                >
+                  {label}
+                  <span className="genre-count">{n}</span>
+                </button>
+              );
+            })}
+          </nav>
+          <nav className="sub-tabs" aria-label="维度">
+            <span className="filter-label">维度</span>
+            {(
+              [
+                ["all", "全部"],
+                ["2d", "2D"],
+                ["3d", "3D"],
+              ] as const
+            ).map(([key, label]) => (
+              <button
+                key={key}
+                className={inspDim === key ? "sub-tab active" : "sub-tab"}
+                onClick={() => setInspDim(key)}
+                type="button"
+              >
+                {label}
+                <span className="genre-count">
+                  {inspCount("dim", (x) => key === "all" || inspDimOf(x) === key)}
+                </span>
+              </button>
+            ))}
+          </nav>
+        </div>
       )}
 
       {topTab === "model_sites" && (
@@ -303,7 +387,7 @@ export default function Page() {
         )
       ) : topTab === "inspiration" ? (
         filteredInspiration.length === 0 ? (
-          <p className="empty">暂无条目</p>
+          <p className="empty">没有符合筛选的条目</p>
         ) : (
           <section className="grid">
             {filteredInspiration.map((item) => (
@@ -358,6 +442,19 @@ function Card({ item }: { item: Find }) {
             {genresOf(item).map((g) => (
               <span key={g} className="genre-chip">
                 {g}
+              </span>
+            ))}
+          </div>
+        )}
+        {item.type === "inspiration" && (
+          <div className="card-genres">
+            {[
+              inspStyleOf(item) === "cartoon" ? "卡通" : "像素",
+              INSP_KINDS.find(([k]) => k === inspKindOf(item))?.[1] ?? "其他",
+              inspDimOf(item) === "3d" ? "3D" : "2D",
+            ].map((c) => (
+              <span key={c} className="genre-chip">
+                {c}
               </span>
             ))}
           </div>

@@ -30173,11 +30173,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-danieldiggle-sunnyside.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-danieldiggle-sunnyside"
+    "id": "itch-itch-danieldiggle-sunnyside",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30189,11 +30194,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-limezu-moderninteriors.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-limezu-moderninteriors"
+    "id": "itch-itch-limezu-moderninteriors",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30205,11 +30215,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-merakintsugi-platformer-chars.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-merakintsugi-platformer-chars"
+    "id": "itch-itch-merakintsugi-platformer-chars",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30221,11 +30235,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-xzany-topdown-adventurer.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-xzany-topdown-adventurer"
+    "id": "itch-itch-xzany-topdown-adventurer",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30237,11 +30255,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-toffeecraft-cat-pack.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-toffeecraft-cat-pack"
+    "id": "itch-itch-toffeecraft-cat-pack",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30253,11 +30275,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "imageUrl": "/covers/itch-game-endeavor-mystic-woods.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-game-endeavor-mystic-woods"
+    "id": "itch-itch-game-endeavor-mystic-woods",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30269,11 +30296,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-maevedevs-farm-rpg.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-maevedevs-farm-rpg"
+    "id": "itch-itch-maevedevs-farm-rpg",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30285,11 +30317,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/itch-clockworkraven-fantasy-icons.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-clockworkraven-fantasy-icons"
+    "id": "itch-itch-clockworkraven-fantasy-icons",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30301,11 +30337,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-scrabling-iso-tiles.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-scrabling-iso-tiles"
+    "id": "itch-itch-scrabling-iso-tiles",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30317,11 +30358,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "imageUrl": "/covers/itch-kenmi-cute-fantasy-rpg.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-kenmi-cute-fantasy-rpg"
+    "id": "itch-itch-kenmi-cute-fantasy-rpg",
+    "style": "cartoon",
+    "kind": "scene",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30333,11 +30378,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-sethbb-32rogues.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-sethbb-32rogues"
+    "id": "itch-itch-sethbb-32rogues",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30349,11 +30398,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/itch-toffeecraft-ui-mega.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-toffeecraft-ui-mega"
+    "id": "itch-itch-toffeecraft-ui-mega",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30365,11 +30418,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-jedimeisterx-tiny-village.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-jedimeisterx-tiny-village"
+    "id": "itch-itch-jedimeisterx-tiny-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30381,11 +30439,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-z3er1n-oakheart.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-z3er1n-oakheart"
+    "id": "itch-itch-z3er1n-oakheart",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30397,11 +30460,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-mutterpixel-village-square.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-mutterpixel-village-square"
+    "id": "itch-itch-mutterpixel-village-square",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30413,11 +30481,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-mutterpixel-japanese-village.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-mutterpixel-japanese-village"
+    "id": "itch-itch-mutterpixel-japanese-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30429,11 +30502,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/itch-crusenho-complete-ui.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-crusenho-complete-ui"
+    "id": "itch-itch-crusenho-complete-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30445,11 +30522,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/itch-toffeecraft-fantasy-ui.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-toffeecraft-fantasy-ui"
+    "id": "itch-itch-toffeecraft-fantasy-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30461,11 +30542,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-pixelfrog-tiny-swords.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-pixelfrog-tiny-swords"
+    "id": "itch-itch-pixelfrog-tiny-swords",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30477,11 +30563,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-alangu-modular-chars.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-alangu-modular-chars"
+    "id": "itch-itch-alangu-modular-chars",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30493,11 +30583,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/itch-zzzcb-vibrant-cartoon.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-zzzcb-vibrant-cartoon"
+    "id": "itch-itch-zzzcb-vibrant-cartoon",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -30509,11 +30603,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "3d"
     ],
     "imageUrl": "/covers/itch-joaobaltieri-capsule-lite.jpg",
     "collectedAt": "2026-09-16",
-    "id": "itch-itch-joaobaltieri-capsule-lite"
+    "id": "itch-itch-joaobaltieri-capsule-lite",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "3d"
   },
   {
     "type": "game",
@@ -31702,12 +31800,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "itch-itch-kaykit-medieval-hexagon"
+    "kind": "building",
+    "id": "itch-itch-kaykit-medieval-hexagon",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31720,12 +31821,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-styloo-2d-village"
+    "kind": "building",
+    "id": "itch-itch-styloo-2d-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31738,12 +31842,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-tinytreats-homely-house"
+    "kind": "building",
+    "id": "itch-itch-tinytreats-homely-house",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31756,12 +31863,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-puszke-cozy-crossing"
+    "kind": "building",
+    "id": "itch-itch-puszke-cozy-crossing",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31774,12 +31884,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-doboui-fantasy-rpg-ui"
+    "id": "itch-itch-doboui-fantasy-rpg-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31792,12 +31904,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-jamiebrownhill-solaria-icons"
+    "id": "itch-itch-jamiebrownhill-solaria-icons",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31810,12 +31924,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-mozert-cartoon-icons"
+    "id": "itch-itch-mozert-cartoon-icons",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31828,12 +31944,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-rgsdev-modular-vector-chars"
+    "id": "itch-itch-rgsdev-modular-vector-chars",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31846,12 +31964,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-kitschy-farm-animals"
+    "id": "itch-itch-kitschy-farm-animals",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31864,12 +31984,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
     "style": "pixel",
-    "kind": "scene",
-    "id": "art-yAJgl9"
+    "kind": "building",
+    "id": "art-yAJgl9",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31882,10 +32005,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-juichieh-riverside-town"
+    "id": "itch-itch-juichieh-riverside-town",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31898,10 +32026,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-sml94-cozy-game-ui-kit"
+    "id": "itch-itch-sml94-cozy-game-ui-kit",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31914,10 +32046,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-greateden-farm-girl"
+    "id": "itch-itch-greateden-farm-girl",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31930,10 +32066,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-zedpxl-village"
+    "id": "itch-itch-zedpxl-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31946,10 +32087,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-antahonist-48-chibi-ui"
+    "id": "itch-itch-antahonist-48-chibi-ui",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31962,10 +32107,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-yume-cozy-game-pack"
+    "id": "itch-itch-yume-cozy-game-pack",
+    "style": "cartoon",
+    "kind": "scene",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31978,10 +32127,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-tomzh-forest-village"
+    "id": "itch-itch-tomzh-forest-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -31994,10 +32148,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-mellapop-pet-care"
+    "id": "itch-itch-mellapop-pet-care",
+    "style": "cartoon",
+    "kind": "scene",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32010,10 +32168,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-cadenk-pocket-panels"
+    "id": "itch-itch-cadenk-pocket-panels",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32026,10 +32188,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "itch-itch-aspiremade-lil-spores"
+    "id": "itch-itch-aspiremade-lil-spores",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32042,10 +32208,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-15",
-    "id": "uas-pixem-forest-valley"
+    "id": "uas-pixem-forest-valley",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -32802,10 +32972,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-pixelnest-cozy-npcs"
+    "id": "itch-itch-pixelnest-cozy-npcs",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32818,10 +32992,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-pozac-arctic-village"
+    "id": "itch-itch-pozac-arctic-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32834,10 +33013,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-dobo-mega-cozy-ui"
+    "id": "itch-itch-dobo-mega-cozy-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32850,10 +33033,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-indigolay-diary-ui"
+    "id": "itch-itch-indigolay-diary-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32866,10 +33053,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-doodledwarf-village-builder"
+    "id": "itch-itch-doodledwarf-village-builder",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -32882,10 +33074,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-lyubelsky-poly-village"
+    "id": "itch-itch-lyubelsky-poly-village",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -32898,10 +33095,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-maru98-farm-buildings"
+    "id": "itch-itch-maru98-farm-buildings",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32914,10 +33116,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-amadeva-farm-topdown"
+    "id": "itch-itch-amadeva-farm-topdown",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32930,10 +33137,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-daniel-mistage-fantasy-village"
+    "id": "itch-itch-daniel-mistage-fantasy-village",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -32946,10 +33158,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-justcreate3d-medieval-village"
+    "id": "itch-itch-justcreate3d-medieval-village",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -32962,10 +33179,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-standout7-villager-npc"
+    "id": "itch-itch-standout7-villager-npc",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -32978,10 +33199,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-wonderweave-fantasy-npc-mega"
+    "id": "itch-itch-wonderweave-fantasy-npc-mega",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -32994,10 +33219,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "art-o2WG0k"
+    "id": "art-o2WG0k",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33010,10 +33240,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-gd-piskel-farm-structures"
+    "id": "itch-itch-gd-piskel-farm-structures",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33028,10 +33263,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-ghostwithkelp-cozy-farmer"
+    "id": "itch-itch-ghostwithkelp-cozy-farmer",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33046,10 +33283,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-electriclemon-citizens"
+    "id": "itch-itch-electriclemon-citizens",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33064,10 +33303,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-mikemac-cartoon-rpg"
+    "id": "itch-itch-mikemac-cartoon-rpg",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33082,10 +33323,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-free-chibi-boy"
+    "id": "itch-itch-free-chibi-boy",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33096,14 +33339,17 @@
     "source": "itch",
     "sourceId": "itch-certainity-mossbell-orchard",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-certainity-mossbell-orchard"
+    "id": "itch-itch-certainity-mossbell-orchard",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33114,14 +33360,17 @@
     "source": "itch",
     "sourceId": "itch-mutterpixel-cozy-village-buildings",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-mutterpixel-cozy-village-buildings"
+    "id": "itch-itch-mutterpixel-cozy-village-buildings",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33132,14 +33381,17 @@
     "source": "itch",
     "sourceId": "itch-petalbyte-tiny-town",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-petalbyte-tiny-town"
+    "id": "itch-itch-petalbyte-tiny-town",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33150,14 +33402,17 @@
     "source": "itch",
     "sourceId": "itch-babkagd-cartoon-village",
     "style": "cartoon",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-babkagd-cartoon-village"
+    "id": "itch-itch-babkagd-cartoon-village",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -33168,14 +33423,17 @@
     "source": "itch",
     "sourceId": "itch-creativastudio-cuterural",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-creativastudio-cuterural"
+    "id": "itch-itch-creativastudio-cuterural",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33186,14 +33444,17 @@
     "source": "itch",
     "sourceId": "itch-althaj-cartoon-city",
     "style": "cartoon",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-althaj-cartoon-city"
+    "id": "itch-itch-althaj-cartoon-city",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33208,10 +33469,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-hazardpay-cozy-ui"
+    "id": "itch-itch-hazardpay-cozy-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33226,10 +33489,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-indigolay-hud-dialogue"
+    "id": "itch-itch-indigolay-hud-dialogue",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33244,10 +33509,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-ryoganzx-cartoon-gui"
+    "id": "itch-itch-ryoganzx-cartoon-gui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -33262,10 +33529,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-14",
-    "id": "itch-itch-camp-studio-farm-inventory-ui"
+    "id": "itch-itch-camp-studio-farm-inventory-ui",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -34263,10 +34532,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-klimmos-iso-male-kit"
+    "id": "itch-itch-klimmos-iso-male-kit",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34281,10 +34552,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-channeechan-spritestudio"
+    "id": "itch-itch-channeechan-spritestudio",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34299,10 +34572,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-purplecat-farmer-cozy"
+    "id": "itch-itch-purplecat-farmer-cozy",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34313,14 +34588,17 @@
     "source": "itch",
     "sourceId": "itch-snowhex-harvest-summer-forest",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "terrain",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-snowhex-harvest-summer-forest"
+    "id": "itch-itch-snowhex-harvest-summer-forest",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34331,14 +34609,17 @@
     "source": "itch",
     "sourceId": "itch-shubibubi-cozy-fishing",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-shubibubi-cozy-fishing"
+    "id": "itch-itch-shubibubi-cozy-fishing",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34349,14 +34630,17 @@
     "source": "itch",
     "sourceId": "itch-aibyzz-sc-farm-pack",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-aibyzz-sc-farm-pack"
+    "id": "itch-itch-aibyzz-sc-farm-pack",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34371,10 +34655,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-zspider-ornate-pixel-ui"
+    "id": "itch-itch-zspider-ornate-pixel-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34389,10 +34675,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-franuka-rpg-ui"
+    "id": "itch-itch-franuka-rpg-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34407,10 +34695,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-penzilla-pastel-gui"
+    "id": "itch-itch-penzilla-pastel-gui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34425,10 +34715,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "80lv-easy-delivery"
+    "id": "80lv-easy-delivery",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34443,10 +34735,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-cozy-fae-pixel-base"
+    "id": "itch-itch-cozy-fae-pixel-base",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34461,10 +34755,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-gegx-town-folk"
+    "id": "itch-itch-gegx-town-folk",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34475,14 +34771,17 @@
     "source": "itch",
     "sourceId": "itch-strelllka-village",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-strelllka-village"
+    "id": "itch-itch-strelllka-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34493,14 +34792,17 @@
     "source": "itch",
     "sourceId": "itch-pixelando-cute-valley",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "terrain",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-pixelando-cute-valley"
+    "id": "itch-itch-pixelando-cute-valley",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34511,14 +34813,17 @@
     "source": "itch",
     "sourceId": "itch-gegx-cozy-starter",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-gegx-cozy-starter"
+    "id": "itch-itch-gegx-cozy-starter",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34533,10 +34838,12 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-tripex-fantasy-hud"
+    "id": "itch-itch-tripex-fantasy-hud",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34551,10 +34858,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-cozy-fae-portrait-maker"
+    "id": "itch-itch-cozy-fae-portrait-maker",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34569,10 +34878,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-uncogames-casual-gui"
+    "id": "itch-itch-uncogames-casual-gui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34587,10 +34898,12 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "itch-itch-sc-siosio-pastel-ui"
+    "id": "itch-itch-sc-siosio-pastel-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -34601,14 +34914,17 @@
     "source": "80lv",
     "sourceId": "80lv-catalonia-town",
     "style": "cartoon",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-13",
-    "id": "80lv-catalonia-town"
+    "id": "80lv-catalonia-town",
+    "dim": "3d"
   },
   {
     "type": "game",
@@ -35343,15 +35659,18 @@
     "source": "itch",
     "sourceId": "itch-jamiebrownhill-solaria-exteriors",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-jamiebrownhill-solaria-exteriors.jpg",
-    "id": "itch-itch-jamiebrownhill-solaria-exteriors"
+    "id": "itch-itch-jamiebrownhill-solaria-exteriors",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35361,15 +35680,18 @@
     "source": "itch",
     "sourceId": "itch-n3cloud-clover-valley",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-n3cloud-clover-valley.jpg",
-    "id": "itch-itch-n3cloud-clover-valley"
+    "id": "itch-itch-n3cloud-clover-valley",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35379,15 +35701,18 @@
     "source": "itch",
     "sourceId": "itch-iclaim-cozy-towns",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-iclaim-cozy-towns.jpg",
-    "id": "itch-itch-iclaim-cozy-towns"
+    "id": "itch-itch-iclaim-cozy-towns",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35401,11 +35726,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-pixelsazy-roleworld-cleric.jpg",
-    "id": "itch-itch-pixelsazy-roleworld-cleric"
+    "id": "itch-itch-pixelsazy-roleworld-cleric",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35419,11 +35746,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-lfoxyy-cozy-fantasy.jpg",
-    "id": "itch-itch-lfoxyy-cozy-fantasy"
+    "id": "itch-itch-lfoxyy-cozy-fantasy",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35437,11 +35766,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-kenmi-cute-fantasy-ui.jpg",
-    "id": "itch-itch-kenmi-cute-fantasy-ui"
+    "id": "itch-itch-kenmi-cute-fantasy-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35455,11 +35786,13 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-maelle-chibi-basics.jpg",
-    "id": "itch-itch-maelle-chibi-basics"
+    "id": "itch-itch-maelle-chibi-basics",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35473,11 +35806,13 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-wonderweave-faces-of-home.jpg",
-    "id": "itch-itch-wonderweave-faces-of-home"
+    "id": "itch-itch-wonderweave-faces-of-home",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35487,15 +35822,18 @@
     "source": "itch",
     "sourceId": "itch-starmixu-little-dreamyland",
     "style": "cartoon",
-    "kind": "scene",
+    "kind": "terrain",
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-starmixu-little-dreamyland.jpg",
-    "id": "itch-itch-starmixu-little-dreamyland"
+    "id": "itch-itch-starmixu-little-dreamyland",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35509,11 +35847,13 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "imageUrl": "/covers/itch-chemaluque-cute-nature-icons.jpg",
-    "id": "itch-itch-chemaluque-cute-nature-icons"
+    "id": "itch-itch-chemaluque-cute-nature-icons",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35526,12 +35866,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
-    "kind": "scene",
-    "id": "kenney-tiny-farm"
+    "kind": "terrain",
+    "id": "kenney-tiny-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35544,12 +35887,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-butterymilk-tiny-wonder-farm-asset-pack"
+    "kind": "building",
+    "id": "itch-itch-butterymilk-tiny-wonder-farm-asset-pack",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35562,12 +35908,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-vryell-tiny-village-pack"
+    "kind": "building",
+    "id": "itch-itch-vryell-tiny-village-pack",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35580,12 +35929,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-anokolisa-simulator-world-build"
+    "kind": "building",
+    "id": "itch-itch-anokolisa-simulator-world-build",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35598,12 +35950,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-otterisk-hana-caraka-base-character"
+    "id": "itch-itch-otterisk-hana-caraka-base-character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35616,12 +35970,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-almostapixel-smallburg-ui-pack"
+    "id": "itch-itch-almostapixel-smallburg-ui-pack",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35634,12 +35990,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-mandinhart-garden-cozy-ui-kit-buttons-icons"
+    "id": "itch-itch-mandinhart-garden-cozy-ui-kit-buttons-icons",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35652,12 +36010,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-croben-chibi-godette-cutout"
+    "id": "itch-itch-croben-chibi-godette-cutout",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35670,12 +36030,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-chiewaters-chibi-pirate-world"
+    "id": "itch-itch-chiewaters-chibi-pirate-world",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -35688,12 +36050,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-12",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-free-game-assets-free-jungle-cartoon-gui"
+    "id": "itch-itch-free-game-assets-free-jungle-cartoon-gui",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -36687,12 +37051,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-sablebytes-autumn-farm"
+    "kind": "building",
+    "id": "itch-itch-sablebytes-autumn-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36705,12 +37072,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-raychan-village"
+    "kind": "building",
+    "id": "itch-itch-raychan-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36723,12 +37093,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-kenney-tiny-town"
+    "kind": "building",
+    "id": "itch-kenney-tiny-town",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36741,12 +37114,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
     "kind": "ui",
-    "id": "kenney-ui-pixel-adventure"
+    "id": "kenney-ui-pixel-adventure",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36759,12 +37134,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-piiixl-characters"
+    "id": "itch-itch-piiixl-characters",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36777,12 +37154,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "ui",
-    "id": "art-L79Xl"
+    "id": "art-L79Xl",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36795,12 +37174,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-milki-delivery"
+    "kind": "terrain",
+    "id": "80lv-milki-delivery",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36813,12 +37195,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-chiewaters-dragon-daycare"
+    "id": "itch-itch-chiewaters-dragon-daycare",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36831,12 +37215,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-chiewaters-paws-rescue"
+    "id": "itch-itch-chiewaters-paws-rescue",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36849,12 +37235,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "kenney-rpg-urban"
+    "kind": "building",
+    "id": "kenney-rpg-urban",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36867,12 +37256,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-franuka-townsfolk"
+    "id": "itch-itch-franuka-townsfolk",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36885,12 +37276,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-mihapomelo-fantasy-farm"
+    "id": "itch-itch-mihapomelo-fantasy-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36903,12 +37296,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-jpkg-fantasyville"
+    "kind": "building",
+    "id": "itch-itch-jpkg-fantasyville",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36921,12 +37317,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-ansimuz-tiny-rpg-town"
+    "kind": "building",
+    "id": "itch-itch-ansimuz-tiny-rpg-town",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36939,12 +37338,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-rareonion-2dlife-farm"
+    "kind": "building",
+    "id": "itch-itch-rareonion-2dlife-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36957,12 +37359,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-z3er1n-ui-forge"
+    "id": "itch-itch-z3er1n-ui-forge",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36975,12 +37379,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-farm-ui-pack02"
+    "id": "itch-itch-nexa-farm-ui-pack02",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -36993,12 +37399,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-free-main-menu"
+    "id": "itch-itch-nexa-free-main-menu",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37011,12 +37419,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-ghibli-mountain-village-ue5"
+    "kind": "building",
+    "id": "80lv-ghibli-mountain-village-ue5",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -37029,12 +37440,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-11",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-cute-stylized-castle"
+    "kind": "building",
+    "id": "80lv-cute-stylized-castle",
+    "dim": "3d"
   },
   {
     "type": "game",
@@ -37699,12 +38113,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-iamblinky-simply-cozy"
+    "kind": "building",
+    "id": "itch-itch-iamblinky-simply-cozy",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37717,12 +38134,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-maygetsu-cozy-city"
+    "kind": "building",
+    "id": "itch-itch-maygetsu-cozy-city",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37735,12 +38155,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-gowldev-pixelwood-valley"
+    "kind": "building",
+    "id": "itch-itch-gowldev-pixelwood-valley",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37753,12 +38176,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-antahonist-48-pixel-townsfolk"
+    "id": "itch-itch-antahonist-48-pixel-townsfolk",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37771,12 +38196,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-gegx-pixel-ui-kit-2"
+    "id": "itch-itch-gegx-pixel-ui-kit-2",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37789,12 +38216,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-indigolay-dialogue-ui"
+    "id": "itch-itch-indigolay-dialogue-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37807,12 +38236,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-chiewaters-floating-coven"
+    "id": "itch-itch-chiewaters-floating-coven",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37825,12 +38256,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-starsand-island"
+    "kind": "terrain",
+    "id": "80lv-starsand-island",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37843,12 +38277,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-vivarium"
+    "kind": "building",
+    "id": "80lv-vivarium",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -37861,12 +38298,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-10",
     "style": "cartoon",
     "kind": "ui",
-    "id": "80lv-sushi-on-wheels-menu"
+    "id": "80lv-sushi-on-wheels-menu",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -38418,12 +38857,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-schwarnhild-summer-village"
+    "kind": "building",
+    "id": "itch-itch-schwarnhild-summer-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38436,12 +38878,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-iclaim-cozy-valley"
+    "kind": "terrain",
+    "id": "itch-itch-iclaim-cozy-valley",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38454,12 +38899,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-bobddadoo-tiny-questers"
+    "id": "itch-itch-bobddadoo-tiny-questers",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38472,12 +38919,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-limezu-serene-village"
+    "kind": "building",
+    "id": "itch-itch-limezu-serene-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38490,12 +38940,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-sakpix-cozy-spring"
+    "kind": "terrain",
+    "id": "itch-itch-sakpix-cozy-spring",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38508,12 +38961,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-farm-ui-pack05"
+    "id": "itch-itch-nexa-farm-ui-pack05",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38526,12 +38981,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
     "kind": "ui",
-    "id": "art-8LzOw"
+    "id": "art-8LzOw",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38544,12 +39001,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-alsace-cartoon-village"
+    "kind": "building",
+    "id": "80lv-alsace-cartoon-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38562,12 +39022,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-biruk-pixel-npc"
+    "id": "itch-itch-biruk-pixel-npc",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38580,12 +39042,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-schwarnhild-modular-houses"
+    "kind": "building",
+    "id": "itch-itch-schwarnhild-modular-houses",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38598,12 +39063,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-defaulted19-willowbrook"
+    "kind": "building",
+    "id": "itch-itch-defaulted19-willowbrook",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38616,12 +39084,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-lungu-cozy-farm-tileset"
+    "kind": "terrain",
+    "id": "itch-itch-lungu-cozy-farm-tileset",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38634,12 +39105,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-northforge-cozy-ui"
+    "id": "itch-itch-northforge-cozy-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38652,12 +39125,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-pixelechoes-farming-101"
+    "kind": "building",
+    "id": "itch-itch-pixelechoes-farming-101",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38670,12 +39146,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-lennox-harvest-valley"
+    "id": "itch-itch-lennox-harvest-valley",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38688,12 +39166,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-justkeej-british-npcs"
+    "id": "itch-itch-justkeej-british-npcs",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38706,12 +39186,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-chiewaters-mocha"
+    "id": "itch-itch-chiewaters-mocha",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38724,12 +39206,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-farm-ui-complete"
+    "id": "itch-itch-nexa-farm-ui-complete",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -38742,12 +39226,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-handpainted-cottage"
+    "kind": "building",
+    "id": "80lv-handpainted-cottage",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -38760,12 +39247,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-09",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-sunny-hill-village"
+    "kind": "building",
+    "id": "80lv-sunny-hill-village",
+    "dim": "2d"
   },
   {
     "type": "shader",
@@ -39683,12 +40173,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-penzilla-hex-farm"
+    "kind": "terrain",
+    "id": "itch-itch-penzilla-hex-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39701,12 +40194,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
     "kind": "character",
-    "id": "itch-itch-penzilla-giant-npc"
+    "id": "itch-itch-penzilla-giant-npc",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39719,12 +40214,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-penzilla-basic-gui"
+    "id": "itch-itch-penzilla-basic-gui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39737,12 +40234,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-penzilla-kawaii-city"
+    "kind": "building",
+    "id": "itch-itch-penzilla-kawaii-city",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39755,12 +40255,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "character",
-    "id": "art-1gRrY"
+    "id": "art-1gRrY",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39773,12 +40275,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "art-p8lG3"
+    "kind": "building",
+    "id": "art-p8lG3",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39791,12 +40296,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-town-to-city"
+    "kind": "building",
+    "id": "80lv-town-to-city",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -39809,12 +40317,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-gourdlets"
+    "kind": "building",
+    "id": "80lv-gourdlets",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39827,12 +40338,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-spiritstead"
+    "kind": "building",
+    "id": "80lv-spiritstead",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39845,12 +40359,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-hyaris-cottage-house"
+    "kind": "building",
+    "id": "itch-itch-hyaris-cottage-house",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39863,12 +40380,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-leanpus-fable-town-npc"
+    "id": "itch-itch-leanpus-fable-town-npc",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39881,12 +40400,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-pixxiland-big-family"
+    "id": "itch-itch-pixxiland-big-family",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39899,12 +40420,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-maru98-age-trio"
+    "id": "itch-itch-maru98-age-trio",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39917,12 +40440,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-dankey44-miniature-world"
+    "kind": "terrain",
+    "id": "itch-itch-dankey44-miniature-world",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39935,12 +40461,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-franuka-rpg-pack"
+    "kind": "building",
+    "id": "itch-itch-franuka-rpg-pack",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39953,12 +40482,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-kasayaa-alya-frames"
+    "id": "itch-itch-kasayaa-alya-frames",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39971,12 +40502,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-cutout-village"
+    "kind": "building",
+    "id": "80lv-cutout-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -39989,12 +40523,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-settlers-stylized-village"
+    "kind": "building",
+    "id": "80lv-settlers-stylized-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -40007,12 +40544,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-ci-cartoon-ui"
+    "id": "itch-itch-ci-cartoon-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -40025,12 +40564,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-08",
     "style": "cartoon",
     "kind": "ui",
-    "id": "art-8L6Xy"
+    "id": "art-8L6Xy",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-mutter-tiny-npc",
@@ -40044,11 +40585,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-mutter-tiny-npc"
+    "id": "itch-itch-mutter-tiny-npc",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-shubibubi-cozy-people",
@@ -40062,11 +40605,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-shubibubi-cozy-people"
+    "id": "itch-itch-shubibubi-cozy-people",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-shubibubi-cozy-town",
@@ -40075,16 +40620,19 @@
     "imageUrl": "/covers/itch-shubibubi-cozy-town.jpg",
     "source": "itch",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "summary": "四季自动瓷砖小镇：车站咖啡馆学校，玩具感街区层次清楚。",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-shubibubi-cozy-town"
+    "id": "itch-itch-shubibubi-cozy-town",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-shubibubi-cozy-farm",
@@ -40093,16 +40641,19 @@
     "imageUrl": "/covers/itch-shubibubi-cozy-farm.jpg",
     "source": "itch",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "terrain",
     "summary": "16×16 温馨农场地砖与动画动物，色块柔和玩具感强。",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-shubibubi-cozy-farm"
+    "id": "itch-itch-shubibubi-cozy-farm",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-antahonist-chibi-townsfolk",
@@ -40116,11 +40667,13 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-antahonist-chibi-townsfolk"
+    "id": "itch-itch-antahonist-chibi-townsfolk",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-curlybug-paper-gui",
@@ -40134,11 +40687,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-curlybug-paper-gui"
+    "id": "itch-itch-curlybug-paper-gui",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-elygs-ui-bundle",
@@ -40152,11 +40707,13 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-elygs-ui-bundle"
+    "id": "itch-itch-elygs-ui-bundle",
+    "dim": "2d"
   },
   {
     "sourceId": "itch-snowhex-pixel-plains",
@@ -40165,16 +40722,19 @@
     "imageUrl": "/covers/itch-snowhex-pixel-plains.jpg",
     "source": "itch",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "summary": "俯视像素平原地砖建筑与植被，地块层次可读适合世界地图参考。",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "itch-itch-snowhex-pixel-plains"
+    "id": "itch-itch-snowhex-pixel-plains",
+    "dim": "2d"
   },
   {
     "sourceId": "80lv-witchbrook",
@@ -40183,16 +40743,19 @@
     "imageUrl": "/covers/80lv-witchbrook.jpg",
     "source": "80lv",
     "style": "pixel",
-    "kind": "scene",
+    "kind": "building",
     "summary": "Chucklefish 温馨像素海滨魔法学院城，色块与建筑剪影都很清楚。",
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "80lv-witchbrook"
+    "id": "80lv-witchbrook",
+    "dim": "2d"
   },
   {
     "sourceId": "80lv-tenkemo",
@@ -40206,11 +40769,13 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "type": "inspiration",
     "collectedAt": "2026-09-08",
-    "id": "80lv-tenkemo"
+    "id": "80lv-tenkemo",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -42186,12 +42751,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-sakpix-kingdom-citizens"
+    "id": "itch-itch-sakpix-kingdom-citizens",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42204,12 +42771,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-seliel-npc-pack-2"
+    "id": "itch-itch-seliel-npc-pack-2",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42222,12 +42791,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "art-WemLJ"
+    "id": "art-WemLJ",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42240,12 +42811,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-sakpix-cozy-coffee"
+    "kind": "building",
+    "id": "itch-itch-sakpix-cozy-coffee",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42258,12 +42832,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-gegx-pixel-town-builder"
+    "kind": "building",
+    "id": "itch-itch-gegx-pixel-town-builder",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42276,12 +42853,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-cupnooble-sprout-lands-ui"
+    "id": "itch-itch-cupnooble-sprout-lands-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42294,12 +42873,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "3d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
     "kind": "scene",
-    "id": "art-Lm5OG"
+    "id": "art-Lm5OG",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -42312,12 +42893,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "art-21z9v"
+    "kind": "building",
+    "id": "art-21z9v",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42330,12 +42914,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
     "kind": "ui",
-    "id": "art-d6PJ"
+    "id": "art-d6PJ",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42348,12 +42934,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-wildekin"
+    "kind": "building",
+    "id": "80lv-wildekin",
+    "dim": "3d"
   },
   {
     "type": "game",
@@ -42876,12 +43465,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-zerie-tiny-rpg-01"
+    "id": "itch-itch-zerie-tiny-rpg-01",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42894,12 +43485,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-zerie-tiny-rpg-02"
+    "id": "itch-itch-zerie-tiny-rpg-02",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42912,12 +43505,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-manx-female-town-npcs"
+    "id": "itch-itch-manx-female-town-npcs",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42930,12 +43525,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-cupnooble-sprout-lands"
+    "kind": "building",
+    "id": "itch-itch-cupnooble-sprout-lands",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42948,12 +43546,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-gegx-cozy-bookshop"
+    "kind": "building",
+    "id": "itch-itch-gegx-cozy-bookshop",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42966,12 +43567,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-gegx-pixel-ui-kit"
+    "id": "itch-itch-gegx-pixel-ui-kit",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -42984,12 +43587,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-coffee-pink-ui"
+    "id": "itch-itch-coffee-pink-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43002,12 +43607,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-farm-icons-01"
+    "id": "itch-itch-nexa-farm-icons-01",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43020,12 +43627,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-stylized-mountain-town"
+    "kind": "building",
+    "id": "80lv-stylized-mountain-town",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43038,12 +43648,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-07",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "itch-itch-antahonist-iso-town"
+    "kind": "building",
+    "id": "itch-itch-antahonist-iso-town",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43055,13 +43668,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-sakpix-beastfolk-legends.jpg",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-sakpix-beastfolk-legends"
+    "id": "itch-itch-sakpix-beastfolk-legends",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43073,13 +43688,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-seliel-npc1.jpg",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-seliel-npc1"
+    "id": "itch-itch-seliel-npc1",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43091,13 +43708,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-dreamir-minifolks-beast.jpg",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-dreamir-minifolks-beast"
+    "id": "itch-itch-dreamir-minifolks-beast",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43109,13 +43728,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-manx-mushroom-forest.jpg",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-manx-mushroom-forest"
+    "kind": "building",
+    "id": "itch-itch-manx-mushroom-forest",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43127,13 +43749,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/art-farm-game-world.jpg",
     "style": "pixel",
-    "kind": "scene",
-    "id": "art-farm-game-world"
+    "kind": "building",
+    "id": "art-farm-game-world",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43145,13 +43770,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-humblebright-sweet-ui.jpg",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-humblebright-sweet-ui"
+    "id": "itch-itch-humblebright-sweet-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43163,13 +43790,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-nexa-cozy-cafe-ui.jpg",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-nexa-cozy-cafe-ui"
+    "id": "itch-itch-nexa-cozy-cafe-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43181,13 +43810,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/art-cozy-farm-hud.jpg",
     "style": "cartoon",
     "kind": "ui",
-    "id": "art-cozy-farm-hud"
+    "id": "art-cozy-farm-hud",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43199,13 +43830,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "3d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/80lv-lunarium-painted.jpg",
     "style": "cartoon",
     "kind": "scene",
-    "id": "80lv-lunarium-painted"
+    "id": "80lv-lunarium-painted",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -43217,13 +43850,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "3d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/80lv-2d-to-3d-painted.jpg",
     "style": "cartoon",
     "kind": "scene",
-    "id": "80lv-2d-to-3d-painted"
+    "id": "80lv-2d-to-3d-painted",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -43235,13 +43870,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-gegx-townsfolk.jpg",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-gegx-townsfolk"
+    "id": "itch-itch-gegx-townsfolk",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43253,13 +43890,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-sakpix-npc-vol1.jpg",
     "style": "pixel",
     "kind": "character",
-    "id": "itch-itch-sakpix-npc-vol1"
+    "id": "itch-itch-sakpix-npc-vol1",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43271,13 +43910,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-xilurus-iso-village.jpg",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-xilurus-iso-village"
+    "kind": "building",
+    "id": "itch-itch-xilurus-iso-village",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43289,13 +43931,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-sakpix-mega-farm.jpg",
     "style": "pixel",
-    "kind": "scene",
-    "id": "itch-itch-sakpix-mega-farm"
+    "kind": "building",
+    "id": "itch-itch-sakpix-mega-farm",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43307,13 +43952,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-gegx-ui-kit.jpg",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-gegx-ui-kit"
+    "id": "itch-itch-gegx-ui-kit",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43325,13 +43972,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-humble-paper-ui.jpg",
     "style": "pixel",
     "kind": "ui",
-    "id": "itch-itch-humble-paper-ui"
+    "id": "itch-itch-humble-paper-ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43343,13 +43992,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/art-chibi-legends.jpg",
     "style": "cartoon",
     "kind": "character",
-    "id": "art-chibi-legends"
+    "id": "art-chibi-legends",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43361,13 +44012,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/80lv-medieval-market.jpg",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-medieval-market"
+    "kind": "building",
+    "id": "80lv-medieval-market",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43379,13 +44033,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/80lv-howl-cottage.jpg",
     "style": "cartoon",
-    "kind": "scene",
-    "id": "80lv-howl-cottage"
+    "kind": "building",
+    "id": "80lv-howl-cottage",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -43397,13 +44054,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-06",
     "imageUrl": "/covers/itch-coffee-cartoon-ui.jpg",
     "style": "cartoon",
     "kind": "ui",
-    "id": "itch-itch-coffee-cartoon-ui"
+    "id": "itch-itch-coffee-cartoon-ui",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -44063,11 +44722,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-sakpix-whispering.jpg",
-    "id": "itch-itch-sakpix-whispering"
+    "id": "itch-itch-sakpix-whispering",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44079,11 +44742,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-emberglen-villagers.jpg",
-    "id": "itch-itch-emberglen-villagers"
+    "id": "itch-itch-emberglen-villagers",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44095,11 +44762,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-fotopixy-npc.jpg",
-    "id": "itch-itch-fotopixy-npc"
+    "id": "itch-itch-fotopixy-npc",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44111,11 +44782,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-maygetsu-cozy-town.jpg",
-    "id": "itch-itch-maygetsu-cozy-town"
+    "id": "itch-itch-maygetsu-cozy-town",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44127,11 +44803,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-choco-ted-iso.jpg",
-    "id": "itch-itch-choco-ted-iso"
+    "id": "itch-itch-choco-ted-iso",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44143,11 +44824,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-little-journey-panels.jpg",
-    "id": "itch-itch-little-journey-panels"
+    "id": "itch-itch-little-journey-panels",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44159,11 +44844,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-pixelkiln-ui.jpg",
-    "id": "itch-itch-pixelkiln-ui"
+    "id": "itch-itch-pixelkiln-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44175,11 +44864,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "3d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/art-rlYY0a.jpg",
-    "id": "art-rlYY0a"
+    "id": "art-rlYY0a",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -44191,11 +44884,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/80lv-evergrove-autumn.jpg",
-    "id": "80lv-evergrove-autumn"
+    "id": "80lv-evergrove-autumn",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44207,11 +44905,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/art-JeLe7.jpg",
-    "id": "art-JeLe7"
+    "id": "art-JeLe7",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44223,11 +44925,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-market-day-folk.jpg",
-    "id": "itch-itch-market-day-folk"
+    "id": "itch-itch-market-day-folk",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44239,11 +44945,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-cute-farmer.jpg",
-    "id": "itch-itch-cute-farmer"
+    "id": "itch-itch-cute-farmer",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44255,11 +44965,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/art-5jKkv.jpg",
-    "id": "art-5jKkv"
+    "id": "art-5jKkv",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44271,11 +44985,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-philtacular-cozy.jpg",
-    "id": "itch-itch-philtacular-cozy"
+    "id": "itch-itch-philtacular-cozy",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44287,11 +45006,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-moraan-cozy.jpg",
-    "id": "itch-itch-moraan-cozy"
+    "id": "itch-itch-moraan-cozy",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44303,11 +45027,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/art-bkLBb.jpg",
-    "id": "art-bkLBb"
+    "id": "art-bkLBb",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44319,11 +45048,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/80lv-kidbash.jpg",
-    "id": "80lv-kidbash"
+    "id": "80lv-kidbash",
+    "style": "cartoon",
+    "kind": "scene",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44335,11 +45068,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "3d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/80lv-shadowglass.jpg",
-    "id": "80lv-shadowglass"
+    "id": "80lv-shadowglass",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -44351,11 +45089,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-cyangmou-paper-ui.jpg",
-    "id": "itch-itch-cyangmou-paper-ui"
+    "id": "itch-itch-cyangmou-paper-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44367,11 +45109,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-cozy-ui-dobo.jpg",
-    "id": "itch-itch-cozy-ui-dobo"
+    "id": "itch-itch-cozy-ui-dobo",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44383,11 +45129,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-cozy-pixel-ui.jpg",
-    "id": "itch-itch-cozy-pixel-ui"
+    "id": "itch-itch-cozy-pixel-ui",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -44399,11 +45149,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-05",
     "imageUrl": "/covers/itch-penzilla-iso.jpg",
-    "id": "itch-itch-penzilla-iso"
+    "id": "itch-itch-penzilla-iso",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "game",
@@ -45964,11 +46719,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "imageUrl": "/covers/itch-emberglen.jpg",
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-emberglen"
+    "id": "itch-itch-emberglen",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -45980,11 +46740,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "imageUrl": "/covers/itch-bloomseed.jpg",
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-bloomseed"
+    "id": "itch-itch-bloomseed",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -45996,11 +46761,16 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "imageUrl": "/covers/itch-village-topdown.jpg",
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-village-topdown"
+    "id": "itch-itch-village-topdown",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46012,11 +46782,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/80lv-saint-slayer.jpg",
     "collectedAt": "2026-09-04",
-    "id": "80lv-saint-slayer"
+    "id": "80lv-saint-slayer",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46028,11 +46802,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/art-vbyeXx.jpg",
     "collectedAt": "2026-09-04",
-    "id": "art-vbyeXx"
+    "id": "art-vbyeXx",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46044,11 +46822,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/art-Gv0Q9d.jpg",
     "collectedAt": "2026-09-04",
-    "id": "art-Gv0Q9d"
+    "id": "art-Gv0Q9d",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46060,11 +46842,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "imageUrl": "/covers/art-Ov5DPb.jpg",
     "collectedAt": "2026-09-04",
-    "id": "art-Ov5DPb"
+    "id": "art-Ov5DPb",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46076,11 +46862,16 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "3d"
     ],
     "imageUrl": "/covers/art-JgBqB.jpg",
     "collectedAt": "2026-09-04",
-    "id": "art-JgBqB"
+    "id": "art-JgBqB",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -46092,11 +46883,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/itch-hearthleaf-ui.jpg",
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-hearthleaf-ui"
+    "id": "itch-itch-hearthleaf-ui",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46108,11 +46903,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "imageUrl": "/covers/art-BXXWVA.jpg",
     "collectedAt": "2026-09-04",
-    "id": "art-BXXWVA"
+    "id": "art-BXXWVA",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46125,10 +46924,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-1NenNo"
+    "id": "art-1NenNo",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46141,10 +46945,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-28o6va"
+    "id": "art-28o6va",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46157,10 +46965,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-bg5yJd"
+    "id": "art-bg5yJd",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -46173,10 +46985,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "3d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "80lv-snowy-jp-town"
+    "id": "80lv-snowy-jp-town",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
   },
   {
     "type": "shader",
@@ -48140,10 +48957,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-W20KVD"
+    "id": "art-W20KVD",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48156,10 +48977,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-Jrq6xR"
+    "id": "art-Jrq6xR",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48172,10 +48997,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-pocket-village"
+    "id": "itch-itch-pocket-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48188,10 +49018,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-cainos-village"
+    "id": "itch-itch-cainos-village",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48204,10 +49039,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-levi-farm"
+    "id": "itch-itch-levi-farm",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48220,10 +49060,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-everroot"
+    "id": "itch-itch-everroot",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48236,10 +49081,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-bkYLb"
+    "id": "art-bkYLb",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48252,10 +49102,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "80lv-scott-pilgrim"
+    "id": "80lv-scott-pilgrim",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48268,10 +49122,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-paper-gui"
+    "id": "itch-itch-paper-gui",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48284,10 +49142,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "art-zAwWJQ"
+    "id": "art-zAwWJQ",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48300,10 +49162,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-04",
-    "id": "itch-itch-pixel-char-template"
+    "id": "itch-itch-pixel-char-template",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48316,10 +49182,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "building",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031565"
+    "id": "pin-733172014381031565",
+    "style": "cartoon",
+    "kind": "building",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48332,10 +49203,15 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031559"
+    "id": "pin-733172014381031559",
+    "style": "cartoon",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48348,10 +49224,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "ui"
+      "ui",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031553"
+    "id": "pin-733172014381031553",
+    "style": "cartoon",
+    "kind": "ui",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48364,10 +49244,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031538"
+    "id": "pin-733172014381031538",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48380,10 +49264,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031527"
+    "id": "pin-733172014381031527",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48396,10 +49284,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031520"
+    "id": "pin-733172014381031520",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48412,10 +49304,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031499"
+    "id": "pin-733172014381031499",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48428,10 +49325,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031494"
+    "id": "pin-733172014381031494",
+    "style": "cartoon",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48444,10 +49345,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031428"
+    "id": "pin-733172014381031428",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48460,10 +49365,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031422"
+    "id": "pin-733172014381031422",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48476,10 +49385,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "character"
+      "character",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031410"
+    "id": "pin-733172014381031410",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48492,10 +49405,14 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "3d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031363"
+    "id": "pin-733172014381031363",
+    "style": "pixel",
+    "kind": "scene",
+    "dim": "3d"
   },
   {
     "type": "inspiration",
@@ -48508,10 +49425,15 @@
     "tags": [
       "design_inspiration",
       "pixel",
-      "scene"
+      "scene",
+      "terrain",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031349"
+    "id": "pin-733172014381031349",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
   },
   {
     "type": "inspiration",
@@ -48524,10 +49446,14 @@
     "tags": [
       "design_inspiration",
       "cartoon",
-      "scene"
+      "scene",
+      "2d"
     ],
     "collectedAt": "2026-09-03",
-    "id": "pin-733172014381031335"
+    "id": "pin-733172014381031335",
+    "style": "cartoon",
+    "kind": "scene",
+    "dim": "2d"
   },
   {
     "type": "game",
