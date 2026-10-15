@@ -1,5 +1,6745 @@
 [
   {
+    "id": "steam-105600",
+    "type": "inspiration",
+    "title": "Terraria",
+    "summary": "地表、水域与植被的图块拼接清楚，动作、冒险题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/105600/",
+    "imageUrl": "/covers/steam-105600.jpg",
+    "source": "steam",
+    "sourceId": "steam-105600",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-250900",
+    "type": "inspiration",
+    "title": "The Binding of Isaac: Rebirth",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/250900/",
+    "imageUrl": "/covers/steam-250900.jpg",
+    "source": "steam",
+    "sourceId": "steam-250900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1868140",
+    "type": "inspiration",
+    "title": "DAVE THE DIVER",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/1868140/",
+    "imageUrl": "/covers/steam-1868140.jpg",
+    "source": "steam",
+    "sourceId": "steam-1868140",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-504230",
+    "type": "inspiration",
+    "title": "Celeste",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/504230/",
+    "imageUrl": "/covers/steam-504230.jpg",
+    "source": "steam",
+    "sourceId": "steam-504230",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-881100",
+    "type": "inspiration",
+    "title": "Noita",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，动作、冒险游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/881100/",
+    "imageUrl": "/covers/steam-881100.jpg",
+    "source": "steam",
+    "sourceId": "steam-881100",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1150690",
+    "type": "inspiration",
+    "title": "OMORI",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1150690/",
+    "imageUrl": "/covers/steam-1150690.jpg",
+    "source": "steam",
+    "sourceId": "steam-1150690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1206560",
+    "type": "inspiration",
+    "title": "WorldBox - God Simulator",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1206560/",
+    "imageUrl": "/covers/steam-1206560.jpg",
+    "source": "steam",
+    "sourceId": "steam-1206560",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2212330",
+    "type": "inspiration",
+    "title": "Your Only Move Is HUSTLE",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2212330/",
+    "imageUrl": "/covers/steam-2212330.jpg",
+    "source": "steam",
+    "sourceId": "steam-2212330",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1282730",
+    "type": "inspiration",
+    "title": "Loop Hero",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1282730/",
+    "imageUrl": "/covers/steam-1282730.jpg",
+    "source": "steam",
+    "sourceId": "steam-1282730",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-383980",
+    "type": "inspiration",
+    "title": "Rivals of Aether",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，独立游戏题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/383980/",
+    "imageUrl": "/covers/steam-383980.jpg",
+    "source": "steam",
+    "sourceId": "steam-383980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2142790",
+    "type": "inspiration",
+    "title": "Fields of Mistria",
+    "summary": "建筑群体量错落、细节丰富，是角色扮演、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/2142790/",
+    "imageUrl": "/covers/steam-2142790.jpg",
+    "source": "steam",
+    "sourceId": "steam-2142790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-337320",
+    "type": "inspiration",
+    "title": "Paint the Town Red",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/337320/",
+    "imageUrl": "/covers/steam-337320.jpg",
+    "source": "steam",
+    "sourceId": "steam-337320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-383120",
+    "type": "inspiration",
+    "title": "Empyrion - Galactic Survival",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/383120/",
+    "imageUrl": "/covers/steam-383120.jpg",
+    "source": "steam",
+    "sourceId": "steam-383120",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1169040",
+    "type": "inspiration",
+    "title": "Necesse",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1169040/",
+    "imageUrl": "/covers/steam-1169040.jpg",
+    "source": "steam",
+    "sourceId": "steam-1169040",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1240210",
+    "type": "inspiration",
+    "title": "There Is No Game: Wrong Dimension",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1240210/",
+    "imageUrl": "/covers/steam-1240210.jpg",
+    "source": "steam",
+    "sourceId": "steam-1240210",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-813230",
+    "type": "inspiration",
+    "title": "ANIMAL WELL",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/813230/",
+    "imageUrl": "/covers/steam-813230.jpg",
+    "source": "steam",
+    "sourceId": "steam-813230",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3244220",
+    "type": "inspiration",
+    "title": "A Game About Digging A Hole™",
+    "summary": "体素构成的地形与光影，方块尺度统一，冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3244220/",
+    "imageUrl": "/covers/steam-3244220.jpg",
+    "source": "steam",
+    "sourceId": "steam-3244220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3265700",
+    "type": "inspiration",
+    "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/3265700/",
+    "imageUrl": "/covers/steam-3265700.jpg",
+    "source": "steam",
+    "sourceId": "steam-3265700",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1672970",
+    "type": "inspiration",
+    "title": "Minecraft Dungeons",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1672970/",
+    "imageUrl": "/covers/steam-1672970.jpg",
+    "source": "steam",
+    "sourceId": "steam-1672970",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-512900",
+    "type": "inspiration",
+    "title": "Streets of Rogue",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/512900/",
+    "imageUrl": "/covers/steam-512900.jpg",
+    "source": "steam",
+    "sourceId": "steam-512900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1029780",
+    "type": "inspiration",
+    "title": "Going Medieval",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1029780/",
+    "imageUrl": "/covers/steam-1029780.jpg",
+    "source": "steam",
+    "sourceId": "steam-1029780",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-374040",
+    "type": "inspiration",
+    "title": "Portal Knights",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/374040/",
+    "imageUrl": "/covers/steam-374040.jpg",
+    "source": "steam",
+    "sourceId": "steam-374040",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3195790",
+    "type": "inspiration",
+    "title": "White Knuckle",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/3195790/",
+    "imageUrl": "/covers/steam-3195790.jpg",
+    "source": "steam",
+    "sourceId": "steam-3195790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2666510",
+    "type": "inspiration",
+    "title": "Rusty's Retirement",
+    "summary": "建筑群体量错落、细节丰富，是休闲、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/2666510/",
+    "imageUrl": "/covers/steam-2666510.jpg",
+    "source": "steam",
+    "sourceId": "steam-2666510",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-851100",
+    "type": "inspiration",
+    "title": "Touhou Luna Nights",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/851100/",
+    "imageUrl": "/covers/steam-851100.jpg",
+    "source": "steam",
+    "sourceId": "steam-851100",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1016920",
+    "type": "inspiration",
+    "title": "Unrailed!",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、休闲题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1016920/",
+    "imageUrl": "/covers/steam-1016920.jpg",
+    "source": "steam",
+    "sourceId": "steam-1016920",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-445220",
+    "type": "inspiration",
+    "title": "Avorion",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/445220/",
+    "imageUrl": "/covers/steam-445220.jpg",
+    "source": "steam",
+    "sourceId": "steam-445220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-332310",
+    "type": "inspiration",
+    "title": "LEGO® Worlds",
+    "summary": "体素构成的地形与光影，方块尺度统一，冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/332310/",
+    "imageUrl": "/covers/steam-332310.jpg",
+    "source": "steam",
+    "sourceId": "steam-332310",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-333640",
+    "type": "inspiration",
+    "title": "Caves of Qud",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/333640/",
+    "imageUrl": "/covers/steam-333640.jpg",
+    "source": "steam",
+    "sourceId": "steam-333640",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-593600",
+    "type": "inspiration",
+    "title": "PixARK",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/593600/",
+    "imageUrl": "/covers/steam-593600.jpg",
+    "source": "steam",
+    "sourceId": "steam-593600",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-268650",
+    "type": "inspiration",
+    "title": "From the Depths",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/268650/",
+    "imageUrl": "/covers/steam-268650.jpg",
+    "source": "steam",
+    "sourceId": "steam-268650",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-979110",
+    "type": "inspiration",
+    "title": "Space Haven",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，角色扮演、模拟经营玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/979110/",
+    "imageUrl": "/covers/steam-979110.jpg",
+    "source": "steam",
+    "sourceId": "steam-979110",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-589590",
+    "type": "inspiration",
+    "title": "Kindergarten",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/589590/",
+    "imageUrl": "/covers/steam-589590.jpg",
+    "source": "steam",
+    "sourceId": "steam-589590",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2088570",
+    "type": "inspiration",
+    "title": "Tiny Rogues",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/2088570/",
+    "imageUrl": "/covers/steam-2088570.jpg",
+    "source": "steam",
+    "sourceId": "steam-2088570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-206190",
+    "type": "inspiration",
+    "title": "Gunpoint",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，动作、策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/206190/",
+    "imageUrl": "/covers/steam-206190.jpg",
+    "source": "steam",
+    "sourceId": "steam-206190",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-496300",
+    "type": "inspiration",
+    "title": "Kingdom: New Lands",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/496300/",
+    "imageUrl": "/covers/steam-496300.jpg",
+    "source": "steam",
+    "sourceId": "steam-496300",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2753900",
+    "type": "inspiration",
+    "title": "The King is Watching",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，策略玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2753900/",
+    "imageUrl": "/covers/steam-2753900.jpg",
+    "source": "steam",
+    "sourceId": "steam-2753900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3372980",
+    "type": "inspiration",
+    "title": "Tower Wizard",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3372980/",
+    "imageUrl": "/covers/steam-3372980.jpg",
+    "source": "steam",
+    "sourceId": "steam-3372980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-375480",
+    "type": "inspiration",
+    "title": "Chronicon",
+    "summary": "地表、水域与植被的图块拼接清楚，动作、冒险题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/375480/",
+    "imageUrl": "/covers/steam-375480.jpg",
+    "source": "steam",
+    "sourceId": "steam-375480",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-900270",
+    "type": "inspiration",
+    "title": "Reventure",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/900270/",
+    "imageUrl": "/covers/steam-900270.jpg",
+    "source": "steam",
+    "sourceId": "steam-900270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-366090",
+    "type": "inspiration",
+    "title": "Colony Survival",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/366090/",
+    "imageUrl": "/covers/steam-366090.jpg",
+    "source": "steam",
+    "sourceId": "steam-366090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1173770",
+    "type": "inspiration",
+    "title": "FINAL FANTASY",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1173770/",
+    "imageUrl": "/covers/steam-1173770.jpg",
+    "source": "steam",
+    "sourceId": "steam-1173770",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3361470",
+    "type": "inspiration",
+    "title": "Digseum",
+    "summary": "建筑群体量错落、细节丰富，是休闲、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/3361470/",
+    "imageUrl": "/covers/steam-3361470.jpg",
+    "source": "steam",
+    "sourceId": "steam-3361470",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-360740",
+    "type": "inspiration",
+    "title": "Downwell",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/360740/",
+    "imageUrl": "/covers/steam-360740.jpg",
+    "source": "steam",
+    "sourceId": "steam-360740",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-816340",
+    "type": "inspiration",
+    "title": "Kingdom Rush Origins - Tower Defense",
+    "summary": "建筑群体量错落、细节丰富，是策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/816340/",
+    "imageUrl": "/covers/steam-816340.jpg",
+    "source": "steam",
+    "sourceId": "steam-816340",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1836730",
+    "type": "inspiration",
+    "title": "Echo Point Nova",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1836730/",
+    "imageUrl": "/covers/steam-1836730.jpg",
+    "source": "steam",
+    "sourceId": "steam-1836730",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3167550",
+    "type": "inspiration",
+    "title": "Tiny Pasture",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/3167550/",
+    "imageUrl": "/covers/steam-3167550.jpg",
+    "source": "steam",
+    "sourceId": "steam-3167550",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1072420",
+    "type": "inspiration",
+    "title": "DRAGON QUEST BUILDERS™ 2",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1072420/",
+    "imageUrl": "/covers/steam-1072420.jpg",
+    "source": "steam",
+    "sourceId": "steam-1072420",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2721890",
+    "type": "inspiration",
+    "title": "Öoo",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2721890/",
+    "imageUrl": "/covers/steam-2721890.jpg",
+    "source": "steam",
+    "sourceId": "steam-2721890",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3115220",
+    "type": "inspiration",
+    "title": "Town to City",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3115220/",
+    "imageUrl": "/covers/steam-3115220.jpg",
+    "source": "steam",
+    "sourceId": "steam-3115220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-894940",
+    "type": "inspiration",
+    "title": "Littlewood",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，冒险、休闲玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/894940/",
+    "imageUrl": "/covers/steam-894940.jpg",
+    "source": "steam",
+    "sourceId": "steam-894940",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-960690",
+    "type": "inspiration",
+    "title": "One Step From Eden",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/960690/",
+    "imageUrl": "/covers/steam-960690.jpg",
+    "source": "steam",
+    "sourceId": "steam-960690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2303350",
+    "type": "inspiration",
+    "title": "Sticky Business",
+    "summary": "地表、水域与植被的图块拼接清楚，休闲、模拟经营题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/2303350/",
+    "imageUrl": "/covers/steam-2303350.jpg",
+    "source": "steam",
+    "sourceId": "steam-2303350",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-368230",
+    "type": "inspiration",
+    "title": "Kingdom: Classic",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，模拟经营、策略玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/368230/",
+    "imageUrl": "/covers/steam-368230.jpg",
+    "source": "steam",
+    "sourceId": "steam-368230",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1937500",
+    "type": "inspiration",
+    "title": "Let's School",
+    "summary": "体素建造的建筑与城市块面分明，休闲、模拟经营玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1937500/",
+    "imageUrl": "/covers/steam-1937500.jpg",
+    "source": "steam",
+    "sourceId": "steam-1937500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1067850",
+    "type": "inspiration",
+    "title": "Kindergarten 2",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/1067850/",
+    "imageUrl": "/covers/steam-1067850.jpg",
+    "source": "steam",
+    "sourceId": "steam-1067850",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2589500",
+    "type": "inspiration",
+    "title": "Whisper of the House",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，冒险、休闲玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2589500/",
+    "imageUrl": "/covers/steam-2589500.jpg",
+    "source": "steam",
+    "sourceId": "steam-2589500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-757320",
+    "type": "inspiration",
+    "title": "Atomicrops",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，动作游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/757320/",
+    "imageUrl": "/covers/steam-757320.jpg",
+    "source": "steam",
+    "sourceId": "steam-757320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1901370",
+    "type": "inspiration",
+    "title": "Ib",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/1901370/",
+    "imageUrl": "/covers/steam-1901370.jpg",
+    "source": "steam",
+    "sourceId": "steam-1901370",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-584640",
+    "type": "inspiration",
+    "title": "SUPER CHICKEN JUMPER",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/584640/",
+    "imageUrl": "/covers/steam-584640.jpg",
+    "source": "steam",
+    "sourceId": "steam-584640",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3495730",
+    "type": "inspiration",
+    "title": "Lucid Blocks",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3495730/",
+    "imageUrl": "/covers/steam-3495730.jpg",
+    "source": "steam",
+    "sourceId": "steam-3495730",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-559210",
+    "type": "inspiration",
+    "title": "Rakuen",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/559210/",
+    "imageUrl": "/covers/steam-559210.jpg",
+    "source": "steam",
+    "sourceId": "steam-559210",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1084020",
+    "type": "inspiration",
+    "title": "TheoTown",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1084020/",
+    "imageUrl": "/covers/steam-1084020.jpg",
+    "source": "steam",
+    "sourceId": "steam-1084020",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1534980",
+    "type": "inspiration",
+    "title": "Terminus: Zombie Survivors",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/1534980/",
+    "imageUrl": "/covers/steam-1534980.jpg",
+    "source": "steam",
+    "sourceId": "steam-1534980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2088840",
+    "type": "inspiration",
+    "title": "Picayune Dreams",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，动作游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2088840/",
+    "imageUrl": "/covers/steam-2088840.jpg",
+    "source": "steam",
+    "sourceId": "steam-2088840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-280220",
+    "type": "inspiration",
+    "title": "Creeper World 3: Arc Eternal",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/280220/",
+    "imageUrl": "/covers/steam-280220.jpg",
+    "source": "steam",
+    "sourceId": "steam-280220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1700870",
+    "type": "inspiration",
+    "title": "Clanfolk",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1700870/",
+    "imageUrl": "/covers/steam-1700870.jpg",
+    "source": "steam",
+    "sourceId": "steam-1700870",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1304680",
+    "type": "inspiration",
+    "title": "Voidigo",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1304680/",
+    "imageUrl": "/covers/steam-1304680.jpg",
+    "source": "steam",
+    "sourceId": "steam-1304680",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1668690",
+    "type": "inspiration",
+    "title": "Alina of the Arena",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1668690/",
+    "imageUrl": "/covers/steam-1668690.jpg",
+    "source": "steam",
+    "sourceId": "steam-1668690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1211600",
+    "type": "inspiration",
+    "title": "ZED ZONE",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1211600/",
+    "imageUrl": "/covers/steam-1211600.jpg",
+    "source": "steam",
+    "sourceId": "steam-1211600",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2285550",
+    "type": "inspiration",
+    "title": "Doloc Town",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2285550/",
+    "imageUrl": "/covers/steam-2285550.jpg",
+    "source": "steam",
+    "sourceId": "steam-2285550",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-983870",
+    "type": "inspiration",
+    "title": "FOUNDRY",
+    "summary": "体素建造的建筑与城市块面分明，模拟经营、策略玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/983870/",
+    "imageUrl": "/covers/steam-983870.jpg",
+    "source": "steam",
+    "sourceId": "steam-983870",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2238470",
+    "type": "inspiration",
+    "title": "Grimshire",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/2238470/",
+    "imageUrl": "/covers/steam-2238470.jpg",
+    "source": "steam",
+    "sourceId": "steam-2238470",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2026820",
+    "type": "inspiration",
+    "title": "Die in the Dungeon",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2026820/",
+    "imageUrl": "/covers/steam-2026820.jpg",
+    "source": "steam",
+    "sourceId": "steam-2026820",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3400960",
+    "type": "inspiration",
+    "title": "Oaken Tower",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3400960/",
+    "imageUrl": "/covers/steam-3400960.jpg",
+    "source": "steam",
+    "sourceId": "steam-3400960",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-603960",
+    "type": "inspiration",
+    "title": "Star of Providence",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/603960/",
+    "imageUrl": "/covers/steam-603960.jpg",
+    "source": "steam",
+    "sourceId": "steam-603960",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1286710",
+    "type": "inspiration",
+    "title": "Hylics 2",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1286710/",
+    "imageUrl": "/covers/steam-1286710.jpg",
+    "source": "steam",
+    "sourceId": "steam-1286710",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2533960",
+    "type": "inspiration",
+    "title": "SUMMERHOUSE",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2533960/",
+    "imageUrl": "/covers/steam-2533960.jpg",
+    "source": "steam",
+    "sourceId": "steam-2533960",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2951770",
+    "type": "inspiration",
+    "title": "Leap Year",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/2951770/",
+    "imageUrl": "/covers/steam-2951770.jpg",
+    "source": "steam",
+    "sourceId": "steam-2951770",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3602570",
+    "type": "inspiration",
+    "title": "Horsey Game",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，模拟经营玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/3602570/",
+    "imageUrl": "/covers/steam-3602570.jpg",
+    "source": "steam",
+    "sourceId": "steam-3602570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2237970",
+    "type": "inspiration",
+    "title": "Outpath",
+    "summary": "建筑群体量错落、细节丰富，是冒险、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/2237970/",
+    "imageUrl": "/covers/steam-2237970.jpg",
+    "source": "steam",
+    "sourceId": "steam-2237970",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-251130",
+    "type": "inspiration",
+    "title": "Chroma Squad",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/251130/",
+    "imageUrl": "/covers/steam-251130.jpg",
+    "source": "steam",
+    "sourceId": "steam-251130",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3404470",
+    "type": "inspiration",
+    "title": "Maltese's Fluffy Onsen",
+    "summary": "建筑群体量错落、细节丰富，是休闲、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/3404470/",
+    "imageUrl": "/covers/steam-3404470.jpg",
+    "source": "steam",
+    "sourceId": "steam-3404470",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-254200",
+    "type": "inspiration",
+    "title": "FortressCraft Evolved!",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/254200/",
+    "imageUrl": "/covers/steam-254200.jpg",
+    "source": "steam",
+    "sourceId": "steam-254200",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-280790",
+    "type": "inspiration",
+    "title": "Creativerse",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/280790/",
+    "imageUrl": "/covers/steam-280790.jpg",
+    "source": "steam",
+    "sourceId": "steam-280790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3103780",
+    "type": "inspiration",
+    "title": "DRAPLINE",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，动作、冒险游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3103780/",
+    "imageUrl": "/covers/steam-3103780.jpg",
+    "source": "steam",
+    "sourceId": "steam-3103780",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-638510",
+    "type": "inspiration",
+    "title": "dotAGE",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/638510/",
+    "imageUrl": "/covers/steam-638510.jpg",
+    "source": "steam",
+    "sourceId": "steam-638510",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-389170",
+    "type": "inspiration",
+    "title": "Songs for a Hero - Definitive Edition",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/389170/",
+    "imageUrl": "/covers/steam-389170.jpg",
+    "source": "steam",
+    "sourceId": "steam-389170",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2527160",
+    "type": "inspiration",
+    "title": "Desktop Explorer",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，冒险、模拟经营游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2527160/",
+    "imageUrl": "/covers/steam-2527160.jpg",
+    "source": "steam",
+    "sourceId": "steam-2527160",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-634160",
+    "type": "inspiration",
+    "title": "Cattails | Become a Cat!",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/634160/",
+    "imageUrl": "/covers/steam-634160.jpg",
+    "source": "steam",
+    "sourceId": "steam-634160",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-318130",
+    "type": "inspiration",
+    "title": "Doom & Destiny",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/318130/",
+    "imageUrl": "/covers/steam-318130.jpg",
+    "source": "steam",
+    "sourceId": "steam-318130",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2366970",
+    "type": "inspiration",
+    "title": "Arco",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2366970/",
+    "imageUrl": "/covers/steam-2366970.jpg",
+    "source": "steam",
+    "sourceId": "steam-2366970",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-611760",
+    "type": "inspiration",
+    "title": "Don't Escape: 4 Days to Survive",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/611760/",
+    "imageUrl": "/covers/steam-611760.jpg",
+    "source": "steam",
+    "sourceId": "steam-611760",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1769170",
+    "type": "inspiration",
+    "title": "Shattered Pixel Dungeon",
+    "summary": "地表、水域与植被的图块拼接清楚，冒险、角色扮演题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/1769170/",
+    "imageUrl": "/covers/steam-1769170.jpg",
+    "source": "steam",
+    "sourceId": "steam-1769170",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2870350",
+    "type": "inspiration",
+    "title": "Pipistrello and the Cursed Yoyo",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/2870350/",
+    "imageUrl": "/covers/steam-2870350.jpg",
+    "source": "steam",
+    "sourceId": "steam-2870350",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2013730",
+    "type": "inspiration",
+    "title": "Gourdlets",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/2013730/",
+    "imageUrl": "/covers/steam-2013730.jpg",
+    "source": "steam",
+    "sourceId": "steam-2013730",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-270110",
+    "type": "inspiration",
+    "title": "Block Story™",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/270110/",
+    "imageUrl": "/covers/steam-270110.jpg",
+    "source": "steam",
+    "sourceId": "steam-270110",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-427250",
+    "type": "inspiration",
+    "title": "8-Bit Armies",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/427250/",
+    "imageUrl": "/covers/steam-427250.jpg",
+    "source": "steam",
+    "sourceId": "steam-427250",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1734320",
+    "type": "inspiration",
+    "title": "Brutal Orchestra",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，动作、冒险游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/1734320/",
+    "imageUrl": "/covers/steam-1734320.jpg",
+    "source": "steam",
+    "sourceId": "steam-1734320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1411740",
+    "type": "inspiration",
+    "title": "Urbek City Builder",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1411740/",
+    "imageUrl": "/covers/steam-1411740.jpg",
+    "source": "steam",
+    "sourceId": "steam-1411740",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3976500",
+    "type": "inspiration",
+    "title": "The Spotter: Dig or Die",
+    "summary": "体素建造的建筑与城市块面分明，动作、冒险玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3976500/",
+    "imageUrl": "/covers/steam-3976500.jpg",
+    "source": "steam",
+    "sourceId": "steam-3976500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2607060",
+    "type": "inspiration",
+    "title": "From Glory To Goo",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/2607060/",
+    "imageUrl": "/covers/steam-2607060.jpg",
+    "source": "steam",
+    "sourceId": "steam-2607060",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1320140",
+    "type": "inspiration",
+    "title": "Small Saga",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，冒险、角色扮演题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/1320140/",
+    "imageUrl": "/covers/steam-1320140.jpg",
+    "source": "steam",
+    "sourceId": "steam-1320140",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-876650",
+    "type": "inspiration",
+    "title": "Aground",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，冒险、角色扮演玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/876650/",
+    "imageUrl": "/covers/steam-876650.jpg",
+    "source": "steam",
+    "sourceId": "steam-876650",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3133060",
+    "type": "inspiration",
+    "title": "Gnomes",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/3133060/",
+    "imageUrl": "/covers/steam-3133060.jpg",
+    "source": "steam",
+    "sourceId": "steam-3133060",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-252630",
+    "type": "inspiration",
+    "title": "Eldritch",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/252630/",
+    "imageUrl": "/covers/steam-252630.jpg",
+    "source": "steam",
+    "sourceId": "steam-252630",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2179380",
+    "type": "inspiration",
+    "title": "Sand:box",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2179380/",
+    "imageUrl": "/covers/steam-2179380.jpg",
+    "source": "steam",
+    "sourceId": "steam-2179380",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1477790",
+    "type": "inspiration",
+    "title": "Luna's Fishing Garden",
+    "summary": "地表、水域与植被的图块拼接清楚，冒险、休闲题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/1477790/",
+    "imageUrl": "/covers/steam-1477790.jpg",
+    "source": "steam",
+    "sourceId": "steam-1477790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2346410",
+    "type": "inspiration",
+    "title": "Border Pioneer",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，动作、策略玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2346410/",
+    "imageUrl": "/covers/steam-2346410.jpg",
+    "source": "steam",
+    "sourceId": "steam-2346410",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2523120",
+    "type": "inspiration",
+    "title": "King of the Bridge",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2523120/",
+    "imageUrl": "/covers/steam-2523120.jpg",
+    "source": "steam",
+    "sourceId": "steam-2523120",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-4075620",
+    "type": "inspiration",
+    "title": "Combolands: Roguelike Citybuilder",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/4075620/",
+    "imageUrl": "/covers/steam-4075620.jpg",
+    "source": "steam",
+    "sourceId": "steam-4075620",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1125240",
+    "type": "inspiration",
+    "title": "Ancient Dungeon",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1125240/",
+    "imageUrl": "/covers/steam-1125240.jpg",
+    "source": "steam",
+    "sourceId": "steam-1125240",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-324510",
+    "type": "inspiration",
+    "title": "Boundless",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/324510/",
+    "imageUrl": "/covers/steam-324510.jpg",
+    "source": "steam",
+    "sourceId": "steam-324510",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1540570",
+    "type": "inspiration",
+    "title": "Fractal Block World",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1540570/",
+    "imageUrl": "/covers/steam-1540570.jpg",
+    "source": "steam",
+    "sourceId": "steam-1540570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3205380",
+    "type": "inspiration",
+    "title": "Omelet You Cook",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/3205380/",
+    "imageUrl": "/covers/steam-3205380.jpg",
+    "source": "steam",
+    "sourceId": "steam-3205380",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3151270",
+    "type": "inspiration",
+    "title": "One Turn Kill",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3151270/",
+    "imageUrl": "/covers/steam-3151270.jpg",
+    "source": "steam",
+    "sourceId": "steam-3151270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1882500",
+    "type": "inspiration",
+    "title": "Cattails: Wildwood Story",
+    "summary": "建筑群体量错落、细节丰富，是角色扮演、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/1882500/",
+    "imageUrl": "/covers/steam-1882500.jpg",
+    "source": "steam",
+    "sourceId": "steam-1882500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2400770",
+    "type": "inspiration",
+    "title": "Dungeon Tycoon",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2400770/",
+    "imageUrl": "/covers/steam-2400770.jpg",
+    "source": "steam",
+    "sourceId": "steam-2400770",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2929730",
+    "type": "inspiration",
+    "title": "Cat Bait",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/2929730/",
+    "imageUrl": "/covers/steam-2929730.jpg",
+    "source": "steam",
+    "sourceId": "steam-2929730",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3156330",
+    "type": "inspiration",
+    "title": "Anomaly President",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，动作、冒险玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/3156330/",
+    "imageUrl": "/covers/steam-3156330.jpg",
+    "source": "steam",
+    "sourceId": "steam-3156330",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2429050",
+    "type": "inspiration",
+    "title": "Fretless - The Wrath of Riffson",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，冒险、角色扮演游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2429050/",
+    "imageUrl": "/covers/steam-2429050.jpg",
+    "source": "steam",
+    "sourceId": "steam-2429050",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-568320",
+    "type": "inspiration",
+    "title": "Pictopix",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/568320/",
+    "imageUrl": "/covers/steam-568320.jpg",
+    "source": "steam",
+    "sourceId": "steam-568320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1379870",
+    "type": "inspiration",
+    "title": "Tribal Hunter",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、休闲题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/1379870/",
+    "imageUrl": "/covers/steam-1379870.jpg",
+    "source": "steam",
+    "sourceId": "steam-1379870",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2166050",
+    "type": "inspiration",
+    "title": "Moonleap",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，动作、冒险游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2166050/",
+    "imageUrl": "/covers/steam-2166050.jpg",
+    "source": "steam",
+    "sourceId": "steam-2166050",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-711980",
+    "type": "inspiration",
+    "title": "Starship EVO",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/711980/",
+    "imageUrl": "/covers/steam-711980.jpg",
+    "source": "steam",
+    "sourceId": "steam-711980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2825880",
+    "type": "inspiration",
+    "title": "Death Howl",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2825880/",
+    "imageUrl": "/covers/steam-2825880.jpg",
+    "source": "steam",
+    "sourceId": "steam-2825880",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3832490",
+    "type": "inspiration",
+    "title": "Antivirus Survivors 2003 Professional",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/3832490/",
+    "imageUrl": "/covers/steam-3832490.jpg",
+    "source": "steam",
+    "sourceId": "steam-3832490",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2281410",
+    "type": "inspiration",
+    "title": "River Town Factory",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，角色扮演、模拟经营玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2281410/",
+    "imageUrl": "/covers/steam-2281410.jpg",
+    "source": "steam",
+    "sourceId": "steam-2281410",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1709900",
+    "type": "inspiration",
+    "title": "Tower Tactics: Liberation",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/1709900/",
+    "imageUrl": "/covers/steam-1709900.jpg",
+    "source": "steam",
+    "sourceId": "steam-1709900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1224290",
+    "type": "inspiration",
+    "title": "Horizon's Gate",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/1224290/",
+    "imageUrl": "/covers/steam-1224290.jpg",
+    "source": "steam",
+    "sourceId": "steam-1224290",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3480990",
+    "type": "inspiration",
+    "title": "There Are No Orcs",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/3480990/",
+    "imageUrl": "/covers/steam-3480990.jpg",
+    "source": "steam",
+    "sourceId": "steam-3480990",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2776090",
+    "type": "inspiration",
+    "title": "Lay of the Land",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2776090/",
+    "imageUrl": "/covers/steam-2776090.jpg",
+    "source": "steam",
+    "sourceId": "steam-2776090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-789660",
+    "type": "inspiration",
+    "title": "Buggos",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/789660/",
+    "imageUrl": "/covers/steam-789660.jpg",
+    "source": "steam",
+    "sourceId": "steam-789660",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1091920",
+    "type": "inspiration",
+    "title": "Plantera 2: Golden Acorn",
+    "summary": "地表、水域与植被的图块拼接清楚，休闲、模拟经营题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/1091920/",
+    "imageUrl": "/covers/steam-1091920.jpg",
+    "source": "steam",
+    "sourceId": "steam-1091920",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3343160",
+    "type": "inspiration",
+    "title": "Fill Up The Hole",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/3343160/",
+    "imageUrl": "/covers/steam-3343160.jpg",
+    "source": "steam",
+    "sourceId": "steam-3343160",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-264080",
+    "type": "inspiration",
+    "title": "Vangers",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/264080/",
+    "imageUrl": "/covers/steam-264080.jpg",
+    "source": "steam",
+    "sourceId": "steam-264080",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2248430",
+    "type": "inspiration",
+    "title": "Touhou Artificial Dream in Arcadia",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/2248430/",
+    "imageUrl": "/covers/steam-2248430.jpg",
+    "source": "steam",
+    "sourceId": "steam-2248430",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3664820",
+    "type": "inspiration",
+    "title": "Sandboxels",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/3664820/",
+    "imageUrl": "/covers/steam-3664820.jpg",
+    "source": "steam",
+    "sourceId": "steam-3664820",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1628610",
+    "type": "inspiration",
+    "title": "Paquerette Down the Bunburrows",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，冒险、休闲游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/1628610/",
+    "imageUrl": "/covers/steam-1628610.jpg",
+    "source": "steam",
+    "sourceId": "steam-1628610",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3031880",
+    "type": "inspiration",
+    "title": "Car Park Capital",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，模拟经营、策略玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/3031880/",
+    "imageUrl": "/covers/steam-3031880.jpg",
+    "source": "steam",
+    "sourceId": "steam-3031880",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1909420",
+    "type": "inspiration",
+    "title": "Tinyfolks",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/1909420/",
+    "imageUrl": "/covers/steam-1909420.jpg",
+    "source": "steam",
+    "sourceId": "steam-1909420",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-619500",
+    "type": "inspiration",
+    "title": "cyubeVR",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/619500/",
+    "imageUrl": "/covers/steam-619500.jpg",
+    "source": "steam",
+    "sourceId": "steam-619500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-327400",
+    "type": "inspiration",
+    "title": "Sid Meier's Colonization (Classic)",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/327400/",
+    "imageUrl": "/covers/steam-327400.jpg",
+    "source": "steam",
+    "sourceId": "steam-327400",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3411020",
+    "type": "inspiration",
+    "title": "Villages & Dungeons",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/3411020/",
+    "imageUrl": "/covers/steam-3411020.jpg",
+    "source": "steam",
+    "sourceId": "steam-3411020",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2355150",
+    "type": "inspiration",
+    "title": "Mudborne: Frog Management Sim",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2355150/",
+    "imageUrl": "/covers/steam-2355150.jpg",
+    "source": "steam",
+    "sourceId": "steam-2355150",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1519490",
+    "type": "inspiration",
+    "title": "The Doors of Trithius",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/1519490/",
+    "imageUrl": "/covers/steam-1519490.jpg",
+    "source": "steam",
+    "sourceId": "steam-1519490",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2467810",
+    "type": "inspiration",
+    "title": "Orebound",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2467810/",
+    "imageUrl": "/covers/steam-2467810.jpg",
+    "source": "steam",
+    "sourceId": "steam-2467810",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-688060",
+    "type": "inspiration",
+    "title": "Odd Realm",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/688060/",
+    "imageUrl": "/covers/steam-688060.jpg",
+    "source": "steam",
+    "sourceId": "steam-688060",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3081840",
+    "type": "inspiration",
+    "title": "Chrono Gear: Warden of Time",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/3081840/",
+    "imageUrl": "/covers/steam-3081840.jpg",
+    "source": "steam",
+    "sourceId": "steam-3081840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1970030",
+    "type": "inspiration",
+    "title": "Touhou Blooming Soul",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/1970030/",
+    "imageUrl": "/covers/steam-1970030.jpg",
+    "source": "steam",
+    "sourceId": "steam-1970030",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1439750",
+    "type": "inspiration",
+    "title": "9-Bit Armies: A Bit Too Far",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1439750/",
+    "imageUrl": "/covers/steam-1439750.jpg",
+    "source": "steam",
+    "sourceId": "steam-1439750",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2455780",
+    "type": "inspiration",
+    "title": "Eventide Matter",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2455780/",
+    "imageUrl": "/covers/steam-2455780.jpg",
+    "source": "steam",
+    "sourceId": "steam-2455780",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1924780",
+    "type": "inspiration",
+    "title": "Arzette: The Jewel of Faramore",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/1924780/",
+    "imageUrl": "/covers/steam-1924780.jpg",
+    "source": "steam",
+    "sourceId": "steam-1924780",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-525680",
+    "type": "inspiration",
+    "title": "Deisim",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/525680/",
+    "imageUrl": "/covers/steam-525680.jpg",
+    "source": "steam",
+    "sourceId": "steam-525680",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1664200",
+    "type": "inspiration",
+    "title": "Duelists of Eden",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1664200/",
+    "imageUrl": "/covers/steam-1664200.jpg",
+    "source": "steam",
+    "sourceId": "steam-1664200",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1325260",
+    "type": "inspiration",
+    "title": "Kitsune Tails",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1325260/",
+    "imageUrl": "/covers/steam-1325260.jpg",
+    "source": "steam",
+    "sourceId": "steam-1325260",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1262040",
+    "type": "inspiration",
+    "title": "Super Mombo Quest",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1262040/",
+    "imageUrl": "/covers/steam-1262040.jpg",
+    "source": "steam",
+    "sourceId": "steam-1262040",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1662480",
+    "type": "inspiration",
+    "title": "Nuclear Blaze",
+    "summary": "地表、水域与植被的图块拼接清楚，动作、冒险题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/1662480/",
+    "imageUrl": "/covers/steam-1662480.jpg",
+    "source": "steam",
+    "sourceId": "steam-1662480",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1455910",
+    "type": "inspiration",
+    "title": "Territory: Farming and Warfare",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1455910/",
+    "imageUrl": "/covers/steam-1455910.jpg",
+    "source": "steam",
+    "sourceId": "steam-1455910",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1183800",
+    "type": "inspiration",
+    "title": "Shardpunk",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，角色扮演、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/1183800/",
+    "imageUrl": "/covers/steam-1183800.jpg",
+    "source": "steam",
+    "sourceId": "steam-1183800",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2436570",
+    "type": "inspiration",
+    "title": "DRAGON QUEST BUILDERS",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2436570/",
+    "imageUrl": "/covers/steam-2436570.jpg",
+    "source": "steam",
+    "sourceId": "steam-2436570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1146370",
+    "type": "inspiration",
+    "title": "Master of Magic Classic",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1146370/",
+    "imageUrl": "/covers/steam-1146370.jpg",
+    "source": "steam",
+    "sourceId": "steam-1146370",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-551620",
+    "type": "inspiration",
+    "title": "Approaching Infinity",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，冒险、角色扮演游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/551620/",
+    "imageUrl": "/covers/steam-551620.jpg",
+    "source": "steam",
+    "sourceId": "steam-551620",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-898720",
+    "type": "inspiration",
+    "title": "Kubifaktorium",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/898720/",
+    "imageUrl": "/covers/steam-898720.jpg",
+    "source": "steam",
+    "sourceId": "steam-898720",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3604430",
+    "type": "inspiration",
+    "title": "Digger: Galactic Treasures",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3604430/",
+    "imageUrl": "/covers/steam-3604430.jpg",
+    "source": "steam",
+    "sourceId": "steam-3604430",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-530390",
+    "type": "inspiration",
+    "title": "Slayaway Camp",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，休闲、策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/530390/",
+    "imageUrl": "/covers/steam-530390.jpg",
+    "source": "steam",
+    "sourceId": "steam-530390",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-347600",
+    "type": "inspiration",
+    "title": "Total Miner",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/347600/",
+    "imageUrl": "/covers/steam-347600.jpg",
+    "source": "steam",
+    "sourceId": "steam-347600",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-451840",
+    "type": "inspiration",
+    "title": "Out of Ammo",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/451840/",
+    "imageUrl": "/covers/steam-451840.jpg",
+    "source": "steam",
+    "sourceId": "steam-451840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1589570",
+    "type": "inspiration",
+    "title": "Dunjungle",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/1589570/",
+    "imageUrl": "/covers/steam-1589570.jpg",
+    "source": "steam",
+    "sourceId": "steam-1589570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2308630",
+    "type": "inspiration",
+    "title": "Dawnfolk",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，休闲、策略玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2308630/",
+    "imageUrl": "/covers/steam-2308630.jpg",
+    "source": "steam",
+    "sourceId": "steam-2308630",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3500390",
+    "type": "inspiration",
+    "title": "Mega Man Star Force Legacy Collection",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3500390/",
+    "imageUrl": "/covers/steam-3500390.jpg",
+    "source": "steam",
+    "sourceId": "steam-3500390",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1056490",
+    "type": "inspiration",
+    "title": "The World is Your Weapon",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1056490/",
+    "imageUrl": "/covers/steam-1056490.jpg",
+    "source": "steam",
+    "sourceId": "steam-1056490",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1691420",
+    "type": "inspiration",
+    "title": "START AGAIN: a prologue",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/1691420/",
+    "imageUrl": "/covers/steam-1691420.jpg",
+    "source": "steam",
+    "sourceId": "steam-1691420",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2256450",
+    "type": "inspiration",
+    "title": "RAM: Random Access Mayhem",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/2256450/",
+    "imageUrl": "/covers/steam-2256450.jpg",
+    "source": "steam",
+    "sourceId": "steam-2256450",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1374860",
+    "type": "inspiration",
+    "title": "Nocturne",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，冒险、角色扮演题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/1374860/",
+    "imageUrl": "/covers/steam-1374860.jpg",
+    "source": "steam",
+    "sourceId": "steam-1374860",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-643810",
+    "type": "inspiration",
+    "title": "Fugl",
+    "summary": "体素构成的地形与光影，方块尺度统一，冒险、休闲题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/643810/",
+    "imageUrl": "/covers/steam-643810.jpg",
+    "source": "steam",
+    "sourceId": "steam-643810",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-4078110",
+    "type": "inspiration",
+    "title": "Suncraft",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/4078110/",
+    "imageUrl": "/covers/steam-4078110.jpg",
+    "source": "steam",
+    "sourceId": "steam-4078110",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1897650",
+    "type": "inspiration",
+    "title": "Dream Tactics",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1897650/",
+    "imageUrl": "/covers/steam-1897650.jpg",
+    "source": "steam",
+    "sourceId": "steam-1897650",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1264520",
+    "type": "inspiration",
+    "title": "Vibrant Venture",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/1264520/",
+    "imageUrl": "/covers/steam-1264520.jpg",
+    "source": "steam",
+    "sourceId": "steam-1264520",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3167540",
+    "type": "inspiration",
+    "title": "Not Monday Cafe",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/3167540/",
+    "imageUrl": "/covers/steam-3167540.jpg",
+    "source": "steam",
+    "sourceId": "steam-3167540",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1918520",
+    "type": "inspiration",
+    "title": "Ninja Village",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1918520/",
+    "imageUrl": "/covers/steam-1918520.jpg",
+    "source": "steam",
+    "sourceId": "steam-1918520",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-336610",
+    "type": "inspiration",
+    "title": "Outcast 1.1",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/336610/",
+    "imageUrl": "/covers/steam-336610.jpg",
+    "source": "steam",
+    "sourceId": "steam-336610",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2732820",
+    "type": "inspiration",
+    "title": "The Great Rebellion",
+    "summary": "人物精灵与场景的明暗对比处理得好，战斗画面中角色一眼可辨。",
+    "url": "https://store.steampowered.com/app/2732820/",
+    "imageUrl": "/covers/steam-2732820.jpg",
+    "source": "steam",
+    "sourceId": "steam-2732820",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2050590",
+    "type": "inspiration",
+    "title": "Fhtagn Simulator",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2050590/",
+    "imageUrl": "/covers/steam-2050590.jpg",
+    "source": "steam",
+    "sourceId": "steam-2050590",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-404530",
+    "type": "inspiration",
+    "title": "Voxel Turf",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/404530/",
+    "imageUrl": "/covers/steam-404530.jpg",
+    "source": "steam",
+    "sourceId": "steam-404530",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1705140",
+    "type": "inspiration",
+    "title": "Final Profit: A Shop RPG",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1705140/",
+    "imageUrl": "/covers/steam-1705140.jpg",
+    "source": "steam",
+    "sourceId": "steam-1705140",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1318740",
+    "type": "inspiration",
+    "title": "Farlanders",
+    "summary": "建筑群体量错落、细节丰富，是策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/1318740/",
+    "imageUrl": "/covers/steam-1318740.jpg",
+    "source": "steam",
+    "sourceId": "steam-1318740",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2348090",
+    "type": "inspiration",
+    "title": "Crop Rotation",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2348090/",
+    "imageUrl": "/covers/steam-2348090.jpg",
+    "source": "steam",
+    "sourceId": "steam-2348090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2060480",
+    "type": "inspiration",
+    "title": "PomoFarm",
+    "summary": "地表、水域与植被的图块拼接清楚，休闲、模拟经营题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/2060480/",
+    "imageUrl": "/covers/steam-2060480.jpg",
+    "source": "steam",
+    "sourceId": "steam-2060480",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-657690",
+    "type": "inspiration",
+    "title": "The Caribbean Sail",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/657690/",
+    "imageUrl": "/covers/steam-657690.jpg",
+    "source": "steam",
+    "sourceId": "steam-657690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2488340",
+    "type": "inspiration",
+    "title": "Dream Town Island",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，休闲、模拟经营玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/2488340/",
+    "imageUrl": "/covers/steam-2488340.jpg",
+    "source": "steam",
+    "sourceId": "steam-2488340",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1961600",
+    "type": "inspiration",
+    "title": "Darfall",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1961600/",
+    "imageUrl": "/covers/steam-1961600.jpg",
+    "source": "steam",
+    "sourceId": "steam-1961600",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-676500",
+    "type": "inspiration",
+    "title": "Time Warpers",
+    "summary": "体素建造的建筑与城市块面分明，动作、冒险玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/676500/",
+    "imageUrl": "/covers/steam-676500.jpg",
+    "source": "steam",
+    "sourceId": "steam-676500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-497850",
+    "type": "inspiration",
+    "title": "8-Bit Hordes",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/497850/",
+    "imageUrl": "/covers/steam-497850.jpg",
+    "source": "steam",
+    "sourceId": "steam-497850",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2086680",
+    "type": "inspiration",
+    "title": "Castle Craft",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2086680/",
+    "imageUrl": "/covers/steam-2086680.jpg",
+    "source": "steam",
+    "sourceId": "steam-2086680",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2934180",
+    "type": "inspiration",
+    "title": "Doraemon Dorayaki Shop Story",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/2934180/",
+    "imageUrl": "/covers/steam-2934180.jpg",
+    "source": "steam",
+    "sourceId": "steam-2934180",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-4211860",
+    "type": "inspiration",
+    "title": "Mushroom Nook",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/4211860/",
+    "imageUrl": "/covers/steam-4211860.jpg",
+    "source": "steam",
+    "sourceId": "steam-4211860",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-931270",
+    "type": "inspiration",
+    "title": "MicroTown",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/931270/",
+    "imageUrl": "/covers/steam-931270.jpg",
+    "source": "steam",
+    "sourceId": "steam-931270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1664670",
+    "type": "inspiration",
+    "title": "Refactor",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1664670/",
+    "imageUrl": "/covers/steam-1664670.jpg",
+    "source": "steam",
+    "sourceId": "steam-1664670",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2803490",
+    "type": "inspiration",
+    "title": "Atomcraft",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2803490/",
+    "imageUrl": "/covers/steam-2803490.jpg",
+    "source": "steam",
+    "sourceId": "steam-2803490",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1709170",
+    "type": "inspiration",
+    "title": "Paradise Marsh",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，动作、冒险游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/1709170/",
+    "imageUrl": "/covers/steam-1709170.jpg",
+    "source": "steam",
+    "sourceId": "steam-1709170",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1570760",
+    "type": "inspiration",
+    "title": "Variables 2",
+    "summary": "体素建造的建筑与城市块面分明，休闲、策略玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1570760/",
+    "imageUrl": "/covers/steam-1570760.jpg",
+    "source": "steam",
+    "sourceId": "steam-1570760",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1180130",
+    "type": "inspiration",
+    "title": "The Final Earth 2",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1180130/",
+    "imageUrl": "/covers/steam-1180130.jpg",
+    "source": "steam",
+    "sourceId": "steam-1180130",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1921780",
+    "type": "inspiration",
+    "title": "The Sushi Spinnery",
+    "summary": "建筑与场景摆放的密度、屋顶和立面的像素处理很讨喜，休闲、模拟经营玩法的建造画面参考价值高。",
+    "url": "https://store.steampowered.com/app/1921780/",
+    "imageUrl": "/covers/steam-1921780.jpg",
+    "source": "steam",
+    "sourceId": "steam-1921780",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1647190",
+    "type": "inspiration",
+    "title": "World End Diner",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，冒险、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/1647190/",
+    "imageUrl": "/covers/steam-1647190.jpg",
+    "source": "steam",
+    "sourceId": "steam-1647190",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2427100",
+    "type": "inspiration",
+    "title": "Cafe Master Story",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/2427100/",
+    "imageUrl": "/covers/steam-2427100.jpg",
+    "source": "steam",
+    "sourceId": "steam-2427100",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3820130",
+    "type": "inspiration",
+    "title": "The Dream Globe",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/3820130/",
+    "imageUrl": "/covers/steam-3820130.jpg",
+    "source": "steam",
+    "sourceId": "steam-3820130",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1674820",
+    "type": "inspiration",
+    "title": "TFC: The Fertile Crescent",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/1674820/",
+    "imageUrl": "/covers/steam-1674820.jpg",
+    "source": "steam",
+    "sourceId": "steam-1674820",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-428180",
+    "type": "inspiration",
+    "title": "Islet Online",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/428180/",
+    "imageUrl": "/covers/steam-428180.jpg",
+    "source": "steam",
+    "sourceId": "steam-428180",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2800900",
+    "type": "inspiration",
+    "title": "Rift Riff",
+    "summary": "俯视/等距视角下的房屋、设施排布清晰，适合参考像素建筑的轮廓与配色。",
+    "url": "https://store.steampowered.com/app/2800900/",
+    "imageUrl": "/covers/steam-2800900.jpg",
+    "source": "steam",
+    "sourceId": "steam-2800900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1055090",
+    "type": "inspiration",
+    "title": "Embark",
+    "summary": "体素建造的建筑与城市块面分明，模拟经营、策略玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1055090/",
+    "imageUrl": "/covers/steam-1055090.jpg",
+    "source": "steam",
+    "sourceId": "steam-1055090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2094070",
+    "type": "inspiration",
+    "title": "Quest Master",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作、冒险题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/2094070/",
+    "imageUrl": "/covers/steam-2094070.jpg",
+    "source": "steam",
+    "sourceId": "steam-2094070",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3913270",
+    "type": "inspiration",
+    "title": "Slimeward",
+    "summary": "建筑群体量错落、细节丰富，是模拟经营、策略题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/3913270/",
+    "imageUrl": "/covers/steam-3913270.jpg",
+    "source": "steam",
+    "sourceId": "steam-3913270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2191480",
+    "type": "inspiration",
+    "title": "Jumbo Airport Story",
+    "summary": "建筑群体量错落、细节丰富，是休闲、模拟经营题材里像素建筑的好样本。",
+    "url": "https://store.steampowered.com/app/2191480/",
+    "imageUrl": "/covers/steam-2191480.jpg",
+    "source": "steam",
+    "sourceId": "steam-2191480",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3919360",
+    "type": "inspiration",
+    "title": "Dig Island",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3919360/",
+    "imageUrl": "/covers/steam-3919360.jpg",
+    "source": "steam",
+    "sourceId": "steam-3919360",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2450400",
+    "type": "inspiration",
+    "title": "Trash of the Titans",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，角色扮演、策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2450400/",
+    "imageUrl": "/covers/steam-2450400.jpg",
+    "source": "steam",
+    "sourceId": "steam-2450400",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3308200",
+    "type": "inspiration",
+    "title": "Tombwater",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，动作、冒险游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/3308200/",
+    "imageUrl": "/covers/steam-3308200.jpg",
+    "source": "steam",
+    "sourceId": "steam-3308200",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-4005090",
+    "type": "inspiration",
+    "title": "Dungeon Antiqua 2",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/4005090/",
+    "imageUrl": "/covers/steam-4005090.jpg",
+    "source": "steam",
+    "sourceId": "steam-4005090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1147890",
+    "type": "inspiration",
+    "title": "Bonfire Peaks",
+    "summary": "体素构成的地形与光影，方块尺度统一，独立游戏题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1147890/",
+    "imageUrl": "/covers/steam-1147890.jpg",
+    "source": "steam",
+    "sourceId": "steam-1147890",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1562920",
+    "type": "inspiration",
+    "title": "7 Years From Now",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1562920/",
+    "imageUrl": "/covers/steam-1562920.jpg",
+    "source": "steam",
+    "sourceId": "steam-1562920",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2727660",
+    "type": "inspiration",
+    "title": "GlitchSPANKR",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2727660/",
+    "imageUrl": "/covers/steam-2727660.jpg",
+    "source": "steam",
+    "sourceId": "steam-2727660",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1889890",
+    "type": "inspiration",
+    "title": "Shinehill",
+    "summary": "地表、水域与植被的图块拼接清楚，冒险、休闲题材里的像素地貌配色值得参考。",
+    "url": "https://store.steampowered.com/app/1889890/",
+    "imageUrl": "/covers/steam-1889890.jpg",
+    "source": "steam",
+    "sourceId": "steam-1889890",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3332060",
+    "type": "inspiration",
+    "title": "Feng Shui Meowjong",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3332060/",
+    "imageUrl": "/covers/steam-3332060.jpg",
+    "source": "steam",
+    "sourceId": "steam-3332060",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3375890",
+    "type": "inspiration",
+    "title": "Ogre Chambers 2222",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，动作题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/3375890/",
+    "imageUrl": "/covers/steam-3375890.jpg",
+    "source": "steam",
+    "sourceId": "steam-3375890",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1866300",
+    "type": "inspiration",
+    "title": "Dawn Apart",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1866300/",
+    "imageUrl": "/covers/steam-1866300.jpg",
+    "source": "steam",
+    "sourceId": "steam-1866300",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2720010",
+    "type": "inspiration",
+    "title": "Rogue Fable IV",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2720010/",
+    "imageUrl": "/covers/steam-2720010.jpg",
+    "source": "steam",
+    "sourceId": "steam-2720010",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-662210",
+    "type": "inspiration",
+    "title": "Metal as Phuk",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/662210/",
+    "imageUrl": "/covers/steam-662210.jpg",
+    "source": "steam",
+    "sourceId": "steam-662210",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3596670",
+    "type": "inspiration",
+    "title": "MOCHI-O",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/3596670/",
+    "imageUrl": "/covers/steam-3596670.jpg",
+    "source": "steam",
+    "sourceId": "steam-3596670",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3068670",
+    "type": "inspiration",
+    "title": "Anode Heart: Layer Null",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，角色扮演游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3068670/",
+    "imageUrl": "/covers/steam-3068670.jpg",
+    "source": "steam",
+    "sourceId": "steam-3068670",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3048840",
+    "type": "inspiration",
+    "title": "Hungry Horrors",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3048840/",
+    "imageUrl": "/covers/steam-3048840.jpg",
+    "source": "steam",
+    "sourceId": "steam-3048840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-351640",
+    "type": "inspiration",
+    "title": "Eternal Senia",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/351640/",
+    "imageUrl": "/covers/steam-351640.jpg",
+    "source": "steam",
+    "sourceId": "steam-351640",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2736860",
+    "type": "inspiration",
+    "title": "The Bibites: Digital Life",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2736860/",
+    "imageUrl": "/covers/steam-2736860.jpg",
+    "source": "steam",
+    "sourceId": "steam-2736860",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3067950",
+    "type": "inspiration",
+    "title": "皇帝游戏：天下-皇游天下",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3067950/",
+    "imageUrl": "/covers/steam-3067950.jpg",
+    "source": "steam",
+    "sourceId": "steam-3067950",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1326270",
+    "type": "inspiration",
+    "title": "Festival Tycoon 🎪",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1326270/",
+    "imageUrl": "/covers/steam-1326270.jpg",
+    "source": "steam",
+    "sourceId": "steam-1326270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-4094120",
+    "type": "inspiration",
+    "title": "Microlandia",
+    "summary": "体素建造的建筑与城市块面分明，模拟经营玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/4094120/",
+    "imageUrl": "/covers/steam-4094120.jpg",
+    "source": "steam",
+    "sourceId": "steam-4094120",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2506440",
+    "type": "inspiration",
+    "title": "Trolddom",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，多人在线、角色扮演游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2506440/",
+    "imageUrl": "/covers/steam-2506440.jpg",
+    "source": "steam",
+    "sourceId": "steam-2506440",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-861330",
+    "type": "inspiration",
+    "title": "Dungeon Deathball",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，角色扮演、体育游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/861330/",
+    "imageUrl": "/covers/steam-861330.jpg",
+    "source": "steam",
+    "sourceId": "steam-861330",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3582440",
+    "type": "inspiration",
+    "title": "DSS 2: War Industry",
+    "summary": "体素建造的建筑与城市块面分明，模拟经营、策略玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3582440/",
+    "imageUrl": "/covers/steam-3582440.jpg",
+    "source": "steam",
+    "sourceId": "steam-3582440",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1051290",
+    "type": "inspiration",
+    "title": "ZIC – Zombies in City",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1051290/",
+    "imageUrl": "/covers/steam-1051290.jpg",
+    "source": "steam",
+    "sourceId": "steam-1051290",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2688900",
+    "type": "inspiration",
+    "title": "Super Algebrawl",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2688900/",
+    "imageUrl": "/covers/steam-2688900.jpg",
+    "source": "steam",
+    "sourceId": "steam-2688900",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-312990",
+    "type": "inspiration",
+    "title": "The Expendabros",
+    "summary": "角色造型有个性，色块概括干净，适合参考像素角色与敌人设计。",
+    "url": "https://store.steampowered.com/app/312990/",
+    "imageUrl": "/covers/steam-312990.jpg",
+    "source": "steam",
+    "sourceId": "steam-312990",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3201530",
+    "type": "inspiration",
+    "title": "巴哈姆特1-REMAKE(BAHAMUT1-REMAKE)",
+    "summary": "角色与怪物的剪影、动作姿态和配色辨识度高，角色扮演题材的像素角色设计很有参考价值。",
+    "url": "https://store.steampowered.com/app/3201530/",
+    "imageUrl": "/covers/steam-3201530.jpg",
+    "source": "steam",
+    "sourceId": "steam-3201530",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-431840",
+    "type": "inspiration",
+    "title": "3DRPG",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/431840/",
+    "imageUrl": "/covers/steam-431840.jpg",
+    "source": "steam",
+    "sourceId": "steam-431840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3972980",
+    "type": "inspiration",
+    "title": "Mirklurk: Every Step Matters",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，角色扮演游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/3972980/",
+    "imageUrl": "/covers/steam-3972980.jpg",
+    "source": "steam",
+    "sourceId": "steam-3972980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1072300",
+    "type": "inspiration",
+    "title": "Echo Generation: Midnight Edition",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1072300/",
+    "imageUrl": "/covers/steam-1072300.jpg",
+    "source": "steam",
+    "sourceId": "steam-1072300",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2144220",
+    "type": "inspiration",
+    "title": "DUNGEON ARTIFACT",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，角色扮演、策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2144220/",
+    "imageUrl": "/covers/steam-2144220.jpg",
+    "source": "steam",
+    "sourceId": "steam-2144220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-788700",
+    "type": "inspiration",
+    "title": "ValeGuard",
+    "summary": "体素建造的建筑与城市块面分明，休闲、角色扮演玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/788700/",
+    "imageUrl": "/covers/steam-788700.jpg",
+    "source": "steam",
+    "sourceId": "steam-788700",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2313160",
+    "type": "inspiration",
+    "title": "Hodgepodge Hunch",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，休闲、模拟经营游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2313160/",
+    "imageUrl": "/covers/steam-2313160.jpg",
+    "source": "steam",
+    "sourceId": "steam-2313160",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3152750",
+    "type": "inspiration",
+    "title": "Taival",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3152750/",
+    "imageUrl": "/covers/steam-3152750.jpg",
+    "source": "steam",
+    "sourceId": "steam-3152750",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2500460",
+    "type": "inspiration",
+    "title": "Inventorix",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2500460/",
+    "imageUrl": "/covers/steam-2500460.jpg",
+    "source": "steam",
+    "sourceId": "steam-2500460",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3304110",
+    "type": "inspiration",
+    "title": "868-BACK",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3304110/",
+    "imageUrl": "/covers/steam-3304110.jpg",
+    "source": "steam",
+    "sourceId": "steam-3304110",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1795570",
+    "type": "inspiration",
+    "title": "Aground Zero",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1795570/",
+    "imageUrl": "/covers/steam-1795570.jpg",
+    "source": "steam",
+    "sourceId": "steam-1795570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3537690",
+    "type": "inspiration",
+    "title": " STICKER/BALL",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，休闲、模拟经营游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3537690/",
+    "imageUrl": "/covers/steam-3537690.jpg",
+    "source": "steam",
+    "sourceId": "steam-3537690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2676030",
+    "type": "inspiration",
+    "title": "Runehaven",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2676030/",
+    "imageUrl": "/covers/steam-2676030.jpg",
+    "source": "steam",
+    "sourceId": "steam-2676030",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2556160",
+    "type": "inspiration",
+    "title": "Cute Farmer Life",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、角色扮演游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2556160/",
+    "imageUrl": "/covers/steam-2556160.jpg",
+    "source": "steam",
+    "sourceId": "steam-2556160",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2322090",
+    "type": "inspiration",
+    "title": "Crystal Guardians TD",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2322090/",
+    "imageUrl": "/covers/steam-2322090.jpg",
+    "source": "steam",
+    "sourceId": "steam-2322090",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1356040",
+    "type": "inspiration",
+    "title": "Ampersat",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1356040/",
+    "imageUrl": "/covers/steam-1356040.jpg",
+    "source": "steam",
+    "sourceId": "steam-1356040",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3886210",
+    "type": "inspiration",
+    "title": "Drill and Delve",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3886210/",
+    "imageUrl": "/covers/steam-3886210.jpg",
+    "source": "steam",
+    "sourceId": "steam-3886210",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2416050",
+    "type": "inspiration",
+    "title": "Cento",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2416050/",
+    "imageUrl": "/covers/steam-2416050.jpg",
+    "source": "steam",
+    "sourceId": "steam-2416050",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2455610",
+    "type": "inspiration",
+    "title": "Sengoku Voxel Castle With Zundamon",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2455610/",
+    "imageUrl": "/covers/steam-2455610.jpg",
+    "source": "steam",
+    "sourceId": "steam-2455610",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3018320",
+    "type": "inspiration",
+    "title": "Avian Colony",
+    "summary": "体素建造的建筑与城市块面分明，模拟经营、策略玩法下的体素建筑造型值得参考（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3018320/",
+    "imageUrl": "/covers/steam-3018320.jpg",
+    "source": "steam",
+    "sourceId": "steam-3018320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3090980",
+    "type": "inspiration",
+    "title": "Dungeon Tycoon: Prologue",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3090980/",
+    "imageUrl": "/covers/steam-3090980.jpg",
+    "source": "steam",
+    "sourceId": "steam-3090980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1626530",
+    "type": "inspiration",
+    "title": "Facteroids",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1626530/",
+    "imageUrl": "/covers/steam-1626530.jpg",
+    "source": "steam",
+    "sourceId": "steam-1626530",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2135850",
+    "type": "inspiration",
+    "title": "Tinytown",
+    "summary": "方块建筑的体量感与细节密度把握得好，是体素城镇/基地的好样本（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2135850/",
+    "imageUrl": "/covers/steam-2135850.jpg",
+    "source": "steam",
+    "sourceId": "steam-2135850",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3192010",
+    "type": "inspiration",
+    "title": "Voxel Eras",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3192010/",
+    "imageUrl": "/covers/steam-3192010.jpg",
+    "source": "steam",
+    "sourceId": "steam-3192010",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2521550",
+    "type": "inspiration",
+    "title": "Shroomchitect",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2521550/",
+    "imageUrl": "/covers/steam-2521550.jpg",
+    "source": "steam",
+    "sourceId": "steam-2521550",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-4138820",
+    "type": "inspiration",
+    "title": "Wreckborn",
+    "summary": "用体素堆砌出的建筑群，轮廓、材质和光照统一，适合参考体素建筑设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/4138820/",
+    "imageUrl": "/covers/steam-4138820.jpg",
+    "source": "steam",
+    "sourceId": "steam-4138820",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1617270",
+    "type": "inspiration",
+    "title": "The Faraway Land",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1617270/",
+    "imageUrl": "/covers/steam-1617270.jpg",
+    "source": "steam",
+    "sourceId": "steam-1617270",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-1182860",
+    "type": "inspiration",
+    "title": "Aiyana",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/1182860/",
+    "imageUrl": "/covers/steam-1182860.jpg",
+    "source": "steam",
+    "sourceId": "steam-1182860",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2943620",
+    "type": "inspiration",
+    "title": "Realmcraft VR",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2943620/",
+    "imageUrl": "/covers/steam-2943620.jpg",
+    "source": "steam",
+    "sourceId": "steam-2943620",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2113220",
+    "type": "inspiration",
+    "title": "Voxel Miner: Dwellers of The Deep",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2113220/",
+    "imageUrl": "/covers/steam-2113220.jpg",
+    "source": "steam",
+    "sourceId": "steam-2113220",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-4707120",
+    "type": "inspiration",
+    "title": "VoxelMancy",
+    "summary": "方块化的 3D 地貌兼顾辨识度与氛围，适合参考体素风环境设计（体素/3D）。",
+    "url": "https://store.steampowered.com/app/4707120/",
+    "imageUrl": "/covers/steam-4707120.jpg",
+    "source": "steam",
+    "sourceId": "steam-4707120",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-3114230",
+    "type": "inspiration",
+    "title": "Distant Garden",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/3114230/",
+    "imageUrl": "/covers/steam-3114230.jpg",
+    "source": "steam",
+    "sourceId": "steam-3114230",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-820070",
+    "type": "inspiration",
+    "title": "Cube Universe",
+    "summary": "体素构成的地形与光影，方块尺度统一，角色扮演题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/820070/",
+    "imageUrl": "/covers/steam-820070.jpg",
+    "source": "steam",
+    "sourceId": "steam-820070",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-343320",
+    "type": "inspiration",
+    "title": "StaudSoft's Synthetic World Beta",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/343320/",
+    "imageUrl": "/covers/steam-343320.jpg",
+    "source": "steam",
+    "sourceId": "steam-343320",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2116790",
+    "type": "inspiration",
+    "title": "Warlocks Quarry",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2116790/",
+    "imageUrl": "/covers/steam-2116790.jpg",
+    "source": "steam",
+    "sourceId": "steam-2116790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2143030",
+    "type": "inspiration",
+    "title": "Cave Crawlers",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作、冒险题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2143030/",
+    "imageUrl": "/covers/steam-2143030.jpg",
+    "source": "steam",
+    "sourceId": "steam-2143030",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-2560050",
+    "type": "inspiration",
+    "title": "The Local",
+    "summary": "体素构成的地形与光影，方块尺度统一，动作题材里的体素地貌很有参考价值（体素/3D）。",
+    "url": "https://store.steampowered.com/app/2560050/",
+    "imageUrl": "/covers/steam-2560050.jpg",
+    "source": "steam",
+    "sourceId": "steam-2560050",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-985240",
+    "type": "inspiration",
+    "title": "Woodfel",
+    "summary": "用体素堆出的开阔地形与植被层次丰富，色彩与雾效处理值得借鉴（体素/3D）。",
+    "url": "https://store.steampowered.com/app/985240/",
+    "imageUrl": "/covers/steam-985240.jpg",
+    "source": "steam",
+    "sourceId": "steam-985240",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "steam-4231020",
+    "type": "inspiration",
+    "title": "Gum Squad",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/4231020/",
+    "imageUrl": "/covers/steam-4231020.jpg",
+    "source": "steam",
+    "sourceId": "steam-4231020",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1486840",
+    "type": "inspiration",
+    "title": "SantaCraft",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/1486840/",
+    "imageUrl": "/covers/steam-1486840.jpg",
+    "source": "steam",
+    "sourceId": "steam-1486840",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2887460",
+    "type": "inspiration",
+    "title": "diorama",
+    "summary": "大地图的地形分区和色彩层次读得很清楚，休闲、模拟经营游戏中少见的完整地貌示范。",
+    "url": "https://store.steampowered.com/app/2887460/",
+    "imageUrl": "/covers/steam-2887460.jpg",
+    "source": "steam",
+    "sourceId": "steam-2887460",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2373630",
+    "type": "inspiration",
+    "title": "Moonring",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/2373630/",
+    "imageUrl": "/covers/steam-2373630.jpg",
+    "source": "steam",
+    "sourceId": "steam-2373630",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3670630",
+    "type": "inspiration",
+    "title": "Besmirch",
+    "summary": "用有限调色板做出了远近和材质区分，适合参考像素环境与图块设计。",
+    "url": "https://store.steampowered.com/app/3670630/",
+    "imageUrl": "/covers/steam-3670630.jpg",
+    "source": "steam",
+    "sourceId": "steam-3670630",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2167960",
+    "type": "inspiration",
+    "title": "Buy a Croquette!",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，冒险、休闲游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2167960/",
+    "imageUrl": "/covers/steam-2167960.jpg",
+    "source": "steam",
+    "sourceId": "steam-2167960",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3641420",
+    "type": "inspiration",
+    "title": "Magecraft: Spellbuilding",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/3641420/",
+    "imageUrl": "/covers/steam-3641420.jpg",
+    "source": "steam",
+    "sourceId": "steam-3641420",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-4914570",
+    "type": "inspiration",
+    "title": "ON&OFF",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/4914570/",
+    "imageUrl": "/covers/steam-4914570.jpg",
+    "source": "steam",
+    "sourceId": "steam-4914570",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2316330",
+    "type": "inspiration",
+    "title": "Shogun Showdown: Prologue",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2316330/",
+    "imageUrl": "/covers/steam-2316330.jpg",
+    "source": "steam",
+    "sourceId": "steam-2316330",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1507970",
+    "type": "inspiration",
+    "title": "Word Game: Episode 0",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1507970/",
+    "imageUrl": "/covers/steam-1507970.jpg",
+    "source": "steam",
+    "sourceId": "steam-1507970",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2448980",
+    "type": "inspiration",
+    "title": "Ticy Adventure Club : Queen of the Spring",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2448980/",
+    "imageUrl": "/covers/steam-2448980.jpg",
+    "source": "steam",
+    "sourceId": "steam-2448980",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2711190",
+    "type": "inspiration",
+    "title": "Hyperspace Deck Command",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2711190/",
+    "imageUrl": "/covers/steam-2711190.jpg",
+    "source": "steam",
+    "sourceId": "steam-2711190",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1740100",
+    "type": "inspiration",
+    "title": "At Home Alone Final",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/1740100/",
+    "imageUrl": "/covers/steam-1740100.jpg",
+    "source": "steam",
+    "sourceId": "steam-1740100",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2135690",
+    "type": "inspiration",
+    "title": "Ticy Adventure Club",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/2135690/",
+    "imageUrl": "/covers/steam-2135690.jpg",
+    "source": "steam",
+    "sourceId": "steam-2135690",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-3749130",
+    "type": "inspiration",
+    "title": "Tower Tactics II",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/3749130/",
+    "imageUrl": "/covers/steam-3749130.jpg",
+    "source": "steam",
+    "sourceId": "steam-3749130",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2437330",
+    "type": "inspiration",
+    "title": "Novus Orbis",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，冒险、角色扮演游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2437330/",
+    "imageUrl": "/covers/steam-2437330.jpg",
+    "source": "steam",
+    "sourceId": "steam-2437330",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2136110",
+    "type": "inspiration",
+    "title": "Vox Populi: Brazil 2022",
+    "summary": "界面信息层级清楚，像素边框、图标与字体风格统一，模拟经营、策略游戏里值得参考的 UI 设计。",
+    "url": "https://store.steampowered.com/app/2136110/",
+    "imageUrl": "/covers/steam-2136110.jpg",
+    "source": "steam",
+    "sourceId": "steam-2136110",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-1807260",
+    "type": "inspiration",
+    "title": "Lazriel: The Demon's Fall",
+    "summary": "菜单/背包/卡牌界面的排版与配色克制，适合参考像素 UI 的组织方式。",
+    "url": "https://store.steampowered.com/app/1807260/",
+    "imageUrl": "/covers/steam-1807260.jpg",
+    "source": "steam",
+    "sourceId": "steam-1807260",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "steam-2113050",
+    "type": "inspiration",
+    "title": "RUNGORE: Beginner Experience",
+    "summary": "面板、按钮和图标的像素细节统一，信息密度高但仍好读。",
+    "url": "https://store.steampowered.com/app/2113050/",
+    "imageUrl": "/covers/steam-2113050.jpg",
+    "source": "steam",
+    "sourceId": "steam-2113050",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2105643674805870625",
+    "type": "inspiration",
+    "title": "o_erlat 体素赛博朋克楼",
+    "summary": "多层霓虹店面叠成的体素楼，招牌、管线与暖光窗户层次丰富（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2105643674805870625",
+    "imageUrl": "/covers/x-2105643674805870625.jpg",
+    "source": "x",
+    "sourceId": "x-2105643674805870625",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2106761743649390602",
+    "type": "inspiration",
+    "title": "o_erlat 体素高塔 BLOCK 023A",
+    "summary": "细长竖向的体素高层，灯箱色块与金属质感对比强烈（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2106761743649390602",
+    "imageUrl": "/covers/x-2106761743649390602.jpg",
+    "source": "x",
+    "sourceId": "x-2106761743649390602",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2106398053406310499",
+    "type": "inspiration",
+    "title": "o_erlat 体素天际线 NV 021",
+    "summary": "绿色霓虹点缀的双塔结构，雨夜城市天际线的好参考（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2106398053406310499",
+    "imageUrl": "/covers/x-2106398053406310499.jpg",
+    "source": "x",
+    "sourceId": "x-2106398053406310499",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2105770402450395195",
+    "type": "inspiration",
+    "title": "o_erlat 体素背景建筑 No.2",
+    "summary": "作为背景使用的体素楼，轮廓简洁但细节够密，适合参考远景建筑（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2105770402450395195",
+    "imageUrl": "/covers/x-2105770402450395195.jpg",
+    "source": "x",
+    "sourceId": "x-2105770402450395195",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2107723451536744769",
+    "type": "inspiration",
+    "title": "o_erlat 体素垂直住宅",
+    "summary": "竖向堆叠的居住塔，管道与阳台的体素处理很有生活感（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2107723451536744769",
+    "imageUrl": "/covers/x-2107723451536744769.jpg",
+    "source": "x",
+    "sourceId": "x-2107723451536744769",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2105929789219770478",
+    "type": "inspiration",
+    "title": "o_erlat 体素背景建筑 No.3",
+    "summary": "暖色灯光与黑色楼体对比分明，体素建筑的收边和灯饰值得参考（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2105929789219770478",
+    "imageUrl": "/covers/x-2105929789219770478.jpg",
+    "source": "x",
+    "sourceId": "x-2105929789219770478",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2108943997125144932",
+    "type": "inspiration",
+    "title": "o_erlat 体素屋顶停机坪",
+    "summary": "雨天屋顶停机坪的体素场景，结构层次和灯光点缀很到位（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2108943997125144932",
+    "imageUrl": "/covers/x-2108943997125144932.jpg",
+    "source": "x",
+    "sourceId": "x-2108943997125144932",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2108581617912676839",
+    "type": "inspiration",
+    "title": "o_erlat NEXGEN PLAZA 体素楼",
+    "summary": "仰视角度下的大楼体量感强，材质区分明确（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2108581617912676839",
+    "imageUrl": "/covers/x-2108581617912676839.jpg",
+    "source": "x",
+    "sourceId": "x-2108581617912676839",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2110032180286025959",
+    "type": "inspiration",
+    "title": "o_erlat 体素楼制作过程",
+    "summary": "拆解展示体素建筑的搭建过程，可以看清分层和体块组织方式（X 帖，体素/3D）。",
+    "url": "https://x.com/o_erlat/status/2110032180286025959",
+    "imageUrl": "/covers/x-2110032180286025959.jpg",
+    "source": "x",
+    "sourceId": "x-2110032180286025959",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2109651837255299288",
+    "type": "inspiration",
+    "title": "un_tako 体素观赏鱼店",
+    "summary": "暖光小店用 MagicaVoxel 搭成，招牌和门面的体素细节温馨可爱（X 帖，体素/3D）。",
+    "url": "https://x.com/un_tako/status/2109651837255299288",
+    "imageUrl": "/covers/x-2109651837255299288.jpg",
+    "source": "x",
+    "sourceId": "x-2109651837255299288",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2109290924614312391",
+    "type": "inspiration",
+    "title": "JereHoh 体素客厅",
+    "summary": "白模风格的体素房间切片，家具摆放与明暗关系干净利落（X 帖，体素/3D）。",
+    "url": "https://x.com/JereHoh/status/2109290924614312391",
+    "imageUrl": "/covers/x-2109290924614312391.jpg",
+    "source": "x",
+    "sourceId": "x-2109290924614312391",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2105701904672293127",
+    "type": "inspiration",
+    "title": "Pixel_Javi 像素图块集",
+    "summary": "整套地形/建筑图块一览，色调统一，拼接元素齐全（X 帖）。",
+    "url": "https://x.com/Pixel_Javi/status/2105701904672293127",
+    "imageUrl": "/covers/x-2105701904672293127.jpg",
+    "source": "x",
+    "sourceId": "x-2105701904672293127",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2107158930686455842",
+    "type": "inspiration",
+    "title": "hypnobius 地牢图块与道具",
+    "summary": "石砖墙面、梯子与家具组成的地牢房间，配色克制，质感清晰（X 帖）。",
+    "url": "https://x.com/hypnobius/status/2107158930686455842",
+    "imageUrl": "/covers/x-2107158930686455842.jpg",
+    "source": "x",
+    "sourceId": "x-2107158930686455842",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2110649633978413295",
+    "type": "inspiration",
+    "title": "Booooooomstick Sandlands 图块",
+    "summary": "沙漠主题图块的暖色调房间，轮廓圆润、层次分明（X 帖）。",
+    "url": "https://x.com/Booooooomstick/status/2110649633978413295",
+    "imageUrl": "/covers/x-2110649633978413295.jpg",
+    "source": "x",
+    "sourceId": "x-2110649633978413295",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2105018108431724596",
+    "type": "inspiration",
+    "title": "DontPeek_art Mini Dungeons 图块",
+    "summary": "在编辑器里拼接的地牢图块，紫色系调色统一（X 帖）。",
+    "url": "https://x.com/DontPeek_art/status/2105018108431724596",
+    "imageUrl": "/covers/x-2105018108431724596.jpg",
+    "source": "x",
+    "sourceId": "x-2105018108431724596",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2103027399147589904",
+    "type": "inspiration",
+    "title": "pimpixels 绿植小物件",
+    "summary": "为小镇项目绘制的草木图标，浅绿灰底上形状概括干净（X 帖）。",
+    "url": "https://x.com/pimpixels/status/2103027399147589904",
+    "imageUrl": "/covers/x-2103027399147589904.jpg",
+    "source": "x",
+    "sourceId": "x-2103027399147589904",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2107621460647035309",
+    "type": "inspiration",
+    "title": "ansimuz Sunnyland 视差背景",
+    "summary": "多层远景剪影堆出纵深，草稿阶段就很有氛围（X 帖）。",
+    "url": "https://x.com/ansimuz/status/2107621460647035309",
+    "imageUrl": "/covers/x-2107621460647035309.jpg",
+    "source": "x",
+    "sourceId": "x-2107621460647035309",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2103863573428510790",
+    "type": "inspiration",
+    "title": "_Murrri_ 雪地城堡",
+    "summary": "雪地砖墙城堡配冷色调，小人尺度对比清楚（X 帖 #screenshotsaturday）。",
+    "url": "https://x.com/_Murrri_/status/2103863573428510790",
+    "imageUrl": "/covers/x-2103863573428510790.jpg",
+    "source": "x",
+    "sourceId": "x-2103863573428510790",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2109677343442702535",
+    "type": "inspiration",
+    "title": "UnfuneralOD 重甲骑士",
+    "summary": "暗沉的重甲角色与长柄武器，配色克制，剪影辨识度高（X 帖）。",
+    "url": "https://x.com/UnfuneralOD/status/2109677343442702535",
+    "imageUrl": "/covers/x-2109677343442702535.jpg",
+    "source": "x",
+    "sourceId": "x-2109677343442702535",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2106954556274020462",
+    "type": "inspiration",
+    "title": "Eyelusion_Games Zolara 小精灵",
+    "summary": "亮色调的小角色精灵，色块干净、动作轮廓清晰（X 帖）。",
+    "url": "https://x.com/Eyelusion_Games/status/2106954556274020462",
+    "imageUrl": "/covers/x-2106954556274020462.jpg",
+    "source": "x",
+    "sourceId": "x-2106954556274020462",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2103140765107143034",
+    "type": "inspiration",
+    "title": "Neji32px Mermaid-K 精灵表",
+    "summary": "怪物角色逐帧精灵表，姿态变化连贯，适合参考角色动画拆分（X 帖）。",
+    "url": "https://x.com/Neji32px/status/2103140765107143034",
+    "imageUrl": "/covers/x-2103140765107143034.jpg",
+    "source": "x",
+    "sourceId": "x-2103140765107143034",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2103809567163387953",
+    "type": "inspiration",
+    "title": "ansimuz 火焰精灵表",
+    "summary": "一整张火焰/元素精灵表，红橙渐变做出热度层次（X 帖）。",
+    "url": "https://x.com/ansimuz/status/2103809567163387953",
+    "imageUrl": "/covers/x-2103809567163387953.jpg",
+    "source": "x",
+    "sourceId": "x-2103809567163387953",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2102756691901055486",
+    "type": "inspiration",
+    "title": "PanParsifal 云端关卡",
+    "summary": "明亮云海背景配敌我角色，色彩饱和而干净（X 帖）。",
+    "url": "https://x.com/PanParsifal/status/2102756691901055486",
+    "imageUrl": "/covers/x-2102756691901055486.jpg",
+    "source": "x",
+    "sourceId": "x-2102756691901055486",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2110370055771070670",
+    "type": "inspiration",
+    "title": "UnfuneralOD 角色定制界面",
+    "summary": "角色装备外观定制界面，面板边框与格子对齐整齐（X 帖）。",
+    "url": "https://x.com/UnfuneralOD/status/2110370055771070670",
+    "imageUrl": "/covers/x-2110370055771070670.jpg",
+    "source": "x",
+    "sourceId": "x-2110370055771070670",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2109906740640682033",
+    "type": "inspiration",
+    "title": "ratpackdigital 快捷栏 UI",
+    "summary": "小型热键栏的像素 UI，图标与字母提示的排版很干净（X 帖）。",
+    "url": "https://x.com/ratpackdigital/status/2109906740640682033",
+    "imageUrl": "/covers/x-2109906740640682033.jpg",
+    "source": "x",
+    "sourceId": "x-2109906740640682033",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2109165888775827719",
+    "type": "inspiration",
+    "title": "ermine_life 改良后的 UI",
+    "summary": "黑底终端风界面，信息分区明确，像素字体易读（X 帖）。",
+    "url": "https://x.com/ermine_life/status/2109165888775827719",
+    "imageUrl": "/covers/x-2109165888775827719.jpg",
+    "source": "x",
+    "sourceId": "x-2109165888775827719",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2108234875849621817",
+    "type": "inspiration",
+    "title": "RisingSpire 交易界面",
+    "summary": "物品列表与角色立绘并排，面板层级清楚（X 帖）。",
+    "url": "https://x.com/RisingSpire/status/2108234875849621817",
+    "imageUrl": "/covers/x-2108234875849621817.jpg",
+    "source": "x",
+    "sourceId": "x-2108234875849621817",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2108147460401148044",
+    "type": "inspiration",
+    "title": "EchoesOfTheCove 药水与食物 UI",
+    "summary": "雪地场景叠加药水与增益图标栏，图标风格统一（X 帖）。",
+    "url": "https://x.com/EchoesOfTheCove/status/2108147460401148044",
+    "imageUrl": "/covers/x-2108147460401148044.jpg",
+    "source": "x",
+    "sourceId": "x-2108147460401148044",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2107451261675262097",
+    "type": "inspiration",
+    "title": "Thelastnecro24 界面设计进行中",
+    "summary": "界面设计日更帖，能看到面板与图标的构成思路（X 帖）。",
+    "url": "https://x.com/Thelastnecro24/status/2107451261675262097",
+    "imageUrl": "/covers/x-2107451261675262097.jpg",
+    "source": "x",
+    "sourceId": "x-2107451261675262097",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2107707342896963670",
+    "type": "inspiration",
+    "title": "Tcatstar 装备图标包 #2",
+    "summary": "骷髅、盔甲、戒指等装备图标整套，配色对比强烈（X 帖）。",
+    "url": "https://x.com/Tcatstar/status/2107707342896963670",
+    "imageUrl": "/covers/x-2107707342896963670.jpg",
+    "source": "x",
+    "sourceId": "x-2107707342896963670",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2109519396456833500",
+    "type": "inspiration",
+    "title": "Smaug_Duong 网格背包系统",
+    "summary": "暗色氛围下的网格背包与装备界面，层级与图标密度把握好（X 帖）。",
+    "url": "https://x.com/Smaug_Duong/status/2109519396456833500",
+    "imageUrl": "/covers/x-2109519396456833500.jpg",
+    "source": "x",
+    "sourceId": "x-2109519396456833500",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "80lv-this-fascinating-scene-was-created-with-magicavoxel",
+    "type": "inspiration",
+    "title": "MagicaVoxel 森林神殿场景",
+    "summary": "体素搭出的森林遗迹与光束，明暗对比与体块尺度统一（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/this-fascinating-scene-was-created-with-magicavoxel",
+    "imageUrl": "/covers/80lv-this-fascinating-scene-was-created-with-magicavoxel.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-this-fascinating-scene-was-created-with-magicavoxel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "80lv-making-mysterious-voxel-pillars-in-magicavoxel",
+    "type": "inspiration",
+    "title": "MagicaVoxel 神秘体素立柱",
+    "summary": "金色纹路的立柱与灯光，材质与光影表现很有神秘感（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/making-mysterious-voxel-pillars-in-magicavoxel",
+    "imageUrl": "/covers/80lv-making-mysterious-voxel-pillars-in-magicavoxel.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-making-mysterious-voxel-pillars-in-magicavoxel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "80lv-extremely-detailed-floating-mining-site-residence-made-with-",
+    "type": "inspiration",
+    "title": "体素浮空矿场与住宅",
+    "summary": "大体量灰白体素建筑，层层叠叠的结构细节极高（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/extremely-detailed-floating-mining-site-residence-made-with-voxels",
+    "imageUrl": "/covers/80lv-extremely-detailed-floating-mining-site-residence-made-with-.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-extremely-detailed-floating-mining-site-residence-made-with-",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "80lv-making-floating-voxel-house-in-magicavoxel",
+    "type": "inspiration",
+    "title": "MagicaVoxel 浮空体素屋",
+    "summary": "紫蓝霓虹的浮空小屋，体素建筑的配色与光效值得参考（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/making-floating-voxel-house-in-magicavoxel",
+    "imageUrl": "/covers/80lv-making-floating-voxel-house-in-magicavoxel.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-making-floating-voxel-house-in-magicavoxel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "80lv-snowy-mountain-castle-made-with-voxy-plug-in-for-unreal-engi",
+    "type": "inspiration",
+    "title": "Voxy 插件雪山城堡",
+    "summary": "用体素插件渲染的雪山城堡与远山，块面感和尺度很统一（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/snowy-mountain-castle-made-with-voxy-plug-in-for-unreal-engine",
+    "imageUrl": "/covers/80lv-snowy-mountain-castle-made-with-voxy-plug-in-for-unreal-engi.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-snowy-mountain-castle-made-with-voxy-plug-in-for-unreal-engi",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "80lv-shovel-knight-dev-s-excellent-pixel-art-zelda-like-finally-h",
+    "type": "inspiration",
+    "title": "Mina the Hollower 角色宣传图",
+    "summary": "鼠族角色与金色遗迹背景，描边与色块细腻（80.lv）。",
+    "url": "https://80.lv/articles/shovel-knight-dev-s-excellent-pixel-art-zelda-like-finally-has-a-release-date",
+    "imageUrl": "/covers/80lv-shovel-knight-dev-s-excellent-pixel-art-zelda-like-finally-h.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-shovel-knight-dev-s-excellent-pixel-art-zelda-like-finally-h",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "80lv-upcoming-action-rpg-blends-pixel-art-anime-style-combat",
+    "type": "inspiration",
+    "title": "像素动漫风动作 RPG",
+    "summary": "像素角色配二次元招式表现的战斗场景（80.lv）。",
+    "url": "https://80.lv/articles/upcoming-action-rpg-blends-pixel-art-anime-style-combat",
+    "imageUrl": "/covers/80lv-upcoming-action-rpg-blends-pixel-art-anime-style-combat.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-upcoming-action-rpg-blends-pixel-art-anime-style-combat",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "80lv-3d-artist-shares-progress-on-voxel-renderer-inspired-by-90s-",
+    "type": "inspiration",
+    "title": "90 年代风体素渲染器",
+    "summary": "致敬 Doom/Quake 的体素渲染场景，石墙与秋树质感粗粝（80.lv，体素/3D）。",
+    "url": "https://80.lv/articles/3d-artist-shares-progress-on-voxel-renderer-inspired-by-90s-games",
+    "imageUrl": "/covers/80lv-3d-artist-shares-progress-on-voxel-renderer-inspired-by-90s-.jpg",
+    "source": "80lv",
+    "sourceId": "80lv-3d-artist-shares-progress-on-voxel-renderer-inspired-by-90s-",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
     "id": "steam-1244090",
     "type": "inspiration",
     "title": "Sea of Stars",
