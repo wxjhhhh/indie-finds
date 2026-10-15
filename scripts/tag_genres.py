@@ -145,6 +145,11 @@ def main():
         with open(PATH, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             f.write("\n")
+    # 构建标记(不提交，.gitignore 忽略)：线上能看到脚本是否在构建时跑过
+    if not check:
+        import datetime
+        with open(os.path.join(ROOT, "public", "data", "genres-build.json"), "w", encoding="utf-8") as f:
+            json.dump({"ranAt": datetime.datetime.now(datetime.timezone.utc).isoformat(), "games": n, "changed": changed, "other": counts.get(OTHER, 0)}, f)
     print(f"games={n} changed={changed}")
     for k, v in sorted(counts.items(), key=lambda kv: -kv[1]):
         print(f"{v:5d}  {k}")

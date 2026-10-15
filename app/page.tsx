@@ -19,6 +19,11 @@ type SubFilter = "all" | "game" | "shader";
 type InspirationFilter = "all" | "pixel" | "cartoon" | "character" | "scene" | "ui";
 type ModelSiteFilter = "all" | "packs" | "marketplace" | "textures" | "characters" | "voxels" | "tools";
 
+// 没有 genres 的游戏(如新条目，构建时打标签失败)兜底归入「其他」，保证不消失
+function genresOf(item: Find): string[] {
+  return item.genres && item.genres.length > 0 ? item.genres : ["其他"];
+}
+
 const GENRE_ORDER = [
   "城建/殖民/经营",
   "神游/god-game",
@@ -102,7 +107,7 @@ export default function Page() {
   );
   const genreCounts = new Map<string, number>();
   for (const x of genreBase) {
-    for (const g of x.genres ?? []) genreCounts.set(g, (genreCounts.get(g) ?? 0) + 1);
+    for (const g of genresOf(x)) genreCounts.set(g, (genreCounts.get(g) ?? 0) + 1);
   }
   const genreList = [
     ...GENRE_ORDER.filter((g) => genreCounts.has(g) || selectedGenres.includes(g)),
@@ -113,7 +118,7 @@ export default function Page() {
       (x) =>
         matchesQuery(x, query) &&
         (selectedGenres.length === 0 ||
-          (x.type === "game" && (x.genres ?? []).some((g) => selectedGenres.includes(g)))),
+          (x.type === "game" && genresOf(x).some((g) => selectedGenres.includes(g)))),
     );
   const toggleGenre = (g: string) =>
     setSelectedGenres((cur) => (cur.includes(g) ? cur.filter((v) => v !== g) : [...cur, g]));
@@ -348,9 +353,9 @@ function Card({ item }: { item: Find }) {
       </div>
       <div className="card-body">
         <h2>{item.title}</h2>
-        {item.genres && item.genres.length > 0 && (
+        {item.type === "game" && (
           <div className="card-genres">
-            {item.genres.map((g) => (
+            {genresOf(item).map((g) => (
               <span key={g} className="genre-chip">
                 {g}
               </span>
