@@ -1,5 +1,1125 @@
 [
   {
+    "id": "itch-khydra98-pokepath",
+    "type": "inspiration",
+    "title": "PokéPath TD",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://khydra98.itch.io/pokepath",
+    "imageUrl": "/covers/itch-khydra98-pokepath.jpg",
+    "source": "itch",
+    "sourceId": "itch-khydra98-pokepath",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-aunty-games-gourdlets",
+    "type": "inspiration",
+    "title": "Gourdlets",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://aunty-games.itch.io/gourdlets",
+    "imageUrl": "/covers/itch-aunty-games-gourdlets.jpg",
+    "source": "itch",
+    "sourceId": "itch-aunty-games-gourdlets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wavingwalrus-peckin-pixels",
+    "type": "inspiration",
+    "title": "Peckin' Pixels",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://wavingwalrus.itch.io/peckin-pixels",
+    "imageUrl": "/covers/itch-wavingwalrus-peckin-pixels.jpg",
+    "source": "itch",
+    "sourceId": "itch-wavingwalrus-peckin-pixels",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-splendidland-formless-star",
+    "type": "inspiration",
+    "title": "Formless Star",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://splendidland.itch.io/formless-star",
+    "imageUrl": "/covers/itch-splendidland-formless-star.jpg",
+    "source": "itch",
+    "sourceId": "itch-splendidland-formless-star",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vfqd-terra-nil",
+    "type": "inspiration",
+    "title": "Terra Nil Prototype",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://vfqd.itch.io/terra-nil",
+    "imageUrl": "/covers/itch-vfqd-terra-nil.jpg",
+    "source": "itch",
+    "sourceId": "itch-vfqd-terra-nil",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-quantumgames-studio-the-machinegg",
+    "type": "inspiration",
+    "title": "The MachinEGG",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://quantumgames-studio.itch.io/the-machinegg",
+    "imageUrl": "/covers/itch-quantumgames-studio-the-machinegg.jpg",
+    "source": "itch",
+    "sourceId": "itch-quantumgames-studio-the-machinegg",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jontopielski-feather-park",
+    "type": "inspiration",
+    "title": "Feather Park",
+    "summary": "itch.io 独立游戏的像素地貌画面，图块拼接与配色清爽，适合参考小体量像素环境（itch.io）。",
+    "url": "https://jontopielski.itch.io/feather-park",
+    "imageUrl": "/covers/itch-jontopielski-feather-park.jpg",
+    "source": "itch",
+    "sourceId": "itch-jontopielski-feather-park",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kaktora-crown-below",
+    "type": "inspiration",
+    "title": "Crown Below",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://kaktora.itch.io/crown-below",
+    "imageUrl": "/covers/itch-kaktora-crown-below.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaktora-crown-below",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bippinbits-ravenhaul",
+    "type": "inspiration",
+    "title": "Ravenhaul",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://bippinbits.itch.io/ravenhaul",
+    "imageUrl": "/covers/itch-bippinbits-ravenhaul.jpg",
+    "source": "itch",
+    "sourceId": "itch-bippinbits-ravenhaul",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-deconstructeam-behind-every-great-one",
+    "type": "inspiration",
+    "title": "Behind Every Great One",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://deconstructeam.itch.io/behind-every-great-one",
+    "imageUrl": "/covers/itch-deconstructeam-behind-every-great-one.jpg",
+    "source": "itch",
+    "sourceId": "itch-deconstructeam-behind-every-great-one",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-scriptwelder-waterworks",
+    "type": "inspiration",
+    "title": "Waterworks!",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://scriptwelder.itch.io/waterworks",
+    "imageUrl": "/covers/itch-scriptwelder-waterworks.jpg",
+    "source": "itch",
+    "sourceId": "itch-scriptwelder-waterworks",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sterium-deeper",
+    "type": "inspiration",
+    "title": "Deeper",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://sterium.itch.io/deeper",
+    "imageUrl": "/covers/itch-sterium-deeper.jpg",
+    "source": "itch",
+    "sourceId": "itch-sterium-deeper",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-greenwizardgames-dwarf-eats-mountain",
+    "type": "inspiration",
+    "title": "Dwarf Eats Mountain - Demo",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://greenwizardgames.itch.io/dwarf-eats-mountain",
+    "imageUrl": "/covers/itch-greenwizardgames-dwarf-eats-mountain.jpg",
+    "source": "itch",
+    "sourceId": "itch-greenwizardgames-dwarf-eats-mountain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-flori9-the-final-earth-2",
+    "type": "inspiration",
+    "title": "The Final Earth 2",
+    "summary": "itch.io 独立游戏里的像素建筑/设施画面，轮廓清晰、布局紧凑，适合参考像素建造类场景（itch.io）。",
+    "url": "https://flori9.itch.io/the-final-earth-2",
+    "imageUrl": "/covers/itch-flori9-the-final-earth-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-flori9-the-final-earth-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-radicalfishgames-crosscode",
+    "type": "inspiration",
+    "title": "CrossCode",
+    "summary": "itch.io 独立游戏的像素角色与场景画面，造型与配色辨识度高（itch.io）。",
+    "url": "https://radicalfishgames.itch.io/crosscode",
+    "imageUrl": "/covers/itch-radicalfishgames-crosscode.jpg",
+    "source": "itch",
+    "sourceId": "itch-radicalfishgames-crosscode",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dead-imagination-reinbo",
+    "type": "inspiration",
+    "title": "Reinbō",
+    "summary": "itch.io 独立游戏的像素角色与场景画面，造型与配色辨识度高（itch.io）。",
+    "url": "https://dead-imagination.itch.io/reinbo",
+    "imageUrl": "/covers/itch-dead-imagination-reinbo.jpg",
+    "source": "itch",
+    "sourceId": "itch-dead-imagination-reinbo",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qwertyprophecy-mortholme",
+    "type": "inspiration",
+    "title": "The Dark Queen of Mortholme",
+    "summary": "itch.io 独立游戏的像素角色与场景画面，造型与配色辨识度高（itch.io）。",
+    "url": "https://qwertyprophecy.itch.io/mortholme",
+    "imageUrl": "/covers/itch-qwertyprophecy-mortholme.jpg",
+    "source": "itch",
+    "sourceId": "itch-qwertyprophecy-mortholme",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-raithza-frogsmashers",
+    "type": "inspiration",
+    "title": "★FROG SMASHERS★",
+    "summary": "itch.io 独立游戏的像素角色与场景画面，造型与配色辨识度高（itch.io）。",
+    "url": "https://raithza.itch.io/frogsmashers",
+    "imageUrl": "/covers/itch-raithza-frogsmashers.jpg",
+    "source": "itch",
+    "sourceId": "itch-raithza-frogsmashers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-splendidland-franken",
+    "type": "inspiration",
+    "title": "FRANKEN",
+    "summary": "itch.io 独立游戏的像素角色与场景画面，造型与配色辨识度高（itch.io）。",
+    "url": "https://splendidland.itch.io/franken",
+    "imageUrl": "/covers/itch-splendidland-franken.jpg",
+    "source": "itch",
+    "sourceId": "itch-splendidland-franken",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tann-slice-dice",
+    "type": "inspiration",
+    "title": "Slice & Dice",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://tann.itch.io/slice-dice",
+    "imageUrl": "/covers/itch-tann-slice-dice.jpg",
+    "source": "itch",
+    "sourceId": "itch-tann-slice-dice",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-alarts-die-in-the-dungeon",
+    "type": "inspiration",
+    "title": "Die in the Dungeon CLASSIC",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://alarts.itch.io/die-in-the-dungeon",
+    "imageUrl": "/covers/itch-alarts-die-in-the-dungeon.jpg",
+    "source": "itch",
+    "sourceId": "itch-alarts-die-in-the-dungeon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-team-bugulon-globeba",
+    "type": "inspiration",
+    "title": "Globeba",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://team-bugulon.itch.io/globeba",
+    "imageUrl": "/covers/itch-team-bugulon-globeba.jpg",
+    "source": "itch",
+    "sourceId": "itch-team-bugulon-globeba",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jiefinch-saintspell",
+    "type": "inspiration",
+    "title": "Saint Spell's Love Guide to the Magical Student's Spellbook",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://jiefinch.itch.io/saintspell",
+    "imageUrl": "/covers/itch-jiefinch-saintspell.jpg",
+    "source": "itch",
+    "sourceId": "itch-jiefinch-saintspell",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-roboatino-shogunshowdown",
+    "type": "inspiration",
+    "title": "Shogun Showdown - Alpha",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://roboatino.itch.io/shogunshowdown",
+    "imageUrl": "/covers/itch-roboatino-shogunshowdown.jpg",
+    "source": "itch",
+    "sourceId": "itch-roboatino-shogunshowdown",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-onehundredthousand-katjas-abyss-tactics",
+    "type": "inspiration",
+    "title": "Katja's Abyss: Tactics",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://onehundredthousand.itch.io/katjas-abyss-tactics",
+    "imageUrl": "/covers/itch-onehundredthousand-katjas-abyss-tactics.jpg",
+    "source": "itch",
+    "sourceId": "itch-onehundredthousand-katjas-abyss-tactics",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-asdehielo-push-the-square",
+    "type": "inspiration",
+    "title": "Push the square",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://asdehielo.itch.io/push-the-square",
+    "imageUrl": "/covers/itch-asdehielo-push-the-square.jpg",
+    "source": "itch",
+    "sourceId": "itch-asdehielo-push-the-square",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-punkcake-shotgun-king",
+    "type": "inspiration",
+    "title": "Shotgun King: The Final Checkmate",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://punkcake.itch.io/shotgun-king",
+    "imageUrl": "/covers/itch-punkcake-shotgun-king.jpg",
+    "source": "itch",
+    "sourceId": "itch-punkcake-shotgun-king",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hydezeke-flamberge",
+    "type": "inspiration",
+    "title": "FLAMBERGE",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://hydezeke.itch.io/flamberge",
+    "imageUrl": "/covers/itch-hydezeke-flamberge.jpg",
+    "source": "itch",
+    "sourceId": "itch-hydezeke-flamberge",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-overboy-mobs-inc",
+    "type": "inspiration",
+    "title": "MOBS, INC ★",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://overboy.itch.io/mobs-inc",
+    "imageUrl": "/covers/itch-overboy-mobs-inc.jpg",
+    "source": "itch",
+    "sourceId": "itch-overboy-mobs-inc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-4cats-dungeon-raid",
+    "type": "inspiration",
+    "title": "Dungeon Raid",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://4cats.itch.io/dungeon-raid",
+    "imageUrl": "/covers/itch-4cats-dungeon-raid.jpg",
+    "source": "itch",
+    "sourceId": "itch-4cats-dungeon-raid",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-digitarium-bobbys-bugs",
+    "type": "inspiration",
+    "title": "Bobby's Beautiful Bugs",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://digitarium.itch.io/bobbys-bugs",
+    "imageUrl": "/covers/itch-digitarium-bobbys-bugs.jpg",
+    "source": "itch",
+    "sourceId": "itch-digitarium-bobbys-bugs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-daz-aglobo",
+    "type": "inspiration",
+    "title": "AGLOBO",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://daz.itch.io/aglobo",
+    "imageUrl": "/covers/itch-daz-aglobo.jpg",
+    "source": "itch",
+    "sourceId": "itch-daz-aglobo",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-idreesinc-pocket-bird",
+    "type": "inspiration",
+    "title": "Pocket Bird - Portable Desktop Pet",
+    "summary": "itch.io 独立游戏的像素界面，面板与图标的信息层级清楚，适合参考小型 UI 排版（itch.io）。",
+    "url": "https://idreesinc.itch.io/pocket-bird",
+    "imageUrl": "/covers/itch-idreesinc-pocket-bird.jpg",
+    "source": "itch",
+    "sourceId": "itch-idreesinc-pocket-bird",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-citadelgames-the-monarch",
+    "type": "inspiration",
+    "title": "The Monarch - Demo",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://citadelgames.itch.io/the-monarch",
+    "imageUrl": "/covers/itch-citadelgames-the-monarch.jpg",
+    "source": "itch",
+    "sourceId": "itch-citadelgames-the-monarch",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-punkcake-shroomchitect",
+    "type": "inspiration",
+    "title": "Shroomchitect 🍄",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://punkcake.itch.io/shroomchitect",
+    "imageUrl": "/covers/itch-punkcake-shroomchitect.jpg",
+    "source": "itch",
+    "sourceId": "itch-punkcake-shroomchitect",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ambientmelancholy-omaku",
+    "type": "inspiration",
+    "title": "Omaku",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://ambientmelancholy.itch.io/omaku",
+    "imageUrl": "/covers/itch-ambientmelancholy-omaku.jpg",
+    "source": "itch",
+    "sourceId": "itch-ambientmelancholy-omaku",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-embark-embark",
+    "type": "inspiration",
+    "title": "Embark",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://embark.itch.io/embark",
+    "imageUrl": "/covers/itch-embark-embark.jpg",
+    "source": "itch",
+    "sourceId": "itch-embark-embark",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-heavydutyinc-heavy-duty-inc",
+    "type": "inspiration",
+    "title": "Heavy Duty Inc. Alpha Playtest",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://heavydutyinc.itch.io/heavy-duty-inc",
+    "imageUrl": "/covers/itch-heavydutyinc-heavy-duty-inc.jpg",
+    "source": "itch",
+    "sourceId": "itch-heavydutyinc-heavy-duty-inc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-kotoristudios-fugl",
+    "type": "inspiration",
+    "title": "Fugl",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://kotoristudios.itch.io/fugl",
+    "imageUrl": "/covers/itch-kotoristudios-fugl.jpg",
+    "source": "itch",
+    "sourceId": "itch-kotoristudios-fugl",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-stayonsofa-fronimus",
+    "type": "inspiration",
+    "title": "Fronimus",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://stayonsofa.itch.io/fronimus",
+    "imageUrl": "/covers/itch-stayonsofa-fronimus.jpg",
+    "source": "itch",
+    "sourceId": "itch-stayonsofa-fronimus",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tombuston-22h38",
+    "type": "inspiration",
+    "title": "22h38",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://tombuston.itch.io/22h38",
+    "imageUrl": "/covers/itch-tombuston-22h38.jpg",
+    "source": "itch",
+    "sourceId": "itch-tombuston-22h38",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-svw-super-voxel-world",
+    "type": "inspiration",
+    "title": "Super Voxel World",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://svw.itch.io/super-voxel-world",
+    "imageUrl": "/covers/itch-svw-super-voxel-world.jpg",
+    "source": "itch",
+    "sourceId": "itch-svw-super-voxel-world",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-bowerbyte-blocky-planet",
+    "type": "inspiration",
+    "title": "Blocky Planet",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://bowerbyte.itch.io/blocky-planet",
+    "imageUrl": "/covers/itch-bowerbyte-blocky-planet.jpg",
+    "source": "itch",
+    "sourceId": "itch-bowerbyte-blocky-planet",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-smeljey-proletarian",
+    "type": "inspiration",
+    "title": "Proletarian",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://smeljey.itch.io/proletarian",
+    "imageUrl": "/covers/itch-smeljey-proletarian.jpg",
+    "source": "itch",
+    "sourceId": "itch-smeljey-proletarian",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-booleet-station-meltdown",
+    "type": "inspiration",
+    "title": "Station Meltdown",
+    "summary": "itch.io 独立游戏的体素地貌画面，方块尺度统一、色块概括，适合参考体素环境（itch.io，体素/3D）。",
+    "url": "https://booleet.itch.io/station-meltdown",
+    "imageUrl": "/covers/itch-booleet-station-meltdown.jpg",
+    "source": "itch",
+    "sourceId": "itch-booleet-station-meltdown",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-bearish-tiny-towns",
+    "type": "inspiration",
+    "title": "TINY TOWNS",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://bearish.itch.io/tiny-towns",
+    "imageUrl": "/covers/itch-bearish-tiny-towns.jpg",
+    "source": "itch",
+    "sourceId": "itch-bearish-tiny-towns",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-jeremy-cahill-mooncraft",
+    "type": "inspiration",
+    "title": "MOONCRAFT",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://jeremy-cahill.itch.io/mooncraft",
+    "imageUrl": "/covers/itch-jeremy-cahill-mooncraft.jpg",
+    "source": "itch",
+    "sourceId": "itch-jeremy-cahill-mooncraft",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-icxon-anticure",
+    "type": "inspiration",
+    "title": "Anticure",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://icxon.itch.io/anticure",
+    "imageUrl": "/covers/itch-icxon-anticure.jpg",
+    "source": "itch",
+    "sourceId": "itch-icxon-anticure",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-argendel-projectz",
+    "type": "inspiration",
+    "title": "Z-Engine",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://argendel.itch.io/projectz",
+    "imageUrl": "/covers/itch-argendel-projectz.jpg",
+    "source": "itch",
+    "sourceId": "itch-argendel-projectz",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-aloha-koala-voxel-game-store-tycoon",
+    "type": "inspiration",
+    "title": "Voxel Game Store Tycoon",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://aloha-koala.itch.io/voxel-game-store-tycoon",
+    "imageUrl": "/covers/itch-aloha-koala-voxel-game-store-tycoon.jpg",
+    "source": "itch",
+    "sourceId": "itch-aloha-koala-voxel-game-store-tycoon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-superobot1-netherguild",
+    "type": "inspiration",
+    "title": "Netherguild (Alpha)",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://superobot1.itch.io/netherguild",
+    "imageUrl": "/covers/itch-superobot1-netherguild.jpg",
+    "source": "itch",
+    "sourceId": "itch-superobot1-netherguild",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-vidarn-go-farm",
+    "type": "inspiration",
+    "title": "Go farm!",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://vidarn.itch.io/go-farm",
+    "imageUrl": "/covers/itch-vidarn-go-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-vidarn-go-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ludipe-shhh",
+    "type": "inspiration",
+    "title": "shhh",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://ludipe.itch.io/shhh",
+    "imageUrl": "/covers/itch-ludipe-shhh.jpg",
+    "source": "itch",
+    "sourceId": "itch-ludipe-shhh",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-captainyou-pixelforkliftsimulator",
+    "type": "inspiration",
+    "title": "Pixel Forklift Simulator",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://captainyou.itch.io/pixelforkliftsimulator",
+    "imageUrl": "/covers/itch-captainyou-pixelforkliftsimulator.jpg",
+    "source": "itch",
+    "sourceId": "itch-captainyou-pixelforkliftsimulator",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-creepybrothers-make-war",
+    "type": "inspiration",
+    "title": "Make War",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://creepybrothers.itch.io/make-war",
+    "imageUrl": "/covers/itch-creepybrothers-make-war.jpg",
+    "source": "itch",
+    "sourceId": "itch-creepybrothers-make-war",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-davidmilot-coffee-shop-simulator",
+    "type": "inspiration",
+    "title": "Coffee Shop Simulator",
+    "summary": "itch.io 独立游戏的体素建筑画面，方块造型与布局清楚，适合参考体素建筑与城镇（itch.io，体素/3D）。",
+    "url": "https://davidmilot.itch.io/coffee-shop-simulator",
+    "imageUrl": "/covers/itch-davidmilot-coffee-shop-simulator.jpg",
+    "source": "itch",
+    "sourceId": "itch-davidmilot-coffee-shop-simulator",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-15",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
     "id": "steam-105600",
     "type": "inspiration",
     "title": "Terraria",
