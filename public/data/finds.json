@@ -1,5 +1,1903 @@
 [
   {
+    "id": "x-2109544637497298951",
+    "type": "shader",
+    "title": "Godot Real Sea 真实海面",
+    "summary": "Godot里把海面做到接近写实：波浪、折射与泡沫一起动——会随光而动的水体tech-art实验。",
+    "url": "https://x.com/KanaWorks_AI/status/2109544637497298951",
+    "imageUrl": "/covers/x-2109544637497298951.jpg",
+    "source": "x",
+    "sourceId": "2109544637497298951",
+    "tags": [
+      "search",
+      "godot",
+      "water",
+      "ocean"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110418752114434253",
+    "type": "shader",
+    "title": "Stylized Gold Shader 风格化金",
+    "summary": "Unreal里复刻minionsart金着色器：化妆品解锁物的风格化金属光泽——跨引擎NPR材质。",
+    "url": "https://x.com/DmawDev/status/2110418752114434253",
+    "imageUrl": "/covers/x-2110418752114434253.jpg",
+    "source": "x",
+    "sourceId": "2110418752114434253",
+    "tags": [
+      "search",
+      "unreal",
+      "stylized",
+      "gold",
+      "npr"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109630164581986391",
+    "type": "shader",
+    "title": "Volumetric Cloud Dual Path 体积云双路径",
+    "summary": "Windup Wonderland的两套云：弱机2D、高配体积云——同一场景的云层tech-art对照。",
+    "url": "https://x.com/jettelly/status/2109630164581986391",
+    "imageUrl": "/covers/x-2109630164581986391.jpg",
+    "source": "x",
+    "sourceId": "2109630164581986391",
+    "tags": [
+      "search",
+      "godot",
+      "volumetric-clouds",
+      "vfx"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110324738337771999",
+    "type": "shader",
+    "title": "Shader Graph Water Splash 水花",
+    "summary": "Unity Shader Graph加一点粒子做出的水花溅射——水体VFX拆解小品。",
+    "url": "https://x.com/jettelly/status/2110324738337771999",
+    "imageUrl": "/covers/x-2110324738337771999.jpg",
+    "source": "x",
+    "sourceId": "2110324738337771999",
+    "tags": [
+      "search",
+      "unity",
+      "water",
+      "vfx",
+      "shader-graph"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110520848817717464",
+    "type": "shader",
+    "title": "Blender Cel Shading Pack 赛璐璐包",
+    "summary": "面向动漫/NPR的Blender赛璐璐着色包：Eevee与Cycles六套进阶方案——风格化渲染工具箱。",
+    "url": "https://x.com/Mix3Design/status/2110520848817717464",
+    "imageUrl": "/covers/x-2110520848817717464.jpg",
+    "source": "x",
+    "sourceId": "2110520848817717464",
+    "tags": [
+      "search",
+      "blender",
+      "cel-shading",
+      "npr"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110272162988986723",
+    "type": "shader",
+    "title": "Interactive Walking Grass 可走草地",
+    "summary": "Godot里能走过去的交互草地：草叶随脚步弯折——风格化植被动效。",
+    "url": "https://x.com/tekno_artanis/status/2110272162988986723",
+    "imageUrl": "/covers/x-2110272162988986723.jpg",
+    "source": "x",
+    "sourceId": "2110272162988986723",
+    "tags": [
+      "search",
+      "godot",
+      "grass",
+      "interactive"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110231637472485864",
+    "type": "shader",
+    "title": "Godot PhysX Flow Volumetrics 体积气流",
+    "summary": "Godot PhysX5模块给流体加光散射与体积阴影——实时体积气/雾tech-art。",
+    "url": "https://x.com/WildOxStudios/status/2110231637472485864",
+    "imageUrl": "/covers/x-2110231637472485864.jpg",
+    "source": "x",
+    "sourceId": "2110231637472485864",
+    "tags": [
+      "search",
+      "godot",
+      "volumetric",
+      "fluid",
+      "physx"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110302778673512520",
+    "type": "shader",
+    "title": "Godot Viscous Fluid 粘性流体",
+    "summary": "Godot着色器粘性流体模拟小品——会流动的材质实验。",
+    "url": "https://x.com/r4nM4_64/status/2110302778673512520",
+    "imageUrl": "/covers/x-2110302778673512520.jpg",
+    "source": "x",
+    "sourceId": "2110302778673512520",
+    "tags": [
+      "search",
+      "godot",
+      "fluid",
+      "shader"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109655884028936528",
+    "type": "shader",
+    "title": "Arcane-like Stylized Shader 奥术风",
+    "summary": "Godot着色器实验：瞄准Arcane式风格化光影——手作NPR氛围。",
+    "url": "https://x.com/tekno_artanis/status/2109655884028936528",
+    "imageUrl": "/covers/x-2109655884028936528.jpg",
+    "source": "x",
+    "sourceId": "2109655884028936528",
+    "tags": [
+      "search",
+      "godot",
+      "stylized",
+      "npr"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110181041344487908",
+    "type": "shader",
+    "title": "PS1 Vertex Color Skies 顶点色天空",
+    "summary": "Spyro式PS1顶点色天空：只用顶点色画出的云与黄昏——失落的顶点光照美学。",
+    "url": "https://x.com/AlfredBaudisch/status/2110181041344487908",
+    "imageUrl": "/covers/x-2110181041344487908.jpg",
+    "source": "x",
+    "sourceId": "2110181041344487908",
+    "tags": [
+      "search",
+      "psx",
+      "vertex-color",
+      "sky"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110412063793389654",
+    "type": "shader",
+    "title": "Cursed Fire Flipbook 诅咒火焰",
+    "summary": "Unreal+Houdini+Blender做的诅咒火焰序列帧练习——手作火VFX。",
+    "url": "https://x.com/VFXApprentice/status/2110412063793389654",
+    "imageUrl": "/covers/x-2110412063793389654.jpg",
+    "source": "x",
+    "sourceId": "2110412063793389654",
+    "tags": [
+      "search",
+      "fire",
+      "vfx",
+      "flipbook",
+      "houdini"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110374982652219565",
+    "type": "shader",
+    "title": "WebGPU Path Tracer 路径追踪",
+    "summary": "开源WebGPU物理路径追踪器：浏览器里算PBR，带两级BVH——浏览器光线追踪。",
+    "url": "https://x.com/pissang1/status/2110374982652219565",
+    "imageUrl": "/covers/x-2110374982652219565.jpg",
+    "source": "x",
+    "sourceId": "2110374982652219565",
+    "tags": [
+      "search",
+      "webgpu",
+      "path-tracing",
+      "pbr"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109450246132768927",
+    "type": "shader",
+    "title": "three.js Destruction Library 破坏库",
+    "summary": "实时three.js破坏库预览：建筑碎裂成块——浏览器物理破坏。",
+    "url": "https://x.com/nybobs/status/2109450246132768927",
+    "imageUrl": "/covers/x-2109450246132768927.jpg",
+    "source": "x",
+    "sourceId": "2109450246132768927",
+    "tags": [
+      "search",
+      "threejs",
+      "destruction",
+      "physics"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109616909029093509",
+    "type": "shader",
+    "title": "Infinite Cyberpunk City 无限赛博城",
+    "summary": "Blender几何节点到three.js WebGPU：每条街程序化生成的无限赛博朋克城。",
+    "url": "https://x.com/chirovisuals/status/2109616909029093509",
+    "imageUrl": "/covers/x-2109616909029093509.jpg",
+    "source": "x",
+    "sourceId": "2109616909029093509",
+    "tags": [
+      "search",
+      "webgpu",
+      "procedural",
+      "city",
+      "cyberpunk"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110353536500531573",
+    "type": "shader",
+    "title": "Gaussian-Splat-Lite Denoiser 泼溅降噪",
+    "summary": "Three.js高斯泼溅渲染器的随机模式神经降噪——更快更干净的3DGS。",
+    "url": "https://x.com/lyzzz97/status/2110353536500531573",
+    "imageUrl": "/covers/x-2110353536500531573.jpg",
+    "source": "x",
+    "sourceId": "2110353536500531573",
+    "tags": [
+      "search",
+      "threejs",
+      "gaussian-splat",
+      "denoiser"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109267022865732000",
+    "type": "game",
+    "title": "Cozy Hex Island 温馨六边形岛",
+    "summary": "用AI一格格搭起来的温馨海岛建造：从落难者小岛慢慢向外扩张——hex建造玩具感。",
+    "url": "https://x.com/hakimieiqbal/status/2109267022865732000",
+    "imageUrl": "/covers/x-2109267022865732000.jpg",
+    "source": "x",
+    "sourceId": "2109267022865732000",
+    "tags": [
+      "search",
+      "hex",
+      "city-builder",
+      "cozy"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110421024680329227",
+    "type": "game",
+    "title": "Voxel Colony Winter 体素殖民冬日",
+    "summary": "Godot温馨体素殖民模拟迎来冬天：暴风雪里打呵欠会被锤醒——活体殖民系统。",
+    "url": "https://x.com/Kasutsu/status/2110421024680329227",
+    "imageUrl": "/covers/x-2110421024680329227.jpg",
+    "source": "x",
+    "sourceId": "2110421024680329227",
+    "tags": [
+      "search",
+      "godot",
+      "colony-sim",
+      "voxel"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110368776105451758",
+    "type": "game",
+    "title": "Crimson Rest 绯红安息",
+    "summary": "Godot暗黑奇幻PSX地牢：地下墓穴、以太室与气候舱——哥特复古氛围。",
+    "url": "https://x.com/redllamagames/status/2110368776105451758",
+    "imageUrl": "/covers/x-2110368776105451758.jpg",
+    "source": "x",
+    "sourceId": "2110368776105451758",
+    "tags": [
+      "search",
+      "godot",
+      "psx",
+      "dark-fantasy"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110094711658881460",
+    "type": "game",
+    "title": "The Little Land 小小土地",
+    "summary": "即将EA的神视角小岛：小小土地上的god-game——玩具感俯瞰世界。",
+    "url": "https://x.com/RasterCat96/status/2110094711658881460",
+    "imageUrl": "/covers/x-2110094711658881460.jpg",
+    "source": "x",
+    "sourceId": "2110094711658881460",
+    "tags": [
+      "search",
+      "god-game",
+      "indie"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110152256721154500",
+    "type": "game",
+    "title": "PSX Low-Poly Devlog 低多边形devlog",
+    "summary": "PSX低多边形场景实机：如果没坏就别修——复古framebuffer美学devlog。",
+    "url": "https://x.com/VibiDev/status/2110152256721154500",
+    "imageUrl": "/covers/x-2110152256721154500.jpg",
+    "source": "x",
+    "sourceId": "2110152256721154500",
+    "tags": [
+      "search",
+      "psx",
+      "low-poly",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110428196780798113",
+    "type": "game",
+    "title": "CD-R Racing 光盘赛车",
+    "summary": "致90年代赛车的时光隧道：锐舞美学与复古赛道——PSX风独立赛车Steam页。",
+    "url": "https://x.com/DXT47/status/2110428196780798113",
+    "imageUrl": "/covers/x-2110428196780798113.jpg",
+    "source": "x",
+    "sourceId": "2110428196780798113",
+    "tags": [
+      "search",
+      "racing",
+      "psx",
+      "retro"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110065780482359514",
+    "type": "game",
+    "title": "Murder Castle PSX Escape",
+    "summary": "PSX风密室逃脱恐怖Murder Castle已上Steam——复古逃脱。",
+    "url": "https://x.com/MediaTaleAT/status/2110065780482359514",
+    "imageUrl": "/covers/x-2110065780482359514.jpg",
+    "source": "x",
+    "sourceId": "2110065780482359514",
+    "tags": [
+      "search",
+      "psx",
+      "escape-room",
+      "steam"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2108883206766477561",
+    "type": "game",
+    "title": "HEX SCRIPT 六边形弹幕",
+    "summary": "日式弹幕×HEX的独立作：武器与特效调手感中——六边形战场。",
+    "url": "https://x.com/siranagi/status/2108883206766477561",
+    "imageUrl": "/covers/x-2108883206766477561.jpg",
+    "source": "x",
+    "sourceId": "2108883206766477561",
+    "tags": [
+      "search",
+      "hex",
+      "bullet-heaven",
+      "indie"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110052854765371716",
+    "type": "game",
+    "title": "Cinderline 烬线",
+    "summary": "配色决定画面光泽的PS1风独立作：Cinderline demo与愿望单——复古色彩设计。",
+    "url": "https://x.com/lukekdev/status/2110052854765371716",
+    "imageUrl": "/covers/x-2110052854765371716.jpg",
+    "source": "x",
+    "sourceId": "2110052854765371716",
+    "tags": [
+      "search",
+      "ps1",
+      "indie",
+      "wishlist"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2110363511721525265",
+    "type": "game",
+    "title": "FATHER Eight Legs 八腿",
+    "summary": "Unity PSX心理恐怖：主角多了八条腿——怪诞复古恐怖。",
+    "url": "https://x.com/WetBoxGames/status/2110363511721525265",
+    "imageUrl": "/covers/x-2110363511721525265.jpg",
+    "source": "x",
+    "sourceId": "2110363511721525265",
+    "tags": [
+      "search",
+      "psx",
+      "horror",
+      "unity"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "x-2109314515711971748",
+    "type": "game",
+    "title": "Living World Lunar Cycle 活世界月相",
+    "summary": "独立RPG把月相接到大地图：活世界循环驱动事件——会自己运转的世界系统。",
+    "url": "https://x.com/The_Alpha_Husky/status/2109314515711971748",
+    "imageUrl": "/covers/x-2109314515711971748.jpg",
+    "source": "x",
+    "sourceId": "2109314515711971748",
+    "tags": [
+      "search",
+      "living-world",
+      "rpg",
+      "devlog"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-stoneyplusone-sun-salt",
+    "type": "game",
+    "title": "SUN & SALT 日与盐",
+    "summary": "PSX风沙漠生存沙盒：在烈日与盐沼里撑下去——复古低多边形生存。",
+    "url": "https://stoneyplusone.itch.io/sun-salt",
+    "imageUrl": "/covers/itch-stoneyplusone-sun-salt.jpg",
+    "source": "itch",
+    "sourceId": "stoneyplusone-sun-salt",
+    "tags": [
+      "psx",
+      "sandbox",
+      "survival",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-webble42-town-warmer",
+    "type": "game",
+    "title": "Town Warmer 暖镇",
+    "summary": "小镇必须被温暖：生火供暖的god-view压力——温馨又紧迫的俯瞰系统。",
+    "url": "https://webble42.itch.io/town-warmer",
+    "imageUrl": "/covers/itch-webble42-town-warmer.jpg",
+    "source": "itch",
+    "sourceId": "webble42-town-warmer",
+    "tags": [
+      "god-view",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-42graffitirizz-comfy-plushpals-the-camping-cozy-raising-simulator-rpg-with-rizz",
+    "type": "game",
+    "title": "Comfy Plushpals 露营绒毛",
+    "summary": "低多边形PS1风温馨养成：露营里的毛绒伙伴——玩具感养成。",
+    "url": "https://42graffitirizz.itch.io/comfy-plushpals-the-camping-cozy-raising-simulator-rpg-with-rizz",
+    "imageUrl": "/covers/itch-42graffitirizz-comfy-plushpals-the-camping-cozy-raising-simulator-rpg-with-rizz.jpg",
+    "source": "itch",
+    "sourceId": "42graffitirizz-comfy-plushpals-the-camping-cozy-raising-simulator-rpg-with-rizz",
+    "tags": [
+      "psx",
+      "cozy",
+      "raising-sim",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-ishiharaworks-ps1-horror-starter-kit",
+    "type": "game",
+    "title": "PS1 Horror Starter Kit",
+    "summary": "Godot 4.7的PS1风恐怖基础工程：代码优先的复古恐怖脚手架。",
+    "url": "https://ishiharaworks.itch.io/ps1-horror-starter-kit",
+    "imageUrl": "/covers/itch-ishiharaworks-ps1-horror-starter-kit.jpg",
+    "source": "itch",
+    "sourceId": "ishiharaworks-ps1-horror-starter-kit",
+    "tags": [
+      "godot",
+      "psx",
+      "starter",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-ishiharaworks-shijukunichi",
+    "type": "game",
+    "title": "四十九日 Shijukunichi",
+    "summary": "短篇日式PS1恐怖：守完四十九日——哥特氛围小品。",
+    "url": "https://ishiharaworks.itch.io/shijukunichi",
+    "imageUrl": "/covers/itch-ishiharaworks-shijukunichi.jpg",
+    "source": "itch",
+    "sourceId": "ishiharaworks-shijukunichi",
+    "tags": [
+      "psx",
+      "horror",
+      "japanese",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-silvergraingames-veilhollow",
+    "type": "game",
+    "title": "VEILHOLLOW 帷谷",
+    "summary": "PSX心理恐怖：私家侦探在废弃庄园醒来——复古framebuffer叙事。",
+    "url": "https://silvergraingames.itch.io/veilhollow",
+    "imageUrl": "/covers/itch-silvergraingames-veilhollow.jpg",
+    "source": "itch",
+    "sourceId": "silvergraingames-veilhollow",
+    "tags": [
+      "psx",
+      "horror",
+      "atmospheric",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-nevergoneghost-bug-out",
+    "type": "game",
+    "title": "Bug Out 虫出",
+    "summary": "PS1风街机赛车：把订单送过虫灾街道——复古竞速。",
+    "url": "https://nevergoneghost.itch.io/bug-out",
+    "imageUrl": "/covers/itch-nevergoneghost-bug-out.jpg",
+    "source": "itch",
+    "sourceId": "nevergoneghost-bug-out",
+    "tags": [
+      "ps1",
+      "racing",
+      "arcade",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-uz4studios-my-chill-world",
+    "type": "game",
+    "title": "My Chill World 我的冷静世界",
+    "summary": "冷静的3D城建：每个市民过着真实的一天——慢节奏玩具城。",
+    "url": "https://uz4studios.itch.io/my-chill-world",
+    "imageUrl": "/covers/itch-uz4studios-my-chill-world.jpg",
+    "source": "itch",
+    "sourceId": "uz4studios-my-chill-world",
+    "tags": [
+      "city-builder",
+      "voxel",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-fluxinx-mayday-planet-demo",
+    "type": "game",
+    "title": "Mayday Planet 遇险星球",
+    "summary": "坠落在敌意体素星球：搜刮、修船、求生——体素行星沙盒。",
+    "url": "https://fluxinx.itch.io/mayday-planet-demo",
+    "imageUrl": "/covers/itch-fluxinx-mayday-planet-demo.jpg",
+    "source": "itch",
+    "sourceId": "fluxinx-mayday-planet-demo",
+    "tags": [
+      "voxel",
+      "survival",
+      "planet",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-capitanuncino-handvoll",
+    "type": "game",
+    "title": "Handvoll 一把",
+    "summary": "新生小神伸出手：抓、抛、搭积木式神游——god-game玩具感。",
+    "url": "https://capitanuncino.itch.io/handvoll",
+    "imageUrl": "/covers/itch-capitanuncino-handvoll.jpg",
+    "source": "itch",
+    "sourceId": "capitanuncino-handvoll",
+    "tags": [
+      "god-game",
+      "physics",
+      "toy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-k3alkos-unearth",
+    "type": "game",
+    "title": "Unearth 掘出",
+    "summary": "每块方块里都埋着东西：挖出来——体素发掘解谜。",
+    "url": "https://k3alkos.itch.io/unearth",
+    "imageUrl": "/covers/itch-k3alkos-unearth.jpg",
+    "source": "itch",
+    "sourceId": "k3alkos-unearth",
+    "tags": [
+      "voxel",
+      "digging",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-kulunhub-thy-kingdom",
+    "type": "game",
+    "title": "Thy Kingdom 汝之王国",
+    "summary": "中世纪小村长成都城再守住它——俯瞰聚落+防御。",
+    "url": "https://kulunhub.itch.io/thy-kingdom",
+    "imageUrl": "/covers/itch-kulunhub-thy-kingdom.jpg",
+    "source": "itch",
+    "sourceId": "kulunhub-thy-kingdom",
+    "tags": [
+      "city-builder",
+      "medieval",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-mekai-games-hearthtide",
+    "type": "game",
+    "title": "Hearthtide 炉潮",
+    "summary": "白天建岛村、晚上守潮汐来袭——岛屿城建塔防。",
+    "url": "https://mekai-games.itch.io/hearthtide",
+    "imageUrl": "/covers/itch-mekai-games-hearthtide.jpg",
+    "source": "itch",
+    "sourceId": "mekai-games-hearthtide",
+    "tags": [
+      "island",
+      "city-builder",
+      "tower-defense",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-waldtier-mysterious-island-castaways",
+    "type": "game",
+    "title": "Mysterious Island Castaways",
+    "summary": "维多利亚殖民求生：活下去、建造、向南航行——殖民系统。",
+    "url": "https://waldtier.itch.io/mysterious-island-castaways",
+    "imageUrl": "/covers/itch-waldtier-mysterious-island-castaways.jpg",
+    "source": "itch",
+    "sourceId": "waldtier-mysterious-island-castaways",
+    "tags": [
+      "colony-sim",
+      "survival",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-zubrek-ultimo-pizzaiolo",
+    "type": "game",
+    "title": "L'Ultimo Pizzaiolo 最后的披萨师",
+    "summary": "崩塌后意大利的太阳朋克农宿：种、烤、招待——温馨系统建造。",
+    "url": "https://zubrek.itch.io/ultimo-pizzaiolo",
+    "imageUrl": "/covers/itch-zubrek-ultimo-pizzaiolo.jpg",
+    "source": "itch",
+    "sourceId": "zubrek-ultimo-pizzaiolo",
+    "tags": [
+      "colony-sim",
+      "solarpunk",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-flamingelk-glass-sea",
+    "type": "game",
+    "title": "Glass Sea 玻璃海",
+    "summary": "在程序化群岛间舒适航行贸易——海与岛的procgen。",
+    "url": "https://flamingelk.itch.io/glass-sea",
+    "imageUrl": "/covers/itch-flamingelk-glass-sea.jpg",
+    "source": "itch",
+    "sourceId": "flamingelk-glass-sea",
+    "tags": [
+      "procedural",
+      "sailing",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-celestialoutcast-cold-wake",
+    "type": "game",
+    "title": "Cold Wake 冷醒",
+    "summary": "CRT终端风的程序化太空殖民——复古UI+worldgen。",
+    "url": "https://celestialoutcast.itch.io/cold-wake",
+    "imageUrl": "/covers/itch-celestialoutcast-cold-wake.jpg",
+    "source": "itch",
+    "sourceId": "celestialoutcast-cold-wake",
+    "tags": [
+      "procedural",
+      "space",
+      "colony",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-nikolas-alexandrou-procedural-islands",
+    "type": "game",
+    "title": "Procedural Islands 程序化岛屿",
+    "summary": "生成程序化岛屿的小模拟——地形工具小品。",
+    "url": "https://nikolas-alexandrou.itch.io/procedural-islands",
+    "imageUrl": "/covers/itch-nikolas-alexandrou-procedural-islands.jpg",
+    "source": "itch",
+    "sourceId": "nikolas-alexandrou-procedural-islands",
+    "tags": [
+      "procedural",
+      "islands",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-britelite-hexcrown",
+    "type": "game",
+    "title": "Hex Crown 六边形王冠",
+    "summary": "从王冠向外铺开hex、叠加成军——六边形扩张建造。",
+    "url": "https://britelite.itch.io/hexcrown",
+    "imageUrl": "/covers/itch-britelite-hexcrown.jpg",
+    "source": "itch",
+    "sourceId": "britelite-hexcrown",
+    "tags": [
+      "hex",
+      "builder",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-kekoyana-10-min-civ",
+    "type": "game",
+    "title": "10 Min Civ 十分钟文明",
+    "summary": "十分钟就能打完的轻量4X——hex策略小品。",
+    "url": "https://kekoyana.itch.io/10-min-civ",
+    "imageUrl": "/covers/itch-kekoyana-10-min-civ.jpg",
+    "source": "itch",
+    "sourceId": "kekoyana-10-min-civ",
+    "tags": [
+      "hex",
+      "4x",
+      "strategy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-funkyape-cubic-snake",
+    "type": "game",
+    "title": "Cubic Snake 方块蛇",
+    "summary": "在会翻转的立方体表面上玩贪吃蛇——three.js玩具几何。",
+    "url": "https://funkyape.itch.io/cubic-snake",
+    "imageUrl": "/covers/itch-funkyape-cubic-snake.jpg",
+    "source": "itch",
+    "sourceId": "funkyape-cubic-snake",
+    "tags": [
+      "threejs",
+      "toy",
+      "browser",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-promptpotatogames-curtain-call",
+    "type": "game",
+    "title": "Curtain Call 谢幕",
+    "summary": "废弃1960s剧院里的回合僵尸生存——氛围3D浏览器作。",
+    "url": "https://promptpotatogames.itch.io/curtain-call",
+    "imageUrl": "/covers/itch-promptpotatogames-curtain-call.jpg",
+    "source": "itch",
+    "sourceId": "promptpotatogames-curtain-call",
+    "tags": [
+      "threejs",
+      "survival",
+      "atmospheric",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-aethyrstudio-hipnagogia",
+    "type": "game",
+    "title": "HIPNAGOGIA 入睡幻觉",
+    "summary": "同一公寓醒来世界却在变——PSX风梦境漫游。",
+    "url": "https://aethyrstudio.itch.io/hipnagogia",
+    "imageUrl": "/covers/itch-aethyrstudio-hipnagogia.jpg",
+    "source": "itch",
+    "sourceId": "aethyrstudio-hipnagogia",
+    "tags": [
+      "psx",
+      "dream",
+      "exploration",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-urzulino-games-under-new-management",
+    "type": "game",
+    "title": "Under New Management",
+    "summary": "PS1夜班汉堡店恐怖：做汉堡、看监控——复古职业恐怖。",
+    "url": "https://urzulino-games.itch.io/under-new-management",
+    "imageUrl": "/covers/itch-urzulino-games-under-new-management.jpg",
+    "source": "itch",
+    "sourceId": "urzulino-games-under-new-management",
+    "tags": [
+      "ps1",
+      "horror",
+      "sim",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-jazvecik-the-caretaker",
+    "type": "game",
+    "title": "The Caretaker 看护人",
+    "summary": "复古风恐怖看护人——低多边形氛围。",
+    "url": "https://jazvecik.itch.io/the-caretaker",
+    "imageUrl": "/covers/itch-jazvecik-the-caretaker.jpg",
+    "source": "itch",
+    "sourceId": "jazvecik-the-caretaker",
+    "tags": [
+      "retro",
+      "horror",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-puppetcombo-pdm",
+    "type": "game",
+    "title": "Power Drill Massacre",
+    "summary": "VHS低多边形电锯屠杀：早期PS1斜杠美学——经典复古恐怖。",
+    "url": "https://puppetcombo.itch.io/pdm",
+    "imageUrl": "/covers/itch-puppetcombo-pdm.jpg",
+    "source": "itch",
+    "sourceId": "puppetcombo-pdm",
+    "tags": [
+      "psx",
+      "horror",
+      "low-poly",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-edmond00-jellyfish-egg",
+    "type": "game",
+    "title": "Jellyfish Egg 水母蛋",
+    "summary": "程序化暗黑奇幻深海RPG——世界生成向。",
+    "url": "https://edmond00.itch.io/jellyfish-egg",
+    "imageUrl": "/covers/itch-edmond00-jellyfish-egg.jpg",
+    "source": "itch",
+    "sourceId": "edmond00-jellyfish-egg",
+    "tags": [
+      "procedural",
+      "rpg",
+      "fantasy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-zenorogue-hyperrogue",
+    "type": "game",
+    "title": "HyperRogue 双曲盗贼",
+    "summary": "双曲平面上的传统roguelike——非欧几何迷宫。",
+    "url": "https://zenorogue.itch.io/hyperrogue",
+    "imageUrl": "/covers/itch-zenorogue-hyperrogue.jpg",
+    "source": "itch",
+    "sourceId": "zenorogue-hyperrogue",
+    "tags": [
+      "roguelike",
+      "math",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-tsnl-codex-of-magic",
+    "type": "game",
+    "title": "Codex of Magic 魔法典籍",
+    "summary": "岛民记得你做过的事——会记住的活系统小岛。",
+    "url": "https://tsnl.itch.io/codex-of-magic",
+    "imageUrl": "/covers/itch-tsnl-codex-of-magic.jpg",
+    "source": "itch",
+    "sourceId": "tsnl-codex-of-magic",
+    "tags": [
+      "living-system",
+      "island",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-nearlydonegames-idlecraft",
+    "type": "game",
+    "title": "Idlecraft 闲挂工艺",
+    "summary": "温馨体素挂机：悬停采矿升级——体素idle。",
+    "url": "https://nearlydonegames.itch.io/idlecraft",
+    "imageUrl": "/covers/itch-nearlydonegames-idlecraft.jpg",
+    "source": "itch",
+    "sourceId": "nearlydonegames-idlecraft",
+    "tags": [
+      "voxel",
+      "idle",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-lotritsa-kaleidos",
+    "type": "shader",
+    "title": "Kaleidos 万花筒着色器工具",
+    "summary": "创建与调节着色器的工具：实时预览万花筒式效果——shader创作台。",
+    "url": "https://lotritsa.itch.io/kaleidos",
+    "imageUrl": "/covers/itch-lotritsa-kaleidos.jpg",
+    "source": "itch",
+    "sourceId": "lotritsa-kaleidos",
+    "tags": [
+      "shader-tool",
+      "creative",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-jimhanboi-painterly-shader-unity",
+    "type": "shader",
+    "title": "Painterly Shader Unity 绘画风",
+    "summary": "Unity绘画风着色器——笔触感NPR材质。",
+    "url": "https://jimhanboi.itch.io/painterly-shader-unity",
+    "imageUrl": "/covers/itch-jimhanboi-painterly-shader-unity.jpg",
+    "source": "itch",
+    "sourceId": "jimhanboi-painterly-shader-unity",
+    "tags": [
+      "unity",
+      "painterly",
+      "npr",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-pixeldreamerstudio-pd-toon-kit",
+    "type": "shader",
+    "title": "PD Toon Kit 卡通包",
+    "summary": "Blender一键卡通着色：5种外观、描边、斜面——NPR速成。",
+    "url": "https://pixeldreamerstudio.itch.io/pd-toon-kit",
+    "imageUrl": "/covers/itch-pixeldreamerstudio-pd-toon-kit.jpg",
+    "source": "itch",
+    "sourceId": "pixeldreamerstudio-pd-toon-kit",
+    "tags": [
+      "blender",
+      "toon",
+      "npr",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-kiri-arc-games-toon-shader-to-gdevelop-5",
+    "type": "shader",
+    "title": "GDevelop Toon Shader",
+    "summary": "GDevelop 3D物体的赛璐璐与校准描边——引擎向toon。",
+    "url": "https://kiri-arc-games.itch.io/toon-shader-to-gdevelop-5",
+    "imageUrl": "/covers/itch-kiri-arc-games-toon-shader-to-gdevelop-5.jpg",
+    "source": "itch",
+    "sourceId": "kiri-arc-games-toon-shader-to-gdevelop-5",
+    "tags": [
+      "toon",
+      "cel-shading",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-aivrar-code-fractalflow",
+    "type": "shader",
+    "title": "FractalFlow 分形流",
+    "summary": "探索2D/3D分形并生成运动分形世界——程序化视觉工具。",
+    "url": "https://aivrar-code.itch.io/fractalflow",
+    "imageUrl": "/covers/itch-aivrar-code-fractalflow.jpg",
+    "source": "itch",
+    "sourceId": "aivrar-code-fractalflow",
+    "tags": [
+      "fractal",
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-scg-unity-assets-3d-daynight-cycle-scg-unity-package",
+    "type": "shader",
+    "title": "3D Day/Night Cycle Unity",
+    "summary": "Unity昼夜循环包：太阳方向驱动天空与光——日夜tech-art。",
+    "url": "https://scg-unity-assets.itch.io/3d-daynight-cycle-scg-unity-package",
+    "imageUrl": "/covers/itch-scg-unity-assets-3d-daynight-cycle-scg-unity-package.jpg",
+    "source": "itch",
+    "sourceId": "scg-unity-assets-3d-daynight-cycle-scg-unity-package",
+    "tags": [
+      "unity",
+      "sky",
+      "day-night",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-void1gaming-unity-blur-shader",
+    "type": "shader",
+    "title": "Unity BLUR Shader",
+    "summary": "Unity模糊着色器——后处理小品。",
+    "url": "https://void1gaming.itch.io/unity-blur-shader",
+    "imageUrl": "/covers/itch-void1gaming-unity-blur-shader.jpg",
+    "source": "itch",
+    "sourceId": "void1gaming-unity-blur-shader",
+    "tags": [
+      "unity",
+      "post-process",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-geribp-all-in-1-vfx-toolkit-demo",
+    "type": "shader",
+    "title": "All In 1 VFX Toolkit",
+    "summary": "Unity一站式VFX工具包演示——特效拼装箱。",
+    "url": "https://geribp.itch.io/all-in-1-vfx-toolkit-demo",
+    "imageUrl": "/covers/itch-geribp-all-in-1-vfx-toolkit-demo.jpg",
+    "source": "itch",
+    "sourceId": "geribp-all-in-1-vfx-toolkit-demo",
+    "tags": [
+      "unity",
+      "vfx",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-geribp-all-in-1-sprite-shader-demo",
+    "type": "shader",
+    "title": "All In 1 Sprite Shader",
+    "summary": "Unity精灵着色器全家桶演示——2D材质实验。",
+    "url": "https://geribp.itch.io/all-in-1-sprite-shader-demo",
+    "imageUrl": "/covers/itch-geribp-all-in-1-sprite-shader-demo.jpg",
+    "source": "itch",
+    "sourceId": "geribp-all-in-1-sprite-shader-demo",
+    "tags": [
+      "unity",
+      "sprite",
+      "shader",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-burastar-distortional-background",
+    "type": "shader",
+    "title": "Earthbound BG Distortion",
+    "summary": "地球冒险式扭曲背景着色器——复古扭曲屏幕。",
+    "url": "https://burastar.itch.io/distortional-background",
+    "imageUrl": "/covers/itch-burastar-distortional-background.jpg",
+    "source": "itch",
+    "sourceId": "burastar-distortional-background",
+    "tags": [
+      "retro",
+      "distortion",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-wolfmann-background-warper",
+    "type": "shader",
+    "title": "Background Warper",
+    "summary": "地球冒险风背景扭曲工具——复古shader工具。",
+    "url": "https://wolfmann.itch.io/background-warper",
+    "imageUrl": "/covers/itch-wolfmann-background-warper.jpg",
+    "source": "itch",
+    "sourceId": "wolfmann-background-warper",
+    "tags": [
+      "retro",
+      "shader-tool",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-cofdins-palette-shader-editor-online",
+    "type": "shader",
+    "title": "Palette Swap Shader Editor",
+    "summary": "在线调色板置换着色器编辑器——浏览器写shader。",
+    "url": "https://cofdins.itch.io/palette-shader-editor-online",
+    "imageUrl": "/covers/itch-cofdins-palette-shader-editor-online.jpg",
+    "source": "itch",
+    "sourceId": "cofdins-palette-shader-editor-online",
+    "tags": [
+      "palette",
+      "web",
+      "shader-editor",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-sineptic-software-scanlines-for-windows",
+    "type": "shader",
+    "title": "S4W Scanlines",
+    "summary": "给Windows窗口叠扫描线——CRT复古覆盖。",
+    "url": "https://sineptic-software.itch.io/scanlines-for-windows",
+    "imageUrl": "/covers/itch-sineptic-software-scanlines-for-windows.jpg",
+    "source": "itch",
+    "sourceId": "sineptic-software-scanlines-for-windows",
+    "tags": [
+      "crt",
+      "scanlines",
+      "retro",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-grumpymunkyindy-cel-shader-starter-kit-unreal-engine-4",
+    "type": "shader",
+    "title": "UE Cel Shader Starter",
+    "summary": "Unreal赛璐璐着色起步包——NPR入门。",
+    "url": "https://grumpymunkyindy.itch.io/cel-shader-starter-kit-unreal-engine-4",
+    "imageUrl": "/covers/itch-grumpymunkyindy-cel-shader-starter-kit-unreal-engine-4.jpg",
+    "source": "itch",
+    "sourceId": "grumpymunkyindy-cel-shader-starter-kit-unreal-engine-4",
+    "tags": [
+      "unreal",
+      "cel-shading",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-ximfinity-phantom-floor-interactive-projector-floor-app",
+    "type": "shader",
+    "title": "Phantom Floor 幻影地板",
+    "summary": "把地板变成活投影：雾会分开——交互投影shader装置。",
+    "url": "https://ximfinity.itch.io/phantom-floor-interactive-projector-floor-app",
+    "imageUrl": "/covers/itch-ximfinity-phantom-floor-interactive-projector-floor-app.jpg",
+    "source": "itch",
+    "sourceId": "ximfinity-phantom-floor-interactive-projector-floor-app",
+    "tags": [
+      "interactive",
+      "projection",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-verthsoft-ember-flight",
+    "type": "shader",
+    "title": "Ember Flight 余烬飞行",
+    "summary": "在玄武岩柱间飞过岩浆海的余烬——火与体积感小品。",
+    "url": "https://verthsoft.itch.io/ember-flight",
+    "imageUrl": "/covers/itch-verthsoft-ember-flight.jpg",
+    "source": "itch",
+    "sourceId": "verthsoft-ember-flight",
+    "tags": [
+      "fire",
+      "atmospheric",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-lucas-gonzalez-pixel-steel-psx-weapons",
+    "type": "shader",
+    "title": "Pixel Steel PSX Weapons",
+    "summary": "12把PS1低多边形奇幻武器——复古武器资产。",
+    "url": "https://lucas-gonzalez.itch.io/pixel-steel-psx-weapons",
+    "imageUrl": "/covers/itch-lucas-gonzalez-pixel-steel-psx-weapons.jpg",
+    "source": "itch",
+    "sourceId": "lucas-gonzalez-pixel-steel-psx-weapons",
+    "tags": [
+      "psx",
+      "low-poly",
+      "assets",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-halofes-psx-workshop-tools",
+    "type": "shader",
+    "title": "PSX Workshop Tools",
+    "summary": "PSX风格制作工具集——复古渲染工作流。",
+    "url": "https://halofes.itch.io/psx-workshop-tools",
+    "imageUrl": "/covers/itch-halofes-psx-workshop-tools.jpg",
+    "source": "itch",
+    "sourceId": "halofes-psx-workshop-tools",
+    "tags": [
+      "psx",
+      "tools",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "itch-nortimore-japanese-fan-sensu",
+    "type": "shader",
+    "title": "PS1 Japanese Fan Sensu",
+    "summary": "90年代PS1美学日式扇——低多边形道具小品。",
+    "url": "https://nortimore.itch.io/japanese-fan-sensu",
+    "imageUrl": "/covers/itch-nortimore-japanese-fan-sensu.jpg",
+    "source": "itch",
+    "sourceId": "nortimore-japanese-fan-sensu",
+    "tags": [
+      "psx",
+      "low-poly",
+      "prop",
+      "itch"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-4059000",
+    "type": "game",
+    "title": "Cozy Builder 温馨建造",
+    "summary": "葡萄园谷里建梦中城堡：种葡萄酿酒的放松沙盒建造——暖色俯瞰。",
+    "url": "https://store.steampowered.com/app/4059000/",
+    "imageUrl": "/covers/steam-4059000.jpg",
+    "source": "steam",
+    "sourceId": "4059000",
+    "tags": [
+      "city-builder",
+      "cozy",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-2626980",
+    "type": "game",
+    "title": "Isle Forge 岛锻",
+    "summary": "火山群岛上的轻松神游：岛民自主采集建造，熔岩铺路——god-view活系统。",
+    "url": "https://store.steampowered.com/app/2626980/",
+    "imageUrl": "/covers/steam-2626980.jpg",
+    "source": "steam",
+    "sourceId": "2626980",
+    "tags": [
+      "god-game",
+      "islands",
+      "automation"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5264130",
+    "type": "game",
+    "title": "Witch's Cottage 女巫小屋",
+    "summary": "布置魔法小屋：数百件女巫家具——哥特温馨室内建造。",
+    "url": "https://store.steampowered.com/app/5264130/",
+    "imageUrl": "/covers/steam-5264130.jpg",
+    "source": "steam",
+    "sourceId": "5264130",
+    "tags": [
+      "cozy",
+      "witch",
+      "room-builder"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5312930",
+    "type": "game",
+    "title": "Mischkalon 密斯卡隆",
+    "summary": "从旧石器带到中世纪的小神：族人自主采集建造，你管食粮与信仰——神游文明。",
+    "url": "https://store.steampowered.com/app/5312930/",
+    "imageUrl": "/covers/steam-5312930.jpg",
+    "source": "steam",
+    "sourceId": "5312930",
+    "tags": [
+      "god-game",
+      "tribe",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5195360",
+    "type": "game",
+    "title": "BitWise 位运算",
+    "summary": "用真电路模拟器从继电器搭到加法器：零件变成下一关的砖——电子系统解谜。",
+    "url": "https://store.steampowered.com/app/5195360/",
+    "imageUrl": "/covers/steam-5195360.jpg",
+    "source": "steam",
+    "sourceId": "5195360",
+    "tags": [
+      "circuits",
+      "simulation",
+      "puzzle"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5314720",
+    "type": "game",
+    "title": "101 Circuits 101电路",
+    "summary": "101道波形匹配电路谜题+沙盒：画线点灯看示波器——电子玩具。",
+    "url": "https://store.steampowered.com/app/5314720/",
+    "imageUrl": "/covers/steam-5314720.jpg",
+    "source": "steam",
+    "sourceId": "5314720",
+    "tags": [
+      "circuits",
+      "puzzle",
+      "sandbox"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5024270",
+    "type": "game",
+    "title": "Doomsday Landlord 末日房东",
+    "summary": "末日收容幸存者、建房间、合并房间——荒诞基地管理。",
+    "url": "https://store.steampowered.com/app/5024270/",
+    "imageUrl": "/covers/steam-5024270.jpg",
+    "source": "steam",
+    "sourceId": "5024270",
+    "tags": [
+      "base-building",
+      "management",
+      "apocalypse"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-2871520",
+    "type": "game",
+    "title": "Deep Dish Dungeon 深盘地牢",
+    "summary": "手作地牢生存探索：类银河城+制作，可联机——系统向地牢。",
+    "url": "https://store.steampowered.com/app/2871520/",
+    "imageUrl": "/covers/steam-2871520.jpg",
+    "source": "steam",
+    "sourceId": "2871520",
+    "tags": [
+      "dungeon",
+      "survival",
+      "metroidvania"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-2902780",
+    "type": "game",
+    "title": "Ghost Villa 鬼别墅",
+    "summary": "四季轮转的鬼宅：白天建塔、夜里守夜——塔防FPS活系统。",
+    "url": "https://store.steampowered.com/app/2902780/",
+    "imageUrl": "/covers/steam-2902780.jpg",
+    "source": "steam",
+    "sourceId": "2902780",
+    "tags": [
+      "tower-defense",
+      "seasons",
+      "fps"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-4267800",
+    "type": "game",
+    "title": "Bandit Simulator TD",
+    "summary": "从零建土匪据点：伏击旅人、养成职业——塔防+基地建造。",
+    "url": "https://store.steampowered.com/app/4267800/",
+    "imageUrl": "/covers/steam-4267800.jpg",
+    "source": "steam",
+    "sourceId": "4267800",
+    "tags": [
+      "tower-defense",
+      "base-building"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5130480",
+    "type": "game",
+    "title": "Sort The Capybaras 水豚整理",
+    "summary": "整理4800+水豚玩具上架——高饱和玩具色解压模拟。",
+    "url": "https://store.steampowered.com/app/5130480/",
+    "imageUrl": "/covers/steam-5130480.jpg",
+    "source": "steam",
+    "sourceId": "5130480",
+    "tags": [
+      "cozy",
+      "toys",
+      "capybara"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-5323690",
+    "type": "game",
+    "title": "Almost a Tower 差一点成塔",
+    "summary": "不同形状重量的堆叠物理谜题：水果玩具工具叠高塔——物理玩具。",
+    "url": "https://store.steampowered.com/app/5323690/",
+    "imageUrl": "/covers/steam-5323690.jpg",
+    "source": "steam",
+    "sourceId": "5323690",
+    "tags": [
+      "physics",
+      "puzzle",
+      "toy"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-4290170",
+    "type": "game",
+    "title": "Mudventure 泥滩冒险",
+    "summary": "四人联机泥滩求生：挖资源修船、潮汐改地形——活地形合作。",
+    "url": "https://store.steampowered.com/app/4290170/",
+    "imageUrl": "/covers/steam-4290170.jpg",
+    "source": "steam",
+    "sourceId": "4290170",
+    "tags": [
+      "co-op",
+      "survival",
+      "terrain"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "steam-3300530",
+    "type": "game",
+    "title": "Festival Inc. 音乐节公司",
+    "summary": "筹办音乐节：订乐队、搭舞台营地——活动管理模拟。",
+    "url": "https://store.steampowered.com/app/3300530/",
+    "imageUrl": "/covers/steam-3300530.jpg",
+    "source": "steam",
+    "sourceId": "3300530",
+    "tags": [
+      "management",
+      "festival",
+      "sim"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95305",
+    "type": "shader",
+    "title": "CHROMA VIVA 004 墨海",
+    "summary": "Three.js交互墨海：橙黄青分层波浪，触碰溅出色块——流体感着色器艺术。",
+    "url": "https://discourse.threejs.org/t/chroma-viva-004-an-interactive-ink-sea-with-three-js/95305",
+    "imageUrl": "/covers/threejs-forum-95305.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95305",
+    "tags": [
+      "threejs",
+      "ink",
+      "fluid",
+      "interactive"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-94619",
+    "type": "shader",
+    "title": "Glitchy Structure 故障结构",
+    "summary": "深入three.js的故障结构视觉小品——自我表达式shader实验。",
+    "url": "https://discourse.threejs.org/t/glitchy-structure/94619",
+    "imageUrl": "/covers/threejs-forum-94619.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94619",
+    "tags": [
+      "threejs",
+      "glitch",
+      "experiment"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95252",
+    "type": "shader",
+    "title": "Fat Line Shader 粗线",
+    "summary": "极简粗线着色器代码与logo——tiny shader小品。",
+    "url": "https://discourse.threejs.org/t/a-tiny-fat-line-code-and-a-logo/95252",
+    "imageUrl": "/covers/threejs-forum-95252.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95252",
+    "tags": [
+      "threejs",
+      "line",
+      "shader"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95256",
+    "type": "shader",
+    "title": "Curllmooha Meadow 草地作品集",
+    "summary": "可探索的交互草地小世界作品集——漫步式three.js导航。",
+    "url": "https://discourse.threejs.org/t/curllmooha-an-interactive-three-js-portfolio/95256",
+    "imageUrl": "/covers/threejs-forum-95256.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95256",
+    "tags": [
+      "threejs",
+      "meadow",
+      "portfolio"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95100",
+    "type": "shader",
+    "title": "Multi-Scene Portfolio 多场景作品集",
+    "summary": "多个three.js小实验串成的交互作品集：魔方等——场景导航。",
+    "url": "https://discourse.threejs.org/t/interactive-portfolio-built-around-multiple-three-js-scenes/95100",
+    "imageUrl": "/covers/threejs-forum-95100.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95100",
+    "tags": [
+      "threejs",
+      "portfolio",
+      "interactive"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-94464",
+    "type": "game",
+    "title": "Vesper 晚星",
+    "summary": "光即生命/弹药/货币的three.js冒险：淹没遗迹与中空恒星——氛围探索。",
+    "url": "https://discourse.threejs.org/t/vesper-a-three-js-adventure-where-light-is-health-ammunition-and-currency/94464",
+    "imageUrl": "/covers/threejs-forum-94464.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94464",
+    "tags": [
+      "threejs",
+      "adventure",
+      "light"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95309",
+    "type": "game",
+    "title": "Kart Chaos 卡丁混乱",
+    "summary": "浏览器卡丁车：大奖赛、每日挑战与联机语音——three.js竞速。",
+    "url": "https://discourse.threejs.org/t/kart-chaos-browser-kart-racer-with-online-multiplayer/95309",
+    "imageUrl": "/covers/threejs-forum-95309.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95309",
+    "tags": [
+      "threejs",
+      "racing",
+      "multiplayer"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95306",
+    "type": "game",
+    "title": "Mara Vey 玛拉维",
+    "summary": "three.js 2.5D平台跳跃，浏览器与PWA可玩——阳光石之旅。",
+    "url": "https://discourse.threejs.org/t/mara-vey-and-the-lost-sunstones-a-2-5d-platformer-in-three-js-that-runs-on-phones/95306",
+    "imageUrl": "/covers/threejs-forum-95306.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95306",
+    "tags": [
+      "threejs",
+      "platformer",
+      "browser"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-93115",
+    "type": "game",
+    "title": "Nekomancer 猫巫",
+    "summary": "猫主题three.js游戏：第一作紧张又兴奋——萌系3D。",
+    "url": "https://discourse.threejs.org/t/nekomancer-game/93115",
+    "imageUrl": "/covers/threejs-forum-93115.jpg",
+    "source": "threejs",
+    "sourceId": "forum-93115",
+    "tags": [
+      "threejs",
+      "cats",
+      "game"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-94779",
+    "type": "game",
+    "title": "threejspunk 赛博朋克赛车",
+    "summary": "WebGPU+TSL全长赛博赛车：雨夜反射大城50+任务——浏览器AAA感独立作。",
+    "url": "https://discourse.threejs.org/t/free-game-cyberpunk-inspired-game-realistic-graphics/94779",
+    "imageUrl": "/covers/threejs-forum-94779.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94779",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "racing",
+      "cyberpunk"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95172",
+    "type": "game",
+    "title": "In the Walls of Eryx",
+    "summary": "洛夫克拉夫特不可见墙迷宫：泥原上的科幻恐怖——浏览器迷宫。",
+    "url": "https://discourse.threejs.org/t/free-game-in-the-walls-of-eryx-a-sci-fi-horror-labyrinth-experience-built-with-three-js/95172",
+    "imageUrl": "/covers/threejs-forum-95172.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95172",
+    "tags": [
+      "threejs",
+      "horror",
+      "labyrinth"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-95312",
+    "type": "game",
+    "title": "Stage3D 舞台规划",
+    "summary": "现场音响工程师的浏览器3D舞台规划器——实用three.js工具游戏化。",
+    "url": "https://discourse.threejs.org/t/stage3d-a-free-in-browser-3d-stage-planner-for-live-sound-lighting-techs/95312",
+    "imageUrl": "/covers/threejs-forum-95312.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95312",
+    "tags": [
+      "threejs",
+      "tool",
+      "stage"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "threejs-forum-94918",
+    "type": "game",
+    "title": "Afterglow Synthwave Racer",
+    "summary": "合成波街机漂移赛车：攒能量撞飞对手——霓虹竞速。",
+    "url": "https://discourse.threejs.org/t/i-made-a-synthwave-racer-game-in-threejs-this-tech-is-amazing/94918",
+    "imageUrl": "/covers/threejs-forum-94918.jpg",
+    "source": "threejs",
+    "sourceId": "forum-94918",
+    "tags": [
+      "threejs",
+      "racing",
+      "synthwave"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-mastering-stylized-characters-with-character-creator-5-headshot-3",
+    "type": "shader",
+    "title": "Stylized Characters CC5",
+    "summary": "Character Creator 5做风格化角色的工作流——NPR角色管线参考。",
+    "url": "https://80.lv/articles/mastering-stylized-characters-with-character-creator-5-headshot-3",
+    "imageUrl": "/covers/80lv-mastering-stylized-characters-with-character-creator-5-headshot-3.jpg",
+    "source": "80lv",
+    "sourceId": "mastering-stylized-characters-with-character-creator-5-headshot-3",
+    "tags": [
+      "stylized",
+      "characters",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-creating-a-weathered-toolbox-for-s-t-a-l-k-e-r-2-cost-of-hope",
+    "type": "shader",
+    "title": "Weathered Toolbox STALKER",
+    "summary": "S.T.A.L.K.E.R.2风化工具箱材质拆解——做旧材质tech-art。",
+    "url": "https://80.lv/articles/creating-a-weathered-toolbox-for-s-t-a-l-k-e-r-2-cost-of-hope",
+    "imageUrl": "/covers/80lv-creating-a-weathered-toolbox-for-s-t-a-l-k-e-r-2-cost-of-hope.jpg",
+    "source": "80lv",
+    "sourceId": "creating-a-weathered-toolbox-for-s-t-a-l-k-e-r-2-cost-of-hope",
+    "tags": [
+      "materials",
+      "weathering",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-inside-marvel-rivals-character-art-vfx-destruction-pipeline",
+    "type": "shader",
+    "title": "Marvel Rivals Art VFX",
+    "summary": "漫威争锋角色艺术与VFX/破坏管线幕后——工业级特效参考。",
+    "url": "https://80.lv/articles/inside-marvel-rivals-character-art-vfx-destruction-pipeline",
+    "imageUrl": "/covers/80lv-inside-marvel-rivals-character-art-vfx-destruction-pipeline.jpg",
+    "source": "80lv",
+    "sourceId": "inside-marvel-rivals-character-art-vfx-destruction-pipeline",
+    "tags": [
+      "vfx",
+      "pipeline",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-see-how-framestore-created-post-apocalyptic-nyc-for-the-walking-dead-dead-city-season-3",
+    "type": "shader",
+    "title": "Post-Apocalyptic NYC",
+    "summary": "Framestore为行尸走肉做的末日纽约——环境氛围参考。",
+    "url": "https://80.lv/articles/see-how-framestore-created-post-apocalyptic-nyc-for-the-walking-dead-dead-city-season-3",
+    "imageUrl": "/covers/80lv-see-how-framestore-created-post-apocalyptic-nyc-for-the-walking-dead-dead-city-season-3.jpg",
+    "source": "80lv",
+    "sourceId": "see-how-framestore-created-post-apocalyptic-nyc-for-the-walking-dead-dead-city-season-3",
+    "tags": [
+      "environment",
+      "apocalypse",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-creating-a-thriller-animated-series-with-hand-drawn-textures-in-blender",
+    "type": "shader",
+    "title": "Hand-Drawn Textures Thriller",
+    "summary": "手绘纹理做惊悚动画系列——Blender绘画感材质。",
+    "url": "https://80.lv/articles/creating-a-thriller-animated-series-with-hand-drawn-textures-in-blender",
+    "imageUrl": "/covers/80lv-creating-a-thriller-animated-series-with-hand-drawn-textures-in-blender.jpg",
+    "source": "80lv",
+    "sourceId": "creating-a-thriller-animated-series-with-hand-drawn-textures-in-blender",
+    "tags": [
+      "painterly",
+      "blender",
+      "textures",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-this-viral-pool-clip-was-made-using-blender-omniscient-app-after-effects",
+    "type": "shader",
+    "title": "Viral Pool Clip Blender",
+    "summary": "病毒式泳池片段：Blender+Omniscient+AE——水体视觉参考。",
+    "url": "https://80.lv/articles/this-viral-pool-clip-was-made-using-blender-omniscient-app-after-effects",
+    "imageUrl": "/covers/80lv-this-viral-pool-clip-was-made-using-blender-omniscient-app-after-effects.jpg",
+    "source": "80lv",
+    "sourceId": "this-viral-pool-clip-was-made-using-blender-omniscient-app-after-effects",
+    "tags": [
+      "water",
+      "blender",
+      "vfx",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-pizza-tower-runs-on-3ds-due-to-custom-gml-runner-cinnamon",
+    "type": "game",
+    "title": "Pizza Tower on 3DS",
+    "summary": "自制GML运行时把Pizza Tower搬上3DS——引擎移植趣事。",
+    "url": "https://80.lv/articles/pizza-tower-runs-on-3ds-due-to-custom-gml-runner-cinnamon",
+    "imageUrl": "/covers/80lv-pizza-tower-runs-on-3ds-due-to-custom-gml-runner-cinnamon.jpg",
+    "source": "80lv",
+    "sourceId": "pizza-tower-runs-on-3ds-due-to-custom-gml-runner-cinnamon",
+    "tags": [
+      "port",
+      "runtime",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-machinarium-returns-after-17-years",
+    "type": "game",
+    "title": "Machinarium Returns",
+    "summary": "机械迷城17年后回归——经典独立点触。",
+    "url": "https://80.lv/articles/machinarium-returns-after-17-years",
+    "imageUrl": "/covers/80lv-machinarium-returns-after-17-years.jpg",
+    "source": "80lv",
+    "sourceId": "machinarium-returns-after-17-years",
+    "tags": [
+      "adventure",
+      "indie",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-making-a-co-op-survival-horror-with-lovecraftian-creatures-set-in-antarctica",
+    "type": "game",
+    "title": "Co-op Lovecraft Horror",
+    "summary": "南极克苏鲁合作生存恐怖制作谈——独立恐怖系统。",
+    "url": "https://80.lv/articles/making-a-co-op-survival-horror-with-lovecraftian-creatures-set-in-antarctica",
+    "imageUrl": "/covers/80lv-making-a-co-op-survival-horror-with-lovecraftian-creatures-set-in-antarctica.jpg",
+    "source": "80lv",
+    "sourceId": "making-a-co-op-survival-horror-with-lovecraftian-creatures-set-in-antarctica",
+    "tags": [
+      "horror",
+      "co-op",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-buckshot-roulette-dev-unveils-weird-collection-of-minigames-you-ll-get-hooked-on",
+    "type": "game",
+    "title": "Buckshot Dev Minigames",
+    "summary": "Buckshot Roulette开发者揭晓怪诞小游戏合集——独立怪奇。",
+    "url": "https://80.lv/articles/buckshot-roulette-dev-unveils-weird-collection-of-minigames-you-ll-get-hooked-on",
+    "imageUrl": "/covers/80lv-buckshot-roulette-dev-unveils-weird-collection-of-minigames-you-ll-get-hooked-on.jpg",
+    "source": "80lv",
+    "sourceId": "buckshot-roulette-dev-unveils-weird-collection-of-minigames-you-ll-get-hooked-on",
+    "tags": [
+      "indie",
+      "minigames",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-solve-puzzles-survive-horrors-in-a-small-twin-peaks-like-town-silver-pines-is-out",
+    "type": "game",
+    "title": "Silver Pines Twin Peaks Town",
+    "summary": "双峰风小镇解谜生存恐怖——氛围独立作。",
+    "url": "https://80.lv/articles/solve-puzzles-survive-horrors-in-a-small-twin-peaks-like-town-silver-pines-is-out",
+    "imageUrl": "/covers/80lv-solve-puzzles-survive-horrors-in-a-small-twin-peaks-like-town-silver-pines-is-out.jpg",
+    "source": "80lv",
+    "sourceId": "solve-puzzles-survive-horrors-in-a-small-twin-peaks-like-town-silver-pines-is-out",
+    "tags": [
+      "horror",
+      "adventure",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
+    "id": "80lv-halo-combat-evolved-can-now-be-played-in-a-browser",
+    "type": "game",
+    "title": "Halo CE in Browser",
+    "summary": "光环战斗进化可在浏览器玩——经典移植趣事。",
+    "url": "https://80.lv/articles/halo-combat-evolved-can-now-be-played-in-a-browser",
+    "imageUrl": "/covers/80lv-halo-combat-evolved-can-now-be-played-in-a-browser.jpg",
+    "source": "80lv",
+    "sourceId": "halo-combat-evolved-can-now-be-played-in-a-browser",
+    "tags": [
+      "browser",
+      "classic",
+      "80lv",
+      "80lv"
+    ],
+    "collectedAt": "2026-10-15"
+  },
+  {
     "id": "x-2110163944874954870",
     "type": "shader",
     "title": "藍輪 Blue Wheel 蓝轮",
