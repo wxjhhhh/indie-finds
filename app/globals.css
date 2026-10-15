@@ -110,3 +110,31 @@ a { color: inherit; text-decoration: none; }
   z-index: 10;
   border-bottom: 1px solid var(--line);
 }
+
+.search-row { margin-bottom: 14px; }
+.search-input {
+  width: 100%;
+  max-width: 360px;
+  background: transparent;
+  color: var(--text);
+  border: 1px solid var(--line);
+  padding: 7px 12px;
+  font: inherit;
+  font-size: 13px;
+  border-radius: 2px;
+}
+.genre-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+.genre-count { margin-left: 6px; font-size: 11px; opacity: 0.6; }
+.card-genres { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 8px; }
+.genre-chip {
+  font-size: 11px;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  padding: 1px 7px;
+  border-radius: 2px;
+}
+@media (max-width: 640px) {
+  .genre-bar { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; -webkit-overflow-scrolling: touch; }
+  .genre-bar .sub-tab { flex: 0 0 auto; white-space: nowrap; }
+  .search-input { max-width: none; }
+}

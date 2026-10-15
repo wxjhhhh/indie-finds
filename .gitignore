@@ -5,3 +5,4 @@ node_modules
 .convex
 dist
 *.log
+__pycache__

@@ -18,3 +18,13 @@ Convex 需要 NOTION_API_KEY。
 
 ## 表 finds
 字段：type title summary url imageUrl source sourceId publishedAt tags
+
+## 游戏类型标签（genres）
+`public/data/finds.json` 里 type=game 的条目带 `genres` 数组（1–3 个中文类型，第一个为主类型）。页面「今天/全部」有类型筛选条（多选、带数量，可与搜索、Shader/游戏切换共用）。
+每日新增条目后运行（幂等）：
+
+    python3 scripts/tag_genres.py                # 重算所有游戏的 genres
+    python3 scripts/tag_genres.py --only-missing # 只给没有 genres 的条目打标签（每日流程用这个）
+    python3 scripts/tag_genres.py --check        # 只看统计，不写文件
+
+手工修正写进 `scripts/genre_overrides.json`（key 为 url / id / title）。类型清单与规则在脚本里的 `G` 表。

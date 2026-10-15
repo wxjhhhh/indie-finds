@@ -10,6 +10,7 @@ type Find = {
   url: string;
   imageUrl?: string;
   tags?: string[];
+  genres?: string[];
   collectedAt: string;
 };
 
@@ -17,6 +18,36 @@ type TopTab = "today" | "all" | "inspiration" | "model_sites";
 type SubFilter = "all" | "game" | "shader";
 type InspirationFilter = "all" | "pixel" | "cartoon" | "character" | "scene" | "ui";
 type ModelSiteFilter = "all" | "packs" | "marketplace" | "textures" | "characters" | "voxels" | "tools";
+
+const GENRE_ORDER = [
+  "城建/殖民/经营",
+  "神游/god-game",
+  "策略/4X/RTS",
+  "hex/六边形",
+  "塔防",
+  "自动化/工厂",
+  "生存/建造",
+  "PSX/复古恐怖",
+  "体素/沙盒",
+  "程序化/世界生成",
+  "赛车/驾驶",
+  "平台/动作/RPG",
+  "解谜/物理玩具",
+  "航海/开放世界",
+  "温馨/治愈/园艺",
+  "开发动态/工具",
+  "其他",
+];
+
+function matchesQuery(item: Find, q: string): boolean {
+  if (!q) return true;
+  const hay = `${item.title} ${item.summary} ${(item.tags ?? []).join(" ")}`.toLowerCase();
+  return q
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean)
+    .every((w) => hay.includes(w));
+}
 
 function getTodayShanghai(): string {
   return new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Shanghai" });
@@ -42,6 +73,8 @@ export default function Page() {
   const [subFilter, setSubFilter] = useState<SubFilter>("all");
   const [inspirationFilter, setInspirationFilter] = useState<InspirationFilter>("all");
   const [modelSiteFilter, setModelSiteFilter] = useState<ModelSiteFilter>("all");
+  const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
+  const [query, setQuery] = useState("");
   const [finds, setFinds] = useState<Find[] | undefined>(undefined);
 
   useEffect(() => {
@@ -55,12 +88,38 @@ export default function Page() {
 
   const gameShaderFinds =
     finds?.filter((x) => x.type !== "inspiration" && x.type !== "model_site") ?? [];
-  const todayItems = gameShaderFinds.filter((x) => getItemDate(x, today) === today);
-
-  const allFiltered =
+  const todayBase = gameShaderFinds.filter((x) => getItemDate(x, today) === today);
+  const allBase =
     subFilter === "all"
       ? gameShaderFinds
       : gameShaderFinds.filter((x) => x.type === subFilter);
+
+  // 类型筛选条只作用于游戏；选了类型后只显示命中的游戏
+  const showGenreBar =
+    (topTab === "today" || (topTab === "all" && subFilter !== "shader")) && !!finds;
+  const genreBase = (topTab === "today" ? todayBase : allBase).filter(
+    (x) => x.type === "game" && matchesQuery(x, query),
+  );
+  const genreCounts = new Map<string, number>();
+  for (const x of genreBase) {
+    for (const g of x.genres ?? []) genreCounts.set(g, (genreCounts.get(g) ?? 0) + 1);
+  }
+  const genreList = [
+    ...GENRE_ORDER.filter((g) => genreCounts.has(g) || selectedGenres.includes(g)),
+    ...[...genreCounts.keys()].filter((g) => !GENRE_ORDER.includes(g)),
+  ];
+  const applyFilters = (items: Find[]) =>
+    items.filter(
+      (x) =>
+        matchesQuery(x, query) &&
+        (selectedGenres.length === 0 ||
+          (x.type === "game" && (x.genres ?? []).some((g) => selectedGenres.includes(g)))),
+    );
+  const toggleGenre = (g: string) =>
+    setSelectedGenres((cur) => (cur.includes(g) ? cur.filter((v) => v !== g) : [...cur, g]));
+
+  const todayItems = applyFilters(todayBase);
+  const allFiltered = applyFilters(allBase);
 
   const grouped = groupByDate(allFiltered, today);
 
@@ -141,6 +200,41 @@ export default function Page() {
         </nav>
       )}
 
+      {(topTab === "today" || topTab === "all") && (
+        <div className="search-row">
+          <input
+            className="search-input"
+            type="search"
+            placeholder="搜索标题 / 描述"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
+        </div>
+      )}
+
+      {showGenreBar && (
+        <nav className="genre-bar" aria-label="游戏类型">
+          <button
+            className={selectedGenres.length === 0 ? "sub-tab active" : "sub-tab"}
+            onClick={() => setSelectedGenres([])}
+            type="button"
+          >
+            全部类型
+          </button>
+          {genreList.map((g) => (
+            <button
+              key={g}
+              className={selectedGenres.includes(g) ? "sub-tab active" : "sub-tab"}
+              onClick={() => toggleGenre(g)}
+              type="button"
+            >
+              {g}
+              <span className="genre-count">{genreCounts.get(g) ?? 0}</span>
+            </button>
+          ))}
+        </nav>
+      )}
+
       {topTab === "inspiration" && (
         <nav className="sub-tabs">
           {(
@@ -194,7 +288,7 @@ export default function Page() {
         <p className="empty">加载中…</p>
       ) : topTab === "today" ? (
         todayItems.length === 0 ? (
-          <p className="empty">今天还没有收录</p>
+          <p className="empty">{selectedGenres.length || query ? "没有符合筛选的条目" : "今天还没有收录"}</p>
         ) : (
           <section className="grid">
             {todayItems.map((item) => (
@@ -254,6 +348,15 @@ function Card({ item }: { item: Find }) {
       </div>
       <div className="card-body">
         <h2>{item.title}</h2>
+        {item.genres && item.genres.length > 0 && (
+          <div className="card-genres">
+            {item.genres.map((g) => (
+              <span key={g} className="genre-chip">
+                {g}
+              </span>
+            ))}
+          </div>
+        )}
         <p>{item.summary}</p>
         <a className="link" href={item.url} target="_blank" rel="noreferrer">
           打开链接
