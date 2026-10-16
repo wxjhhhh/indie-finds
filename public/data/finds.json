@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-goblin-mol-hearthfields",
+    "type": "inspiration",
+    "title": "Hearthfields 俯视农庄瓦片",
+    "summary": "16px 俯视农庄村落瓦片，田地道路与农舍拼接清晰，暖色小体量环境参考。",
+    "url": "https://goblin-mol.itch.io/hearthfields",
+    "imageUrl": "/covers/itch-goblin-mol-hearthfields.jpg",
+    "source": "itch",
+    "sourceId": "itch-goblin-mol-hearthfields",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-guidosprite-snowy-ground-16x16",
+    "type": "inspiration",
+    "title": "Snowy Ground 雪地瓦片",
+    "summary": "16×16 雪地地表瓦片，积雪边缘过渡干净，适合冬日地图配色。",
+    "url": "https://guidosprite.itch.io/snowy-ground-16x16",
+    "imageUrl": "/covers/itch-guidosprite-snowy-ground-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-guidosprite-snowy-ground-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-revmine-16-16-top-down-modern-transit-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "现代交通俯视瓦片",
+    "summary": "16×16 现代城市交通瓦片，路面标线与站台可读性强，都市地形参考。",
+    "url": "https://revmine.itch.io/16-16-top-down-modern-transit-pixel-art-tileset",
+    "imageUrl": "/covers/itch-revmine-16-16-top-down-modern-transit-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-revmine-16-16-top-down-modern-transit-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mutterpixel-studio-frozen-ruins-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "Frozen Ruins 冰封废墟",
+    "summary": "像素冰封废墟资产包，废墟轮廓与冰蓝配色适合冷调场景。",
+    "url": "https://mutterpixel-studio.itch.io/frozen-ruins-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-mutterpixel-studio-frozen-ruins-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-studio-frozen-ruins-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sakpix-steampunk-industrial-skylands-side-scroller-tileset",
+    "type": "inspiration",
+    "title": "蒸汽朋克空岛横版瓦片",
+    "summary": "侧视蒸汽朋克工业空岛瓦片，金属平台与云层层次分明。",
+    "url": "https://sakpix.itch.io/steampunk-industrial-skylands-side-scroller-tileset",
+    "imageUrl": "/covers/itch-sakpix-steampunk-industrial-skylands-side-scroller-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-sakpix-steampunk-industrial-skylands-side-scroller-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kytric-voxel-path-and-terrain",
+    "type": "inspiration",
+    "title": "体素路径与地形",
+    "summary": "体素道路与地形块，模块化拼接，低分辨率 3D 地貌可读性好。",
+    "url": "https://kytric.itch.io/voxel-path-and-terrain",
+    "imageUrl": "/covers/itch-kytric-voxel-path-and-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-kytric-voxel-path-and-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mg-lawless-voxel-nature-pack",
+    "type": "inspiration",
+    "title": "体素自然包",
+    "summary": "体素树木岩石与自然道具，色块简洁，适合体素野外环境。",
+    "url": "https://mg-lawless.itch.io/voxel-nature-pack",
+    "imageUrl": "/covers/itch-mg-lawless-voxel-nature-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mg-lawless-voxel-nature-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-inking-tactics-environment-voxel-3d-tileset-3d-trpg-like-tileset",
+    "type": "inspiration",
+    "title": "战术体素环境瓦片",
+    "summary": "3D TRPG 风体素地形瓦片，高低差与地块边界清楚。",
+    "url": "https://inking.itch.io/tactics-environment-voxel-3d-tileset-3d-trpg-like-tileset",
+    "imageUrl": "/covers/itch-inking-tactics-environment-voxel-3d-tileset-3d-trpg-like-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-inking-tactics-environment-voxel-3d-tileset-3d-trpg-like-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mrmgames-voxel-rocks-cliffs-pack",
+    "type": "inspiration",
+    "title": "体素岩石悬崖包",
+    "summary": "体素岩石与悬崖组合，剪影清晰，可做高低差地形构件。",
+    "url": "https://mrmgames.itch.io/voxel-rocks-cliffs-pack",
+    "imageUrl": "/covers/itch-mrmgames-voxel-rocks-cliffs-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mrmgames-voxel-rocks-cliffs-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mariaisme-3d-overworld-tileset",
+    "type": "inspiration",
+    "title": "3D 大地图瓦片",
+    "summary": "3D 大地图风格瓦片集，保留像素块感的立体地表。",
+    "url": "https://mariaisme.itch.io/3d-overworld-tileset",
+    "imageUrl": "/covers/itch-mariaisme-3d-overworld-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-mariaisme-3d-overworld-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-riekahq-tiny-battle-armies",
+    "type": "inspiration",
+    "title": "Tiny Battle Armies 微缩军团",
+    "summary": "10 个 32×32 人兽动画单位，剪影区分清楚，适合小体量战斗角色参考。",
+    "url": "https://riekahq.itch.io/tiny-battle-armies",
+    "imageUrl": "/covers/itch-riekahq-tiny-battle-armies.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-tiny-battle-armies",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v3su-modern-people-16x16-pixel-art-characters-layers",
+    "type": "inspiration",
+    "title": "现代人俯视角色",
+    "summary": "16×16 现代人物可分层换装，日常 NPC 剪影与配色实用。",
+    "url": "https://v3su.itch.io/modern-people-16x16-pixel-art-characters-layers",
+    "imageUrl": "/covers/itch-v3su-modern-people-16x16-pixel-art-characters-layers.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-modern-people-16x16-pixel-art-characters-layers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-leckie1989-top-down-heroes-npcs",
+    "type": "inspiration",
+    "title": "俯视英雄与 NPC",
+    "summary": "16×24 俯视角色 4 向走攻，英雄与 NPC 职业区分明白。",
+    "url": "https://leckie1989.itch.io/top-down-heroes-npcs",
+    "imageUrl": "/covers/itch-leckie1989-top-down-heroes-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-top-down-heroes-npcs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-primitive-pixels-games-hooded-seeker",
+    "type": "inspiration",
+    "title": "Seeker 头巾探索者",
+    "summary": "像素类银河战士风主角，斗篷剪影与动作覆盖完整。",
+    "url": "https://primitive-pixels-games.itch.io/hooded-seeker",
+    "imageUrl": "/covers/itch-primitive-pixels-games-hooded-seeker.jpg",
+    "source": "itch",
+    "sourceId": "itch-primitive-pixels-games-hooded-seeker",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixel-crypt-vampire-knight-pixel-art-sprite",
+    "type": "inspiration",
+    "title": "Vampire Knight 吸血鬼骑士",
+    "summary": "Castlevania 调色板的吸血鬼骑士精灵，暗色高对比剪影。",
+    "url": "https://pixel-crypt.itch.io/vampire-knight-pixel-art-sprite",
+    "imageUrl": "/covers/itch-pixel-crypt-vampire-knight-pixel-art-sprite.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixel-crypt-vampire-knight-pixel-art-sprite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-east-houses-pack",
+    "type": "inspiration",
+    "title": "东方风像素民居",
+    "summary": "日式启发的像素建筑与城镇道具，屋顶檐廊轮廓鲜明。",
+    "url": "https://mmorwynn.itch.io/east-houses-pack",
+    "imageUrl": "/covers/itch-mmorwynn-east-houses-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-east-houses-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-edo-town-feudal-japan-pixel-buildings",
+    "type": "inspiration",
+    "title": "Edo Town 江户风建筑",
+    "summary": "封建日本风像素建筑，木构与瓦顶层次适合东方城镇。",
+    "url": "https://antahonist.itch.io/edo-town-feudal-japan-pixel-buildings",
+    "imageUrl": "/covers/itch-antahonist-edo-town-feudal-japan-pixel-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-edo-town-feudal-japan-pixel-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-neon-city-cyberpunk-pixel-building-kit",
+    "type": "inspiration",
+    "title": "Neon City 赛博朋克像素楼",
+    "summary": "等距赛博朋克像素建筑套件，霓虹招牌与立面节奏强。",
+    "url": "https://antahonist.itch.io/neon-city-cyberpunk-pixel-building-kit",
+    "imageUrl": "/covers/itch-antahonist-neon-city-cyberpunk-pixel-building-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-neon-city-cyberpunk-pixel-building-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-isoburg-18-isometric-pixel-buildings-64x64-animated",
+    "type": "inspiration",
+    "title": "Isoburg 等距建筑",
+    "summary": "18 座 64×64 等距像素建筑含动画，市镇拼装参考。",
+    "url": "https://falvey.itch.io/isoburg-18-isometric-pixel-buildings-64x64-animated",
+    "imageUrl": "/covers/itch-falvey-isoburg-18-isometric-pixel-buildings-64x64-animated.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-isoburg-18-isometric-pixel-buildings-64x64-animated",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chinesedragoncn-ancient-chinese-sacred-sects-isometric-pixel-art-asset-pack3",
+    "type": "inspiration",
+    "title": "古风中式仙门建筑",
+    "summary": "等距中式仙门宗门建筑，飞檐与院落布局适合东方聚落。",
+    "url": "https://chinesedragoncn.itch.io/ancient-chinese-sacred-sects-isometric-pixel-art-asset-pack3",
+    "imageUrl": "/covers/itch-chinesedragoncn-ancient-chinese-sacred-sects-isometric-pixel-art-asset-pack3.jpg",
+    "source": "itch",
+    "sourceId": "itch-chinesedragoncn-ancient-chinese-sacred-sects-isometric-pixel-art-asset-pack3",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-joselugames-medieval-voxel-buildings",
+    "type": "inspiration",
+    "title": "中世纪体素建筑",
+    "summary": "中世纪体素房屋模型，体块分明，适合体素城镇拼装。",
+    "url": "https://joselugames.itch.io/medieval-voxel-buildings",
+    "imageUrl": "/covers/itch-joselugames-medieval-voxel-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-joselugames-medieval-voxel-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tekilor-city-voxel-pack",
+    "type": "inspiration",
+    "title": "体素城市包",
+    "summary": "体素城市建筑集合，楼体剪影与配色统一。",
+    "url": "https://tekilor.itch.io/city-voxel-pack",
+    "imageUrl": "/covers/itch-tekilor-city-voxel-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tekilor-city-voxel-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-sermarsh-modularcitymodelsvoxel",
+    "type": "inspiration",
+    "title": "模块化体素城市",
+    "summary": "80+ 模块化体素城市模型，可自由拼接街区。",
+    "url": "https://sermarsh.itch.io/modularcitymodelsvoxel",
+    "imageUrl": "/covers/itch-sermarsh-modularcitymodelsvoxel.jpg",
+    "source": "itch",
+    "sourceId": "itch-sermarsh-modularcitymodelsvoxel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-isometric-cyberpunk-buildings",
+    "type": "inspiration",
+    "title": "等距赛博朋克楼",
+    "summary": "等距赛博朋克建筑，低分辨率立面霓虹可读。",
+    "url": "https://maxparata.itch.io/isometric-cyberpunk-buildings",
+    "imageUrl": "/covers/itch-maxparata-isometric-cyberpunk-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-isometric-cyberpunk-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-castle-starter-kit-free",
+    "type": "inspiration",
+    "title": "体素城堡入门套件",
+    "summary": "免费体素城堡套件，塔楼城墙模块可拼中世纪要塞。",
+    "url": "https://tersco.itch.io/voxel-castle-starter-kit-free",
+    "imageUrl": "/covers/itch-tersco-voxel-castle-starter-kit-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-castle-starter-kit-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-riekahq-holo-hud-ui-kit",
+    "type": "inspiration",
+    "title": "Holo HUD 科幻界面",
+    "summary": "16×16 全息科幻像素 HUD，面板与读数布局干净。",
+    "url": "https://riekahq.itch.io/holo-hud-ui-kit",
+    "imageUrl": "/covers/itch-riekahq-holo-hud-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-holo-hud-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-brunkagames-infernal-ui-lite",
+    "type": "inspiration",
+    "title": "Infernal UI Lite 地狱界面",
+    "summary": "免费地狱风像素 UI，暗色边框与图标质感强。",
+    "url": "https://brunkagames.itch.io/infernal-ui-lite",
+    "imageUrl": "/covers/itch-brunkagames-infernal-ui-lite.jpg",
+    "source": "itch",
+    "sourceId": "itch-brunkagames-infernal-ui-lite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-glintapps-cozy-ui-kit-lite-free",
+    "type": "inspiration",
+    "title": "Cozy UI Kit Lite",
+    "summary": "暖色治愈风像素 UI 免费版，按钮边框圆润可读。",
+    "url": "https://glintapps.itch.io/cozy-ui-kit-lite-free",
+    "imageUrl": "/covers/itch-glintapps-cozy-ui-kit-lite-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-glintapps-cozy-ui-kit-lite-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-pharaoh-ui-ancient-egypt-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "type": "inspiration",
+    "title": "Pharaoh UI 埃及界面",
+    "summary": "古埃及主题像素 UI，三套配色与九宫格面板完整。",
+    "url": "https://falvey.itch.io/pharaoh-ui-ancient-egypt-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "imageUrl": "/covers/itch-falvey-pharaoh-ui-ancient-egypt-pixel-ui-kit-62-pieces-3-themes-9-slice.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-pharaoh-ui-ancient-egypt-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-olympus-ui-greek-mythology-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "type": "inspiration",
+    "title": "Olympus UI 神话界面",
+    "summary": "希腊神话风像素 UI，金边面板与主题图标成套。",
+    "url": "https://falvey.itch.io/olympus-ui-greek-mythology-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "imageUrl": "/covers/itch-falvey-olympus-ui-greek-mythology-pixel-ui-kit-62-pieces-3-themes-9-slice.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-olympus-ui-greek-mythology-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-tap-tycoon-ui-idle-clicker-game-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "type": "inspiration",
+    "title": "Tap Tycoon 放置界面",
+    "summary": "放置点击游戏像素 UI，进度与货币栏版式清晰。",
+    "url": "https://falvey.itch.io/tap-tycoon-ui-idle-clicker-game-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "imageUrl": "/covers/itch-falvey-tap-tycoon-ui-idle-clicker-game-pixel-ui-kit-62-pieces-3-themes-9-slice.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-tap-tycoon-ui-idle-clicker-game-pixel-ui-kit-62-pieces-3-themes-9-slice",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixeldoddy-clinkadoo",
+    "type": "inspiration",
+    "title": "Clinkadoo 放置 UI",
+    "summary": "闲置点击类像素界面套件，按钮层级与反馈状态全。",
+    "url": "https://pixeldoddy.itch.io/clinkadoo",
+    "imageUrl": "/covers/itch-pixeldoddy-clinkadoo.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixeldoddy-clinkadoo",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-coupon-kit-animated-pixel-shop-ui",
+    "type": "inspiration",
+    "title": "Coupon Kit 商店界面",
+    "summary": "动画像素商店优惠券 UI，商城弹窗版式可参考。",
+    "url": "https://antahonist.itch.io/coupon-kit-animated-pixel-shop-ui",
+    "imageUrl": "/covers/itch-antahonist-coupon-kit-animated-pixel-shop-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-coupon-kit-animated-pixel-shop-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gamerideas-tactical-sci-fi-advanced-ui-avatars-vol-2",
+    "type": "inspiration",
+    "title": "战术科幻高级 UI",
+    "summary": "战术科幻像素界面与头像，HUD 信息密度高。",
+    "url": "https://gamerideas.itch.io/tactical-sci-fi-advanced-ui-avatars-vol-2",
+    "imageUrl": "/covers/itch-gamerideas-tactical-sci-fi-advanced-ui-avatars-vol-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamerideas-tactical-sci-fi-advanced-ui-avatars-vol-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-rabbitfortress-dokidoki",
+    "type": "inspiration",
+    "title": "DOKIDOKI 漫画风特效 UI",
+    "summary": "可爱漫画风像素特效与 UI，对话框与心情提示生动。",
+    "url": "https://rabbitfortress.itch.io/dokidoki",
+    "imageUrl": "/covers/itch-rabbitfortress-dokidoki.jpg",
+    "source": "itch",
+    "sourceId": "itch-rabbitfortress-dokidoki",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-16",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2110824629153759303",
     "type": "shader",
     "title": "WebGPU Real-time GI 实时全局光照",
