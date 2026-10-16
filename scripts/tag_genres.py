@@ -18,15 +18,18 @@ OVR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "genre_overrides.
 
 # (标签, 文本关键词正则, tags精确词集合)
 G = [
+ ("骑砍/战争",
+  r"mount\s*(&|and|n)\s*blade|mount&blade|骑砍|骑马与砍杀|骑马砍杀|战团|warband|bannerlord|cavalry|骑兵|骑士团|medieval (warfare|combat|battle|battles|war|army|armies)|中世纪(战争|战场|战斗|战役|军队|格斗)|大规模战场|大规模战斗|大型战场|large.?scale (battle|combat|warfare)|massive (battle|army)|army battle|军阵|军团|legion|sword.?(combat|fight|play)|剑术|剑斗|冷兵器|feudal (lord|war|army|kingdom)|封建(领主|战争|王国)|\bvassal|附庸|kingdom war|王国战争|武士战场|samurai (war|battle)|total war|总战|全面战争|siege|攻城|守城|阵型|方阵|battlefield|战场|warlord|军阀|mercenar|雇佣兵|horseback|骑马(战|射|冲)|mounted (combat|knight|archer)|骑射|shield wall|盾墙|crusader|十字军|spearm|长矛兵|pikem|medieval.{0,20}(sword|fight|battle|war|duel|combat|tactic|strategy)|中世纪.{0,12}(剑|格斗|战|决斗|招架|策略|兵)|骑士.{0,12}(战|斗|决斗|冲锋|布娃娃)|knights?.{0,20}(ragdoll|duel|battle|charge|combat)|决斗|\\bduel|招架|parry|步兵|infantry|战壕|trench|厮杀|开战|战争模拟|帝国时代|age of empires|\\baoe\\b|knights of honor|heroes of might|英雄无敌|kohan|编队|formation|骑士国|knight.?realm|部落战斗|近战格斗|melee|砍杀|劈砍|剑与",
+  {"mount-and-blade","mount-blade","cavalry","warband","feudal","total-war","siege","battlefield","warlord","mercenary","sword-combat","large-scale-battle","crusader","melee-combat"}),
  ("城建/殖民/经营",
-  r"公司|办公室|微缩|小村|村民|城建|殖民|聚落|定居|村庄|小镇|城市建造|建城|经营|模拟经营|大亨|管理|colon|city.?build|settle|village|town|tycoon|management|kingdom|castle|manage|citizen|市民|据点|基地管理|营地",
-  {"colony","city-builder","citybuilder","colony-sim","settlement","management","tycoon","city","builder","village","town","base-building","base","kingdom","survival-colony"}),
+  r"公司|办公室|微缩|小村|村民|城建|殖民|聚落|定居|村庄|小镇|城市建造|建城|经营|模拟经营|大亨|管理|colon|city.?build|settle|village|town|tycoon|management|kingdom|castle|manage|citizen|市民|据点|基地管理|营地|management sim|business sim|经营管理|资源管理|经营模拟|模拟城市|城市规划|城市模拟|城镇建设|city.?sim|sim.?city|builder|building sim|colony sim|colony management|settlement|factory tycoon|restaurant|shop sim|商店经营|餐厅|开店|店铺|empire builder|theme park|主题乐园|游乐园",
+  {"colony","city-builder","citybuilder","colony-sim","settlement","management","tycoon","city","builder","village","town","base-building","base","kingdom","survival-colony","management-sim","city-building","building-sim","business-sim","city-sim","resource-management","shop-sim","idle-tycoon","theme-park"}),
  ("神游/god-game",
   r"god.?game|神游|神视角|小神|上帝视角|扮演神|造物|worldbox|god-view|godview|\bgod\b|众神|信仰|神明|生态.*微缩|terraform|地形塑",
   {"god-game","godgame","worldbox-like","god","terraforming","god-view"}),
  ("策略/4X/RTS",
-  r"4x|rts|策略|战棋|回合制|战争模拟|战争|征服|文明|军阵|军队|army|strategy|tactic|grand strategy|wargame|即时战略|战术|大混战|国家|帝国|empire|\bcivs?\b|civilization",
-  {"strategy","4x","rts","tactics","war-sim","wargame","turn-based","grand-strategy","civ"}),
+  r"4x|rts|策略|战棋|回合制|战争模拟|战争|征服|文明|军阵|军队|army|strategy|tactic|grand strategy|wargame|即时战略|战术|大混战|国家|帝国|empire|\bcivs?\b|civilization|real.?time strategy|turn.?based strategy|tactical|tactics|战略|战术|wargame|war game|兵棋|grand strat|大战略|auto.?battler|自走棋|4x|explore.*expand|xcom|fire emblem|火焰纹章|total.?war|ai.?opponent|diplomacy|外交|领土|territory|军事|military|commander|指挥官|general\b|将军|army|squad|小队战术|base.?defen[cs]e.*strateg",
+  {"strategy","4x","rts","tactics","war-sim","wargame","turn-based","grand-strategy","civ","tactical","real-time-strategy","turn-based-strategy","auto-battler","strategy-game","tbs","diplomacy","military","commander","4x-strategy"}),
  ("hex/六边形",
   r"hex|六边|六角|蜂巢格",
   {"hex","hexagon","hex-grid"}),
@@ -87,6 +90,7 @@ def score(item):
         ms_t = len(re.findall(rx, title.lower()))
         ms_s = len(re.findall(rx, summ.lower()))
         s += min(ms_t,2) * 2 + min(ms_s,3) * 1
+        if name == "骑砍/战争": s *= 2   # 用户口味偏骑砍/战争：命中加权，保证能成为主/副类型
         if s: res[name] = s
     return res
 

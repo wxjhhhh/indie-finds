@@ -51,10 +51,13 @@ function genresOf(item: Find): string[] {
   return item.genres && item.genres.length > 0 ? item.genres : ["其他"];
 }
 
+// 用户口味：这三个类型固定排最前，其余按当前数量降序，「其他」永远最后
+const PINNED_GENRES = ["策略/4X/RTS", "城建/殖民/经营", "骑砍/战争"];
 const GENRE_ORDER = [
-  "城建/殖民/经营",
-  "神游/god-game",
   "策略/4X/RTS",
+  "城建/殖民/经营",
+  "骑砍/战争",
+  "神游/god-game",
   "hex/六边形",
   "塔防",
   "自动化/工厂",
@@ -138,9 +141,16 @@ export default function Page() {
   for (const x of genreBase) {
     for (const g of genresOf(x)) genreCounts.set(g, (genreCounts.get(g) ?? 0) + 1);
   }
-  const genreList = [
+  const genreAll = [
     ...GENRE_ORDER.filter((g) => genreCounts.has(g) || selectedGenres.includes(g)),
     ...[...genreCounts.keys()].filter((g) => !GENRE_ORDER.includes(g)),
+  ];
+  const genreList = [
+    ...PINNED_GENRES.filter((g) => genreAll.includes(g)),
+    ...genreAll
+      .filter((g) => !PINNED_GENRES.includes(g) && g !== "其他")
+      .sort((a, b) => (genreCounts.get(b) ?? 0) - (genreCounts.get(a) ?? 0)),
+    ...genreAll.filter((g) => g === "其他"),
   ];
   const applyFilters = (items: Find[]) =>
     items.filter(

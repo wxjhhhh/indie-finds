@@ -1,27 +1,100 @@
 {
-  "Last Earth 最后的地球": ["生存/建造"],
-  "Crisis Room": ["城建/殖民/经营"],
-  "Event Horizon": ["航海/开放世界"],
-  "Rift Riff": ["平台/动作/RPG"],
-  "Drosophila Live Behaviour Simulatio": ["程序化/世界生成"],
-  "Herd Instinct": ["城建/殖民/经营"],
-  "Money Machine Gun Electoral Campaig": ["城建/殖民/经营"],
-  "Eternal Fortress": ["塔防"],
-  "MicroWars": ["策略/4X/RTS"],
-  "For the Sovereign": ["策略/4X/RTS"],
-  "Mine Mage Minion - Demo": ["平台/动作/RPG"],
-  "Proletarian": ["城建/殖民/经营"],
-  "Lanternfall": ["平台/动作/RPG"],
-  "Stella Nova": ["航海/开放世界"],
-  "Vault hunter": ["平台/动作/RPG"],
-  "GRAIN ROT": ["生存/建造"],
-  "Kanader": ["解谜/物理玩具"],
-  "Aquatect": ["城建/殖民/经营"],
-  "Wave Rider GP": ["赛车/驾驶"],
-  "WATERFUL": ["体素/沙盒"],
-  "Cave Oasis at Shylake": ["温馨/治愈/园艺"],
-  "Still water": ["航海/开放世界"],
-  "Encamp": ["城建/殖民/经营"],
-  "FEED THE QUEEN": ["城建/殖民/经营"],
-  "Second Responders": ["城建/殖民/经营"]
+  "Last Earth 最后的地球": [
+    "生存/建造"
+  ],
+  "Crisis Room": [
+    "城建/殖民/经营"
+  ],
+  "Event Horizon": [
+    "航海/开放世界"
+  ],
+  "Rift Riff": [
+    "平台/动作/RPG"
+  ],
+  "Drosophila Live Behaviour Simulatio": [
+    "程序化/世界生成"
+  ],
+  "Herd Instinct": [
+    "城建/殖民/经营"
+  ],
+  "Money Machine Gun Electoral Campaig": [
+    "城建/殖民/经营"
+  ],
+  "Eternal Fortress": [
+    "塔防"
+  ],
+  "MicroWars": [
+    "策略/4X/RTS"
+  ],
+  "For the Sovereign": [
+    "策略/4X/RTS"
+  ],
+  "Mine Mage Minion - Demo": [
+    "平台/动作/RPG"
+  ],
+  "Proletarian": [
+    "城建/殖民/经营"
+  ],
+  "Lanternfall": [
+    "平台/动作/RPG"
+  ],
+  "Stella Nova": [
+    "航海/开放世界"
+  ],
+  "Vault hunter": [
+    "平台/动作/RPG"
+  ],
+  "GRAIN ROT": [
+    "生存/建造"
+  ],
+  "Kanader": [
+    "解谜/物理玩具"
+  ],
+  "Aquatect": [
+    "城建/殖民/经营"
+  ],
+  "Wave Rider GP": [
+    "赛车/驾驶"
+  ],
+  "WATERFUL": [
+    "体素/沙盒"
+  ],
+  "Cave Oasis at Shylake": [
+    "温馨/治愈/园艺"
+  ],
+  "Still water": [
+    "航海/开放世界"
+  ],
+  "Encamp": [
+    "城建/殖民/经营"
+  ],
+  "FEED THE QUEEN": [
+    "城建/殖民/经营"
+  ],
+  "Second Responders": [
+    "城建/殖民/经营"
+  ],
+  "Half Sword 半剑": [
+    "骑砍/战争",
+    "解谜/物理玩具"
+  ],
+  "Rose & Blade 玫瑰与刃": [
+    "骑砍/战争",
+    "解谜/物理玩具"
+  ],
+  "Fresno Quebrado 破碎的白蜡": [
+    "骑砍/战争",
+    "航海/开放世界"
+  ],
+  "Tribal Chief Battle WIP 族长突击": [
+    "骑砍/战争"
+  ],
+  "Peaceful Two Kingdoms 平和的两国": [
+    "骑砍/战争",
+    "程序化/世界生成"
+  ],
+  "The Last Heron 最后的白鹭": [
+    "骑砍/战争",
+    "航海/开放世界"
+  ]
 }
