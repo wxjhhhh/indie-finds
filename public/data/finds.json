@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-v3su-isometric-tileset-pixel-art-32x32-blocks-buildings",
+    "type": "inspiration",
+    "title": "Gridwright 等距像素地块",
+    "summary": "32×32 等距地块：方块、坡道、水面、道路与围栏，359 件可直接拼出带高差的大地图。",
+    "url": "https://v3su.itch.io/isometric-tileset-pixel-art-32x32-blocks-buildings",
+    "imageUrl": "/covers/itch-v3su-isometric-tileset-pixel-art-32x32-blocks-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-isometric-tileset-pixel-art-32x32-blocks-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-venicemenacebakingco-alien-planet-surface-topdown-pack",
+    "type": "inspiration",
+    "title": "外星地表俯视瓦片",
+    "summary": "40 块外星地表瓦片配发光水晶与植物，陨坑与紫色地面的配色很有异星感。",
+    "url": "https://venicemenacebakingco.itch.io/alien-planet-surface-topdown-pack",
+    "imageUrl": "/covers/itch-venicemenacebakingco-alien-planet-surface-topdown-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-venicemenacebakingco-alien-planet-surface-topdown-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-leckie1989-pirate-mega-pack-16x16-top-down-pirate-tileset-ships-islands-docks-crew",
+    "type": "inspiration",
+    "title": "Pirate Mega Pack 海岛瓦片",
+    "summary": "16×16 海洋与海岛自动瓦片，海岸线、码头和港口小镇拼接自然，适合海图地形。",
+    "url": "https://leckie1989.itch.io/pirate-mega-pack-16x16-top-down-pirate-tileset-ships-islands-docks-crew",
+    "imageUrl": "/covers/itch-leckie1989-pirate-mega-pack-16x16-top-down-pirate-tileset-ships-islands-docks-crew.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-pirate-mega-pack-16x16-top-down-pirate-tileset-ships-islands-docks-crew",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-rz99w5",
+    "type": "inspiration",
+    "title": "地表与地下剖面地形",
+    "summary": "主地图地表与地下分层设计，草皮、土层与矿石过渡清楚，可借鉴地层剖面画法。",
+    "url": "https://www.artstation.com/artwork/rz99w5",
+    "imageUrl": "/covers/artstation-rz99w5.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-rz99w5",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-ndYPwX",
+    "type": "inspiration",
+    "title": "俯视像素原野",
+    "summary": "俯视草地、树丛与小路，色块干净、明暗柔和，大面积野外地表的好参考。",
+    "url": "https://www.artstation.com/artwork/ndYPwX",
+    "imageUrl": "/covers/artstation-ndYPwX.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-ndYPwX",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-fcidade-pixel-3d-godot-shader",
+    "type": "inspiration",
+    "title": "Pixel 3D Godot 渲染",
+    "summary": "Godot 4 像素化 3D 方案：描边、卡通光、昼夜、草地与池塘，直接示范 3D 地形像素化效果。",
+    "url": "https://fcidade.itch.io/pixel-3d-godot-shader",
+    "imageUrl": "/covers/itch-fcidade-pixel-3d-godot-shader.jpg",
+    "source": "itch",
+    "sourceId": "itch-fcidade-pixel-3d-godot-shader",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-ay0088",
+    "type": "inspiration",
+    "title": "Pixelated Reverie 像素化 3D 场景",
+    "summary": "低分辨率 3D 草地、石板路与城墙，像素颗粒感统一，像素 3D 地形的范例。",
+    "url": "https://www.artstation.com/artwork/ay0088",
+    "imageUrl": "/covers/artstation-ay0088.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-ay0088",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-0a38Dy",
+    "type": "inspiration",
+    "title": "体素小岛像素透视",
+    "summary": "体素小岛配像素化海面，块面与水波像素格对齐，小岛/海岸造型参考。",
+    "url": "https://www.artstation.com/artwork/0a38Dy",
+    "imageUrl": "/covers/artstation-0a38Dy.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-0a38Dy",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-La4va0",
+    "type": "inspiration",
+    "title": "Frog Boots 沼泽体素台",
+    "summary": "体素沼泽地块：睡莲、芦苇与水面层次丰富，方块地台的切面做得很精致。",
+    "url": "https://www.artstation.com/artwork/La4va0",
+    "imageUrl": "/covers/artstation-La4va0.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-La4va0",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-a0A5bq",
+    "type": "inspiration",
+    "title": "MagicaVoxel 夜色石桥",
+    "summary": "MagicaVoxel 夜景地形与石桥，体素地表与暖光点缀的对比很好看。",
+    "url": "https://www.artstation.com/artwork/a0A5bq",
+    "imageUrl": "/covers/artstation-a0A5bq.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-a0A5bq",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-spritestash-demon-marauder",
+    "type": "inspiration",
+    "title": "Demon Marauder 恶魔掠夺者",
+    "summary": "带弯刀的有角恶魔，5 套动画 61 帧，暗红配色与肌肉剪影张力强。",
+    "url": "https://spritestash.itch.io/demon-marauder",
+    "imageUrl": "/covers/itch-spritestash-demon-marauder.jpg",
+    "source": "itch",
+    "sourceId": "itch-spritestash-demon-marauder",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goblin-mol-hearthfields-folk",
+    "type": "inspiration",
+    "title": "Hearthfields 村民与动物",
+    "summary": "16px 3/4 视角村民：8 种职业带劳作动作，另有鸡猫羊，适合城建/经营小人。",
+    "url": "https://goblin-mol.itch.io/hearthfields-folk",
+    "imageUrl": "/covers/itch-goblin-mol-hearthfields-folk.jpg",
+    "source": "itch",
+    "sourceId": "itch-goblin-mol-hearthfields-folk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riclmbr-pixel-npcs",
+    "type": "inspiration",
+    "title": "Pixel NPCs 100 人",
+    "summary": "100 个 32×32 四向行走 NPC，警察、厨师、骑士等职业一眼可辨，CC0。",
+    "url": "https://riclmbr.itch.io/pixel-npcs",
+    "imageUrl": "/covers/itch-riclmbr-pixel-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-pixel-npcs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-yAAkZ5",
+    "type": "inspiration",
+    "title": "The Soul Collectors 角色",
+    "summary": "像素收魂者角色，红斗篷与骷髅面具剪影鲜明，动作张力足。",
+    "url": "https://www.artstation.com/artwork/yAAkZ5",
+    "imageUrl": "/covers/artstation-yAAkZ5.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-yAAkZ5",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-8vvkeG",
+    "type": "inspiration",
+    "title": "Tiger Boxer 虎拳手",
+    "summary": "大尺寸像素虎人拳击手，毛发条纹与肌肉阴影的上色层次值得学。",
+    "url": "https://www.artstation.com/artwork/8vvkeG",
+    "imageUrl": "/covers/artstation-8vvkeG.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-8vvkeG",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-stonebit-studio-medieval-village-exterior-3232",
+    "type": "inspiration",
+    "title": "中世纪村庄外景 32×32",
+    "summary": "152 个模块化 32×32 村庄精灵，木构房屋与集市组件可自由拼装。",
+    "url": "https://stonebit-studio.itch.io/medieval-village-exterior-3232",
+    "imageUrl": "/covers/itch-stonebit-studio-medieval-village-exterior-3232.jpg",
+    "source": "itch",
+    "sourceId": "itch-stonebit-studio-medieval-village-exterior-3232",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mutterpixel-studio-forest-village-buildings-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "森林村庄建筑",
+    "summary": "细节丰富的森林中世纪村屋，苔绿屋顶与木梁质感统一，适合聚落建造。",
+    "url": "https://mutterpixel-studio.itch.io/forest-village-buildings-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-mutterpixel-studio-forest-village-buildings-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-studio-forest-village-buildings-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-soviet-city-isometric-pixel-buildings",
+    "type": "inspiration",
+    "title": "Soviet City 等距建筑",
+    "summary": "21 栋苏式等距像素建筑：板楼、粗野主义与马赛克，带昼夜与雪景版本。",
+    "url": "https://antahonist.itch.io/soviet-city-isometric-pixel-buildings",
+    "imageUrl": "/covers/itch-antahonist-soviet-city-isometric-pixel-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-soviet-city-isometric-pixel-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-auragamestudio-farm-jungle-buildings-120-pixel-art-sprites-6464",
+    "type": "inspiration",
+    "title": "农场与丛林建筑 120+",
+    "summary": "64×64 等距建筑含建造、升级、损坏与废墟阶段，城建/策略的建筑状态参考。",
+    "url": "https://auragamestudio.itch.io/farm-jungle-buildings-120-pixel-art-sprites-6464",
+    "imageUrl": "/covers/itch-auragamestudio-farm-jungle-buildings-120-pixel-art-sprites-6464.jpg",
+    "source": "itch",
+    "sourceId": "itch-auragamestudio-farm-jungle-buildings-120-pixel-art-sprites-6464",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-9BmdeO",
+    "type": "inspiration",
+    "title": "封建日本建筑瓦片",
+    "summary": "日式町屋、鸟居与木构建筑像素瓦片，屋檐与纸窗细节讲究。",
+    "url": "https://www.artstation.com/artwork/9BmdeO",
+    "imageUrl": "/covers/artstation-9BmdeO.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-9BmdeO",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voxelgrove-dungeon-kit",
+    "type": "inspiration",
+    "title": "Dungeon Kit 等距地牢",
+    "summary": "33 件等距地牢资产附 3D 模型：砖墙、门洞、牢房、陷阱，像素与 3D 双版本。",
+    "url": "https://voxelgrove.itch.io/dungeon-kit",
+    "imageUrl": "/covers/itch-voxelgrove-dungeon-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-dungeon-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-bar2d2-factory-automation-kit",
+    "type": "inspiration",
+    "title": "Factory Automation 像素贴图工厂",
+    "summary": "92 个像素贴图 3D 机器、传送带与厂房，自动化/策略游戏建筑参考。",
+    "url": "https://bar2d2.itch.io/factory-automation-kit",
+    "imageUrl": "/covers/itch-bar2d2-factory-automation-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-bar2d2-factory-automation-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-drakeanvillabs-psx-modular-haunted-house",
+    "type": "inspiration",
+    "title": "PSX 维多利亚鬼屋",
+    "summary": "70 件 PS1 风模块化维多利亚房屋：墙、屋顶、门廊、阁楼，低清贴图质感统一。",
+    "url": "https://drakeanvillabs.itch.io/psx-modular-haunted-house",
+    "imageUrl": "/covers/itch-drakeanvillabs-psx-modular-haunted-house.jpg",
+    "source": "itch",
+    "sourceId": "itch-drakeanvillabs-psx-modular-haunted-house",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-fadelpermanaa-forest-elves-kit",
+    "type": "inspiration",
+    "title": "Forest Elves 体素精灵村",
+    "summary": "72 个方块风模型：树屋、巨型蘑菇、月神殿，奇幻聚落造型很可爱。",
+    "url": "https://fadelpermanaa.itch.io/forest-elves-kit",
+    "imageUrl": "/covers/itch-fadelpermanaa-forest-elves-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-fadelpermanaa-forest-elves-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-V8298g",
+    "type": "inspiration",
+    "title": "体素木屋内景",
+    "summary": "体素小木屋内景：壁炉、木地板与窗光，切面小屋的光影氛围很温暖。",
+    "url": "https://www.artstation.com/artwork/V8298g",
+    "imageUrl": "/covers/artstation-V8298g.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-V8298g",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-crom170-ancient-empires-strategy-ui",
+    "type": "inspiration",
+    "title": "Ancient Empires 策略 UI",
+    "summary": "57 个城建/策略像素 UI：资源栏、建造菜单与建筑图标，直接对上策略游戏需求。",
+    "url": "https://crom170.itch.io/ancient-empires-strategy-ui",
+    "imageUrl": "/covers/itch-crom170-ancient-empires-strategy-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-crom170-ancient-empires-strategy-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-reebo0-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "Pixel UI Kit 742 件",
+    "summary": "7 套主题 742 个像素 UI：面板、按钮、进度条、格子，9-slice 可直接拉伸。",
+    "url": "https://reebo0.itch.io/pixel-ui-kit",
+    "imageUrl": "/covers/itch-reebo0-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-reebo0-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-night-terminal-sci-fi-hud-kit",
+    "type": "inspiration",
+    "title": "Night Terminal 科幻 HUD",
+    "summary": "64 个科幻 HUD 组件：切角青色框、琥珀刻度、分段仪表，像素与高清双版。",
+    "url": "https://csaf.itch.io/night-terminal-sci-fi-hud-kit",
+    "imageUrl": "/covers/itch-csaf-night-terminal-sci-fi-hud-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-night-terminal-sci-fi-hud-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gamerideas-occult-noir-eldritch-ui-kit-vol-1",
+    "type": "inspiration",
+    "title": "Occult Noir 神秘学 UI",
+    "summary": "近 200 个侦探/克苏鲁风像素 UI，羊皮纸面板与符号图标氛围浓。",
+    "url": "https://gamerideas.itch.io/occult-noir-eldritch-ui-kit-vol-1",
+    "imageUrl": "/covers/itch-gamerideas-occult-noir-eldritch-ui-kit-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamerideas-occult-noir-eldritch-ui-kit-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riekahq-lanternmoor-items",
+    "type": "inspiration",
+    "title": "Lanternmoor 物品与界面",
+    "summary": "140+ 16×16 物品图标加整套界面：窗口、格子、血心、光标，黄昏暗调统一。",
+    "url": "https://riekahq.itch.io/lanternmoor-items",
+    "imageUrl": "/covers/itch-riekahq-lanternmoor-items.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-lanternmoor-items",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-willosuna-cozy-ui-kit",
+    "type": "inspiration",
+    "title": "Cozy UI Kit 60 件",
+    "summary": "奶油木色温馨像素 UI：面板、按钮、条与格子，非 AI 手绘，接近暖色面板风。",
+    "url": "https://willosuna.itch.io/cozy-ui-kit",
+    "imageUrl": "/covers/itch-willosuna-cozy-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-willosuna-cozy-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q0JxYL",
+    "type": "inspiration",
+    "title": "SLIMEO 设置菜单",
+    "summary": "像素设置菜单设计与实现，音量滑条、开关与按键布局清楚，设置页参考。",
+    "url": "https://www.artstation.com/artwork/q0JxYL",
+    "imageUrl": "/covers/artstation-q0JxYL.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q0JxYL",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q09DDn",
+    "type": "inspiration",
+    "title": "背包与装备 UI",
+    "summary": "像素背包与装备界面，羊皮纸面板、装备槽与属性分区清楚。",
+    "url": "https://www.artstation.com/artwork/q09DDn",
+    "imageUrl": "/covers/artstation-q09DDn.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q09DDn",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-deck-builder-assets-pack",
+    "type": "inspiration",
+    "title": "Deck Builder 卡牌 UI",
+    "summary": "104 张像素卡牌、24 个遗物和动画特效，附可玩的 Godot 4 牌桌示例。",
+    "url": "https://mmorwynn.itch.io/deck-builder-assets-pack",
+    "imageUrl": "/covers/itch-mmorwynn-deck-builder-assets-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-deck-builder-assets-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q0JEby",
+    "type": "inspiration",
+    "title": "Aldrich 标题画面",
+    "summary": "像素标题画面概念：林中远景加标题字，主菜单构图与氛围参考。",
+    "url": "https://www.artstation.com/artwork/q0JEby",
+    "imageUrl": "/covers/artstation-q0JEby.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q0JEby",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "steam-2854440",
     "type": "game",
     "title": "Red Rocket Defencism 红色火箭防卫主义",
