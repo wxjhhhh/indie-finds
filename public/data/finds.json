@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-leckie1989-mega-auto-tile-terrain-12-terrains-47-tile-blob-sets-16x16",
+    "type": "inspiration",
+    "title": "Mega Auto-Tile 12 种地形",
+    "summary": "16×16 的 12 种地形，各带 47 块 blob 自动瓦片和 16 组过渡，草地、沙地、水面接缝一次解决。",
+    "url": "https://leckie1989.itch.io/mega-auto-tile-terrain-12-terrains-47-tile-blob-sets-16x16",
+    "imageUrl": "/covers/itch-leckie1989-mega-auto-tile-terrain-12-terrains-47-tile-blob-sets-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-mega-auto-tile-terrain-12-terrains-47-tile-blob-sets-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-free-isometric-terrain-nature-tiles",
+    "type": "inspiration",
+    "title": "等距地形与自然瓦片",
+    "summary": "12 种等距地表、224 个自动瓦片加岩石灌木，三季版本，配色柔和统一，适合铺大片领土。",
+    "url": "https://antahonist.itch.io/free-isometric-terrain-nature-tiles",
+    "imageUrl": "/covers/itch-antahonist-free-isometric-terrain-nature-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-free-isometric-terrain-nature-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-ters-rpg-overworld-fields",
+    "type": "inspiration",
+    "title": "TERS 大地图与原野",
+    "summary": "16-bit 世界地图瓦片：动画海面与岩浆、32 种地面自动瓦片、山峰和城堡图标，经典俯视大地图参考。",
+    "url": "https://tersco.itch.io/ters-rpg-overworld-fields",
+    "imageUrl": "/covers/itch-tersco-ters-rpg-overworld-fields.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-ters-rpg-overworld-fields",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-wO8XDL",
+    "type": "inspiration",
+    "title": "ISLANDS 世界地图模块瓦片",
+    "summary": "六边形模块化世界地图瓦片：海岛、森林、雪地、火山分块，地块边缘与海水过渡做得很干净。",
+    "url": "https://www.artstation.com/artwork/wO8XDL",
+    "imageUrl": "/covers/artstation-wO8XDL.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-wO8XDL",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-0alomY",
+    "type": "inspiration",
+    "title": "等距像素水乡",
+    "summary": "等距像素水上村落：木栈道、小屋与水面层次清楚，粉蓝配色清新，可借鉴高低差与水岸画法。",
+    "url": "https://www.artstation.com/artwork/0alomY",
+    "imageUrl": "/covers/artstation-0alomY.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-0alomY",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-eg0XNP",
+    "type": "inspiration",
+    "title": "3D 自动瓦片像素环境",
+    "summary": "3D 自动拼接的峡谷地形配像素贴图与小人，岩壁、草顶与小路衔接自然，像素化 3D 地形的好例子。",
+    "url": "https://www.artstation.com/artwork/eg0XNP",
+    "imageUrl": "/covers/artstation-eg0XNP.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-eg0XNP",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-gRnLBZ",
+    "type": "inspiration",
+    "title": "体素热带岛屿",
+    "summary": "方块风热带小岛：沙滩、浅海分层与椰林，切面式地台展示了体素海岸的做法。",
+    "url": "https://www.artstation.com/artwork/gRnLBZ",
+    "imageUrl": "/covers/artstation-gRnLBZ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-gRnLBZ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-KOO1aW",
+    "type": "inspiration",
+    "title": "体素奇幻自然套件",
+    "summary": "模块化体素自然资产：方块树冠、麦田、石块与红土路，紫色天空下的配色很有奇幻感。",
+    "url": "https://www.artstation.com/artwork/KOO1aW",
+    "imageUrl": "/covers/artstation-KOO1aW.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-KOO1aW",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-1LN3AL",
+    "type": "inspiration",
+    "title": "THE ARTISAN 实时 3D 像素",
+    "summary": "Unity 实时 3D 像素渲染：草地、树叶与小摊都按像素格量化，3D 场景做出 2D 像素画质感。",
+    "url": "https://www.artstation.com/artwork/1LN3AL",
+    "imageUrl": "/covers/artstation-1LN3AL.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-1LN3AL",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2111446474982830538",
+    "type": "inspiration",
+    "title": "海边小神社体素微缩景",
+    "summary": "MagicaVoxel 微缩海岸：悬崖、树林、海滩与公路一块地台，体素地形分层和海水渐变很漂亮。",
+    "url": "https://x.com/bavarois503/status/2111446474982830538",
+    "imageUrl": "/covers/x-2111446474982830538.jpg",
+    "source": "x",
+    "sourceId": "x-2111446474982830538",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-medieval-rts-army-isometric-pixel-units",
+    "type": "inspiration",
+    "title": "Medieval RTS Army 等距兵种",
+    "summary": "18 种等距像素兵种：罗斯、北欧、骑士与哈萨克步兵加四种骑兵，正好是骑砍/策略的部队参考。",
+    "url": "https://antahonist.itch.io/medieval-rts-army-isometric-pixel-units",
+    "imageUrl": "/covers/itch-antahonist-medieval-rts-army-isometric-pixel-units.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-medieval-rts-army-isometric-pixel-units",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v3su-isometric-characters-pixel-art-8-directions-animated",
+    "type": "inspiration",
+    "title": "Gridwright 等距角色 8 方向",
+    "summary": "10 个 64×64 等距像素角色，8 方向走跑攻击死亡共 2864 帧，等距地图单位的标准做法。",
+    "url": "https://v3su.itch.io/isometric-characters-pixel-art-8-directions-animated",
+    "imageUrl": "/covers/itch-v3su-isometric-characters-pixel-art-8-directions-animated.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-isometric-characters-pixel-art-8-directions-animated",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-werewolf-berserker-pixel-art",
+    "type": "inspiration",
+    "title": "Werewolf Berserker 狼人狂战士",
+    "summary": "8 方向狼人狂战士，待机、行走、咆哮与三种攻击，暗色地牢里剪影清楚、动作有力。",
+    "url": "https://elie-automata.itch.io/werewolf-berserker-pixel-art",
+    "imageUrl": "/covers/itch-elie-automata-werewolf-berserker-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-werewolf-berserker-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-KRREG9",
+    "type": "inspiration",
+    "title": "SlotBound 角色",
+    "summary": "大尺寸像素兽人战士，粗描边与硬阴影让盔甲和毛发质感很足，头像式角色绘制参考。",
+    "url": "https://www.artstation.com/artwork/KRREG9",
+    "imageUrl": "/covers/artstation-KRREG9.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-KRREG9",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-river4646-medieval-tavern-pack",
+    "type": "inspiration",
+    "title": "中世纪酒馆像素角色",
+    "summary": "10 个带动画的中世纪酒馆角色加 3 套酒馆场景，酒保、骑士、吟游诗人造型鲜明。",
+    "url": "https://river4646.itch.io/medieval-tavern-pack",
+    "imageUrl": "/covers/itch-river4646-medieval-tavern-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-river4646-medieval-tavern-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-nordheim-viking-village-pixel-art",
+    "type": "inspiration",
+    "title": "NORDHEIM 维京村落",
+    "summary": "79 个等距像素资产：长屋、蜜酒厅、木板教堂、长船与船坞，夏冬夜三版，北欧聚落直接可用。",
+    "url": "https://antahonist.itch.io/nordheim-viking-village-pixel-art",
+    "imageUrl": "/covers/itch-antahonist-nordheim-viking-village-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-nordheim-viking-village-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-jadekeep",
+    "type": "inspiration",
+    "title": "JADEKEEP 古代中国城镇",
+    "summary": "97 个中国风像素建筑：宫殿、宝塔、曲檐民居、作坊与稻田，城建策略的东方建筑参考。",
+    "url": "https://mmorwynn.itch.io/jadekeep",
+    "imageUrl": "/covers/itch-mmorwynn-jadekeep.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-jadekeep",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-KR6oG4",
+    "type": "inspiration",
+    "title": "等距日式寺庙",
+    "summary": "等距像素日式寺庙：多层檐、石阶与松树台基，屋顶层叠与暖色灯光处理细腻。",
+    "url": "https://www.artstation.com/artwork/KR6oG4",
+    "imageUrl": "/covers/artstation-KR6oG4.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-KR6oG4",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2111331483730551131",
+    "type": "inspiration",
+    "title": "像素城堡",
+    "summary": "小尺寸等距像素城堡，红顶塔楼、粉墙与城门比例讨喜，适合地图上的城市/要塞图标。",
+    "url": "https://x.com/ElMetallico1/status/2111331483730551131",
+    "imageUrl": "/covers/x-2111331483730551131.jpg",
+    "source": "x",
+    "sourceId": "x-2111331483730551131",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-stone-kingdom-medieval-castle-pixel-buildings",
+    "type": "inspiration",
+    "title": "Stone Kingdom 中世纪城堡",
+    "summary": "15 栋等距中世纪城堡与城镇建筑，4 个朝向，夏/冬/废墟三种状态，策略游戏建筑状态参考。",
+    "url": "https://antahonist.itch.io/stone-kingdom-medieval-castle-pixel-buildings",
+    "imageUrl": "/covers/itch-antahonist-stone-kingdom-medieval-castle-pixel-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-stone-kingdom-medieval-castle-pixel-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-tersco-rpg-town-pixel-art-low-poly-3d-village-pack",
+    "type": "inspiration",
+    "title": "Ters RPG Town 像素低模 3D 村庄",
+    "summary": "49 个色板锁定的低模 3D 房屋与道具，贴图是像素风，低面数也能拼出温馨小镇。",
+    "url": "https://tersco.itch.io/tersco-rpg-town-pixel-art-low-poly-3d-village-pack",
+    "imageUrl": "/covers/itch-tersco-tersco-rpg-town-pixel-art-low-poly-3d-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-tersco-rpg-town-pixel-art-low-poly-3d-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-0aXZY5",
+    "type": "inspiration",
+    "title": "体素中世纪城门楼",
+    "summary": "体素城门楼：圆塔、城垛与风化石墙，块面带像素级色彩噪点，体素城堡的质感参考。",
+    "url": "https://www.artstation.com/artwork/0aXZY5",
+    "imageUrl": "/covers/artstation-0aXZY5.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-0aXZY5",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-La4bnw",
+    "type": "inspiration",
+    "title": "Nivalis Nights 体素楼群",
+    "summary": "赛博体素高楼：层层叠加的阳台、霓虹招牌和管线，竖向堆叠建筑的造型参考。",
+    "url": "https://www.artstation.com/artwork/La4bnw",
+    "imageUrl": "/covers/artstation-La4bnw.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-La4bnw",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-xYKL6Y",
+    "type": "inspiration",
+    "title": "体素中世纪小镇",
+    "summary": "方形地台上的体素中世纪小镇，红瓦屋顶与石墙街巷排布紧凑，城建俯视布局参考。",
+    "url": "https://www.artstation.com/artwork/xYKL6Y",
+    "imageUrl": "/covers/artstation-xYKL6Y.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-xYKL6Y",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-zDOXRd",
+    "type": "inspiration",
+    "title": "京都宝塔与禅园",
+    "summary": "体素宝塔、红色木构与枯山水庭院，高台切面式展示，东方建筑体素化的好范例。",
+    "url": "https://www.artstation.com/artwork/zDOXRd",
+    "imageUrl": "/covers/artstation-zDOXRd.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-zDOXRd",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-rts-hud-kit-medieval-strategy-pixel-ui",
+    "type": "inspiration",
+    "title": "RTS HUD Kit 中世纪策略 UI",
+    "summary": "像素 RTS 界面：资源栏、小地图、单位面板、指令卡、头像与选中圈，策略游戏 HUD 全套。",
+    "url": "https://antahonist.itch.io/rts-hud-kit-medieval-strategy-pixel-ui",
+    "imageUrl": "/covers/itch-antahonist-rts-hud-kit-medieval-strategy-pixel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-rts-hud-kit-medieval-strategy-pixel-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-iron-bastion-medieval-strategy-ui-kit",
+    "type": "inspiration",
+    "title": "Iron Bastion 中世纪策略 UI",
+    "summary": "58 个城堡主题 UI 组件：带塔楼的石墙框、蓝色旗帜与资源条，像素与高清双版本。",
+    "url": "https://csaf.itch.io/iron-bastion-medieval-strategy-ui-kit",
+    "imageUrl": "/covers/itch-csaf-iron-bastion-medieval-strategy-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-iron-bastion-medieval-strategy-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-juliusschmidt-cozy-cottage-godot-theme",
+    "type": "inspiration",
+    "title": "Cozy Cottage 奶油色像素主题",
+    "summary": "奶油、鼠尾草绿与陶土色的柔和像素 UI，按钮、滑条、开关、页签齐全，接近暖沙色面板风。",
+    "url": "https://juliusschmidt.itch.io/cozy-cottage-godot-theme",
+    "imageUrl": "/covers/itch-juliusschmidt-cozy-cottage-godot-theme.jpg",
+    "source": "itch",
+    "sourceId": "itch-juliusschmidt-cozy-cottage-godot-theme",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jye9-pixel-ui-kit-6-themes-474-sprites",
+    "type": "inspiration",
+    "title": "Pixel UI Kit 六主题",
+    "summary": "6 套像素主题 474 个组件：面板、按钮、开关、滑条与血条，同一布局多配色便于比对风格。",
+    "url": "https://jye9.itch.io/pixel-ui-kit-6-themes-474-sprites",
+    "imageUrl": "/covers/itch-jye9-pixel-ui-kit-6-themes-474-sprites.jpg",
+    "source": "itch",
+    "sourceId": "itch-jye9-pixel-ui-kit-6-themes-474-sprites",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-juliusschmidt-fantasy-parchment-godot-theme",
+    "type": "inspiration",
+    "title": "Fantasy Parchment 羊皮纸主题",
+    "summary": "羊皮纸、木框与金色点缀的像素 UI 主题，设置页、页签与输入框的完整控件示范。",
+    "url": "https://juliusschmidt.itch.io/fantasy-parchment-godot-theme",
+    "imageUrl": "/covers/itch-juliusschmidt-fantasy-parchment-godot-theme.jpg",
+    "source": "itch",
+    "sourceId": "itch-juliusschmidt-fantasy-parchment-godot-theme",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-lunarlofi-lune-moonlit-pixel-ui",
+    "type": "inspiration",
+    "title": "Lune 月夜像素 UI",
+    "summary": "341 个月夜主题像素 UI：9-slice 面板、按钮、条、格子与 89 个图标，深蓝配暖黄很温柔。",
+    "url": "https://lunarlofi.itch.io/lune-moonlit-pixel-ui",
+    "imageUrl": "/covers/itch-lunarlofi-lune-moonlit-pixel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-lunarlofi-lune-moonlit-pixel-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-0aaeXV",
+    "type": "inspiration",
+    "title": "Diesel Wings 飞行员招募界面",
+    "summary": "柴油朋克风像素招募界面：档案卡、属性表与头像排版清晰，信息密集型面板参考。",
+    "url": "https://www.artstation.com/artwork/0aaeXV",
+    "imageUrl": "/covers/artstation-0aaeXV.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-0aaeXV",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-willosuna-horror-ui-kit",
+    "type": "inspiration",
+    "title": "Horror UI Kit 恐怖像素 UI",
+    "summary": "63 个手绘（非 AI）暗黑像素 UI：锈蚀面板、血色按钮、骷髅装饰，深色主题界面的质感参考。",
+    "url": "https://willosuna.itch.io/horror-ui-kit",
+    "imageUrl": "/covers/itch-willosuna-horror-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-willosuna-horror-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2112271156527157677",
+    "type": "inspiration",
+    "title": "Crooky 队伍菜单 UI",
+    "summary": "RPG 像素队伍菜单：木框页签、角色卡与状态栏，前后对比展示了加光让界面更通透。",
+    "url": "https://x.com/RamskiGames/status/2112271156527157677",
+    "imageUrl": "/covers/x-2112271156527157677.jpg",
+    "source": "x",
+    "sourceId": "x-2112271156527157677",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2111020013310165469",
+    "type": "inspiration",
+    "title": "FINventory 掌机风背包",
+    "summary": "Game Boy 绿色调的像素背包界面，网格物品栏与边框图标简洁，单色调 UI 的好参考。",
+    "url": "https://x.com/ratpackdigital/status/2111020013310165469",
+    "imageUrl": "/covers/x-2111020013310165469.jpg",
+    "source": "x",
+    "sourceId": "x-2111020013310165469",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "steam-2389170",
     "type": "game",
     "title": "Huaxia: Warring States 华夏：战国",
