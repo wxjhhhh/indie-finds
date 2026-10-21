@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-riekahq-hex-overworld-lite",
+    "type": "inspiration",
+    "title": "Hex Overworld Lite 六边形大地图瓦片",
+    "summary": "32×32 六边形地块：草原、森林、丘陵、雪山、沙漠和动画水面，带城镇、道路与河流，正好对得上六边形战略地图。",
+    "url": "https://riekahq.itch.io/hex-overworld-lite",
+    "imageUrl": "/covers/itch-riekahq-hex-overworld-lite.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-hex-overworld-lite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-venicemenacebakingco-riverbank-waterfall-topdown-pack",
+    "type": "inspiration",
+    "title": "河岸与瀑布俯视瓦片",
+    "summary": "16×16 河岸瓦片配瀑布崖壁、芦苇睡莲与码头，水岸层次和落差表现清楚，CC0 可直接拿来用。",
+    "url": "https://venicemenacebakingco.itch.io/riverbank-waterfall-topdown-pack",
+    "imageUrl": "/covers/itch-venicemenacebakingco-riverbank-waterfall-topdown-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-venicemenacebakingco-riverbank-waterfall-topdown-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mutterpixel-studio-lighthouse-island-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "灯塔岛像素素材包",
+    "summary": "海岛沙滩、灯塔与小渔村一套，海水与沙岸过渡柔和，适合参考海岸线和小岛地块的画法。",
+    "url": "https://mutterpixel-studio.itch.io/lighthouse-island-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-mutterpixel-studio-lighthouse-island-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-mutterpixel-studio-lighthouse-island-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-G1vRnd",
+    "type": "inspiration",
+    "title": "水淹世界的垂钓",
+    "summary": "被水淹没的世界里搭在水上的木屋与小船，水面反光和波纹用像素写得很细，氛围感强。",
+    "url": "https://www.artstation.com/artwork/G1vRnd",
+    "imageUrl": "/covers/artstation-G1vRnd.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-G1vRnd",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2112078041316983113",
+    "type": "inspiration",
+    "title": "5 色 64×64 湖景",
+    "summary": "只用 5 种颜色、64×64 画出夜色湖面与月亮，极限调色板下的远近层次值得学习。",
+    "url": "https://x.com/Woodspixl/status/2112078041316983113",
+    "imageUrl": "/covers/x-2112078041316983113.jpg",
+    "source": "x",
+    "sourceId": "x-2112078041316983113",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-oddpotatodev-godot-3d-pixelart-starter-kit",
+    "type": "inspiration",
+    "title": "Godot 3D 像素风起步工程",
+    "summary": "t3ssel8r 风格的 3D 像素地形：低分辨率渲染、描边、像素化草地和相机都已配好，是做像素化 3D 地表的现成参考。",
+    "url": "https://oddpotatodev.itch.io/godot-3d-pixelart-starter-kit",
+    "imageUrl": "/covers/itch-oddpotatodev-godot-3d-pixelart-starter-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-oddpotatodev-godot-3d-pixelart-starter-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-BkNrxD",
+    "type": "inspiration",
+    "title": "体素草地生物群系",
+    "summary": "方块切面式的草地地块：草顶、泥土层、小溪和田地分层清楚，附带配套植物，像素化 3D 地形的教科书例子。",
+    "url": "https://www.artstation.com/artwork/BkNrxD",
+    "imageUrl": "/covers/artstation-BkNrxD.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-BkNrxD",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-x32KJR",
+    "type": "inspiration",
+    "title": "Dawn Apart 体素星球·雨林",
+    "summary": "体素星球上的雨林地形：梯田般的方块山坡、藤蔓和彩色植被，大尺度体素地貌的层次处理很好。",
+    "url": "https://www.artstation.com/artwork/x32KJR",
+    "imageUrl": "/covers/artstation-x32KJR.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-x32KJR",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-QnR9mB",
+    "type": "inspiration",
+    "title": "体素神山",
+    "summary": "体素山体上盘着寺庙与樱花，岩层台阶和崖壁的方块堆叠干净，适合参考山地地块。",
+    "url": "https://www.artstation.com/artwork/QnR9mB",
+    "imageUrl": "/covers/artstation-QnR9mB.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-QnR9mB",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-w6lg39",
+    "type": "inspiration",
+    "title": "体素山脉·地下与海洋剖面",
+    "summary": "把山体、地下熔岩层与海洋做成一个体素切块，剖面展示了地表、岩层和地底的颜色分层。",
+    "url": "https://www.artstation.com/artwork/w6lg39",
+    "imageUrl": "/covers/artstation-w6lg39.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-w6lg39",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elie-automata-heroes-adventurers-vol-1",
+    "type": "inspiration",
+    "title": "英雄与冒险者 Vol.1",
+    "summary": "83 个奇幻角色及变体，8 方向动画，骑士、法师、刺客等职业轮廓分明，配色统一偏暗调。",
+    "url": "https://elie-automata.itch.io/heroes-adventurers-vol-1",
+    "imageUrl": "/covers/itch-elie-automata-heroes-adventurers-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-heroes-adventurers-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-ters-rpg-heroes-townsfolk",
+    "type": "inspiration",
+    "title": "TERS RPG 英雄与镇民",
+    "summary": "24 个 16-bit 行走角色配 144×144 头像，Q 版比例清爽，适合参考小尺寸人物与头像的对应关系。",
+    "url": "https://tersco.itch.io/ters-rpg-heroes-townsfolk",
+    "imageUrl": "/covers/itch-tersco-ters-rpg-heroes-townsfolk.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-ters-rpg-heroes-townsfolk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riekahq-vesna-fighter-lite",
+    "type": "inspiration",
+    "title": "Vesna 64×64 格斗角色",
+    "summary": "64×64 格斗角色：站姿、刺拳、前踢和受击，动作关键帧干净，打击感用火花强调得很到位。",
+    "url": "https://riekahq.itch.io/vesna-fighter-lite",
+    "imageUrl": "/covers/itch-riekahq-vesna-fighter-lite.jpg",
+    "source": "itch",
+    "sourceId": "itch-riekahq-vesna-fighter-lite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-kwwnLz",
+    "type": "inspiration",
+    "title": "兜帽弓手像素角色",
+    "summary": "银甲兜帽弓手，有完整动画，冷色金属盔甲的高光和披风明暗处理得很细。",
+    "url": "https://www.artstation.com/artwork/kwwnLz",
+    "imageUrl": "/covers/artstation-kwwnLz.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-kwwnLz",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-XaaGJw",
+    "type": "inspiration",
+    "title": "挥镐少女动画",
+    "summary": "绿发少女挥镐的动作帧，姿态夸张有弹性，暖色背景下轮廓清晰，适合参考人物动作张力。",
+    "url": "https://www.artstation.com/artwork/XaaGJw",
+    "imageUrl": "/covers/artstation-XaaGJw.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-XaaGJw",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-kazakh-khanate-steppe-town-pixel-art",
+    "type": "inspiration",
+    "title": "哈萨克汗国草原城镇",
+    "summary": "52 个等距像素建筑：毡房、汗帐、陵墓、宣礼塔、商队客栈与集市，草原游牧风城镇很少见，夏冬夜三版。",
+    "url": "https://antahonist.itch.io/kazakh-khanate-steppe-town-pixel-art",
+    "imageUrl": "/covers/itch-antahonist-kazakh-khanate-steppe-town-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-kazakh-khanate-steppe-town-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-gorod-slavic-stronghold-pixel-art",
+    "type": "inspiration",
+    "title": "GOROD 斯拉夫要塞",
+    "summary": "131 个等距像素资产：克里姆林城墙、木教堂、木屋、作坊与农田，中世纪东欧城建一整套。",
+    "url": "https://antahonist.itch.io/gorod-slavic-stronghold-pixel-art",
+    "imageUrl": "/covers/itch-antahonist-gorod-slavic-stronghold-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-gorod-slavic-stronghold-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chinesedragoncn-ancient-chinese-hidden-realms-isometric-pixel-art-asset-pack4",
+    "type": "inspiration",
+    "title": "古代中国隐秘之境等距建筑",
+    "summary": "2.5D 等距中式楼阁、关隘与山中宅院，屋檐和木构细节到位，配色淡雅。",
+    "url": "https://chinesedragoncn.itch.io/ancient-chinese-hidden-realms-isometric-pixel-art-asset-pack4",
+    "imageUrl": "/covers/itch-chinesedragoncn-ancient-chinese-hidden-realms-isometric-pixel-art-asset-pack4.jpg",
+    "source": "itch",
+    "sourceId": "itch-chinesedragoncn-ancient-chinese-hidden-realms-isometric-pixel-art-asset-pack4",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q0JEqL",
+    "type": "inspiration",
+    "title": "像素农舍",
+    "summary": "橙瓦红砖的乡间农舍配大树和篱笆，暖色光影温馨，适合参考横版场景中的单体建筑。",
+    "url": "https://www.artstation.com/artwork/q0JEqL",
+    "imageUrl": "/covers/artstation-q0JEqL.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q0JEqL",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-9BN9oa",
+    "type": "inspiration",
+    "title": "像素城堡",
+    "summary": "山崖上的白墙尖塔城堡，层层塔楼和屋顶用有限像素交代清楚，中世纪城堡的好参考。",
+    "url": "https://www.artstation.com/artwork/9BN9oa",
+    "imageUrl": "/covers/artstation-9BN9oa.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-9BN9oa",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-yAAb5R",
+    "type": "inspiration",
+    "title": "Nivalis Nights 体素高楼",
+    "summary": "Nivalis 里的体素高塔建筑，竖向结构和霓虹灯点缀在暗背景下很醒目。",
+    "url": "https://www.artstation.com/artwork/yAAb5R",
+    "imageUrl": "/covers/artstation-yAAb5R.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-yAAb5R",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-zzzOxD",
+    "type": "inspiration",
+    "title": "赛博朋克旅馆",
+    "summary": "像素化 3D 的赛博旅馆，霓虹招牌、空调外机和楼梯细节丰富，紫粉灯光氛围浓。",
+    "url": "https://www.artstation.com/artwork/zzzOxD",
+    "imageUrl": "/covers/artstation-zzzOxD.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-zzzOxD",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-Y8aB2d",
+    "type": "inspiration",
+    "title": "体素红砖楼",
+    "summary": "体素红砖公寓楼：窗框、雨棚、檐口都用方块交代清楚，干净的体素建筑范例。",
+    "url": "https://www.artstation.com/artwork/Y8aB2d",
+    "imageUrl": "/covers/artstation-Y8aB2d.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-Y8aB2d",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-DvLvy9",
+    "type": "inspiration",
+    "title": "黑森林体素木屋",
+    "summary": "红瓦木构的黑森林小屋，窗花、烟囱和花箱都用体素做出，暖光很温馨。",
+    "url": "https://www.artstation.com/artwork/DvLvy9",
+    "imageUrl": "/covers/artstation-DvLvy9.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-DvLvy9",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-dyWZNX",
+    "type": "inspiration",
+    "title": "体素阿兹特克神庙",
+    "summary": "丛林中的体素阶梯金字塔与水池，石阶层次与周围植被对比鲜明。",
+    "url": "https://www.artstation.com/artwork/dyWZNX",
+    "imageUrl": "/covers/artstation-dyWZNX.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-dyWZNX",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-stationsupply-pixel-farming-ui-free-sample",
+    "type": "inspiration",
+    "title": "像素农场 UI 免费样例",
+    "summary": "木质边框的农场 UI：道具格、进度条、金币与按钮五种状态，暖色木纹质感统一。",
+    "url": "https://stationsupply.itch.io/pixel-farming-ui-free-sample",
+    "imageUrl": "/covers/itch-stationsupply-pixel-farming-ui-free-sample.jpg",
+    "source": "itch",
+    "sourceId": "itch-stationsupply-pixel-farming-ui-free-sample",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wook-dev-hudsmith-battle",
+    "type": "inspiration",
+    "title": "Hudsmith 回合制战斗 UI",
+    "summary": "像素回合制战斗界面：指令菜单、行动顺序、目标选择与状态图标，信息层级清楚，还带可玩 demo。",
+    "url": "https://wook-dev.itch.io/hudsmith-battle",
+    "imageUrl": "/covers/itch-wook-dev-hudsmith-battle.jpg",
+    "source": "itch",
+    "sourceId": "itch-wook-dev-hudsmith-battle",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wook-dev-hudsmith-quest-journal",
+    "type": "inspiration",
+    "title": "Hudsmith 任务日志 UI",
+    "summary": "像素 RPG 任务日志、追踪器与奖励面板，暗底金边，三套配色和九宫格数据都给了。",
+    "url": "https://wook-dev.itch.io/hudsmith-quest-journal",
+    "imageUrl": "/covers/itch-wook-dev-hudsmith-quest-journal.jpg",
+    "source": "itch",
+    "sourceId": "itch-wook-dev-hudsmith-quest-journal",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kestrelwick-pixel-hud-kit",
+    "type": "inspiration",
+    "title": "像素 HUD 套件",
+    "summary": "血条、蓝条、经验条、40 种光标准星、小地图和头像框，四套配色，CC0。",
+    "url": "https://kestrelwick.itch.io/pixel-hud-kit",
+    "imageUrl": "/covers/itch-kestrelwick-pixel-hud-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-kestrelwick-pixel-hud-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v3su-dark-fantasy-ui-pixel-art-16x16-gothic-hud",
+    "type": "inspiration",
+    "title": "Gridwright 黑暗奇幻 UI",
+    "summary": "16×16 哥特风 UI：Boss 血条、魂系 HUD、物品格和面板，四套主题，红黑配色压迫感强。",
+    "url": "https://v3su.itch.io/dark-fantasy-ui-pixel-art-16x16-gothic-hud",
+    "imageUrl": "/covers/itch-v3su-dark-fantasy-ui-pixel-art-16x16-gothic-hud.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-dark-fantasy-ui-pixel-art-16x16-gothic-hud",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-zzDXwZ",
+    "type": "inspiration",
+    "title": "电视风格主菜单",
+    "summary": "像 CRT 电视画面的像素主菜单按钮，New Game / Options 字形粗壮，复古味足。",
+    "url": "https://www.artstation.com/artwork/zzDXwZ",
+    "imageUrl": "/covers/artstation-zzDXwZ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-zzDXwZ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-wOr9q9",
+    "type": "inspiration",
+    "title": "像素魔法书 UI",
+    "summary": "翻开的像素魔典，可做背包或技能书底板，纸张和皮革边框的质感处理得很好。",
+    "url": "https://www.artstation.com/artwork/wOr9q9",
+    "imageUrl": "/covers/artstation-wOr9q9.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-wOr9q9",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-P444z1",
+    "type": "inspiration",
+    "title": "TETRIZZ 复古俄罗斯方块 UI",
+    "summary": "复古像素俄罗斯方块的完整界面与按钮设计，配色简洁，适合参考小游戏的 UI 排版。",
+    "url": "https://www.artstation.com/artwork/P444z1",
+    "imageUrl": "/covers/artstation-P444z1.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-P444z1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-o0AAwO",
+    "type": "inspiration",
+    "title": "像素冒险书 RPG UI 套件",
+    "summary": "以书本为底的奇幻 RPG 界面：角色属性、物品栏和按钮都放在羊皮纸书页上，主题感很强。",
+    "url": "https://www.artstation.com/artwork/o0AAwO",
+    "imageUrl": "/covers/artstation-o0AAwO.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-o0AAwO",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2112084385835192465",
+    "type": "inspiration",
+    "title": "Cursed Kingdom 暗黑 RPG 图标",
+    "summary": "40 个 32×32 暗黑奇幻道具图标，剪影锐利、对比干净，适合背包格子。",
+    "url": "https://x.com/Tcatstar/status/2112084385835192465",
+    "imageUrl": "/covers/x-2112084385835192465.jpg",
+    "source": "x",
+    "sourceId": "x-2112084385835192465",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-21",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2112557587254382604",
     "type": "game",
     "title": "After the Wind 风之后",
