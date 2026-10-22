@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-atomicrealm-mine-tileset",
+    "type": "inspiration",
+    "title": "Mine Tileset 矿洞瓦片",
+    "summary": "16×16 与 32×32 平台向矿洞瓦片：岩层、矿脉、钻机与轨道，地下采矿场景的地块层次清楚。",
+    "url": "https://atomicrealm.itch.io/mine-tileset",
+    "imageUrl": "/covers/itch-atomicrealm-mine-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-atomicrealm-mine-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-szadiart-pixel-fantasy-caves",
+    "type": "inspiration",
+    "title": "Pixel Fantasy Caves 奇幻洞窟",
+    "summary": "洞穴岩壁、钟乳石与地下河一套，暗色调里用有限高光把纵深拉开，适合俯视或横版洞窟。",
+    "url": "https://szadiart.itch.io/pixel-fantasy-caves",
+    "imageUrl": "/covers/itch-szadiart-pixel-fantasy-caves.jpg",
+    "source": "itch",
+    "sourceId": "itch-szadiart-pixel-fantasy-caves",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-JwvmDR",
+    "type": "inspiration",
+    "title": "暗黑奇幻森林环境",
+    "summary": "2D 像素暗黑森林：高大树干、雾气与月光，剪影层次分明，氛围压迫感强。",
+    "url": "https://www.artstation.com/artwork/JwvmDR",
+    "imageUrl": "/covers/artstation-JwvmDR.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-JwvmDR",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-a02yxz",
+    "type": "inspiration",
+    "title": "塞尔达风俯视瓦片",
+    "summary": "Septembit 2025 塞尔达灵感的俯视瓦片，草地、石径与过渡边做得干净，好上手拼大地图。",
+    "url": "https://www.artstation.com/artwork/a02yxz",
+    "imageUrl": "/covers/artstation-a02yxz.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-a02yxz",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2112545839172485494",
+    "type": "inspiration",
+    "title": "Alien Biomes 外星生物群系瓦片",
+    "summary": "18 套外星环境俯视瓦片，墙体厚重、地形配色大胆，五种尺寸一次给齐。",
+    "url": "https://x.com/DrozdStudios/status/2112545839172485494",
+    "imageUrl": "/covers/x-2112545839172485494.jpg",
+    "source": "x",
+    "sourceId": "x-2112545839172485494",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maxparata-rocky-mountains",
+    "type": "inspiration",
+    "title": "体素落基山脉自然包",
+    "summary": "模块化体素山地：岩层、雪顶与稀疏针叶树，可拼浮岛式地形，体素地貌好参考。",
+    "url": "https://maxparata.itch.io/rocky-mountains",
+    "imageUrl": "/covers/itch-maxparata-rocky-mountains.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-rocky-mountains",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-BkVgKD",
+    "type": "inspiration",
+    "title": "体素森林瀑布",
+    "summary": "高饱和体素森林：蓝瀑落入池塘，草块与橙叶对比鲜明，瀑布落差用方块交代得很清楚。",
+    "url": "https://www.artstation.com/artwork/BkVgKD",
+    "imageUrl": "/covers/artstation-BkVgKD.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-BkVgKD",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-a0l9LR",
+    "type": "inspiration",
+    "title": "洞窟生物群系体素资产",
+    "summary": "等距洞窟瓦片：石柱、蓝水晶与紫花，霓虹高光点在暗石地上，地下关卡很完整。",
+    "url": "https://www.artstation.com/artwork/a0l9LR",
+    "imageUrl": "/covers/artstation-a0l9LR.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-a0l9LR",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-gR6z9Q",
+    "type": "inspiration",
+    "title": "沙漠生物群系体素资产",
+    "summary": "沙漠遗迹、金字塔、棕榈与水塘一套等距体素，沙地与绿洲过渡清楚。",
+    "url": "https://www.artstation.com/artwork/gR6z9Q",
+    "imageUrl": "/covers/artstation-gR6z9Q.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-gR6z9Q",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-La53QA",
+    "type": "inspiration",
+    "title": "体素浮岛",
+    "summary": "夜间圆形浮岛，中心蓝水晶发光，岛缘与植被用体素堆得很干净。",
+    "url": "https://www.artstation.com/artwork/La53QA",
+    "imageUrl": "/covers/artstation-La53QA.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-La53QA",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-xzany-samurai-2d-pixel-art",
+    "type": "inspiration",
+    "title": "武士 2D 像素角色",
+    "summary": "武士站姿与动作帧，盔甲与刀刃高光克制，东方武侠像素角色的好范例。",
+    "url": "https://xzany.itch.io/samurai-2d-pixel-art",
+    "imageUrl": "/covers/itch-xzany-samurai-2d-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-xzany-samurai-2d-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-b00O6r",
+    "type": "inspiration",
+    "title": "16×32 角色精灵与动画",
+    "summary": "小尺寸 16×32 角色精灵配完整动画，轮廓在低分辨率下仍可读，适合老派 RPG。",
+    "url": "https://www.artstation.com/artwork/b00O6r",
+    "imageUrl": "/covers/artstation-b00O6r.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-b00O6r",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-P4XD0n",
+    "type": "inspiration",
+    "title": "KaiRoth 八方向俯视角色",
+    "summary": "八方向俯视 RPG 角色与动画，转向帧衔接顺，适合顶视角战斗与探索。",
+    "url": "https://www.artstation.com/artwork/P4XD0n",
+    "imageUrl": "/covers/artstation-P4XD0n.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-P4XD0n",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-O3GJ1v",
+    "type": "inspiration",
+    "title": "小冒险者 8-bit 英雄",
+    "summary": "8-bit 风小英雄精灵，比例可爱、色块干净，横版或俯视都能直接当主角参考。",
+    "url": "https://www.artstation.com/artwork/O3GJ1v",
+    "imageUrl": "/covers/artstation-O3GJ1v.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-O3GJ1v",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2111643730319212933",
+    "type": "inspiration",
+    "title": "Pixel_Javi 敌人草稿",
+    "summary": "睡觉前随手画的像素敌人构思，剪影夸张、可读性好，适合参考怪物造型起步。",
+    "url": "https://x.com/Pixel_Javi/status/2111643730319212933",
+    "imageUrl": "/covers/x-2111643730319212933.jpg",
+    "source": "x",
+    "sourceId": "x-2111643730319212933",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-papptimus-cyber-city",
+    "type": "inspiration",
+    "title": "Cyber City 赛博城市",
+    "summary": "霓虹赛博城市瓦片与建筑，粉紫灯光在暗底上很醒目，都市俯视或横版都能用。",
+    "url": "https://papptimus.itch.io/cyber-city",
+    "imageUrl": "/covers/itch-papptimus-cyber-city.jpg",
+    "source": "itch",
+    "sourceId": "itch-papptimus-cyber-city",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-najjar320-pixel-facades-100-building-textures",
+    "type": "inspiration",
+    "title": "100 张像素建筑立面",
+    "summary": "一百张免费像素建筑立面纹理，窗、阳台与招牌变化多，拼城市街景很快。",
+    "url": "https://najjar320.itch.io/pixel-facades-100-building-textures",
+    "imageUrl": "/covers/itch-najjar320-pixel-facades-100-building-textures.jpg",
+    "source": "itch",
+    "sourceId": "itch-najjar320-pixel-facades-100-building-textures",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-egRkeY",
+    "type": "inspiration",
+    "title": "冬日郊区小屋",
+    "summary": "冬景郊区小宅：积雪屋顶、暖窗光与篱笆，横版场景里单体建筑的好参考。",
+    "url": "https://www.artstation.com/artwork/egRkeY",
+    "imageUrl": "/covers/artstation-egRkeY.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-egRkeY",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-Nrqdnz",
+    "type": "inspiration",
+    "title": "等距温馨小镇",
+    "summary": "等距像素小镇：室内外道具与建筑一套，配色暖、比例统一，城建参考很完整。",
+    "url": "https://www.artstation.com/artwork/Nrqdnz",
+    "imageUrl": "/covers/artstation-Nrqdnz.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-Nrqdnz",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-8B81Bq",
+    "type": "inspiration",
+    "title": "等距日式像素小屋",
+    "summary": "等距日式木屋配樱花树，屋檐与木构用有限像素交代清楚，配色淡雅。",
+    "url": "https://www.artstation.com/artwork/8B81Bq",
+    "imageUrl": "/covers/artstation-8B81Bq.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-8B81Bq",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q0JneN",
+    "type": "inspiration",
+    "title": "温馨体素面包店",
+    "summary": "体素面包店室内：烤箱、货架与暖黄灯光，小场景道具堆叠很有生活感。",
+    "url": "https://www.artstation.com/artwork/q0JneN",
+    "imageUrl": "/covers/artstation-q0JneN.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q0JneN",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-5e8PWP",
+    "type": "inspiration",
+    "title": "女巫小屋体素",
+    "summary": "风格化女巫小屋：尖顶、蘑菇与暗紫调，体素建筑剪影独特。",
+    "url": "https://www.artstation.com/artwork/5e8PWP",
+    "imageUrl": "/covers/artstation-5e8PWP.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-5e8PWP",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-DLG28n",
+    "type": "inspiration",
+    "title": "日式体素茶屋",
+    "summary": "日式茶屋体素：瓦顶、障子与庭院，东方建筑结构用方块表达得很到位。",
+    "url": "https://www.artstation.com/artwork/DLG28n",
+    "imageUrl": "/covers/artstation-DLG28n.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-DLG28n",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-XJvG6w",
+    "type": "inspiration",
+    "title": "体素日式住宅",
+    "summary": "体素日式民宅外立面，屋顶坡度与木构层次清楚，适合参考住居体素。",
+    "url": "https://www.artstation.com/artwork/XJvG6w",
+    "imageUrl": "/covers/artstation-XJvG6w.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-XJvG6w",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-YGyLRw",
+    "type": "inspiration",
+    "title": "赛博朋克体素城市 No.3",
+    "summary": "夜间赛博街区体素：霓虹招牌与高楼层叠，紫粉灯光氛围浓。",
+    "url": "https://www.artstation.com/artwork/YGyLRw",
+    "imageUrl": "/covers/artstation-YGyLRw.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-YGyLRw",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-limezu-modernuserinterface",
+    "type": "inspiration",
+    "title": "现代 RPG UI（16×16）",
+    "summary": "16×16 现代风 RPG 界面：面板、按钮与状态条，简洁干净，好嵌顶视角游戏。",
+    "url": "https://limezu.itch.io/modernuserinterface",
+    "imageUrl": "/covers/itch-limezu-modernuserinterface.jpg",
+    "source": "itch",
+    "sourceId": "itch-limezu-modernuserinterface",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-franuka-rpg-icon-pack",
+    "type": "inspiration",
+    "title": "RPG 图标包",
+    "summary": "大量 16×16 RPG 道具与装备图标，剪影清晰、分类齐全，背包格直接能用。",
+    "url": "https://franuka.itch.io/rpg-icon-pack",
+    "imageUrl": "/covers/itch-franuka-rpg-icon-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-franuka-rpg-icon-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hypnobius-dark-ages-ui",
+    "type": "inspiration",
+    "title": "Dark Ages 中世纪 UI",
+    "summary": "黑暗中世纪 UI：羊皮纸边框、石质按钮与面板，暗色奇幻 HUD 的整套参考。",
+    "url": "https://hypnobius.itch.io/dark-ages-ui",
+    "imageUrl": "/covers/itch-hypnobius-dark-ages-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-hypnobius-dark-ages-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-q0JbAN",
+    "type": "inspiration",
+    "title": "哥特暗黑奇幻 UI",
+    "summary": "哥特风像素 UI/HUD：血条、面板与边框，红黑压迫感强，适合魂系向界面。",
+    "url": "https://www.artstation.com/artwork/q0JbAN",
+    "imageUrl": "/covers/artstation-q0JbAN.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-q0JbAN",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-ay0d0q",
+    "type": "inspiration",
+    "title": "经典奇幻 RPG 道具图标",
+    "summary": "经典奇幻 2D 像素道具与圣物图标，金属与宝石高光克制，背包视觉统一。",
+    "url": "https://www.artstation.com/artwork/ay0d0q",
+    "imageUrl": "/covers/artstation-ay0d0q.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-ay0d0q",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-La3o4A",
+    "type": "inspiration",
+    "title": "暗黑奇幻菜单与按钮",
+    "summary": "暗黑奇幻主菜单概念与按钮，字体与边框沉重，主菜单氛围感足。",
+    "url": "https://www.artstation.com/artwork/La3o4A",
+    "imageUrl": "/covers/artstation-La3o4A.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-La3o4A",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-9BN2LR",
+    "type": "inspiration",
+    "title": "旅人背包物品组",
+    "summary": "打开的旅人背包像素物品组，绳结、布料与小道具细节丰富，适合背包 UI 底板。",
+    "url": "https://www.artstation.com/artwork/9BN2LR",
+    "imageUrl": "/covers/artstation-9BN2LR.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-9BN2LR",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-4NZ69n",
+    "type": "inspiration",
+    "title": "农场蔬菜与 UI",
+    "summary": "温馨农场蔬菜精灵配配套 UI，配色柔和，种植/背包界面可直接参考。",
+    "url": "https://www.artstation.com/artwork/4NZ69n",
+    "imageUrl": "/covers/artstation-4NZ69n.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-4NZ69n",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-x36B2E",
+    "type": "inspiration",
+    "title": "风格化径向转盘 UI",
+    "summary": "像素风径向技能/物品转盘，扇区分割清楚，适合快捷轮盘交互。",
+    "url": "https://www.artstation.com/artwork/x36B2E",
+    "imageUrl": "/covers/artstation-x36B2E.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-x36B2E",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2112540730417684837",
+    "type": "inspiration",
+    "title": "265 个消耗品像素图标",
+    "summary": "265 个 RPG/肉鸽消耗品图标：食物、药剂与材料，剪影锐利，格子里很好认。",
+    "url": "https://x.com/PixAssets/status/2112540730417684837",
+    "imageUrl": "/covers/x-2112540730417684837.jpg",
+    "source": "x",
+    "sourceId": "x-2112540730417684837",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-22",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2112907086204117270",
     "type": "game",
     "title": "Aestra 艾斯特拉",
