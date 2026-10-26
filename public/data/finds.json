@@ -1,5 +1,2501 @@
 [
   {
+    "id": "x-2113510782826930539",
+    "type": "game",
+    "title": "SinkEm.io",
+    "summary": "“Sink 'em” 是英文中 “Sink them” 的口语化缩写，字面意思是 “击沉他们！” AI 一直说这个域名选得好，只好斥巨资注册了， 不明白 .io 凭什么比 .com 贵 3 倍🤨。",
+    "url": "https://x.com/nshen121/status/2113510782826930539",
+    "imageUrl": "/covers/x-2113510782826930539.jpg",
+    "source": "x",
+    "sourceId": "2113510782826930539",
+    "tags": [
+      "x-bookmark",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2112936447502323893",
+    "type": "game",
+    "title": "GIGACITY",
+    "summary": "这怎么可能只是纯代码就能做出的网站。。。。⁉️",
+    "url": "https://x.com/ChrisHKAI/status/2112936447502323893",
+    "imageUrl": "/covers/x-2112936447502323893.jpg",
+    "source": "x",
+    "sourceId": "2112936447502323893",
+    "tags": [
+      "x-bookmark",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114100425796493583",
+    "type": "shader",
+    "title": "Matcap trees island",
+    "summary": "Behold, Matcap trees, 10+ times faster than Billboard tree",
+    "url": "https://x.com/Codey_T3/status/2114100425796493583",
+    "imageUrl": "/covers/x-2114100425796493583.jpg",
+    "source": "x",
+    "sourceId": "2114100425796493583",
+    "tags": [
+      "x-bookmark"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114063547156361599",
+    "type": "shader",
+    "title": "Lightning VFX trial",
+    "summary": "Chain Lightning and Creeping Frost +Sounds! Hopefully by the time I design the vfx library I will know what game I am …",
+    "url": "https://x.com/slashskill_/status/2114063547156361599",
+    "imageUrl": "/covers/x-2114063547156361599.jpg",
+    "source": "x",
+    "sourceId": "2114063547156361599",
+    "tags": [
+      "x-bookmark"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2113194756994146492",
+    "type": "shader",
+    "title": "Whale shark 3D model sheet",
+    "summary": "gpt6你赢了，下个月plus真不用开了",
+    "url": "https://x.com/peko1487584/status/2113194756994146492",
+    "imageUrl": "/covers/x-2113194756994146492.jpg",
+    "source": "x",
+    "sourceId": "2113194756994146492",
+    "tags": [
+      "x-bookmark"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114436285964103986",
+    "type": "game",
+    "title": "A medieval town for an open-world game, built …",
+    "summary": "A medieval town for an open-world game, built with Claude Opus 5.5, Blender and image gen, and the whole thing comes d…",
+    "url": "https://x.com/sorenxet/status/2114436285964103986",
+    "imageUrl": "/covers/x-2114436285964103986.jpg",
+    "source": "x",
+    "sourceId": "2114436285964103986",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114381798595805621",
+    "type": "game",
+    "title": "Adding more tactical variety to the units",
+    "summary": "Adding more tactical variety to the units. Today, infantry got molotovs!! And with that, the flesh learned to flee fro…",
+    "url": "https://x.com/BirichStudio/status/2114381798595805621",
+    "imageUrl": "/covers/x-2114381798595805621.jpg",
+    "source": "x",
+    "sourceId": "2114381798595805621",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114440583246934516",
+    "type": "game",
+    "title": "I'm an building my dream MMORPG for over 3.5 y…",
+    "summary": "I'm an building my dream MMORPG for over 3.5 years This is a fantasy medieval MMORPG",
+    "url": "https://x.com/xTrinks/status/2114440583246934516",
+    "imageUrl": "/covers/x-2114440583246934516.jpg",
+    "source": "x",
+    "sourceId": "2114440583246934516",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114068967161479297",
+    "type": "game",
+    "title": "just 2 more days left to win a steam key for m…",
+    "summary": "just 2 more days left to win a steam key for my indie 4x game! (more information can be found in the demo😏)",
+    "url": "https://x.com/MixedMoonGames/status/2114068967161479297",
+    "imageUrl": "/covers/x-2114068967161479297.jpg",
+    "source": "x",
+    "sourceId": "2114068967161479297",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114371413003915496",
+    "type": "game",
+    "title": "Big Boulders in Holofort shake, crack and expl…",
+    "summary": "Big Boulders in Holofort shake, crack and explode into smaller rocks when they’re mined. How can I make this more sati…",
+    "url": "https://x.com/holofortgame/status/2114371413003915496",
+    "imageUrl": "/covers/x-2114371413003915496.jpg",
+    "source": "x",
+    "sourceId": "2114371413003915496",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113530640570151338",
+    "type": "game",
+    "title": "I'm building a city-building game where everyt…",
+    "summary": "I'm building a city-building game where everything is made of wooden blocks! 🏙️ Build your own city, watch tiny cars d…",
+    "url": "https://x.com/MaxHakster/status/2113530640570151338",
+    "imageUrl": "/covers/x-2113530640570151338.jpg",
+    "source": "x",
+    "sourceId": "2113530640570151338",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114256341766426718",
+    "type": "game",
+    "title": "Night time is a vibe",
+    "summary": "Night time is a vibe. Make sure you're set up for the night so your colonists are ready for the next day. 🌿🍂",
+    "url": "https://x.com/SpringFallGame/status/2114256341766426718",
+    "imageUrl": "/covers/x-2114256341766426718.jpg",
+    "source": "x",
+    "sourceId": "2114256341766426718",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114102968186437639",
+    "type": "game",
+    "title": "metromino game",
+    "summary": "It’s ! I've just added a screenshot mode to Metromino! I hope that one day someone will share a screenshot of their ci…",
+    "url": "https://x.com/metromino/status/2114102968186437639",
+    "imageUrl": "/covers/x-2114102968186437639.jpg",
+    "source": "x",
+    "sourceId": "2114102968186437639",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113918166438924738",
+    "type": "game",
+    "title": "🎮 What happens when you mix miniature voxel to…",
+    "summary": "🎮 What happens when you mix miniature voxel tools with a cozy city builder? 👀 This is Miniopolis—designed to let you b…",
+    "url": "https://x.com/indieforgames/status/2113918166438924738",
+    "imageUrl": "/covers/x-2113918166438924738.jpg",
+    "source": "x",
+    "sourceId": "2113918166438924738",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114427434502373665",
+    "type": "game",
+    "title": "Your creatures orbit you in a ring and fight o…",
+    "summary": "Your creatures orbit you in a ring and fight on their own while you explore floating islands. Free to play — Steam Ear…",
+    "url": "https://x.com/voxmons/status/2114427434502373665",
+    "imageUrl": "/covers/x-2114427434502373665.jpg",
+    "source": "x",
+    "sourceId": "2114427434502373665",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114475060165743007",
+    "type": "game",
+    "title": "Undead Party VS Cavalry Charge",
+    "summary": "Undead Party VS Cavalry Charge",
+    "url": "https://x.com/_alteemor/status/2114475060165743007",
+    "imageUrl": "/covers/x-2114475060165743007.jpg",
+    "source": "x",
+    "sourceId": "2114475060165743007",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2113587895403675687",
+    "type": "game",
+    "title": "Filmic or full neon? This colour slider change…",
+    "summary": "Filmic or full neon? This colour slider changes the look of Neonovista without rebuilding the city.",
+    "url": "https://x.com/KenleyStudio/status/2113587895403675687",
+    "imageUrl": "/covers/x-2113587895403675687.jpg",
+    "source": "x",
+    "sourceId": "2113587895403675687",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113996464292495400",
+    "type": "game",
+    "title": "Epochfall is a real-time grand-strategy game o…",
+    "summary": "Epochfall is a real-time grand-strategy game on a living Earth. The Kickstarter start is 270 BC with 34 powers. The ma…",
+    "url": "https://x.com/ironbuffstudios/status/2113996464292495400",
+    "imageUrl": "/covers/x-2113996464292495400.jpg",
+    "source": "x",
+    "sourceId": "2113996464292495400",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2113771687452053563",
+    "type": "game",
+    "title": "My newest game is a Space Colony Sim",
+    "summary": "My newest game is a Space Colony Sim. A mobile recreation of Utopia the creation of a nation. Its free. NO ADS NO PURC…",
+    "url": "https://x.com/Dieselweasels/status/2113771687452053563",
+    "imageUrl": "/covers/x-2113771687452053563.jpg",
+    "source": "x",
+    "sourceId": "2113771687452053563",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113496204763906557",
+    "type": "game",
+    "title": "Every district in my city builder starts compl…",
+    "summary": "Every district in my city builder starts completely empty: no roads, no buildings, no residents 🏗️ Neighborhood, Survi…",
+    "url": "https://x.com/gabigamedev/status/2113496204763906557",
+    "imageUrl": "/covers/x-2113496204763906557.jpg",
+    "source": "x",
+    "sourceId": "2113496204763906557",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113921155400917178",
+    "type": "game",
+    "title": "My lab brews ether that glows like plankton",
+    "summary": "My lab brews ether that glows like plankton. Bring it slime and rare cores, and new buildings unlock on the island. Li…",
+    "url": "https://x.com/dima_gamedev/status/2113921155400917178",
+    "imageUrl": "/covers/x-2113921155400917178.jpg",
+    "source": "x",
+    "sourceId": "2113921155400917178",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114384667637854512",
+    "type": "game",
+    "title": "🏰 QFrontier keeps growing",
+    "summary": "🏰 QFrontier keeps growing! Step inside the new saddlers’ and wheelwrights’ workshops, explore the textile market, and …",
+    "url": "https://x.com/qryptafrontier/status/2114384667637854512",
+    "imageUrl": "/covers/x-2114384667637854512.jpg",
+    "source": "x",
+    "sourceId": "2114384667637854512",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114250608756543667",
+    "type": "game",
+    "title": "This medieval town is made from 40 free low-po…",
+    "summary": "This medieval town is made from 40 free low-poly models, with a small Godot demo to explore too. 🏘️ Find the pack:",
+    "url": "https://x.com/jettelly/status/2114250608756543667",
+    "imageUrl": "/covers/x-2114250608756543667.jpg",
+    "source": "x",
+    "sourceId": "2114250608756543667",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114314289200930864",
+    "type": "game",
+    "title": "Imperionis - Turn-Based Strategy Steam:",
+    "summary": "Imperionis - Turn-Based Strategy Steam:",
+    "url": "https://x.com/solvictusig/status/2114314289200930864",
+    "imageUrl": "/covers/x-2114314289200930864.jpg",
+    "source": "x",
+    "sourceId": "2114314289200930864",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114355180112400387",
+    "type": "game",
+    "title": "In Angul Kingdoms, every weapon and piece of a…",
+    "summary": "In Angul Kingdoms, every weapon and piece of armor has a tier, changing its appearance when equipped Follow us on disc…",
+    "url": "https://x.com/siegerats/status/2114355180112400387",
+    "imageUrl": "/covers/x-2114355180112400387.jpg",
+    "source": "x",
+    "sourceId": "2114355180112400387",
+    "tags": [
+      "x-search",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114191975159410689",
+    "type": "game",
+    "title": "You can hide in craters created by your artill…",
+    "summary": "You can hide in craters created by your artillery strikes to push up in RealStrategy RTS! Follow for more",
+    "url": "https://x.com/MatrixLiteSys/status/2114191975159410689",
+    "imageUrl": "/covers/x-2114191975159410689.jpg",
+    "source": "x",
+    "sourceId": "2114191975159410689",
+    "tags": [
+      "x-search",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4896760",
+    "type": "game",
+    "title": "MA 3 – President Simulator",
+    "summary": "Be the President! Lead a modern nation, make tough choices, and shape history.",
+    "url": "https://store.steampowered.com/app/4896760/",
+    "imageUrl": "/covers/steam-4896760.jpg",
+    "source": "steam",
+    "sourceId": "4896760",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-4265280",
+    "type": "game",
+    "title": "Nile Express",
+    "summary": "Build the first railway network in Africa. Create profitable routes in Egypt, from Alexandria to Aswan. Deliver passen…",
+    "url": "https://store.steampowered.com/app/4265280/",
+    "imageUrl": "/covers/steam-4265280.jpg",
+    "source": "steam",
+    "sourceId": "4265280",
+    "tags": [
+      "steam",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-5035220",
+    "type": "game",
+    "title": "For the Fatherland: Chronicle of Park Chung-hee",
+    "summary": "January 1, 1960. Become Major General Park Chung-hee at a turning point in Korean history. Preserve democracy and rise…",
+    "url": "https://store.steampowered.com/app/5035220/",
+    "imageUrl": "/covers/steam-5035220.jpg",
+    "source": "steam",
+    "sourceId": "5035220",
+    "tags": [
+      "steam",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-552740",
+    "type": "game",
+    "title": "The Marquee: Lights. Camera. Legacy.",
+    "summary": "Build a film studio from the ground up, create original movies, manage talent and production, compete for audiences, a…",
+    "url": "https://store.steampowered.com/app/552740/",
+    "imageUrl": "/covers/steam-552740.jpg",
+    "source": "steam",
+    "sourceId": "552740",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5395460",
+    "type": "game",
+    "title": "Provincia Wars",
+    "summary": "Provincia Wars is a real-time strategy game inspired by the Roman Empire. Build settlements, manage resources, expand …",
+    "url": "https://store.steampowered.com/app/5395460/",
+    "imageUrl": "/covers/steam-5395460.jpg",
+    "source": "steam",
+    "sourceId": "5395460",
+    "tags": [
+      "steam",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5329550",
+    "type": "game",
+    "title": "Restore the Luminous",
+    "summary": "1対1で戦う対戦カードゲームです。どのリーダーを選んでも使えるカードは同じなのに、リーダーによって固有の能力も、最初の手札の枚数も、場に出せるユニットの数も変わります。全カードが最初から使えて、ガチャはありません。",
+    "url": "https://store.steampowered.com/app/5329550/",
+    "imageUrl": "/covers/steam-5329550.jpg",
+    "source": "steam",
+    "sourceId": "5329550",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5206450",
+    "type": "game",
+    "title": "Long March",
+    "summary": "Utilize four unique towers to defend your land from attackers across three levels!",
+    "url": "https://store.steampowered.com/app/5206450/",
+    "imageUrl": "/covers/steam-5206450.jpg",
+    "source": "steam",
+    "sourceId": "5206450",
+    "tags": [
+      "steam",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5045930",
+    "type": "game",
+    "title": "Governor",
+    "summary": "An economic strategy game where you run the central bank. Built on the IS–PC–MR macroeconomic model. The policy rate, …",
+    "url": "https://store.steampowered.com/app/5045930/",
+    "imageUrl": "/covers/steam-5045930.jpg",
+    "source": "steam",
+    "sourceId": "5045930",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-4888530",
+    "type": "game",
+    "title": "Airline Legacy",
+    "summary": "A football-manager-style career sim — but you run airlines. Get hired as a CEO, answer to a ruthless board, and build …",
+    "url": "https://store.steampowered.com/app/4888530/",
+    "imageUrl": "/covers/steam-4888530.jpg",
+    "source": "steam",
+    "sourceId": "4888530",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5389640",
+    "type": "game",
+    "title": "Quota: Hit Your Number",
+    "summary": "The sales satire as an idle career game: from Junior SDR with a headset all the way to IPO. Nail your call timing, let…",
+    "url": "https://store.steampowered.com/app/5389640/",
+    "imageUrl": "/covers/steam-5389640.jpg",
+    "source": "steam",
+    "sourceId": "5389640",
+    "tags": [
+      "steam",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5167030",
+    "type": "game",
+    "title": "Winter War",
+    "summary": "Winter War is a first-person shooter set during the Winter War of 1939–1940. Hold the line against overwhelming odds w…",
+    "url": "https://store.steampowered.com/app/5167030/",
+    "imageUrl": "/covers/steam-5167030.jpg",
+    "source": "steam",
+    "sourceId": "5167030",
+    "tags": [
+      "steam",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-kurigamedev-gold-bricks",
+    "type": "game",
+    "title": "Gold and Bricks",
+    "summary": "Gold and Bricks is a small game that mixes elements of city builder, roguelite, strategy and tower defense",
+    "url": "https://kurigamedev.itch.io/gold-bricks",
+    "imageUrl": "/covers/itch-kurigamedev-gold-bricks.jpg",
+    "source": "itch",
+    "sourceId": "https://kurigamedev.itch.io/gold-bricks",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-venarry-world-empire",
+    "type": "game",
+    "title": "World Empire",
+    "summary": "Пиксельная RTS на суше и море.",
+    "url": "https://venarry.itch.io/world-empire",
+    "imageUrl": "/covers/itch-venarry-world-empire.jpg",
+    "source": "itch",
+    "sourceId": "https://venarry.itch.io/world-empire",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-lee-courgette-usure",
+    "type": "game",
+    "title": "USURE — A War of Attrition",
+    "summary": "Hold your cities under drones and missiles, pierce the fog of war, outlast the enemy. A 3D war-room wargame.",
+    "url": "https://lee-courgette.itch.io/usure",
+    "imageUrl": "/covers/itch-lee-courgette-usure.jpg",
+    "source": "itch",
+    "sourceId": "https://lee-courgette.itch.io/usure",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-giigglebytes-silicon-siege",
+    "type": "game",
+    "title": "Silicon Siege",
+    "summary": "Procedural tower defense on a circuit board. Hold the core against 146 waves of intrusions.",
+    "url": "https://giigglebytes.itch.io/silicon-siege",
+    "imageUrl": "/covers/itch-giigglebytes-silicon-siege.jpg",
+    "source": "itch",
+    "sourceId": "https://giigglebytes.itch.io/silicon-siege",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-koshei13-galaxywar",
+    "type": "game",
+    "title": "GalaxyWar",
+    "summary": "Free browser space strategy: build your planet, raise a fleet and fight real-time battles. Humans vs the Apid swarm.",
+    "url": "https://koshei13.itch.io/galaxywar",
+    "imageUrl": "/covers/itch-koshei13-galaxywar.jpg",
+    "source": "itch",
+    "sourceId": "https://koshei13.itch.io/galaxywar",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-thedoctortw-world-domination-every-last-city",
+    "type": "game",
+    "title": "World Domination: Every Last City",
+    "summary": "Conquer the world, one city at a time. A whole world war in one evening.",
+    "url": "https://thedoctortw.itch.io/world-domination-every-last-city",
+    "imageUrl": "/covers/itch-thedoctortw-world-domination-every-last-city.jpg",
+    "source": "itch",
+    "sourceId": "https://thedoctortw.itch.io/world-domination-every-last-city",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-whitemoth1157-the-7-kingdoms",
+    "type": "game",
+    "title": "The 7 kingdoms",
+    "summary": "A simple pen-and-paper rol board game. Easy and fast to learn. Try all sorts of strategies",
+    "url": "https://whitemoth1157.itch.io/the-7-kingdoms",
+    "imageUrl": "/covers/itch-whitemoth1157-the-7-kingdoms.jpg",
+    "source": "itch",
+    "sourceId": "https://whitemoth1157.itch.io/the-7-kingdoms",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-eichenlaubwargames-pitiantuta-chaco-war-1932",
+    "type": "game",
+    "title": "Pitiantuta - Chaco War 1932",
+    "summary": "Command a Paraguayan battalion in a hex-and-counter wargame of the Chaco War",
+    "url": "https://eichenlaubwargames.itch.io/pitiantuta-chaco-war-1932",
+    "imageUrl": "/covers/itch-eichenlaubwargames-pitiantuta-chaco-war-1932.jpg",
+    "source": "itch",
+    "sourceId": "https://eichenlaubwargames.itch.io/pitiantuta-chaco-war-1932",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-funwithai-kaweka-lakes-3d",
+    "type": "game",
+    "title": "Kaweka Lakes 3D",
+    "summary": "Interactive 3D simulation of the Kaweka Lakes, New Zealand",
+    "url": "https://funwithai.itch.io/kaweka-lakes-3d",
+    "imageUrl": "/covers/itch-funwithai-kaweka-lakes-3d.jpg",
+    "source": "itch",
+    "sourceId": "https://funwithai.itch.io/kaweka-lakes-3d",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-milojan-tower-asteroid",
+    "type": "game",
+    "title": "Tower Asteroid",
+    "summary": "A cozy 3D tower defense on floating asteroids — 5 maps, online co-op and a global leaderboard.",
+    "url": "https://milojan.itch.io/tower-asteroid",
+    "imageUrl": "/covers/itch-milojan-tower-asteroid.jpg",
+    "source": "itch",
+    "sourceId": "https://milojan.itch.io/tower-asteroid",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-showgames-fujii-aurora-skyline",
+    "type": "game",
+    "title": "AURORA SKYLINE",
+    "summary": "Real-time city-management simulation",
+    "url": "https://showgames-fujii.itch.io/aurora-skyline",
+    "imageUrl": "/covers/itch-showgames-fujii-aurora-skyline.jpg",
+    "source": "itch",
+    "sourceId": "https://showgames-fujii.itch.io/aurora-skyline",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-stitchthefox-chronicles",
+    "type": "game",
+    "title": "Chronicles",
+    "summary": "City building and empire management. Many victories to choose from. How will you play?",
+    "url": "https://stitchthefox.itch.io/chronicles",
+    "imageUrl": "/covers/itch-stitchthefox-chronicles.jpg",
+    "source": "itch",
+    "sourceId": "https://stitchthefox.itch.io/chronicles",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-fennrivo-studios-cozy-critter-empire",
+    "type": "game",
+    "title": "Cozy Critter Empire",
+    "summary": "Build a cozy woodland colony, automate production, and restore an island archipelago in this offline idle game.",
+    "url": "https://fennrivo-studios.itch.io/cozy-critter-empire",
+    "imageUrl": "/covers/itch-fennrivo-studios-cozy-critter-empire.jpg",
+    "source": "itch",
+    "sourceId": "https://fennrivo-studios.itch.io/cozy-critter-empire",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-timeflute-lava-city-demo",
+    "type": "game",
+    "title": "Lava City",
+    "summary": "Lava Management &amp; Island Growth",
+    "url": "https://timeflute.itch.io/lava-city-demo",
+    "imageUrl": "/covers/itch-timeflute-lava-city-demo.jpg",
+    "source": "itch",
+    "sourceId": "https://timeflute.itch.io/lava-city-demo",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-pofi-g-pegs-bones",
+    "type": "game",
+    "title": "Pegs & Bones",
+    "summary": "A tribal survival sim where Plinko-style expeditions, choices, and generations decide whether your settlement survives.",
+    "url": "https://pofi-g.itch.io/pegs-bones",
+    "imageUrl": "/covers/itch-pofi-g-pegs-bones.jpg",
+    "source": "itch",
+    "sourceId": "https://pofi-g.itch.io/pegs-bones",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-aggin46r-stateday",
+    "type": "game",
+    "title": "StateDay",
+    "summary": "Zombie survival colony sim: build a settlement, lead survivors, decide who to save.",
+    "url": "https://aggin46r.itch.io/stateday",
+    "imageUrl": "/covers/itch-aggin46r-stateday.jpg",
+    "source": "itch",
+    "sourceId": "https://aggin46r.itch.io/stateday",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-greygames1000-halo-station",
+    "type": "game",
+    "title": "Halo Station",
+    "summary": "Build a colony. Light the Beacon. Climb beyond.",
+    "url": "https://greygames1000.itch.io/halo-station",
+    "imageUrl": "/covers/itch-greygames1000-halo-station.jpg",
+    "source": "itch",
+    "sourceId": "https://greygames1000.itch.io/halo-station",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-thinkaboutitgames-imperium-peasant-to-emperor",
+    "type": "game",
+    "title": "Imperium: Peasant to Emperor",
+    "summary": "Rise from Germanian frontier conscript to Roman emperor in an alternate-history life strategy game.",
+    "url": "https://thinkaboutitgames.itch.io/imperium-peasant-to-emperor",
+    "imageUrl": "/covers/itch-thinkaboutitgames-imperium-peasant-to-emperor.jpg",
+    "source": "itch",
+    "sourceId": "https://thinkaboutitgames.itch.io/imperium-peasant-to-emperor",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-burgwacht-burgwacht",
+    "type": "game",
+    "title": "Burgwacht",
+    "summary": "Comic tower defense with 22 towers, 18 maps, heroes and weather – playable in 6 languages.",
+    "url": "https://burgwacht.itch.io/burgwacht",
+    "imageUrl": "/covers/itch-burgwacht-burgwacht.jpg",
+    "source": "itch",
+    "sourceId": "https://burgwacht.itch.io/burgwacht",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-c1ick0nme-nnagmen",
+    "type": "game",
+    "title": "NnagmeN",
+    "summary": "Tower defense where you pay with your blood...",
+    "url": "https://c1ick0nme.itch.io/nnagmen",
+    "imageUrl": "/covers/itch-c1ick0nme-nnagmen.jpg",
+    "source": "itch",
+    "sourceId": "https://c1ick0nme.itch.io/nnagmen",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-jota-emi-rectangles",
+    "type": "game",
+    "title": "Rectangles",
+    "summary": "A RTS game from scratch",
+    "url": "https://jota-emi.itch.io/rectangles",
+    "imageUrl": "/covers/itch-jota-emi-rectangles.jpg",
+    "source": "itch",
+    "sourceId": "https://jota-emi.itch.io/rectangles",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-l3m0n-0-the-revenge-colony",
+    "type": "game",
+    "title": "The Revenge colony",
+    "summary": "ant auto-chess",
+    "url": "https://l3m0n-0.itch.io/the-revenge-colony",
+    "imageUrl": "/covers/itch-l3m0n-0-the-revenge-colony.jpg",
+    "source": "itch",
+    "sourceId": "https://l3m0n-0.itch.io/the-revenge-colony",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-nnkd-kevin-tiny-colony",
+    "type": "game",
+    "title": "tiny COLONY",
+    "summary": "A game where you control an ant colony to gather food, upgrading your nest and army, then defend against giant threats",
+    "url": "https://nnkd-kevin.itch.io/tiny-colony",
+    "imageUrl": "/covers/itch-nnkd-kevin-tiny-colony.jpg",
+    "source": "itch",
+    "sourceId": "https://nnkd-kevin.itch.io/tiny-colony",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-sectorplus-sector-plus",
+    "type": "game",
+    "title": "SECTOR plus",
+    "summary": "Command your space fleet. Build, fight, and conquer in a real-time strategy game!",
+    "url": "https://sectorplus.itch.io/sector-plus",
+    "imageUrl": "/covers/itch-sectorplus-sector-plus.jpg",
+    "source": "itch",
+    "sourceId": "https://sectorplus.itch.io/sector-plus",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nnkayn-blacksite",
+    "type": "game",
+    "title": "BLACKSITE",
+    "summary": "Hold the perimeter. Keep the core alive. Real-time tactical RTS base defense.",
+    "url": "https://nnkayn.itch.io/blacksite",
+    "imageUrl": "/covers/itch-nnkayn-blacksite.jpg",
+    "source": "itch",
+    "sourceId": "https://nnkayn.itch.io/blacksite",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-ozziej-fracture-protocol",
+    "type": "game",
+    "title": "Fracture Protocol",
+    "summary": "Rebuild your forces, secure the supply network, and stop a military coup in a sci-fi real-time strategy campaign.",
+    "url": "https://ozziej.itch.io/fracture-protocol",
+    "imageUrl": "/covers/itch-ozziej-fracture-protocol.jpg",
+    "source": "itch",
+    "sourceId": "https://ozziej.itch.io/fracture-protocol",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-niumacode-plants-rts",
+    "type": "game",
+    "title": "Plants RTS",
+    "summary": "独立游戏：Plants RTS",
+    "url": "https://niumacode.itch.io/plants-rts",
+    "imageUrl": "/covers/itch-niumacode-plants-rts.jpg",
+    "source": "itch",
+    "sourceId": "https://niumacode.itch.io/plants-rts",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nopilas-nopilas",
+    "type": "game",
+    "title": "Nopilas",
+    "summary": "Free browser space strategy — one update every hour, ten minutes a day.",
+    "url": "https://nopilas.itch.io/nopilas",
+    "imageUrl": "/covers/itch-nopilas-nopilas.jpg",
+    "source": "itch",
+    "sourceId": "https://nopilas.itch.io/nopilas",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-numefinorio-beyond-the-aquila-rift",
+    "type": "game",
+    "title": "Beyond the Aquila Rift",
+    "summary": "A 4X game of interstellar logistics",
+    "url": "https://numefinorio.itch.io/beyond-the-aquila-rift",
+    "imageUrl": "/covers/itch-numefinorio-beyond-the-aquila-rift.jpg",
+    "source": "itch",
+    "sourceId": "https://numefinorio.itch.io/beyond-the-aquila-rift",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-heliosgrounder-forever-autumn",
+    "type": "game",
+    "title": "We Hope there is Forever Autumn",
+    "summary": "4x strategy about frozen survival",
+    "url": "https://heliosgrounder.itch.io/forever-autumn",
+    "imageUrl": "/covers/itch-heliosgrounder-forever-autumn.jpg",
+    "source": "itch",
+    "sourceId": "https://heliosgrounder.itch.io/forever-autumn",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nevergreen-games-pillars-of-power",
+    "type": "game",
+    "title": "Pillars of Power",
+    "summary": "A slow real-time strategy game of force, wealth, faith and tradition, played on an engraved atlas.",
+    "url": "https://nevergreen-games.itch.io/pillars-of-power",
+    "imageUrl": "/covers/itch-nevergreen-games-pillars-of-power.jpg",
+    "source": "itch",
+    "sourceId": "https://nevergreen-games.itch.io/pillars-of-power",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-discount-ninja-void-enterprise",
+    "type": "game",
+    "title": "Void Enterprise",
+    "summary": "A Multiplayer Space Adventure - Grand Strategy",
+    "url": "https://discount-ninja.itch.io/void-enterprise",
+    "imageUrl": "/covers/itch-discount-ninja-void-enterprise.jpg",
+    "source": "itch",
+    "sourceId": "https://discount-ninja.itch.io/void-enterprise",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-starbornint-emperor-of-the-stars",
+    "type": "game",
+    "title": "Emperor of the Stars",
+    "summary": "Emperor of the Stars is a 4x turn-based space strategy",
+    "url": "https://starbornint.itch.io/emperor-of-the-stars",
+    "imageUrl": "/covers/itch-starbornint-emperor-of-the-stars.jpg",
+    "source": "itch",
+    "sourceId": "https://starbornint.itch.io/emperor-of-the-stars",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-jojocomunista-sovereign-expanse",
+    "type": "game",
+    "title": "Space 4X: Sovereign Expanse",
+    "summary": "16-bit turn-based 4X in space: expand, negotiate, and survive the galaxy’s dilemmas.",
+    "url": "https://jojocomunista.itch.io/sovereign-expanse",
+    "imageUrl": "/covers/itch-jojocomunista-sovereign-expanse.jpg",
+    "source": "itch",
+    "sourceId": "https://jojocomunista.itch.io/sovereign-expanse",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nikotap-corner-kitchen-merge-cafe",
+    "type": "game",
+    "title": "Corner Kitchen: Merge Cafe",
+    "summary": "merge, cooking, cafe, restaurant, food, casual, cozy, idle, management, story-rich",
+    "url": "https://nikotap.itch.io/corner-kitchen-merge-cafe",
+    "imageUrl": "/covers/itch-nikotap-corner-kitchen-merge-cafe.jpg",
+    "source": "itch",
+    "sourceId": "https://nikotap.itch.io/corner-kitchen-merge-cafe",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-capital-royale-capital-royale",
+    "type": "game",
+    "title": "Capital Royale",
+    "summary": "Build a company from scratch and outplay AI-run rivals. A business management sim in your browser.",
+    "url": "https://capital-royale.itch.io/capital-royale",
+    "imageUrl": "/covers/itch-capital-royale-capital-royale.jpg",
+    "source": "itch",
+    "sourceId": "https://capital-royale.itch.io/capital-royale",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-lorddmt-esferia",
+    "type": "game",
+    "title": "Esferia",
+    "summary": "uild a mining colony, research new tech, raise a fleet and conquer the galaxy",
+    "url": "https://lorddmt.itch.io/esferia",
+    "imageUrl": "/covers/itch-lorddmt-esferia.jpg",
+    "source": "itch",
+    "sourceId": "https://lorddmt.itch.io/esferia",
+    "tags": [
+      "itch",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-emceedart-critical-decay",
+    "type": "game",
+    "title": "Critical Decay",
+    "summary": "A 2D Space Tower Defense Game",
+    "url": "https://emceedart.itch.io/critical-decay",
+    "imageUrl": "/covers/itch-emceedart-critical-decay.jpg",
+    "source": "itch",
+    "sourceId": "https://emceedart.itch.io/critical-decay",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-hollowlightgame-hollowlight",
+    "type": "game",
+    "title": "Hollowlight",
+    "summary": "Gather by day. Hold the light by night. A survivors x tower defense game you can play free in your browser.",
+    "url": "https://hollowlightgame.itch.io/hollowlight",
+    "imageUrl": "/covers/itch-hollowlightgame-hollowlight.jpg",
+    "source": "itch",
+    "sourceId": "https://hollowlightgame.itch.io/hollowlight",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-choclik-lord",
+    "type": "game",
+    "title": "Lords of Ruin - Alfa Demo",
+    "summary": "Turn-based fantasy strategy where every move matters.",
+    "url": "https://choclik.itch.io/lord",
+    "imageUrl": "/covers/itch-choclik-lord.jpg",
+    "source": "itch",
+    "sourceId": "https://choclik.itch.io/lord",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-brown-box-studio-soap",
+    "type": "game",
+    "title": "SOAP — Sigils of Arcane Power",
+    "summary": "A card game where luck meets strategy. Choose your hero, unleash Jokers, and challenge your friends in tactical battles!",
+    "url": "https://brown-box-studio.itch.io/soap",
+    "imageUrl": "/covers/itch-brown-box-studio-soap.jpg",
+    "source": "itch",
+    "sourceId": "https://brown-box-studio.itch.io/soap",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-coming-dream-word-dominion",
+    "type": "game",
+    "title": "Word Dominion",
+    "summary": "A word-powered fantasy strategy game",
+    "url": "https://coming-dream.itch.io/word-dominion",
+    "imageUrl": "/covers/itch-coming-dream-word-dominion.jpg",
+    "source": "itch",
+    "sourceId": "https://coming-dream.itch.io/word-dominion",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-theomchlk-iron-cards-frontline",
+    "type": "game",
+    "title": "Iron Cards : Frontline",
+    "summary": "Build your army, plan your strategy, grow your economy, and dominate the battlefield.",
+    "url": "https://theomchlk.itch.io/iron-cards-frontline",
+    "imageUrl": "/covers/itch-theomchlk-iron-cards-frontline.jpg",
+    "source": "itch",
+    "sourceId": "https://theomchlk.itch.io/iron-cards-frontline",
+    "tags": [
+      "itch",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-woshi-gang-studio-gaming-brain-war",
+    "type": "game",
+    "title": "Brain war - Game",
+    "summary": "I don&;t need a weapon. My brain is the weapon. Real-time battles between glowing neural networks.",
+    "url": "https://woshi-gang-studio-gaming.itch.io/brain-war",
+    "imageUrl": "/covers/itch-woshi-gang-studio-gaming-brain-war.jpg",
+    "source": "itch",
+    "sourceId": "https://woshi-gang-studio-gaming.itch.io/brain-war",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-gumboso-pig-crusade",
+    "type": "game",
+    "title": "Pig Crusade",
+    "summary": "Medieval tactical auto-battler. Recruit pigs, position your army, and storm human strongholds.",
+    "url": "https://gumboso.itch.io/pig-crusade",
+    "imageUrl": "/covers/itch-gumboso-pig-crusade.jpg",
+    "source": "itch",
+    "sourceId": "https://gumboso.itch.io/pig-crusade",
+    "tags": [
+      "itch",
+      "war"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "threejs-forum-95563",
+    "type": "game",
+    "title": "Roadster browser game",
+    "summary": "浏览器小游戏：特斯拉 Roadster 灵感。",
+    "url": "https://discourse.threejs.org/t/i-built-a-browser-game-inspired-by-teslas-new-roadster-and-its-rocket-thrusters/95563",
+    "imageUrl": "/covers/threejs-forum-95563.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95563",
+    "tags": [
+      "threejs",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "threejs-forum-95549",
+    "type": "game",
+    "title": "Physics open world roadster",
+    "summary": "物理开放世界：开 Roadster 飞。",
+    "url": "https://discourse.threejs.org/t/physics-based-open-world-fly-the-roadster/95549",
+    "imageUrl": "/covers/threejs-forum-95549.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95549",
+    "tags": [
+      "threejs",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "threejs-forum-95380",
+    "type": "game",
+    "title": "Pac-Man Three.js",
+    "summary": "Three.js 版吃豆人。",
+    "url": "https://discourse.threejs.org/t/pac-man-game-three-js/95380",
+    "imageUrl": "/covers/threejs-forum-95380.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95380",
+    "tags": [
+      "threejs",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "threejs-forum-95812",
+    "type": "game",
+    "title": "Rawi Rai haiku tiny game",
+    "summary": "俳句站首页附带小游戏。",
+    "url": "https://discourse.threejs.org/t/rawi-rai-haiku-poem-website-with-tiny-game-at-homepage/95812",
+    "imageUrl": "/covers/threejs-forum-95812.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95812",
+    "tags": [
+      "threejs",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "80lv-jackbox-esque-social-deduction-game-where-you-help-your-frie",
+    "type": "game",
+    "title": "社交推理 Jackbox 风",
+    "summary": "帮朋友或背叛他们的派对推理。",
+    "url": "https://80.lv/articles/jackbox-esque-social-deduction-game-where-you-help-your-friends-or-betray-them",
+    "imageUrl": "/covers/80lv-jackbox-esque-social-deduction-game-where-you-help-your-frie.jpg",
+    "source": "80lv",
+    "sourceId": "jackbox-esque-social-deduction-game-where-you-help-your-friends-or-betray-them",
+    "tags": [
+      "80lv",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "80lv-protect-bizarre-stray-animals-in-this-survival-horror-animal",
+    "type": "game",
+    "title": "怪动物庇护所求生",
+    "summary": "怪味流浪动物庇护所生存恐怖模拟。",
+    "url": "https://80.lv/articles/protect-bizarre-stray-animals-in-this-survival-horror-animal-shelter-simulator",
+    "imageUrl": "/covers/80lv-protect-bizarre-stray-animals-in-this-survival-horror-animal.jpg",
+    "source": "80lv",
+    "sourceId": "protect-bizarre-stray-animals-in-this-survival-horror-animal-shelter-simulator",
+    "tags": [
+      "80lv",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114378054516769119",
+    "type": "shader",
+    "title": "patrolling",
+    "summary": "patrolling",
+    "url": "https://x.com/dallao_dev/status/2114378054516769119",
+    "imageUrl": "/covers/x-2114378054516769119.jpg",
+    "source": "x",
+    "sourceId": "2114378054516769119",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114482452798574633",
+    "type": "shader",
+    "title": "playing around with radiance cascades + ps1-li…",
+    "summary": "playing around with radiance cascades + ps1-like rendering with webgpu",
+    "url": "https://x.com/codetaur/status/2114482452798574633",
+    "imageUrl": "/covers/x-2114482452798574633.jpg",
+    "source": "x",
+    "sourceId": "2114482452798574633",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114452792731701682",
+    "type": "shader",
+    "title": "Particle-based fire simulation",
+    "summary": "Particle-based fire simulation",
+    "url": "https://x.com/MytinoDev/status/2114452792731701682",
+    "imageUrl": "/covers/x-2114452792731701682.jpg",
+    "source": "x",
+    "sourceId": "2114452792731701682",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114484052463849652",
+    "type": "shader",
+    "title": "Exploring the skies of Lumiose in the demo for…",
+    "summary": "Exploring the skies of Lumiose in the demo for my Godot addon (Poke-dot). The shaders and post processing are close en…",
+    "url": "https://x.com/Reisyukaku/status/2114484052463849652",
+    "imageUrl": "/covers/x-2114484052463849652.jpg",
+    "source": "x",
+    "sourceId": "2114484052463849652",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114479601195847999",
+    "type": "shader",
+    "title": "some quick ps1 environments from a small proje…",
+    "summary": "some quick ps1 environments from a small project I'm working on.",
+    "url": "https://x.com/DanInFiction/status/2114479601195847999",
+    "imageUrl": "/covers/x-2114479601195847999.jpg",
+    "source": "x",
+    "sourceId": "2114479601195847999",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114241566030139420",
+    "type": "shader",
+    "title": "TEST SUBJECT DETECTED A teaser for Portal 2 PS…",
+    "summary": "TEST SUBJECT DETECTED A teaser for Portal 2 PSX Horror, based on 2009 Portal 2 Core Hub-era build and the Source Engin…",
+    "url": "https://x.com/LambdaGenPosts/status/2114241566030139420",
+    "imageUrl": "/covers/x-2114241566030139420.jpg",
+    "source": "x",
+    "sourceId": "2114241566030139420",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114512807500615723",
+    "type": "shader",
+    "title": "Claude Opus 5.5 built this jelly dam for 18.51…",
+    "summary": "Claude Opus 5.5 built this jelly dam for 18.51$ A single HTML file using pure WebGPU, with no libraries. Waves follow …",
+    "url": "https://x.com/vib3coded/status/2114512807500615723",
+    "imageUrl": "/covers/x-2114512807500615723.jpg",
+    "source": "x",
+    "sourceId": "2114512807500615723",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114447103321866653",
+    "type": "shader",
+    "title": "Finally, all three mini-games are done!",
+    "summary": "Finally, all three mini-games are done!",
+    "url": "https://x.com/wtcdgames/status/2114447103321866653",
+    "imageUrl": "/covers/x-2114447103321866653.jpg",
+    "source": "x",
+    "sourceId": "2114447103321866653",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114473285153145069",
+    "type": "shader",
+    "title": "Underwater Lego-Drones anyone? Claude Opus 5.5…",
+    "summary": "Underwater Lego-Drones anyone? Claude Opus 5.5 designed a Technic submarine that actually dives. 1,567 real LEGO piece…",
+    "url": "https://x.com/konstantinsaifo/status/2114473285153145069",
+    "imageUrl": "/covers/x-2114473285153145069.jpg",
+    "source": "x",
+    "sourceId": "2114473285153145069",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114401867258052630",
+    "type": "shader",
+    "title": "Babylon Lite turns compute tasks into rolling …",
+    "summary": "Babylon Lite turns compute tasks into rolling ocean waves! This spectral ocean demo brings together wave simulation, d…",
+    "url": "https://x.com/babylonjs/status/2114401867258052630",
+    "imageUrl": "/covers/x-2114401867258052630.jpg",
+    "source": "x",
+    "sourceId": "2114401867258052630",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114443089377173846",
+    "type": "shader",
+    "title": "_Currentlly Working on a \"big\" Project for the…",
+    "summary": "_Currentlly Working on a \"big\" Project for the LSD26 Game Jam. this is just one of many ... Follow So you wont miss out",
+    "url": "https://x.com/Kay_NKN/status/2114443089377173846",
+    "imageUrl": "/covers/x-2114443089377173846.jpg",
+    "source": "x",
+    "sourceId": "2114443089377173846",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114419224697593859",
+    "type": "shader",
+    "title": "Been lurking for a while folks",
+    "summary": "Been lurking for a while folks! Sorry about that. Too much creative energies went into my actual job, whereas this acc…",
+    "url": "https://x.com/_naam/status/2114419224697593859",
+    "imageUrl": "/covers/x-2114419224697593859.jpg",
+    "source": "x",
+    "sourceId": "2114419224697593859",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114456069733024116",
+    "type": "shader",
+    "title": "New game I am working on, PSX vibes",
+    "summary": "New game I am working on, PSX vibes. How much blood? Yes.",
+    "url": "https://x.com/robko_rl/status/2114456069733024116",
+    "imageUrl": "/covers/x-2114456069733024116.jpg",
+    "source": "x",
+    "sourceId": "2114456069733024116",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114445536640307680",
+    "type": "shader",
+    "title": "missed the last bus back to the camp 23:27, po…",
+    "summary": "missed the last bus back to the camp 23:27, pouring rain and those two guys are just standing there",
+    "url": "https://x.com/rickygrimroot/status/2114445536640307680",
+    "imageUrl": "/covers/x-2114445536640307680.jpg",
+    "source": "x",
+    "sourceId": "2114445536640307680",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114480428379684977",
+    "type": "shader",
+    "title": "Real-time car crash damage for Unity 💥 Bodies …",
+    "summary": "Real-time car crash damage for Unity 💥 Bodies crush harder with speed, hoods buckle, bumpers and doors tear off, glass…",
+    "url": "https://x.com/IsinEmre/status/2114480428379684977",
+    "imageUrl": "/covers/x-2114480428379684977.jpg",
+    "source": "x",
+    "sourceId": "2114480428379684977",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114332115684733105",
+    "type": "shader",
+    "title": "UE5.8 trap: our nightclub's Local Fog Volume r…",
+    "summary": "UE5.8 trap: our nightclub's Local Fog Volume reported itself running, density 0.255, and drew nothing at all. Low or E…",
+    "url": "https://x.com/SecondChanceGme/status/2114332115684733105",
+    "imageUrl": "/covers/x-2114332115684733105.jpg",
+    "source": "x",
+    "sourceId": "2114332115684733105",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114401913550889174",
+    "type": "shader",
+    "title": "🔥 New release: Smooth VFX Pack for Godot 4",
+    "summary": "🔥 New release: Smooth VFX Pack for Godot 4! 20 ready-to-use 2D effects: fire, explosions, lightning, portals, frost, p…",
+    "url": "https://x.com/zlatko_69/status/2114401913550889174",
+    "imageUrl": "/covers/x-2114401913550889174.jpg",
+    "source": "x",
+    "sourceId": "2114401913550889174",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114495293731553332",
+    "type": "shader",
+    "title": "Fire cutscene i made for an upcoming Avatar",
+    "summary": "Fire cutscene i made for an upcoming Avatar. ()",
+    "url": "https://x.com/BigZinhere/status/2114495293731553332",
+    "imageUrl": "/covers/x-2114495293731553332.jpg",
+    "source": "x",
+    "sourceId": "2114495293731553332",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114505813729407111",
+    "type": "shader",
+    "title": "Hydrate redeem done for now, I feel like anima…",
+    "summary": "Hydrate redeem done for now, I feel like animating the water directly in unity would be better since I need to pass it…",
+    "url": "https://x.com/fafnirky/status/2114505813729407111",
+    "imageUrl": "/covers/x-2114505813729407111.jpg",
+    "source": "x",
+    "sourceId": "2114505813729407111",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114484387953717352",
+    "type": "shader",
+    "title": "Meet tomati :3",
+    "summary": "Meet tomati :3",
+    "url": "https://x.com/KanpekiSaru/status/2114484387953717352",
+    "imageUrl": "/covers/x-2114484387953717352.jpg",
+    "source": "x",
+    "sourceId": "2114484387953717352",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114439506505978349",
+    "type": "shader",
+    "title": "Claude Opus 5.5 helped build production-style …",
+    "summary": "Claude Opus 5.5 helped build production-style real-time VFX in Unity the effects include a fire explosion, lightning s…",
+    "url": "https://x.com/FranciAnjinho/status/2114439506505978349",
+    "imageUrl": "/covers/x-2114439506505978349.jpg",
+    "source": "x",
+    "sourceId": "2114439506505978349",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114453836509110643",
+    "type": "shader",
+    "title": "Rare gamedev update, we got seed-based procedu…",
+    "summary": "Rare gamedev update, we got seed-based procedural terrain generation now. Doesn't affect building placement yet, also …",
+    "url": "https://x.com/kryml0/status/2114453836509110643",
+    "imageUrl": "/covers/x-2114453836509110643.jpg",
+    "source": "x",
+    "sourceId": "2114453836509110643",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114395685332062606",
+    "type": "shader",
+    "title": "🔥 Upgrade your Godot games with NexusFX",
+    "summary": "🔥 Upgrade your Godot games with NexusFX! ⚡ 9 real-time 2D VFX for Godot 4.6: Fire, Smoke, Water, Lightning, Explosions…",
+    "url": "https://x.com/Flibixil/status/2114395685332062606",
+    "imageUrl": "/covers/x-2114395685332062606.jpg",
+    "source": "x",
+    "sourceId": "2114395685332062606",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114485227196453076",
+    "type": "shader",
+    "title": "ok this is actually cool someone rebuilt a phy…",
+    "summary": "ok this is actually cool someone rebuilt a physics textbook as an interactive 3D book. you tap the jars and watch ener…",
+    "url": "https://x.com/avynsrc/status/2114485227196453076",
+    "imageUrl": "/covers/x-2114485227196453076.jpg",
+    "source": "x",
+    "sourceId": "2114485227196453076",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "x-2114494635393376329",
+    "type": "shader",
+    "title": "🚨 Cyberpunk 2077 is RUNNING directly in a WEB …",
+    "summary": "🚨 Cyberpunk 2077 is RUNNING directly in a WEB BROWSER! An experimental project uses WebGPU + WebAssembly to run the ga…",
+    "url": "https://x.com/AhmedHarrisTech/status/2114494635393376329",
+    "imageUrl": "/covers/x-2114494635393376329.jpg",
+    "source": "x",
+    "sourceId": "2114494635393376329",
+    "tags": [
+      "x-search"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-robgillthings-composition-1",
+    "type": "shader",
+    "title": "composition 1",
+    "summary": "interactive generative art as a video game",
+    "url": "https://robgillthings.itch.io/composition-1",
+    "imageUrl": "/covers/itch-robgillthings-composition-1.jpg",
+    "source": "itch",
+    "sourceId": "https://robgillthings.itch.io/composition-1",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-rv48art-carbon-x",
+    "type": "shader",
+    "title": "carbon_X",
+    "summary": "Carbon_X is a minimal generative artwork built from a single geometric rule.",
+    "url": "https://rv48art.itch.io/carbon-x",
+    "imageUrl": "/covers/itch-rv48art-carbon-x.jpg",
+    "source": "itch",
+    "sourceId": "https://rv48art.itch.io/carbon-x",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-modseven-airstrafe",
+    "type": "shader",
+    "title": "AirStrafe",
+    "summary": "CS-style surfing on an endless, procedurally generated track – solo, online races and a PvP arena.",
+    "url": "https://modseven.itch.io/airstrafe",
+    "imageUrl": "/covers/itch-modseven-airstrafe.jpg",
+    "source": "itch",
+    "sourceId": "https://modseven.itch.io/airstrafe",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-vefects-pixel-craft-vfx-unreal-engine",
+    "type": "shader",
+    "title": "Pixel Craft VFX - Unreal Engine",
+    "summary": "Stylized pixel-art VFX pack for Unreal Engine.",
+    "url": "https://vefects.itch.io/pixel-craft-vfx-unreal-engine",
+    "imageUrl": "/covers/itch-vefects-pixel-craft-vfx-unreal-engine.jpg",
+    "source": "itch",
+    "sourceId": "https://vefects.itch.io/pixel-craft-vfx-unreal-engine",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-mkvision0-objekt-62",
+    "type": "shader",
+    "title": "OBJEKT-62",
+    "summary": "Salvage the Dune Sea // browser desert salvage",
+    "url": "https://mkvision0.itch.io/objekt-62",
+    "imageUrl": "/covers/itch-mkvision0-objekt-62.jpg",
+    "source": "itch",
+    "sourceId": "https://mkvision0.itch.io/objekt-62",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-blackstreamgames-rogues-dice",
+    "type": "shader",
+    "title": "Rogue's Dice",
+    "summary": "A dice-crew roguelike: every face is an action, and you get five seconds to turn them before the round resolves.",
+    "url": "https://blackstreamgames.itch.io/rogues-dice",
+    "imageUrl": "/covers/itch-blackstreamgames-rogues-dice.jpg",
+    "source": "itch",
+    "sourceId": "https://blackstreamgames.itch.io/rogues-dice",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-melonjs-after-burner",
+    "type": "shader",
+    "title": "reAfter Burner",
+    "summary": "Behind-the-jet arcade shooter : dodge, bank, and blast through the speeder swarm.",
+    "url": "https://melonjs.itch.io/after-burner",
+    "imageUrl": "/covers/itch-melonjs-after-burner.jpg",
+    "source": "itch",
+    "sourceId": "https://melonjs.itch.io/after-burner",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-xanderpatch-nucleon",
+    "type": "shader",
+    "title": "Nucleon",
+    "summary": "Chemistry simulation with puzzle elements",
+    "url": "https://xanderpatch.itch.io/nucleon",
+    "imageUrl": "/covers/itch-xanderpatch-nucleon.jpg",
+    "source": "itch",
+    "sourceId": "https://xanderpatch.itch.io/nucleon",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-0oq0o-robot-camping",
+    "type": "shader",
+    "title": "Robot Camping",
+    "summary": "Isometric survival game. fight enemies, explore a growing island, upgrade your robot.",
+    "url": "https://0oq0o.itch.io/robot-camping",
+    "imageUrl": "/covers/itch-0oq0o-robot-camping.jpg",
+    "source": "itch",
+    "sourceId": "https://0oq0o.itch.io/robot-camping",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-rockcen-just-let-me-sleep",
+    "type": "shader",
+    "title": "Just Let Me Sleep",
+    "summary": "A strategic auto-battler where you defend your sleep from a storm of subconscious emotions.",
+    "url": "https://rockcen.itch.io/just-let-me-sleep",
+    "imageUrl": "/covers/itch-rockcen-just-let-me-sleep.jpg",
+    "source": "itch",
+    "sourceId": "https://rockcen.itch.io/just-let-me-sleep",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-0oq0o-tin",
+    "type": "shader",
+    "title": "Tin Horde",
+    "summary": "Retro FPS sandbox with 10k robots who want to analyze you and you have a bow",
+    "url": "https://0oq0o.itch.io/tin",
+    "imageUrl": "/covers/itch-0oq0o-tin.jpg",
+    "source": "itch",
+    "sourceId": "https://0oq0o.itch.io/tin",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-de-panther-yamot10000",
+    "type": "shader",
+    "title": "Yamot10000",
+    "summary": "you got mud on your face. Get med, hit 10000 people with chairs, let the chaos control",
+    "url": "https://de-panther.itch.io/yamot10000",
+    "imageUrl": "/covers/itch-de-panther-yamot10000.jpg",
+    "source": "itch",
+    "sourceId": "https://de-panther.itch.io/yamot10000",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-goldenspiral-forest-of-hollow-blood",
+    "type": "shader",
+    "title": "Forest Of Hollow Blood Online MOBA",
+    "summary": "MOBA web online",
+    "url": "https://goldenspiral.itch.io/forest-of-hollow-blood",
+    "imageUrl": "/covers/itch-goldenspiral-forest-of-hollow-blood.jpg",
+    "source": "itch",
+    "sourceId": "https://goldenspiral.itch.io/forest-of-hollow-blood",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-nenam1607-devcraft",
+    "type": "shader",
+    "title": "Devcraft",
+    "summary": "An open-source Minecraft-inspired game.",
+    "url": "https://nenam1607.itch.io/devcraft",
+    "imageUrl": "/covers/itch-nenam1607-devcraft.jpg",
+    "source": "itch",
+    "sourceId": "https://nenam1607.itch.io/devcraft",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-mytino-fractal-explorer",
+    "type": "shader",
+    "title": "Fractal Explorer",
+    "summary": "Mobile-friendly browser app that lets you explore and create fractals with interactive panning and zooming.",
+    "url": "https://mytino.itch.io/fractal-explorer",
+    "imageUrl": "/covers/itch-mytino-fractal-explorer.jpg",
+    "source": "itch",
+    "sourceId": "https://mytino.itch.io/fractal-explorer",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-vladstorm-miserable-pocket-man",
+    "type": "shader",
+    "title": "Miserable Pocket Man",
+    "summary": "a game about emotional attachment and emotional torture / has multiple endings /",
+    "url": "https://vladstorm.itch.io/miserable-pocket-man",
+    "imageUrl": "/covers/itch-vladstorm-miserable-pocket-man.jpg",
+    "source": "itch",
+    "sourceId": "https://vladstorm.itch.io/miserable-pocket-man",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-phone-killer-juicy-stack",
+    "type": "shader",
+    "title": "Juicy Stack 5KB",
+    "summary": "视觉作品：Juicy Stack 5KB",
+    "url": "https://phone-killer.itch.io/juicy-stack",
+    "imageUrl": "/covers/itch-phone-killer-juicy-stack.jpg",
+    "source": "itch",
+    "sourceId": "https://phone-killer.itch.io/juicy-stack",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-romma-stop-rounds",
+    "type": "shader",
+    "title": "Stop Rounds",
+    "summary": "A timing game in a surreal landscape of migrating bubbles.",
+    "url": "https://romma.itch.io/stop-rounds",
+    "imageUrl": "/covers/itch-romma-stop-rounds.jpg",
+    "source": "itch",
+    "sourceId": "https://romma.itch.io/stop-rounds",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-noob187282-2alt-raytracing",
+    "type": "shader",
+    "title": "path tracer",
+    "summary": "CPU computed path tracing",
+    "url": "https://noob187282-2alt.itch.io/raytracing",
+    "imageUrl": "/covers/itch-noob187282-2alt-raytracing.jpg",
+    "source": "itch",
+    "sourceId": "https://noob187282-2alt.itch.io/raytracing",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-luckyuui-donutssunset",
+    "type": "shader",
+    "title": "donuts sunset",
+    "summary": "视觉作品：donuts sunset",
+    "url": "https://luckyuui.itch.io/donutssunset",
+    "imageUrl": "/covers/itch-luckyuui-donutssunset.jpg",
+    "source": "itch",
+    "sourceId": "https://luckyuui.itch.io/donutssunset",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-tonywang-gingerbread",
+    "type": "shader",
+    "title": "Gingerbread Gift",
+    "summary": "视觉作品：Gingerbread Gift",
+    "url": "https://tonywang.itch.io/gingerbread",
+    "imageUrl": "/covers/itch-tonywang-gingerbread.jpg",
+    "source": "itch",
+    "sourceId": "https://tonywang.itch.io/gingerbread",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-royyang-playing-with-unity-scripts-coding-art",
+    "type": "shader",
+    "title": "Playing with Unity Scripts: Coding Art",
+    "summary": "Enjoy this “Cyber Style” art made by unity script!",
+    "url": "https://royyang.itch.io/playing-with-unity-scripts-coding-art",
+    "imageUrl": "/covers/itch-royyang-playing-with-unity-scripts-coding-art.jpg",
+    "source": "itch",
+    "sourceId": "https://royyang.itch.io/playing-with-unity-scripts-coding-art",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-zorioduolty-nadirfall",
+    "type": "shader",
+    "title": "NADIRFALL",
+    "summary": "A pixel art roguelike where every floor is a new weird place. And one of them is a bar.",
+    "url": "https://zorioduolty.itch.io/nadirfall",
+    "imageUrl": "/covers/itch-zorioduolty-nadirfall.jpg",
+    "source": "itch",
+    "sourceId": "https://zorioduolty.itch.io/nadirfall",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-typingpool-october-theorem",
+    "type": "shader",
+    "title": "October Theorem",
+    "summary": "The colors of fall. One answer, no guessing.",
+    "url": "https://typingpool.itch.io/october-theorem",
+    "imageUrl": "/covers/itch-typingpool-october-theorem.jpg",
+    "source": "itch",
+    "sourceId": "https://typingpool.itch.io/october-theorem",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-ignacio-aranda-evolutia",
+    "type": "shader",
+    "title": "Evolutia",
+    "summary": "Shape a world, seed life and watch kingdoms, faiths and wars unfold on their own.",
+    "url": "https://ignacio-aranda.itch.io/evolutia",
+    "imageUrl": "/covers/itch-ignacio-aranda-evolutia.jpg",
+    "source": "itch",
+    "sourceId": "https://ignacio-aranda.itch.io/evolutia",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-sparepower-it-remembers",
+    "type": "shader",
+    "title": "It Remembers",
+    "summary": "It moves only where your light doesn&;t reach.",
+    "url": "https://sparepower.itch.io/it-remembers",
+    "imageUrl": "/covers/itch-sparepower-it-remembers.jpg",
+    "source": "itch",
+    "sourceId": "https://sparepower.itch.io/it-remembers",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-pwpantkowiak-orbit-a-gravity-odyssey",
+    "type": "shader",
+    "title": "ORBIT — A Gravity Odyssey",
+    "summary": "Slingshot your ship around planets, chain gravity loops into huge combos and put out dying stars. Free, PC &amp; mobile.",
+    "url": "https://pwpantkowiak.itch.io/orbit-a-gravity-odyssey",
+    "imageUrl": "/covers/itch-pwpantkowiak-orbit-a-gravity-odyssey.jpg",
+    "source": "itch",
+    "sourceId": "https://pwpantkowiak.itch.io/orbit-a-gravity-odyssey",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-igoryakunin-thirty-drafts-of-you",
+    "type": "shader",
+    "title": "THIRTY DRAFTS OF YOU",
+    "summary": "Find your true face among the entities.",
+    "url": "https://igoryakunin.itch.io/thirty-drafts-of-you",
+    "imageUrl": "/covers/itch-igoryakunin-thirty-drafts-of-you.jpg",
+    "source": "itch",
+    "sourceId": "https://igoryakunin.itch.io/thirty-drafts-of-you",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-infinite-props-infinite-formula-one",
+    "type": "shader",
+    "title": "Infinite Formula One",
+    "summary": "A top-down F1 racer where every car, circuit, driver and explosion is generated in your browser. A new world every race.",
+    "url": "https://infinite-props.itch.io/infinite-formula-one",
+    "imageUrl": "/covers/itch-infinite-props-infinite-formula-one.jpg",
+    "source": "itch",
+    "sourceId": "https://infinite-props.itch.io/infinite-formula-one",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-weisswald-lanternbait",
+    "type": "shader",
+    "title": "Lanternbait",
+    "summary": "Build a dungeon. Watch AI adventurers raid it, scheme, betray each other — and die",
+    "url": "https://weisswald.itch.io/lanternbait",
+    "imageUrl": "/covers/itch-weisswald-lanternbait.jpg",
+    "source": "itch",
+    "sourceId": "https://weisswald.itch.io/lanternbait",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-mufasasid-deep-current",
+    "type": "shader",
+    "title": "Deep Current",
+    "summary": "A cozy roguelike creature-collector: capture, hatch and battle across 10 shifting islands to calm the Deep Current.",
+    "url": "https://mufasasid.itch.io/deep-current",
+    "imageUrl": "/covers/itch-mufasasid-deep-current.jpg",
+    "source": "itch",
+    "sourceId": "https://mufasasid.itch.io/deep-current",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "itch-hf-doodle-studio-little-pantheon",
+    "type": "shader",
+    "title": "Little Pantheon",
+    "summary": "A tiny pixel world where every tribe remembers what its god did — and takes it differently.",
+    "url": "https://hf-doodle-studio.itch.io/little-pantheon",
+    "imageUrl": "/covers/itch-hf-doodle-studio-little-pantheon.jpg",
+    "source": "itch",
+    "sourceId": "https://hf-doodle-studio.itch.io/little-pantheon",
+    "tags": [
+      "itch"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95869",
+    "type": "shader",
+    "title": "Firework logo particles",
+    "summary": "交互粒子烟花 logo：点击/拖拽。",
+    "url": "https://discourse.threejs.org/t/a-firework-powered-logo-interactive-particles-bloom-and-a-full-logo-explosion/95869",
+    "imageUrl": "/covers/threejs-forum-95869.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95869",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95505",
+    "type": "shader",
+    "title": "Squad Dance editor",
+    "summary": "浏览器 3D 舞蹈编辑器，顶点动画。",
+    "url": "https://discourse.threejs.org/t/squad-dance-a-browser-3d-dance-editor-with-vertical-video-export/95505",
+    "imageUrl": "/covers/threejs-forum-95505.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95505",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95449",
+    "type": "shader",
+    "title": "LearnAnatomy3D",
+    "summary": "交互人体解剖 atlas。",
+    "url": "https://discourse.threejs.org/t/learnanatomy3d-interactive-human-anatomy-atlas-2-900-structures/95449",
+    "imageUrl": "/covers/threejs-forum-95449.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95449",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95448",
+    "type": "shader",
+    "title": "PSP in browser",
+    "summary": "浏览器里的 PSP 交互模拟。",
+    "url": "https://discourse.threejs.org/t/psp-in-browser-interactive/95448",
+    "imageUrl": "/covers/threejs-forum-95448.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95448",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95446",
+    "type": "shader",
+    "title": "Echo Bot hexapod",
+    "summary": "可玩六足机器人 Echo Bot。",
+    "url": "https://discourse.threejs.org/t/echo-bot-a-hexapod-robot-you-can-play-with-in-the-browser-three-js/95446",
+    "imageUrl": "/covers/threejs-forum-95446.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95446",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95332",
+    "type": "shader",
+    "title": "Log On Globe",
+    "summary": "太空任务与事件重建到地球仪上。",
+    "url": "https://discourse.threejs.org/t/log-on-globe-space-missions-and-events-rebuilt-in-a-three-js-webapp/95332",
+    "imageUrl": "/covers/threejs-forum-95332.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95332",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95327",
+    "type": "shader",
+    "title": "Mesh tunnel follow",
+    "summary": "沿网格隧道跟随的视觉效果。",
+    "url": "https://discourse.threejs.org/t/following-the-mesh-on-a-tunnel/95327",
+    "imageUrl": "/covers/threejs-forum-95327.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95327",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "threejs-forum-95558",
+    "type": "shader",
+    "title": "clevante studio journey",
+    "summary": "工作室旅程风作品集空间。",
+    "url": "https://discourse.threejs.org/t/clevante-our-studio-portfolio-as-a-journey-to-another-planet/95558",
+    "imageUrl": "/covers/threejs-forum-95558.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95558",
+    "tags": [
+      "threejs"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
+    "id": "80lv-recreating-a-procedural-houdini-setup-with-moving-paper-line",
+    "type": "shader",
+    "title": "Blender 程序化纸线",
+    "summary": "Houdini 纸线效果在 Blender 重做。",
+    "url": "https://80.lv/articles/recreating-a-procedural-houdini-setup-with-moving-paper-lines-in-blender",
+    "imageUrl": "/covers/80lv-recreating-a-procedural-houdini-setup-with-moving-paper-line.jpg",
+    "source": "80lv",
+    "sourceId": "recreating-a-procedural-houdini-setup-with-moving-paper-lines-in-blender",
+    "tags": [
+      "80lv"
+    ],
+    "collectedAt": "2026-10-26"
+  },
+  {
     "id": "artstation-31EgAo",
     "type": "inspiration",
     "title": "地牢石砖瓦片",
