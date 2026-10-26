@@ -1,5 +1,705 @@
 [
   {
+    "id": "artstation-3E6KKJ",
+    "type": "inspiration",
+    "title": "俯视砖墙瓦片",
+    "summary": "橙色砖墙模块沿路径蜿蜒铺展，俯视地牢/巷道墙体拼接很直接。",
+    "url": "https://www.artstation.com/artwork/3E6KKJ",
+    "imageUrl": "/covers/artstation-3E6KKJ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-3E6KKJ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-lGkbRJ",
+    "type": "inspiration",
+    "title": "翠绿远景瓦片",
+    "summary": "红顶小屋、土路与茂密草地成套，俯视田园开放世界铺地图好参考。",
+    "url": "https://www.artstation.com/artwork/lGkbRJ",
+    "imageUrl": "/covers/artstation-lGkbRJ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-lGkbRJ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-bg6oYG",
+    "type": "inspiration",
+    "title": "石苔草地瓦片九宫",
+    "summary": "石径、苔岩与土坑纹理九宫对照，基础地表材质层次清楚。",
+    "url": "https://www.artstation.com/artwork/bg6oYG",
+    "imageUrl": "/covers/artstation-bg6oYG.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-bg6oYG",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kuzidev-forest-tileset-16x16-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "16×16 森林瓦片",
+    "summary": "圆润树冠、帐篷与土坑清场，柔和色调的森林俯视铺图起步包。",
+    "url": "https://kuzidev.itch.io/forest-tileset-16x16-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-kuzidev-forest-tileset-16x16-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-kuzidev-forest-tileset-16x16-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2113916264540512639",
+    "type": "inspiration",
+    "title": "悬崖瓦片宅边测试",
+    "summary": "玩家屋旁悬崖与落石细节在测，崖壁层次与道具点缀很有实机感。",
+    "url": "https://x.com/TransientCode/status/2113916264540512639",
+    "imageUrl": "/covers/x-2113916264540512639.jpg",
+    "source": "x",
+    "sourceId": "x-2113916264540512639",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riclmbr-pixel-blockcraft-330-voxel-survival-16x16-assets",
+    "type": "inspiration",
+    "title": "体素生存地块包",
+    "summary": "方块草地泥土与 TNT、动物同框，Minecraft 风体素地表资源很全。",
+    "url": "https://riclmbr.itch.io/pixel-blockcraft-330-voxel-survival-16x16-assets",
+    "imageUrl": "/covers/itch-riclmbr-pixel-blockcraft-330-voxel-survival-16x16-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-pixel-blockcraft-330-voxel-survival-16x16-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-cubeforge-voxel-winter-christmas-pack",
+    "type": "inspiration",
+    "title": "体素冬镇地形",
+    "summary": "雪夜钟楼与亮窗小屋，含地形瓦片，冬季体素城镇氛围足。",
+    "url": "https://cubeforge.itch.io/voxel-winter-christmas-pack",
+    "imageUrl": "/covers/itch-cubeforge-voxel-winter-christmas-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-cubeforge-voxel-winter-christmas-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elevationark-voxel-starter-kit-plants",
+    "type": "inspiration",
+    "title": "体素植物起步",
+    "summary": "樱花树与松树体素株，低面数植被点景很适合开放世界。",
+    "url": "https://elevationark.itch.io/voxel-starter-kit-plants",
+    "imageUrl": "/covers/itch-elevationark-voxel-starter-kit-plants.jpg",
+    "source": "itch",
+    "sourceId": "itch-elevationark-voxel-starter-kit-plants",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elevationark-voxel-starter-kit-outdoor-objects",
+    "type": "inspiration",
+    "title": "体素户外道具",
+    "summary": "石井、栅栏与帐篷成套，村庄外场景具体素点缀一次配齐。",
+    "url": "https://elevationark.itch.io/voxel-starter-kit-outdoor-objects",
+    "imageUrl": "/covers/itch-elevationark-voxel-starter-kit-outdoor-objects.jpg",
+    "source": "itch",
+    "sourceId": "itch-elevationark-voxel-starter-kit-outdoor-objects",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-N5zVwD",
+    "type": "inspiration",
+    "title": "蓝色体素山脉",
+    "summary": "阶梯式蓝色体素山脊与雾气，抽象体素地形起伏很有雕塑感。",
+    "url": "https://www.artstation.com/artwork/N5zVwD",
+    "imageUrl": "/covers/artstation-N5zVwD.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-N5zVwD",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-rzzWzm",
+    "type": "inspiration",
+    "title": "俯视都市角色动画",
+    "summary": "大头 GTA 风俯视跑动循环，城市顶视角 NPC/玩家动作好参考。",
+    "url": "https://www.artstation.com/artwork/rzzWzm",
+    "imageUrl": "/covers/artstation-rzzWzm.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-rzzWzm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-leckie1989-handheld-4-shade-characters-portraits-free-sample",
+    "type": "inspiration",
+    "title": "掌机四色角色",
+    "summary": "Game Boy 四色立绘与精灵并排，复古掌机角色压缩感很正。",
+    "url": "https://leckie1989.itch.io/handheld-4-shade-characters-portraits-free-sample",
+    "imageUrl": "/covers/itch-leckie1989-handheld-4-shade-characters-portraits-free-sample.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-handheld-4-shade-characters-portraits-free-sample",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-snowhex-dungeon-gathering-zombie-exp",
+    "type": "inspiration",
+    "title": "地牢采集怪物扩展",
+    "summary": "俯视探险者与丧尸小怪同框，地牢采集类怪物精灵扩展实用。",
+    "url": "https://snowhex.itch.io/dungeon-gathering-zombie-exp",
+    "imageUrl": "/covers/itch-snowhex-dungeon-gathering-zombie-exp.jpg",
+    "source": "itch",
+    "sourceId": "itch-snowhex-dungeon-gathering-zombie-exp",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114442255809528074",
+    "type": "inspiration",
+    "title": "中世纪农夫练习",
+    "summary": "70×40 小画布农夫站姿，柔和光照尝试，休闲像素角色很贴。",
+    "url": "https://x.com/punknation/status/2114442255809528074",
+    "imageUrl": "/covers/x-2114442255809528074.jpg",
+    "source": "x",
+    "sourceId": "x-2114442255809528074",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114263838551908412",
+    "type": "inspiration",
+    "title": "多向角色精灵表",
+    "summary": "站走飞睡等帧并排展示，角色精灵表编排与朝向切换可学。",
+    "url": "https://x.com/TravellerInVoid/status/2114263838551908412",
+    "imageUrl": "/covers/x-2114263838551908412.jpg",
+    "source": "x",
+    "sourceId": "x-2114263838551908412",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dro0941-hongkong-neon-street-pixel-art-asset-pack-shamshuipo",
+    "type": "inspiration",
+    "title": "香港霓虹街景",
+    "summary": "深水埗风高楼摊位与自行车挤满街巷，赛博港风建筑密度拉满。",
+    "url": "https://dro0941.itch.io/hongkong-neon-street-pixel-art-asset-pack-shamshuipo",
+    "imageUrl": "/covers/itch-dro0941-hongkong-neon-street-pixel-art-asset-pack-shamshuipo.jpg",
+    "source": "itch",
+    "sourceId": "itch-dro0941-hongkong-neon-street-pixel-art-asset-pack-shamshuipo",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ridgeworksstudio-stonehold-nightfall",
+    "type": "inspiration",
+    "title": "石堡夜幕剪影",
+    "summary": "悬崖上哥特城堡对满月，紫蓝限色剪影，恐怖/暗黑建筑很有气势。",
+    "url": "https://ridgeworksstudio.itch.io/stonehold-nightfall",
+    "imageUrl": "/covers/itch-ridgeworksstudio-stonehold-nightfall.jpg",
+    "source": "itch",
+    "sourceId": "itch-ridgeworksstudio-stonehold-nightfall",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-rinamur-mushroom-house",
+    "type": "inspiration",
+    "title": "蘑菇小屋",
+    "summary": "红伞蘑菇屋立在土台上，可爱奇幻单体建筑一眼能用。",
+    "url": "https://rinamur.itch.io/mushroom-house",
+    "imageUrl": "/covers/itch-rinamur-mushroom-house.jpg",
+    "source": "itch",
+    "sourceId": "itch-rinamur-mushroom-house",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-peanutstudio-survival-horror-village-buildings-boundaries",
+    "type": "inspiration",
+    "title": "恐怖村庄建筑边界",
+    "summary": "夜色石屋与木篱街道，生存恐怖村庄外立面与边界道具成套。",
+    "url": "https://peanutstudio.itch.io/survival-horror-village-buildings-boundaries",
+    "imageUrl": "/covers/itch-peanutstudio-survival-horror-village-buildings-boundaries.jpg",
+    "source": "itch",
+    "sourceId": "itch-peanutstudio-survival-horror-village-buildings-boundaries",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114446901697495547",
+    "type": "inspiration",
+    "title": "墨色城堡",
+    "summary": "墨黑剪影城堡像素作，高对比轮廓，奇幻城塞剪影参考很干净。",
+    "url": "https://x.com/dr_smey/status/2114446901697495547",
+    "imageUrl": "/covers/x-2114446901697495547.jpg",
+    "source": "x",
+    "sourceId": "x-2114446901697495547",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voxel-assets-voxel-castles-100-items",
+    "type": "inspiration",
+    "title": "体素城堡百件",
+    "summary": "蓝白旗塔城堡单体，百件体素城堡套件封面一目了然。",
+    "url": "https://voxel-assets.itch.io/voxel-castles-100-items",
+    "imageUrl": "/covers/itch-voxel-assets-voxel-castles-100-items.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxel-assets-voxel-castles-100-items",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-starvingfoxstudio-voxel-bakery",
+    "type": "inspiration",
+    "title": "体素面包店内景",
+    "summary": "面包架与甜甜圈柜体素内装，经营模拟店铺室内很有烟火气。",
+    "url": "https://starvingfoxstudio.itch.io/voxel-bakery",
+    "imageUrl": "/covers/itch-starvingfoxstudio-voxel-bakery.jpg",
+    "source": "itch",
+    "sourceId": "itch-starvingfoxstudio-voxel-bakery",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elevationark-voxel-starter-kit-house-objects",
+    "type": "inspiration",
+    "title": "体素家居物件",
+    "summary": "扶手椅、茶几与灯具散落室内，可编辑体素家具起步包。",
+    "url": "https://elevationark.itch.io/voxel-starter-kit-house-objects",
+    "imageUrl": "/covers/itch-elevationark-voxel-starter-kit-house-objects.jpg",
+    "source": "itch",
+    "sourceId": "itch-elevationark-voxel-starter-kit-house-objects",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-starvingfoxstudio-voxel-interiors-vol3",
+    "type": "inspiration",
+    "title": "体素室内 Vol.3",
+    "summary": "蓝沙发与樱花挂画的现代室内，日式轻居家体素布置很清爽。",
+    "url": "https://starvingfoxstudio.itch.io/voxel-interiors-vol3",
+    "imageUrl": "/covers/itch-starvingfoxstudio-voxel-interiors-vol3.jpg",
+    "source": "itch",
+    "sourceId": "itch-starvingfoxstudio-voxel-interiors-vol3",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-voxelcity",
+    "type": "inspiration",
+    "title": "体素城市街区",
+    "summary": "多层砖楼、停车场与公园树同框，等距体素现代城区密度足。",
+    "url": "https://maxparata.itch.io/voxelcity",
+    "imageUrl": "/covers/itch-maxparata-voxelcity.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-voxelcity",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-munchkin-jonesy-cozy-pixel-ui-free",
+    "type": "inspiration",
+    "title": "Cozy UI 基础免费",
+    "summary": "蜜桃色进度条与爱心按钮，田园 cozy HUD 起步 52 件免费。",
+    "url": "https://munchkin-jonesy.itch.io/cozy-pixel-ui-free",
+    "imageUrl": "/covers/itch-munchkin-jonesy-cozy-pixel-ui-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-munchkin-jonesy-cozy-pixel-ui-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-munchkin-jonesy-cozy-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "Cozy 像素 UI 全套",
+    "summary": "三色向面板按钮进度条齐全，156 件 cozy 界面一次配齐。",
+    "url": "https://munchkin-jonesy.itch.io/cozy-pixel-ui-kit",
+    "imageUrl": "/covers/itch-munchkin-jonesy-cozy-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-munchkin-jonesy-cozy-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-cinderpeak-interface-kit-55-pixel-cinderpeak-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Cinderpeak 火红 UI",
+    "summary": "红橙滑条与圆形开关，火山/锻造主题界面色板很统一。",
+    "url": "https://falvey.itch.io/cinderpeak-interface-kit-55-pixel-cinderpeak-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-cinderpeak-interface-kit-55-pixel-cinderpeak-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-cinderpeak-interface-kit-55-pixel-cinderpeak-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-spellbloom-ui-55-pixel-spellbloom-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Spellbloom 紫粉 UI",
+    "summary": "紫粉魔法风面板与开关，法师/奇幻菜单气质一致。",
+    "url": "https://falvey.itch.io/spellbloom-ui-55-pixel-spellbloom-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-spellbloom-ui-55-pixel-spellbloom-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-spellbloom-ui-55-pixel-spellbloom-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-grimtide-interface-kit-55-pixel-grimtide-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Grimtide 青灰 UI",
+    "summary": "青灰工业滑条与开关，海盗/码头暗色界面很有质感。",
+    "url": "https://falvey.itch.io/grimtide-interface-kit-55-pixel-grimtide-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-grimtide-interface-kit-55-pixel-grimtide-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-grimtide-interface-kit-55-pixel-grimtide-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-andbri-medieval-town-ui-kit-32x32",
+    "type": "inspiration",
+    "title": "中世纪城镇 UI",
+    "summary": "血条金币与面包师对话窗同屏，32×16 中世纪 HUD 实机示意清楚。",
+    "url": "https://andbri.itch.io/medieval-town-ui-kit-32x32",
+    "imageUrl": "/covers/itch-andbri-medieval-town-ui-kit-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-andbri-medieval-town-ui-kit-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-rjc-dude-fantasy-rpg-ui-kit",
+    "type": "inspiration",
+    "title": "奇幻 RPG UI 套件",
+    "summary": "木框小地图与玻璃质感血蓝条，暗金奇幻背包栏很精致。",
+    "url": "https://rjc-dude.itch.io/fantasy-rpg-ui-kit",
+    "imageUrl": "/covers/itch-rjc-dude-fantasy-rpg-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-rjc-dude-fantasy-rpg-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114514781919154334",
+    "type": "inspiration",
+    "title": "钓鱼闲置按钮换装",
+    "summary": "Orca Girl 闲置钓鱼按钮两套对比，可爱像素按钮气质切换可参考。",
+    "url": "https://x.com/hujinniandiaoyu/status/2114514781919154334",
+    "imageUrl": "/covers/x-2114514781919154334.jpg",
+    "source": "x",
+    "sourceId": "x-2114514781919154334",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114467670611439888",
+    "type": "inspiration",
+    "title": "木纹琥珀 HUD 重做",
+    "summary": "深木描边琥珀按钮前后对比，地图友好的大地色 HUD 改版。",
+    "url": "https://x.com/pehcst/status/2114467670611439888",
+    "imageUrl": "/covers/x-2114467670611439888.jpg",
+    "source": "x",
+    "sourceId": "x-2114467670611439888",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114157557241753701",
+    "type": "inspiration",
+    "title": "宝箱图标一排",
+    "summary": "蓝绿红棕多色宝箱横排，物品栏宝箱图标辨识度高。",
+    "url": "https://x.com/illusyuki/status/2114157557241753701",
+    "imageUrl": "/covers/x-2114157557241753701.jpg",
+    "source": "x",
+    "sourceId": "x-2114157557241753701",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2113510782826930539",
     "type": "game",
     "title": "SinkEm.io",
