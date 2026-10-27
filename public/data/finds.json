@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-falvey-downtown-road-tiles-15-top-down-pixel-road-tiles-32x32",
+    "type": "inspiration",
+    "title": "俯视城区道路瓦片",
+    "summary": "人行道、停车位与转弯箭头成套，32×32 俯视都市道路铺图很实用。",
+    "url": "https://falvey.itch.io/downtown-road-tiles-15-top-down-pixel-road-tiles-32x32",
+    "imageUrl": "/covers/itch-falvey-downtown-road-tiles-15-top-down-pixel-road-tiles-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-downtown-road-tiles-15-top-down-pixel-road-tiles-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-red-rock-canyon-topdown-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "红岩峡谷俯视瓦片",
+    "summary": "橙红岩壁、仙人掌与角色同框，沙漠峡谷顶视角地表氛围足。",
+    "url": "https://comshadow.itch.io/red-rock-canyon-topdown-pixel-art-tileset",
+    "imageUrl": "/covers/itch-comshadow-red-rock-canyon-topdown-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-red-rock-canyon-topdown-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-verdant-wonders",
+    "type": "inspiration",
+    "title": "翠绿奇境三地标",
+    "summary": "毒沼、空岛与巨树三景拼页，16×16 近千瓦片的奇幻地貌参考很满。",
+    "url": "https://csaf.itch.io/verdant-wonders",
+    "imageUrl": "/covers/itch-csaf-verdant-wonders.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-verdant-wonders",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-drozd-studios-alien-biomes-tileset-pack",
+    "type": "inspiration",
+    "title": "外星生物群系瓦片",
+    "summary": "粉紫蓝黄四色地貌并排，俯视异星地表配色切换一眼能用。",
+    "url": "https://drozd-studios.itch.io/alien-biomes-tileset-pack",
+    "imageUrl": "/covers/itch-drozd-studios-alien-biomes-tileset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-drozd-studios-alien-biomes-tileset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-allmightcreator-dark-fantasy-dungeon-kit-306-pixel-art-assets",
+    "type": "inspiration",
+    "title": "暗黑地牢拼装包",
+    "summary": "拱门火把木箱与石阶同框，306 件暗黑幻想地牢模块很齐全。",
+    "url": "https://allmightcreator.itch.io/dark-fantasy-dungeon-kit-306-pixel-art-assets",
+    "imageUrl": "/covers/itch-allmightcreator-dark-fantasy-dungeon-kit-306-pixel-art-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-allmightcreator-dark-fantasy-dungeon-kit-306-pixel-art-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-voxel-haunted-bayou-swamp-pack",
+    "type": "inspiration",
+    "title": "体素鬼沼湾景",
+    "summary": "腐木屋、绿雾水面与枯树，等距体素沼泽恐怖氛围很浓。",
+    "url": "https://tersco.itch.io/voxel-haunted-bayou-swamp-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-haunted-bayou-swamp-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-haunted-bayou-swamp-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-countryside-farm-ranch-pack",
+    "type": "inspiration",
+    "title": "体素田园牧场",
+    "summary": "红谷仓、风车与菜畦拖拉机同框，体素农场地形一次铺开。",
+    "url": "https://tersco.itch.io/voxel-countryside-farm-ranch-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-countryside-farm-ranch-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-countryside-farm-ranch-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-leogaraph-voxel-trees-vegetation",
+    "type": "inspiration",
+    "title": "体素树木植被阶段",
+    "summary": "从土坑到成树、蘑菇的生长序列，体素植被层级参考清楚。",
+    "url": "https://leogaraph.itch.io/voxel-trees-vegetation",
+    "imageUrl": "/covers/itch-leogaraph-voxel-trees-vegetation.jpg",
+    "source": "itch",
+    "sourceId": "itch-leogaraph-voxel-trees-vegetation",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-post-apocalyptic-wasteland-pack",
+    "type": "inspiration",
+    "title": "体素废土废墟",
+    "summary": "残楼瞭望塔与锈巴士落日下，末日体素荒原建筑堆叠感强。",
+    "url": "https://tersco.itch.io/voxel-post-apocalyptic-wasteland-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-post-apocalyptic-wasteland-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-post-apocalyptic-wasteland-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-underwater-reef-city-pack",
+    "type": "inspiration",
+    "title": "体素海底礁城",
+    "summary": "圆顶殿堂与珊瑚海草同框，水下体素城市点缀很有异域感。",
+    "url": "https://tersco.itch.io/voxel-underwater-reef-city-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-underwater-reef-city-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-underwater-reef-city-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-csaf-hearthhands-sampler",
+    "type": "inspiration",
+    "title": "炉边村民六人样",
+    "summary": "农夫鱼贩报信员南瓜头并排，俯视 RPG 村民精灵免费抽样。",
+    "url": "https://csaf.itch.io/hearthhands-sampler",
+    "imageUrl": "/covers/itch-csaf-hearthhands-sampler.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-hearthhands-sampler",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-wildmark-sampler",
+    "type": "inspiration",
+    "title": "荒野印记四英雄",
+    "summary": "战士游侠矮人拳手四向待机，俯视奇幻主角精灵起步好用。",
+    "url": "https://csaf.itch.io/wildmark-sampler",
+    "imageUrl": "/covers/itch-csaf-wildmark-sampler.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-wildmark-sampler",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-eazydstudio-heroes-monsters-16x16",
+    "type": "inspiration",
+    "title": "16×16 英雄魔物包",
+    "summary": "骑士史莱姆幽灵蘑菇同屏，迷你 RPG 角色魔物动画包免费。",
+    "url": "https://eazydstudio.itch.io/heroes-monsters-16x16",
+    "imageUrl": "/covers/itch-eazydstudio-heroes-monsters-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-eazydstudio-heroes-monsters-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114538929709850680",
+    "type": "inspiration",
+    "title": "主角肖像微调对比",
+    "summary": "青帽眼镜女主前后色调对照，像素肖像光影收束很有启发。",
+    "url": "https://x.com/Pixel_Javi/status/2114538929709850680",
+    "imageUrl": "/covers/x-2114538929709850680.jpg",
+    "source": "x",
+    "sourceId": "x-2114538929709850680",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114601670118162727",
+    "type": "inspiration",
+    "title": "Myuuel 转 64×64",
+    "summary": "高清设定对照 64×64 像素与走打搬采小帧，角色压缩流程可学。",
+    "url": "https://x.com/sparklesnapper/status/2114601670118162727",
+    "imageUrl": "/covers/x-2114601670118162727.jpg",
+    "source": "x",
+    "sourceId": "x-2114601670118162727",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pulsarcp-riverbend-village",
+    "type": "inspiration",
+    "title": "河湾村庄六百瓦片",
+    "summary": "石砖墙、木地板与床柜道具成套，俯视村庄室内外拼装很全。",
+    "url": "https://pulsarcp.itch.io/riverbend-village",
+    "imageUrl": "/covers/itch-pulsarcp-riverbend-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsarcp-riverbend-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-odgardian-medieval-house-set",
+    "type": "inspiration",
+    "title": "中世纪木屋拼装",
+    "summary": "木骨楼房与脚手架屋顶模块并排，侧视中世纪建筑拼装清楚。",
+    "url": "https://odgardian.itch.io/medieval-house-set",
+    "imageUrl": "/covers/itch-odgardian-medieval-house-set.jpg",
+    "source": "itch",
+    "sourceId": "itch-odgardian-medieval-house-set",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-biruk-okami-pixel-pub-pack-building-props",
+    "type": "inspiration",
+    "title": "像素酒馆建筑包",
+    "summary": "红瓦石屋酒馆配水井篝火长椅，俯视酒馆外立面一眼能用。",
+    "url": "https://biruk-okami.itch.io/pixel-pub-pack-building-props",
+    "imageUrl": "/covers/itch-biruk-okami-pixel-pub-pack-building-props.jpg",
+    "source": "itch",
+    "sourceId": "itch-biruk-okami-pixel-pub-pack-building-props",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bayrak-stone-houses-asset-pack-2d-pixel-art",
+    "type": "inspiration",
+    "title": "石头房屋四栋",
+    "summary": "灰石茅顶与白墙红瓦并排，欧风 2D 民居单体很干净。",
+    "url": "https://bayrak.itch.io/stone-houses-asset-pack-2d-pixel-art",
+    "imageUrl": "/covers/itch-bayrak-stone-houses-asset-pack-2d-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-bayrak-stone-houses-asset-pack-2d-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dayinportugal-portuguese-village-pixel-art-pack",
+    "type": "inspiration",
+    "title": "葡萄牙风情村落",
+    "summary": "蓝白瓷砖、风车小教堂与晒衣，侧视地中海村落氛围足。",
+    "url": "https://dayinportugal.itch.io/portuguese-village-pixel-art-pack",
+    "imageUrl": "/covers/itch-dayinportugal-portuguese-village-pixel-art-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-dayinportugal-portuguese-village-pixel-art-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-voxel-viking-village-longship-pack",
+    "type": "inspiration",
+    "title": "体素维京村与长船",
+    "summary": "茅顶长屋码头与红白帆长船，北欧海岸体素聚落很完整。",
+    "url": "https://tersco.itch.io/voxel-viking-village-longship-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-viking-village-longship-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-viking-village-longship-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-japanese-shrine-village-pack",
+    "type": "inspiration",
+    "title": "体素日式神社村",
+    "summary": "黑瓦多层塔与鸟居樱花同框，日式体素神社聚落很精致。",
+    "url": "https://tersco.itch.io/voxel-japanese-shrine-village-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-japanese-shrine-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-japanese-shrine-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-pirate-port-harbor-pack",
+    "type": "inspiration",
+    "title": "体素海盗港口",
+    "summary": "三桅帆船、灯塔与棕榈红顶屋，加勒比风体素海港很热闹。",
+    "url": "https://tersco.itch.io/voxel-pirate-port-harbor-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-pirate-port-harbor-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-pirate-port-harbor-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-wild-west-frontier-town-pack",
+    "type": "inspiration",
+    "title": "体素西部边疆镇",
+    "summary": "日落沙龙马车与仙人掌，美西 frontier 体素小镇气质足。",
+    "url": "https://tersco.itch.io/voxel-wild-west-frontier-town-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-wild-west-frontier-town-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-wild-west-frontier-town-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-starvingfoxstudio-voxel-interiors-vol2",
+    "type": "inspiration",
+    "title": "体素室内 Vol.2",
+    "summary": "壁炉地毯扶手椅与书架，温馨体素客厅布置参考很暖。",
+    "url": "https://starvingfoxstudio.itch.io/voxel-interiors-vol2",
+    "imageUrl": "/covers/itch-starvingfoxstudio-voxel-interiors-vol2.jpg",
+    "source": "itch",
+    "sourceId": "itch-starvingfoxstudio-voxel-interiors-vol2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tavmir-pixel-fantasy-rpg-ui-54-elements-16-bit",
+    "type": "inspiration",
+    "title": "16-bit 奇幻 RPG UI",
+    "summary": "木框背包药水剑盾与心形血条，54 件奇幻界面元件很全。",
+    "url": "https://tavmir.itch.io/pixel-fantasy-rpg-ui-54-elements-16-bit",
+    "imageUrl": "/covers/itch-tavmir-pixel-fantasy-rpg-ui-54-elements-16-bit.jpg",
+    "source": "itch",
+    "sourceId": "itch-tavmir-pixel-fantasy-rpg-ui-54-elements-16-bit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tavmir-fantasy-rpg-game-ui-kit-vol2",
+    "type": "inspiration",
+    "title": "奇幻 RPG UI 卷二",
+    "summary": "石纹窗框法球与控件成套，暗金奇幻菜单第二卷继续补齐。",
+    "url": "https://tavmir.itch.io/fantasy-rpg-game-ui-kit-vol2",
+    "imageUrl": "/covers/itch-tavmir-fantasy-rpg-game-ui-kit-vol2.jpg",
+    "source": "itch",
+    "sourceId": "itch-tavmir-fantasy-rpg-game-ui-kit-vol2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-ui-kit-sampler-12-free-pixel-ui-themes",
+    "type": "inspiration",
+    "title": "十二主题 UI 抽样",
+    "summary": "十二色窗框叠层预览，免费像素 UI 主题横向对比很直观。",
+    "url": "https://csaf.itch.io/ui-kit-sampler-12-free-pixel-ui-themes",
+    "imageUrl": "/covers/itch-csaf-ui-kit-sampler-12-free-pixel-ui-themes.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-ui-kit-sampler-12-free-pixel-ui-themes",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-leckie1989-handheld-4-shade-ui-font-pack",
+    "type": "inspiration",
+    "title": "掌机四色 UI 字体",
+    "summary": "绿阶 Pocket Quest 与 D-pad 提示，复古掌机界面压缩感很正。",
+    "url": "https://leckie1989.itch.io/handheld-4-shade-ui-font-pack",
+    "imageUrl": "/covers/itch-leckie1989-handheld-4-shade-ui-font-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-handheld-4-shade-ui-font-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ccelvis-bone-ember-dark-fantasy-pixel-art-ui-pack-vol-1",
+    "type": "inspiration",
+    "title": "骨烬暗黑 UI",
+    "summary": "黑金纹饰框与分段橙进度条，哥特暗黑幻想菜单很有压迫感。",
+    "url": "https://ccelvis.itch.io/bone-ember-dark-fantasy-pixel-art-ui-pack-vol-1",
+    "imageUrl": "/covers/itch-ccelvis-bone-ember-dark-fantasy-pixel-art-ui-pack-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-ccelvis-bone-ember-dark-fantasy-pixel-art-ui-pack-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-mint-soda-ui-55-pixel-mint-soda-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Mint Soda 青粉 UI",
+    "summary": "青绿粉圆角按钮与进度条，清爽汽水风界面色板很统一。",
+    "url": "https://falvey.itch.io/mint-soda-ui-55-pixel-mint-soda-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-mint-soda-ui-55-pixel-mint-soda-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-mint-soda-ui-55-pixel-mint-soda-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-ember-hearth-ui-55-pixel-ember-hearth-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Ember Hearth 暖橙 UI",
+    "summary": "橙紫圆角开关与进度条，壁炉暖色界面气质一致。",
+    "url": "https://falvey.itch.io/ember-hearth-ui-55-pixel-ember-hearth-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-ember-hearth-ui-55-pixel-ember-hearth-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-ember-hearth-ui-55-pixel-ember-hearth-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-arctic-base-ui-55-pixel-arctic-base-ui-kit-elements",
+    "type": "inspiration",
+    "title": "Arctic Base 冰青 UI",
+    "summary": "蓝白科幻圆角控件，极地基地风界面很干净。",
+    "url": "https://falvey.itch.io/arctic-base-ui-55-pixel-arctic-base-ui-kit-elements",
+    "imageUrl": "/covers/itch-falvey-arctic-base-ui-55-pixel-arctic-base-ui-kit-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-arctic-base-ui-55-pixel-arctic-base-ui-kit-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-tiny-delve-16px-dungeon-crawler-ui-kit",
+    "type": "inspiration",
+    "title": "Tiny Delve 地牢 UI",
+    "summary": "16px 头像血蓝条与背包栏，迷你地牢爬行 HUD 示意清楚。",
+    "url": "https://csaf.itch.io/tiny-delve-16px-dungeon-crawler-ui-kit",
+    "imageUrl": "/covers/itch-csaf-tiny-delve-16px-dungeon-crawler-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-tiny-delve-16px-dungeon-crawler-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2113981763923927291",
+    "type": "inspiration",
+    "title": "Cozy 四季 UI 套件",
+    "summary": "Spooky/Winter/Pastel/Paper 四套面板按钮，季节换装 cozy 界面。",
+    "url": "https://x.com/hiimspaceyyy/status/2113981763923927291",
+    "imageUrl": "/covers/x-2113981763923927291.jpg",
+    "source": "x",
+    "sourceId": "x-2113981763923927291",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2114774182458216763",
     "type": "game",
     "title": "TideQuest 沉船求生",
