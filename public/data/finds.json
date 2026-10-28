@@ -1,5 +1,2757 @@
 [
   {
+    "id": "x-2115017424114209150",
+    "type": "game",
+    "title": "Weasel Pikeman 刺串",
+    "summary": "黄鼠狼长矛手可一次串起三只鼠并甩飞:近战手感加汁。",
+    "url": "https://x.com/OozyEssence/status/2115017424114209150",
+    "imageUrl": "/covers/x-2115017424114209150.jpg",
+    "source": "x",
+    "sourceId": "2115017424114209150",
+    "tags": [
+      "x-bookmark",
+      "combat",
+      "tactics"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114898325451444419",
+    "type": "game",
+    "title": "羊群啃草模拟",
+    "summary": "羊在草地上啃食的小模拟:生态经营味。",
+    "url": "https://x.com/AreadneMaria/status/2114898325451444419",
+    "imageUrl": "/covers/x-2114898325451444419.jpg",
+    "source": "x",
+    "sourceId": "2114898325451444419",
+    "tags": [
+      "x-bookmark",
+      "sim",
+      "animals"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2114708760040218632",
+    "type": "game",
+    "title": "3D 砍杀对打",
+    "summary": "日式个人开发者的 3D 斩击对战演示。",
+    "url": "https://x.com/guojiax3_dev/status/2114708760040218632",
+    "imageUrl": "/covers/x-2114708760040218632.jpg",
+    "source": "x",
+    "sourceId": "2114708760040218632",
+    "tags": [
+      "x-bookmark",
+      "melee",
+      "slash"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2114982773513765306",
+    "type": "shader",
+    "title": "像素材质板 Material 1",
+    "summary": "像素风材质练习板。",
+    "url": "https://x.com/_738294/status/2114982773513765306",
+    "imageUrl": "/covers/x-2114982773513765306.jpg",
+    "source": "x",
+    "sourceId": "2114982773513765306",
+    "tags": [
+      "x-bookmark",
+      "pixel",
+      "material"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114797600687669381",
+    "type": "shader",
+    "title": "Mesh2Motion 零成本绑骨",
+    "summary": "Blender/Sketchfab → Mesh2Motion 走路动画再导回的免费流程。",
+    "url": "https://x.com/Lummox_eth/status/2114797600687669381",
+    "imageUrl": "/covers/x-2114797600687669381.jpg",
+    "source": "x",
+    "sourceId": "2114797600687669381",
+    "tags": [
+      "x-bookmark",
+      "animation",
+      "pipeline"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114934257210814692",
+    "type": "shader",
+    "title": "像素森林性能优化",
+    "summary": "Pixel forest 性能优化演示:tech art 实战。",
+    "url": "https://x.com/re_skob/status/2114934257210814692",
+    "imageUrl": "/covers/x-2114934257210814692.jpg",
+    "source": "x",
+    "sourceId": "2114934257210814692",
+    "tags": [
+      "x-bookmark",
+      "techart",
+      "pixel"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114806808766468534",
+    "type": "shader",
+    "title": "线缆捆扎风场景",
+    "summary": "ggsimm 风格的线缆捆扎小品。",
+    "url": "https://x.com/disconcision/status/2114806808766468534",
+    "imageUrl": "/covers/x-2114806808766468534.jpg",
+    "source": "x",
+    "sourceId": "2114806808766468534",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "scene"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114770175371452417",
+    "type": "shader",
+    "title": "Three.js Grassworks 着色",
+    "summary": "地形笔刷给草上色:Three.js 草地创作工具。",
+    "url": "https://x.com/Bk23544/status/2114770175371452417",
+    "imageUrl": "/covers/x-2114770175371452417.jpg",
+    "source": "x",
+    "sourceId": "2114770175371452417",
+    "tags": [
+      "x-bookmark",
+      "grass",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114613056085152030",
+    "type": "shader",
+    "title": "KCD1 服装迁到 KCD2",
+    "summary": "骨架/体型/变形/分层材质 LOD:服装迁移技术笔记。",
+    "url": "https://x.com/SamGCoder/status/2114613056085152030",
+    "imageUrl": "/covers/x-2114613056085152030.jpg",
+    "source": "x",
+    "sourceId": "2114613056085152030",
+    "tags": [
+      "x-bookmark",
+      "techart",
+      "clothing"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2111920784830529866",
+    "type": "game",
+    "title": "Burn It Back 终于定名",
+    "summary": "BirichStudio 的梦中 RTS 正式定名 Burn It Back。",
+    "url": "https://x.com/BirichStudio/status/2111920784830529866",
+    "imageUrl": "/covers/x-2111920784830529866.jpg",
+    "source": "x",
+    "sourceId": "2111920784830529866",
+    "tags": [
+      "x-search",
+      "rts"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2115075750554730958",
+    "type": "game",
+    "title": "Wintercats 城建成形",
+    "summary": "城建 UI 重做、网格叠加 shader、进度可视化。",
+    "url": "https://x.com/wintercatsgames/status/2115075750554730958",
+    "imageUrl": "/covers/x-2115075750554730958.jpg",
+    "source": "x",
+    "sourceId": "2115075750554730958",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2111674526568473012",
+    "type": "game",
+    "title": "Provincia 砍树反馈",
+    "summary": "斧头每一下都让树反应:手感细节。",
+    "url": "https://x.com/metalcodestudio/status/2111674526568473012",
+    "imageUrl": "/covers/x-2111674526568473012.jpg",
+    "source": "x",
+    "sourceId": "2111674526568473012",
+    "tags": [
+      "x-search",
+      "rome",
+      "feel"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114009016187973966",
+    "type": "game",
+    "title": "Holofort 湖上整座堡",
+    "summary": "工作日的湖心堡全貌:舒适殖民。",
+    "url": "https://x.com/holofortgame/status/2114009016187973966",
+    "imageUrl": "/covers/x-2114009016187973966.jpg",
+    "source": "x",
+    "sourceId": "2114009016187973966",
+    "tags": [
+      "x-search",
+      "colony"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2112530043704369184",
+    "type": "game",
+    "title": "九名军团盾墙突破",
+    "summary": "号角一响盾墙推进:守住村庄。",
+    "url": "https://x.com/metalcodestudio/status/2112530043704369184",
+    "imageUrl": "/covers/x-2112530043704369184.jpg",
+    "source": "x",
+    "sourceId": "2112530043704369184",
+    "tags": [
+      "x-search",
+      "rome",
+      "legion"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2111260385961714054",
+    "type": "game",
+    "title": "Provincia 扩大地图试玩",
+    "summary": "第一张扩大地图 demo:更大更战略。",
+    "url": "https://x.com/metalcodestudio/status/2111260385961714054",
+    "imageUrl": "/covers/x-2111260385961714054.jpg",
+    "source": "x",
+    "sourceId": "2111260385961714054",
+    "tags": [
+      "x-search",
+      "rome",
+      "demo"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2115035452084543540",
+    "type": "game",
+    "title": "RTS 治疗单位演示",
+    "summary": "独立 RTS 治疗兵种演示。",
+    "url": "https://x.com/Lizzergas/status/2115035452084543540",
+    "imageUrl": "/covers/x-2115035452084543540.jpg",
+    "source": "x",
+    "sourceId": "2115035452084543540",
+    "tags": [
+      "x-search",
+      "rts",
+      "healer"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2112771508481249390",
+    "type": "game",
+    "title": "九龙风港口城建",
+    "summary": "2049 港口裸砼即兴城:九龙寨城意象。",
+    "url": "https://x.com/gabigamedev/status/2112771508481249390",
+    "imageUrl": "/covers/x-2112771508481249390.jpg",
+    "source": "x",
+    "sourceId": "2112771508481249390",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114889509414584758",
+    "type": "game",
+    "title": "PTB 风 RTS 拉到宇宙",
+    "summary": "相机一直拉远直到宇宙:生成式 RTS 开发日志。",
+    "url": "https://x.com/ict_resonance/status/2114889509414584758",
+    "imageUrl": "/covers/x-2114889509414584758.jpg",
+    "source": "x",
+    "sourceId": "2114889509414584758",
+    "tags": [
+      "x-search",
+      "rts"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114584141815767071",
+    "type": "game",
+    "title": "Tank-o-matic 战场换件",
+    "summary": "战场中途抓散件坦克当场变形。",
+    "url": "https://x.com/Tute_Ros/status/2114584141815767071",
+    "imageUrl": "/covers/x-2114584141815767071.jpg",
+    "source": "x",
+    "sourceId": "2114584141815767071",
+    "tags": [
+      "x-search",
+      "rts",
+      "tank"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2111472300663153014",
+    "type": "game",
+    "title": "Holofort 屋顶与雨",
+    "summary": "屋顶两天画完、雨水做了一个月才满意。",
+    "url": "https://x.com/holofortgame/status/2111472300663153014",
+    "imageUrl": "/covers/x-2111472300663153014.jpg",
+    "source": "x",
+    "sourceId": "2111472300663153014",
+    "tags": [
+      "x-search",
+      "colony",
+      "rain"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113284248664674557",
+    "type": "game",
+    "title": "Holofort 营火拉远",
+    "summary": "从营火拉到全图,小人全程不停工。",
+    "url": "https://x.com/holofortgame/status/2113284248664674557",
+    "imageUrl": "/covers/x-2113284248664674557.jpg",
+    "source": "x",
+    "sourceId": "2113284248664674557",
+    "tags": [
+      "x-search",
+      "colony"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2112619866674934003",
+    "type": "game",
+    "title": "Holofort 结晶技能",
+    "summary": "岩石人每精通一技能长一颗彩色晶体。",
+    "url": "https://x.com/holofortgame/status/2112619866674934003",
+    "imageUrl": "/covers/x-2112619866674934003.jpg",
+    "source": "x",
+    "sourceId": "2112619866674934003",
+    "tags": [
+      "x-search",
+      "colony"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2113749669885169952",
+    "type": "game",
+    "title": "Voxmons 四世界 Boss",
+    "summary": "四世界四 Boss,11 月 12 日 Steam EA。",
+    "url": "https://x.com/voxmons/status/2113749669885169952",
+    "imageUrl": "/covers/x-2113749669885169952.jpg",
+    "source": "x",
+    "sourceId": "2113749669885169952",
+    "tags": [
+      "x-search",
+      "voxel",
+      "creature"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "沙盒/探索",
+      "平台/动作/RPG"
+    ]
+  },
+  {
+    "id": "x-2115172090294817227",
+    "type": "game",
+    "title": "Eufloria Classic 回归",
+    "summary": "2009 植物 RTS Eufloria Classic 回归并有免费 demo。",
+    "url": "https://x.com/OmniSystemsPub/status/2115172090294817227",
+    "imageUrl": "/covers/x-2115172090294817227.jpg",
+    "source": "x",
+    "sourceId": "2115172090294817227",
+    "tags": [
+      "x-search",
+      "rts",
+      "plants"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2113358427745595508",
+    "type": "game",
+    "title": "Kingdom of France 精资产",
+    "summary": "城建资产高度精细。",
+    "url": "https://x.com/KingdomFRGame/status/2113358427745595508",
+    "imageUrl": "/covers/x-2113358427745595508.jpg",
+    "source": "x",
+    "sourceId": "2113358427745595508",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "france"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114690917600792795",
+    "type": "game",
+    "title": "Étretat 到 Bordeaux",
+    "summary": "从悬崖到节日绿野再到王宫小屋成长。",
+    "url": "https://x.com/KingdomFRGame/status/2114690917600792795",
+    "imageUrl": "/covers/x-2114690917600792795.jpg",
+    "source": "x",
+    "sourceId": "2114690917600792795",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2115174881730191428",
+    "type": "game",
+    "title": "Evil Hallows 围城对等开局",
+    "summary": "夜袭围城:每人开局同一座城。",
+    "url": "https://x.com/FantasyFantasy/status/2115174881730191428",
+    "imageUrl": "/covers/x-2115174881730191428.jpg",
+    "source": "x",
+    "sourceId": "2115174881730191428",
+    "tags": [
+      "x-search",
+      "siege"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2115104880050503993",
+    "type": "game",
+    "title": "DSi 中世纪迷你 RTS",
+    "summary": "任天堂 DSi 上的中世纪迷你 RTS,免费。",
+    "url": "https://x.com/OmarAlkhateebOG/status/2115104880050503993",
+    "imageUrl": "/covers/x-2115104880050503993.jpg",
+    "source": "x",
+    "sourceId": "2115104880050503993",
+    "tags": [
+      "x-search",
+      "rts",
+      "medieval"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2115178539154612661",
+    "type": "game",
+    "title": "Unbreakable Shield 骑士",
+    "summary": "一骑士盾挡清八哥布林。",
+    "url": "https://x.com/ArcCoreStudios/status/2115178539154612661",
+    "imageUrl": "/covers/x-2115178539154612661.jpg",
+    "source": "x",
+    "sourceId": "2115178539154612661",
+    "tags": [
+      "x-search",
+      "knight",
+      "combat"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2112894210122662075",
+    "type": "game",
+    "title": "Provincia 攻城先头部队",
+    "summary": "军团/弓手/骑兵/战象/投石谁打头阵。",
+    "url": "https://x.com/metalcodestudio/status/2112894210122662075",
+    "imageUrl": "/covers/x-2112894210122662075.jpg",
+    "source": "x",
+    "sourceId": "2112894210122662075",
+    "tags": [
+      "x-search",
+      "rome",
+      "siege"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2114960204341096903",
+    "type": "game",
+    "title": "Fangtopia 瓷砖城建",
+    "summary": "瓷砖城建,严苛邻接规则。",
+    "url": "https://x.com/NintenDaan/status/2114960204341096903",
+    "imageUrl": "/covers/x-2114960204341096903.jpg",
+    "source": "x",
+    "sourceId": "2114960204341096903",
+    "tags": [
+      "x-search",
+      "city-builder"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2115206874177917119",
+    "type": "game",
+    "title": "Fangtopia 布局爽感",
+    "summary": "更像解谜的城建:摆放自带爽感。",
+    "url": "https://x.com/JohnnyChugs/status/2115206874177917119",
+    "imageUrl": "/covers/x-2115206874177917119.jpg",
+    "source": "x",
+    "sourceId": "2115206874177917119",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "puzzle"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2114911210399281264",
+    "type": "game",
+    "title": "Valheim 变城建模组",
+    "summary": "F7 一开维京人定居纳税建城。",
+    "url": "https://x.com/RoundtableSpace/status/2114911210399281264",
+    "imageUrl": "/covers/x-2114911210399281264.jpg",
+    "source": "x",
+    "sourceId": "2114911210399281264",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "mod"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2115199600789508313",
+    "type": "shader",
+    "title": "PSX 冰寒场景",
+    "summary": "PSX 美学冰寒场景小品。",
+    "url": "https://x.com/eggbread_dev/status/2115199600789508313",
+    "imageUrl": "/covers/x-2115199600789508313.jpg",
+    "source": "x",
+    "sourceId": "2115199600789508313",
+    "tags": [
+      "x-search",
+      "psx"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114643195799957730",
+    "type": "shader",
+    "title": "行星天气程序着色",
+    "summary": "程序化行星着色器自带天气系统。",
+    "url": "https://x.com/ToughSf/status/2114643195799957730",
+    "imageUrl": "/covers/x-2114643195799957730.jpg",
+    "source": "x",
+    "sourceId": "2114643195799957730",
+    "tags": [
+      "x-search",
+      "procedural",
+      "planet"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115091178320478520",
+    "type": "shader",
+    "title": "浅水方程真水模拟",
+    "summary": "C++20+Metal 嵌套 GPU 网格解非线性浅水。",
+    "url": "https://x.com/oddjolt/status/2115091178320478520",
+    "imageUrl": "/covers/x-2115091178320478520.jpg",
+    "source": "x",
+    "sourceId": "2115091178320478520",
+    "tags": [
+      "x-search",
+      "water",
+      "sim"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114986751882396021",
+    "type": "shader",
+    "title": "Palm Lagoon WebGPU",
+    "summary": "Three.js+WebGPU 浅海水下世界:鱼与焦散。",
+    "url": "https://x.com/sino1782013/status/2114986751882396021",
+    "imageUrl": "/covers/x-2114986751882396021.jpg",
+    "source": "x",
+    "sourceId": "2114986751882396021",
+    "tags": [
+      "x-search",
+      "webgpu",
+      "underwater"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115231537205514346",
+    "type": "shader",
+    "title": "MANDUMPER PSX",
+    "summary": "PSX 风格独立游戏定名 MANDUMPER。",
+    "url": "https://x.com/dallao_dev/status/2115231537205514346",
+    "imageUrl": "/covers/x-2115231537205514346.jpg",
+    "source": "x",
+    "sourceId": "2115231537205514346",
+    "tags": [
+      "x-search",
+      "psx"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115046578587144523",
+    "type": "shader",
+    "title": "WebGPU 果冻水坝",
+    "summary": "同提示词对比:混凝土坝果冻立体造景+活水。",
+    "url": "https://x.com/daveeyyy_/status/2115046578587144523",
+    "imageUrl": "/covers/x-2115046578587144523.jpg",
+    "source": "x",
+    "sourceId": "2115046578587144523",
+    "tags": [
+      "x-search",
+      "webgpu",
+      "jelly"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115197886422270088",
+    "type": "shader",
+    "title": "别吵醒他 PSX",
+    "summary": "Godot PSX 氛围小品。",
+    "url": "https://x.com/arexmotion/status/2115197886422270088",
+    "imageUrl": "/covers/x-2115197886422270088.jpg",
+    "source": "x",
+    "sourceId": "2115197886422270088",
+    "tags": [
+      "x-search",
+      "psx",
+      "godot"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114779910242021744",
+    "type": "shader",
+    "title": "热扩散破坏原型",
+    "summary": "热扩散/破坏+程序动画+着色练习:机械蜘蛛。",
+    "url": "https://x.com/Nyurix_/status/2114779910242021744",
+    "imageUrl": "/covers/x-2114779910242021744.jpg",
+    "source": "x",
+    "sourceId": "2114779910242021744",
+    "tags": [
+      "x-search",
+      "procedural",
+      "destruction"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115143177405702343",
+    "type": "shader",
+    "title": "低多边形像素贴图帧",
+    "summary": "低模+像素贴图的一帧很耐看。",
+    "url": "https://x.com/enragedterrier/status/2115143177405702343",
+    "imageUrl": "/covers/x-2115143177405702343.jpg",
+    "source": "x",
+    "sourceId": "2115143177405702343",
+    "tags": [
+      "x-search",
+      "lowpoly",
+      "pixel"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115017036296507718",
+    "type": "shader",
+    "title": "WebGPU 火焰流体",
+    "summary": "流体模拟+体积光粒子收光的 WebGPU 火。",
+    "url": "https://x.com/SoftEngineer/status/2115017036296507718",
+    "imageUrl": "/covers/x-2115017036296507718.jpg",
+    "source": "x",
+    "sourceId": "2115017036296507718",
+    "tags": [
+      "x-search",
+      "webgpu",
+      "fire",
+      "fluid"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114887250890924499",
+    "type": "shader",
+    "title": "Frosted Walkers",
+    "summary": "磨砂玻璃下只剩鞋底清晰:纯 WebGL2 片元+SDF。",
+    "url": "https://x.com/romainvincens/status/2114887250890924499",
+    "imageUrl": "/covers/x-2114887250890924499.jpg",
+    "source": "x",
+    "sourceId": "2114887250890924499",
+    "tags": [
+      "x-search",
+      "webgl",
+      "sdf"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115176367302349256",
+    "type": "shader",
+    "title": "PS1 风 FPS 测试",
+    "summary": "PS1 风格第一人称射击测试。",
+    "url": "https://x.com/BressonJohnny/status/2115176367302349256",
+    "imageUrl": "/covers/x-2115176367302349256.jpg",
+    "source": "x",
+    "sourceId": "2115176367302349256",
+    "tags": [
+      "x-search",
+      "ps1",
+      "fps"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115183414706106678",
+    "type": "shader",
+    "title": "绿灯军团玉冰材质",
+    "summary": "Godot 玉/冰透明材质复刻尝试。",
+    "url": "https://x.com/99JasonKim/status/2115183414706106678",
+    "imageUrl": "/covers/x-2115183414706106678.jpg",
+    "source": "x",
+    "sourceId": "2115183414706106678",
+    "tags": [
+      "x-search",
+      "godot",
+      "material"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115168741046566980",
+    "type": "shader",
+    "title": "低模像素贴合集",
+    "summary": "游戏内资产拼在 Blender 里统一像素低模感。",
+    "url": "https://x.com/Grumpy_Bull_G/status/2115168741046566980",
+    "imageUrl": "/covers/x-2115168741046566980.jpg",
+    "source": "x",
+    "sourceId": "2115168741046566980",
+    "tags": [
+      "x-search",
+      "lowpoly",
+      "pixel"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115124215649026483",
+    "type": "shader",
+    "title": "Slabcarver PS1 关卡",
+    "summary": "Godot 4 里画 PS1 风 FPS 关卡的插件。",
+    "url": "https://x.com/zlatko_69/status/2115124215649026483",
+    "imageUrl": "/covers/x-2115124215649026483.jpg",
+    "source": "x",
+    "sourceId": "2115124215649026483",
+    "tags": [
+      "x-search",
+      "ps1",
+      "godot",
+      "tool"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115210258570227815",
+    "type": "shader",
+    "title": "PSX 犹豫片刻",
+    "summary": "PSX 恐怖氛围截图。",
+    "url": "https://x.com/Kay_NKN/status/2115210258570227815",
+    "imageUrl": "/covers/x-2115210258570227815.jpg",
+    "source": "x",
+    "sourceId": "2115210258570227815",
+    "tags": [
+      "x-search",
+      "psx",
+      "horror"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115003140336726219",
+    "type": "shader",
+    "title": "4万粒子 WebGPU",
+    "summary": "存储缓冲+计算着色器:鼠标周围四万粒子。",
+    "url": "https://x.com/iodiot/status/2115003140336726219",
+    "imageUrl": "/covers/x-2115003140336726219.jpg",
+    "source": "x",
+    "sourceId": "2115003140336726219",
+    "tags": [
+      "x-search",
+      "webgpu",
+      "particles"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115137936182202486",
+    "type": "shader",
+    "title": "Three.js WebGPU 幸存者",
+    "summary": "GPU 动画敌人的 three.js WebGPU 幸存者 ARPG。",
+    "url": "https://x.com/BuzzMista/status/2115137936182202486",
+    "imageUrl": "/covers/x-2115137936182202486.jpg",
+    "source": "x",
+    "sourceId": "2115137936182202486",
+    "tags": [
+      "x-search",
+      "webgpu",
+      "threejs"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115163159699108265",
+    "type": "shader",
+    "title": "PixiJS 3D 万圣特效",
+    "summary": "骷髅潮+火电+Bloom+景深全在 PixiJS 3D。",
+    "url": "https://x.com/PixiJS/status/2115163159699108265",
+    "imageUrl": "/covers/x-2115163159699108265.jpg",
+    "source": "x",
+    "sourceId": "2115163159699108265",
+    "tags": [
+      "x-search",
+      "vfx",
+      "pixi"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2113790066460160428",
+    "type": "shader",
+    "title": "纯代码孙悟空",
+    "summary": "零成品资产纯代码搭的孙悟空场景。",
+    "url": "https://x.com/oddjolt/status/2113790066460160428",
+    "imageUrl": "/covers/x-2113790066460160428.jpg",
+    "source": "x",
+    "sourceId": "2113790066460160428",
+    "tags": [
+      "x-search",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2114605795941974295",
+    "type": "shader",
+    "title": "程序模型与着色",
+    "summary": "模型与着色器皆程序化的旧项目。",
+    "url": "https://x.com/whomattr/status/2114605795941974295",
+    "imageUrl": "/covers/x-2114605795941974295.jpg",
+    "source": "x",
+    "sourceId": "2114605795941974295",
+    "tags": [
+      "x-search",
+      "procedural"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115129246876344695",
+    "type": "shader",
+    "title": "里山春天程序花卉",
+    "summary": "每片花瓣都是真 3D 几何的程序花卉园。",
+    "url": "https://x.com/RahulBhola5516/status/2115129246876344695",
+    "imageUrl": "/covers/x-2115129246876344695.jpg",
+    "source": "x",
+    "sourceId": "2115129246876344695",
+    "tags": [
+      "x-search",
+      "procedural",
+      "foliage"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115012709918150835",
+    "type": "shader",
+    "title": "Houdini 香水飞溅",
+    "summary": "Flip 流体香水飞溅 Redshift 教程。",
+    "url": "https://x.com/Shijuwei/status/2115012709918150835",
+    "imageUrl": "/covers/x-2115012709918150835.jpg",
+    "source": "x",
+    "sourceId": "2115012709918150835",
+    "tags": [
+      "x-search",
+      "houdini",
+      "fluid"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115155754793726408",
+    "type": "shader",
+    "title": "MediEvil 水位着色",
+    "summary": "为湖面水位旗做水面着色实验。",
+    "url": "https://x.com/flaffymg/status/2115155754793726408",
+    "imageUrl": "/covers/x-2115155754793726408.jpg",
+    "source": "x",
+    "sourceId": "2115155754793726408",
+    "tags": [
+      "x-search",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "x-2115003935333445684",
+    "type": "shader",
+    "title": "Three.js 大世界卡顿优化",
+    "summary": "植被流式复用 GPU、砍着色编译、补丁 Three.js。",
+    "url": "https://x.com/SamGCoder/status/2115003935333445684",
+    "imageUrl": "/covers/x-2115003935333445684.jpg",
+    "source": "x",
+    "sourceId": "2115003935333445684",
+    "tags": [
+      "x-search",
+      "threejs",
+      "optimization"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "steam-5286590",
+    "type": "game",
+    "title": "Samhan: Where Korea Began",
+    "summary": "新罗末三韩割据大战略：建城贸易征伐。",
+    "url": "https://store.steampowered.com/app/5286590/",
+    "imageUrl": "/covers/steam-5286590.jpg",
+    "source": "steam",
+    "sourceId": "5286590",
+    "tags": [
+      "steam",
+      "medieval",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5064870",
+    "type": "game",
+    "title": "Lord of the Tiles",
+    "summary": "揭开世界、连城铺路的地块帝国。",
+    "url": "https://store.steampowered.com/app/5064870/",
+    "imageUrl": "/covers/steam-5064870.jpg",
+    "source": "steam",
+    "sourceId": "5064870",
+    "tags": [
+      "steam",
+      "city",
+      "tiles"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-3991280",
+    "type": "game",
+    "title": "Empire's Supreme Command",
+    "summary": "回合制帝国：建设贸易作战一统。",
+    "url": "https://store.steampowered.com/app/3991280/",
+    "imageUrl": "/covers/steam-3991280.jpg",
+    "source": "steam",
+    "sourceId": "3991280",
+    "tags": [
+      "steam",
+      "tbs",
+      "empire"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5421500",
+    "type": "game",
+    "title": "Hold the Bastion",
+    "summary": "哥布林潮汐堡垒塔防：三职业六武器。",
+    "url": "https://store.steampowered.com/app/5421500/",
+    "imageUrl": "/covers/steam-5421500.jpg",
+    "source": "steam",
+    "sourceId": "5421500",
+    "tags": [
+      "steam",
+      "tower-defense",
+      "medieval"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-3929570",
+    "type": "game",
+    "title": "General Tactics: An Shi Rebellion",
+    "summary": "安史之乱历史战棋：唐军平叛。",
+    "url": "https://store.steampowered.com/app/3929570/",
+    "imageUrl": "/covers/steam-3929570.jpg",
+    "source": "steam",
+    "sourceId": "3929570",
+    "tags": [
+      "steam",
+      "tactics",
+      "medieval"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5084910",
+    "type": "game",
+    "title": "Choice of History",
+    "summary": "深历史模拟：以君主身份抉择兴衰。",
+    "url": "https://store.steampowered.com/app/5084910/",
+    "imageUrl": "/covers/steam-5084910.jpg",
+    "source": "steam",
+    "sourceId": "5084910",
+    "tags": [
+      "steam",
+      "history",
+      "sim"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5326250",
+    "type": "game",
+    "title": "Guild Master",
+    "summary": "老派 RPG：一人（或小队）经营整个公会。",
+    "url": "https://store.steampowered.com/app/5326250/",
+    "imageUrl": "/covers/steam-5326250.jpg",
+    "source": "steam",
+    "sourceId": "5326250",
+    "tags": [
+      "steam",
+      "guild",
+      "management"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "平台/动作/RPG"
+    ]
+  },
+  {
+    "id": "steam-5312160",
+    "type": "game",
+    "title": "Ocean Dynasty Tycoon",
+    "summary": "海运王朝：规划全球航线扩张船队。",
+    "url": "https://store.steampowered.com/app/5312160/",
+    "imageUrl": "/covers/steam-5312160.jpg",
+    "source": "steam",
+    "sourceId": "5312160",
+    "tags": [
+      "steam",
+      "tycoon",
+      "ocean"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5185710",
+    "type": "game",
+    "title": "Sekigahara 1600: Must Attack",
+    "summary": "关原合战：东西军古战场策略。",
+    "url": "https://store.steampowered.com/app/5185710/",
+    "imageUrl": "/covers/steam-5185710.jpg",
+    "source": "steam",
+    "sourceId": "5185710",
+    "tags": [
+      "steam",
+      "sekigahara",
+      "tactics"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5361370",
+    "type": "game",
+    "title": "The Theory of Humanity",
+    "summary": "一星球一殖民十指挥官：冲突中的人类论。",
+    "url": "https://store.steampowered.com/app/5361370/",
+    "imageUrl": "/covers/steam-5361370.jpg",
+    "source": "steam",
+    "sourceId": "5361370",
+    "tags": [
+      "steam",
+      "colony",
+      "strategy"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-3335490",
+    "type": "game",
+    "title": "SkyFab",
+    "summary": "浮岛求生：神秘巨影下建工坊扩殖。",
+    "url": "https://store.steampowered.com/app/3335490/",
+    "imageUrl": "/covers/steam-3335490.jpg",
+    "source": "steam",
+    "sourceId": "3335490",
+    "tags": [
+      "steam",
+      "colony",
+      "island"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "steam-1983700",
+    "type": "game",
+    "title": "Mega Mall Story 2",
+    "summary": "新商场经营：咖啡馆影院水族馆全开。",
+    "url": "https://store.steampowered.com/app/1983700/",
+    "imageUrl": "/covers/steam-1983700.jpg",
+    "source": "steam",
+    "sourceId": "1983700",
+    "tags": [
+      "steam",
+      "tycoon",
+      "mall"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-3364080",
+    "type": "game",
+    "title": "Blessing In The Darkness",
+    "summary": "暗黑奇幻战术地牢：独特回合制。",
+    "url": "https://store.steampowered.com/app/3364080/",
+    "imageUrl": "/covers/steam-3364080.jpg",
+    "source": "steam",
+    "sourceId": "3364080",
+    "tags": [
+      "steam",
+      "tactics",
+      "dungeon"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "平台/动作/RPG"
+    ]
+  },
+  {
+    "id": "steam-5262940",
+    "type": "game",
+    "title": "Myriad Gambit",
+    "summary": "神话中国自动战棋：选英雄布阵。",
+    "url": "https://store.steampowered.com/app/5262940/",
+    "imageUrl": "/covers/steam-5262940.jpg",
+    "source": "steam",
+    "sourceId": "5262940",
+    "tags": [
+      "steam",
+      "autobattler",
+      "chinese"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4613510",
+    "type": "game",
+    "title": "Adunata",
+    "summary": "3D 虚拟桌面：战棋美与沙盘结合。",
+    "url": "https://store.steampowered.com/app/4613510/",
+    "imageUrl": "/covers/steam-4613510.jpg",
+    "source": "steam",
+    "sourceId": "4613510",
+    "tags": [
+      "steam",
+      "vtt",
+      "tactics"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-4738510",
+    "type": "game",
+    "title": "Topdeck Duel",
+    "summary": "增量卡牌肉鸽：每场胜利扩展卡库。",
+    "url": "https://store.steampowered.com/app/4738510/",
+    "imageUrl": "/covers/steam-4738510.jpg",
+    "source": "steam",
+    "sourceId": "4738510",
+    "tags": [
+      "steam",
+      "cards",
+      "roguelike"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4542880",
+    "type": "game",
+    "title": "Ironblood",
+    "summary": "黑暗奇幻格斗经纪：签角斗士经营赛事。",
+    "url": "https://store.steampowered.com/app/4542880/",
+    "imageUrl": "/covers/steam-4542880.jpg",
+    "source": "steam",
+    "sourceId": "4542880",
+    "tags": [
+      "steam",
+      "management",
+      "fantasy"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5080430",
+    "type": "game",
+    "title": "TV Station Tycoon",
+    "summary": "电视台大亨：买版权排节目扩台。",
+    "url": "https://store.steampowered.com/app/5080430/",
+    "imageUrl": "/covers/steam-5080430.jpg",
+    "source": "steam",
+    "sourceId": "5080430",
+    "tags": [
+      "steam",
+      "tycoon"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-3587790",
+    "type": "game",
+    "title": "Crave New World",
+    "summary": "成瘾食品帝国策略模拟。",
+    "url": "https://store.steampowered.com/app/3587790/",
+    "imageUrl": "/covers/steam-3587790.jpg",
+    "source": "steam",
+    "sourceId": "3587790",
+    "tags": [
+      "steam",
+      "strategy",
+      "sim"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4746450",
+    "type": "game",
+    "title": "Shift Chess",
+    "summary": "可“控盘”的变体象棋。",
+    "url": "https://store.steampowered.com/app/4746450/",
+    "imageUrl": "/covers/steam-4746450.jpg",
+    "source": "steam",
+    "sourceId": "4746450",
+    "tags": [
+      "steam",
+      "chess",
+      "tactics"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-2048israel-civic-ledger",
+    "type": "game",
+    "title": "Civic Ledger",
+    "summary": "经济即玩法的城建：账本驱动城市。",
+    "url": "https://2048israel.itch.io/civic-ledger",
+    "imageUrl": "/covers/itch-2048israel-civic-ledger.jpg",
+    "source": "itch",
+    "sourceId": "2048israel-civic-ledger",
+    "tags": [
+      "city-builder",
+      "economy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-mardren-games-nerdram-alm-das-cinzas",
+    "type": "game",
+    "title": "Nerdram: Além das Cinzas",
+    "summary": "灰烬之上建中世纪社会。",
+    "url": "https://mardren-games.itch.io/nerdram-alm-das-cinzas",
+    "imageUrl": "/covers/itch-mardren-games-nerdram-alm-das-cinzas.jpg",
+    "source": "itch",
+    "sourceId": "mardren-games-nerdram-alm-das-cinzas",
+    "tags": [
+      "medieval",
+      "society",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-jannstudios-neon-terrarium",
+    "type": "game",
+    "title": "Neon Terrarium",
+    "summary": "赛博朋克 Townscaper 风温馨城建。",
+    "url": "https://jannstudios.itch.io/neon-terrarium",
+    "imageUrl": "/covers/itch-jannstudios-neon-terrarium.jpg",
+    "source": "itch",
+    "sourceId": "jannstudios-neon-terrarium",
+    "tags": [
+      "city-builder",
+      "cyberpunk",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-arhimag55-horde-at-the-gates",
+    "type": "game",
+    "title": "Horde at the Gates",
+    "summary": "活城塔防：你亲自下场的英雄守门。",
+    "url": "https://arhimag55.itch.io/horde-at-the-gates",
+    "imageUrl": "/covers/itch-arhimag55-horde-at-the-gates.jpg",
+    "source": "itch",
+    "sourceId": "arhimag55-horde-at-the-gates",
+    "tags": [
+      "tower-defense",
+      "city",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-gamesdevnisite-rust-and-iron",
+    "type": "game",
+    "title": "Rust and Iron",
+    "summary": "海上礁石霓虹城：往高堆、撑下去。",
+    "url": "https://gamesdevnisite.itch.io/rust-and-iron",
+    "imageUrl": "/covers/itch-gamesdevnisite-rust-and-iron.jpg",
+    "source": "itch",
+    "sourceId": "gamesdevnisite-rust-and-iron",
+    "tags": [
+      "city-builder",
+      "neon",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-ui-edi-antarium",
+    "type": "game",
+    "title": "Antarium",
+    "summary": "像素蚂蚁殖民地：从草地到巢穴。",
+    "url": "https://ui-edi.itch.io/antarium",
+    "imageUrl": "/covers/itch-ui-edi-antarium.jpg",
+    "source": "itch",
+    "sourceId": "ui-edi-antarium",
+    "tags": [
+      "colony",
+      "pixel",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-infanteu-chasm",
+    "type": "game",
+    "title": "Chasm",
+    "summary": "建村带人渡过深渊裂谷。",
+    "url": "https://infanteu.itch.io/chasm",
+    "imageUrl": "/covers/itch-infanteu-chasm.jpg",
+    "source": "itch",
+    "sourceId": "infanteu-chasm",
+    "tags": [
+      "village",
+      "crossing",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-thetravellingsalesman-mini-rts",
+    "type": "game",
+    "title": "Mini RTS",
+    "summary": "任天堂 DS 风中世纪即时战略小品。",
+    "url": "https://thetravellingsalesman.itch.io/mini-rts",
+    "imageUrl": "/covers/itch-thetravellingsalesman-mini-rts.jpg",
+    "source": "itch",
+    "sourceId": "thetravellingsalesman-mini-rts",
+    "tags": [
+      "rts",
+      "medieval",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-elcapitanph-cross-realm-warlords-a-free-2d-fantasy-rts-inspired-by-battle-realms-browser-win",
+    "type": "game",
+    "title": "Cross-Realm Warlords",
+    "summary": "免费 2D 奇幻即时战略。",
+    "url": "https://elcapitanph.itch.io/cross-realm-warlords-a-free-2d-fantasy-rts-inspired-by-battle-realms-browser-win",
+    "imageUrl": "/covers/itch-elcapitanph-cross-realm-warlords-a-free-2d-fantasy-rts-inspired-by-battle-realms-browser-win.jpg",
+    "source": "itch",
+    "sourceId": "elcapitanph-cross-realm-warlords-a-free-2d-fantasy-rts-inspired-by-battle-realms-browser-win",
+    "tags": [
+      "rts",
+      "fantasy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-zinies-zinies",
+    "type": "game",
+    "title": "Zinies",
+    "summary": "浏览器里十二分钟打完的像素 RTS。",
+    "url": "https://zinies.itch.io/zinies",
+    "imageUrl": "/covers/itch-zinies-zinies.jpg",
+    "source": "itch",
+    "sourceId": "zinies-zinies",
+    "tags": [
+      "rts",
+      "pixel",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-abdelrahman-albatta-survivalio-kingdoms",
+    "type": "game",
+    "title": "Survival.io Kingdoms",
+    "summary": "建基地练兵，征服敌对王国。",
+    "url": "https://abdelrahman-albatta.itch.io/survivalio-kingdoms",
+    "imageUrl": "/covers/itch-abdelrahman-albatta-survivalio-kingdoms.jpg",
+    "source": "itch",
+    "sourceId": "abdelrahman-albatta-survivalio-kingdoms",
+    "tags": [
+      "kingdom",
+      "survival",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-agenticgames-wall-defense",
+    "type": "game",
+    "title": "Agentic Kingdoms: Wall Defense",
+    "summary": "守门挡住红狼潮汐。",
+    "url": "https://agenticgames.itch.io/wall-defense",
+    "imageUrl": "/covers/itch-agenticgames-wall-defense.jpg",
+    "source": "itch",
+    "sourceId": "agenticgames-wall-defense",
+    "tags": [
+      "tower-defense",
+      "kingdom",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-wzyfhy-everwood-bastion",
+    "type": "game",
+    "title": "Everwood Bastion",
+    "summary": "守住古林堡垒，抵挡怪物潮。",
+    "url": "https://wzyfhy.itch.io/everwood-bastion",
+    "imageUrl": "/covers/itch-wzyfhy-everwood-bastion.jpg",
+    "source": "itch",
+    "sourceId": "wzyfhy-everwood-bastion",
+    "tags": [
+      "bastion",
+      "defense",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-the-aces-magic-rumble",
+    "type": "game",
+    "title": "Magic Rumble",
+    "summary": "1v1 回合策略：买兵合成开战。",
+    "url": "https://the-aces.itch.io/magic-rumble",
+    "imageUrl": "/covers/itch-the-aces-magic-rumble.jpg",
+    "source": "itch",
+    "sourceId": "the-aces-magic-rumble",
+    "tags": [
+      "tbs",
+      "merge",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-hunterxp-crcsn",
+    "type": "game",
+    "title": "CRCSN",
+    "summary": "浏览器里跑的铺砖桌游：城道路修院。",
+    "url": "https://hunterxp.itch.io/crcsn",
+    "imageUrl": "/covers/itch-hunterxp-crcsn.jpg",
+    "source": "itch",
+    "sourceId": "hunterxp-crcsn",
+    "tags": [
+      "tile",
+      "board",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-commando-games-crimson-shroud",
+    "type": "game",
+    "title": "Crimson Shroud",
+    "summary": "38 关 RTS 的六关试玩。",
+    "url": "https://commando-games.itch.io/crimson-shroud",
+    "imageUrl": "/covers/itch-commando-games-crimson-shroud.jpg",
+    "source": "itch",
+    "sourceId": "commando-games-crimson-shroud",
+    "tags": [
+      "rts",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-lesedi-interactive-concrete-equinox",
+    "type": "game",
+    "title": "Concrete Equinox",
+    "summary": "抗议者对当局的硬核 1v1 RTS。",
+    "url": "https://lesedi-interactive.itch.io/concrete-equinox",
+    "imageUrl": "/covers/itch-lesedi-interactive-concrete-equinox.jpg",
+    "source": "itch",
+    "sourceId": "lesedi-interactive-concrete-equinox",
+    "tags": [
+      "rts",
+      "asymmetric",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-arkayzum-warfare",
+    "type": "game",
+    "title": "Warfare",
+    "summary": "选任意国家实时征服世界。",
+    "url": "https://arkayzum.itch.io/warfare",
+    "imageUrl": "/covers/itch-arkayzum-warfare.jpg",
+    "source": "itch",
+    "sourceId": "arkayzum-warfare",
+    "tags": [
+      "rts",
+      "conquest",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-golobog-frontier-build-only-rts",
+    "type": "game",
+    "title": "Frontier: Build-Only RTS",
+    "summary": "只建不造兵：扩张占领的 RTS。",
+    "url": "https://golobog.itch.io/frontier-build-only-rts",
+    "imageUrl": "/covers/itch-golobog-frontier-build-only-rts.jpg",
+    "source": "itch",
+    "sourceId": "golobog-frontier-build-only-rts",
+    "tags": [
+      "rts",
+      "builder",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-cityfall-cityfall",
+    "type": "game",
+    "title": "Cityfall: District Raids",
+    "summary": "一区区拿下敌城的短战术突袭。",
+    "url": "https://cityfall.itch.io/cityfall",
+    "imageUrl": "/covers/itch-cityfall-cityfall.jpg",
+    "source": "itch",
+    "sourceId": "cityfall-cityfall",
+    "tags": [
+      "tactics",
+      "city",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-jhepz-the-next-ruler",
+    "type": "game",
+    "title": "The Next Ruler",
+    "summary": "暗中武装玩具战争两边，让它打下去。",
+    "url": "https://jhepz.itch.io/the-next-ruler",
+    "imageUrl": "/covers/itch-jhepz-the-next-ruler.jpg",
+    "source": "itch",
+    "sourceId": "jhepz-the-next-ruler",
+    "tags": [
+      "strategy",
+      "meta",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-imperialauthority-footmen-frontier",
+    "type": "game",
+    "title": "Footmen Frontier",
+    "summary": "四文明轨道自动战棋。",
+    "url": "https://imperialauthority.itch.io/footmen-frontier",
+    "imageUrl": "/covers/itch-imperialauthority-footmen-frontier.jpg",
+    "source": "itch",
+    "sourceId": "imperialauthority-footmen-frontier",
+    "tags": [
+      "autobattler",
+      "orbital",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-josephuz-cayir-muhafizi",
+    "type": "game",
+    "title": "Çayır Muhafızı",
+    "summary": "英雄+军团等距旗帜战，帝国时代味。",
+    "url": "https://josephuz.itch.io/cayir-muhafizi",
+    "imageUrl": "/covers/itch-josephuz-cayir-muhafizi.jpg",
+    "source": "itch",
+    "sourceId": "josephuz-cayir-muhafizi",
+    "tags": [
+      "rts",
+      "banner",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-tutytrainer-pokemon-base-defenders",
+    "type": "game",
+    "title": "Pokémon Base Defenders",
+    "summary": "建宝可梦村、练队再出击。",
+    "url": "https://tutytrainer.itch.io/pokemon-base-defenders",
+    "imageUrl": "/covers/itch-tutytrainer-pokemon-base-defenders.jpg",
+    "source": "itch",
+    "sourceId": "tutytrainer-pokemon-base-defenders",
+    "tags": [
+      "village",
+      "pokemon",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-sswss-godbeast",
+    "type": "game",
+    "title": "Godbeast",
+    "summary": "镇子养活你，你塑造它的命运。",
+    "url": "https://sswss.itch.io/godbeast",
+    "imageUrl": "/covers/itch-sswss-godbeast.jpg",
+    "source": "itch",
+    "sourceId": "sswss-godbeast",
+    "tags": [
+      "god-game",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-macermac-rammaz",
+    "type": "game",
+    "title": "Rammaz",
+    "summary": "增量城镇建造：管人扩城。",
+    "url": "https://macermac.itch.io/rammaz",
+    "imageUrl": "/covers/itch-macermac-rammaz.jpg",
+    "source": "itch",
+    "sourceId": "macermac-rammaz",
+    "tags": [
+      "town-builder",
+      "incremental",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-bytecatgamedev-monsters-and-meadows",
+    "type": "game",
+    "title": "Monsters & Meadows",
+    "summary": "重建被毁小镇的温馨城建。",
+    "url": "https://bytecatgamedev.itch.io/monsters-and-meadows",
+    "imageUrl": "/covers/itch-bytecatgamedev-monsters-and-meadows.jpg",
+    "source": "itch",
+    "sourceId": "bytecatgamedev-monsters-and-meadows",
+    "tags": [
+      "town-builder",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-le-trung-anh-john-town-guys",
+    "type": "game",
+    "title": "town guys",
+    "summary": "合作盖小镇。",
+    "url": "https://le-trung-anh-john.itch.io/town-guys",
+    "imageUrl": "/covers/itch-le-trung-anh-john-town-guys.jpg",
+    "source": "itch",
+    "sourceId": "le-trung-anh-john-town-guys",
+    "tags": [
+      "coop",
+      "town",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-eismanberlin-sector-4x-genesis",
+    "type": "game",
+    "title": "Sector 4X Genesis",
+    "summary": "Amiga 回合制太空 4X。",
+    "url": "https://eismanberlin.itch.io/sector-4x-genesis",
+    "imageUrl": "/covers/itch-eismanberlin-sector-4x-genesis.jpg",
+    "source": "itch",
+    "sourceId": "eismanberlin-sector-4x-genesis",
+    "tags": [
+      "4x",
+      "amiga",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nogxx-clash-of-legions",
+    "type": "game",
+    "title": "Clash of Legions",
+    "summary": "征服古意大利：每张牌一支军团。",
+    "url": "https://nogxx.itch.io/clash-of-legions",
+    "imageUrl": "/covers/itch-nogxx-clash-of-legions.jpg",
+    "source": "itch",
+    "sourceId": "nogxx-clash-of-legions",
+    "tags": [
+      "autobattler",
+      "rome",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-xenomi-tarianese-fortress-clash",
+    "type": "game",
+    "title": "Tarianese: Fortress Clash",
+    "summary": "选阵营指挥要塞对决。",
+    "url": "https://xenomi.itch.io/tarianese-fortress-clash",
+    "imageUrl": "/covers/itch-xenomi-tarianese-fortress-clash.jpg",
+    "source": "itch",
+    "sourceId": "xenomi-tarianese-fortress-clash",
+    "tags": [
+      "fortress",
+      "strategy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-zerglingno1-ten-thousand-victories",
+    "type": "game",
+    "title": "Ten Thousand Victories",
+    "summary": "木刻墨风越南史：治国扩疆。",
+    "url": "https://zerglingno1.itch.io/ten-thousand-victories",
+    "imageUrl": "/covers/itch-zerglingno1-ten-thousand-victories.jpg",
+    "source": "itch",
+    "sourceId": "zerglingno1-ten-thousand-victories",
+    "tags": [
+      "history",
+      "kingdom",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-lks-lab-universal-relations",
+    "type": "game",
+    "title": "Universal Relations",
+    "summary": "部落→王国→国家：每条关系改规则。",
+    "url": "https://lks-lab.itch.io/universal-relations",
+    "imageUrl": "/covers/itch-lks-lab-universal-relations.jpg",
+    "source": "itch",
+    "sourceId": "lks-lab-universal-relations",
+    "tags": [
+      "grand-strategy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-fyrnthegame-varrow",
+    "type": "game",
+    "title": "Varrow: The Long Peace",
+    "summary": "一周长线多人策略，按你的节奏下。",
+    "url": "https://fyrnthegame.itch.io/varrow",
+    "imageUrl": "/covers/itch-fyrnthegame-varrow.jpg",
+    "source": "itch",
+    "sourceId": "fyrnthegame-varrow",
+    "tags": [
+      "multiplayer",
+      "strategy",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-saiharris-warmonger",
+    "type": "game",
+    "title": "Warmonger",
+    "summary": "大军团回合制，骰子与开战。",
+    "url": "https://saiharris.itch.io/warmonger",
+    "imageUrl": "/covers/itch-saiharris-warmonger.jpg",
+    "source": "itch",
+    "sourceId": "saiharris-warmonger",
+    "tags": [
+      "tbs",
+      "war",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-taz06660-hex-battle-1944",
+    "type": "game",
+    "title": "Hex Battle 1944",
+    "summary": "免费单人二战六角兵棋，浏览器可玩。",
+    "url": "https://taz06660.itch.io/hex-battle-1944",
+    "imageUrl": "/covers/itch-taz06660-hex-battle-1944.jpg",
+    "source": "itch",
+    "sourceId": "taz06660-hex-battle-1944",
+    "tags": [
+      "hex",
+      "ww2",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-jap-kamakura-man-lunaris-tactical-core",
+    "type": "game",
+    "title": "LUNARIS — Tactical Core",
+    "summary": "科幻六角回合战术，程序化 FM 配乐。",
+    "url": "https://jap-kamakura-man.itch.io/lunaris-tactical-core",
+    "imageUrl": "/covers/itch-jap-kamakura-man-lunaris-tactical-core.jpg",
+    "source": "itch",
+    "sourceId": "jap-kamakura-man-lunaris-tactical-core",
+    "tags": [
+      "hex",
+      "tactics",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-grandoperations-great-battles",
+    "type": "game",
+    "title": "Great Battles",
+    "summary": "经典六角兵棋忠实数字化。",
+    "url": "https://grandoperations.itch.io/great-battles",
+    "imageUrl": "/covers/itch-grandoperations-great-battles.jpg",
+    "source": "itch",
+    "sourceId": "grandoperations-great-battles",
+    "tags": [
+      "hex",
+      "wargame",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-leofassb-the-broken-fleet",
+    "type": "game",
+    "title": "The Broken Fleet",
+    "summary": "1570 威尼斯征塞浦路斯：造船开战。",
+    "url": "https://leofassb.itch.io/the-broken-fleet",
+    "imageUrl": "/covers/itch-leofassb-the-broken-fleet.jpg",
+    "source": "itch",
+    "sourceId": "leofassb-the-broken-fleet",
+    "tags": [
+      "naval",
+      "history",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-danguba1-the-great-war-1914-1918",
+    "type": "game",
+    "title": "The Great War 1914–1918",
+    "summary": "一战六角回合：十二场会战。",
+    "url": "https://danguba1.itch.io/the-great-war-1914-1918",
+    "imageUrl": "/covers/itch-danguba1-the-great-war-1914-1918.jpg",
+    "source": "itch",
+    "sourceId": "danguba1-the-great-war-1914-1918",
+    "tags": [
+      "hex",
+      "ww1",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-npyndus-flank-and-fire",
+    "type": "game",
+    "title": "Flank & Fire",
+    "summary": "活的程序化地图上的实时团战术。",
+    "url": "https://npyndus.itch.io/flank-and-fire",
+    "imageUrl": "/covers/itch-npyndus-flank-and-fire.jpg",
+    "source": "itch",
+    "sourceId": "npyndus-flank-and-fire",
+    "tags": [
+      "tactics",
+      "rts",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-kingtoffel-hex-command",
+    "type": "game",
+    "title": "Hex Command",
+    "summary": "回合制六角策略试玩：指挥夺点。",
+    "url": "https://kingtoffel.itch.io/hex-command",
+    "imageUrl": "/covers/itch-kingtoffel-hex-command.jpg",
+    "source": "itch",
+    "sourceId": "kingtoffel-hex-command",
+    "tags": [
+      "hex",
+      "tbs",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-onemanitch-fronts-redrawn",
+    "type": "game",
+    "title": "Fronts Redrawn",
+    "summary": "活前线 RTS：切断补给改写战线。",
+    "url": "https://onemanitch.itch.io/fronts-redrawn",
+    "imageUrl": "/covers/itch-onemanitch-fronts-redrawn.jpg",
+    "source": "itch",
+    "sourceId": "onemanitch-fronts-redrawn",
+    "tags": [
+      "rts",
+      "fronts",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-merto7155-closed-hours",
+    "type": "shader",
+    "title": "CLOSED HOURS — 閉店後",
+    "summary": "1998 閉店后购物中心巡视：PS1 风一人称恐怖。",
+    "url": "https://merto7155.itch.io/closed-hours",
+    "imageUrl": "/covers/itch-merto7155-closed-hours.jpg",
+    "source": "itch",
+    "sourceId": "merto7155-closed-hours",
+    "tags": [
+      "psx",
+      "horror",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-madebygare-celestial-particles",
+    "type": "shader",
+    "title": "Celestial Particles",
+    "summary": "点点挂机飞向宇宙的粒子视觉。",
+    "url": "https://madebygare.itch.io/celestial-particles",
+    "imageUrl": "/covers/itch-madebygare-celestial-particles.jpg",
+    "source": "itch",
+    "sourceId": "madebygare-celestial-particles",
+    "tags": [
+      "particles",
+      "idle",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-langdons143-projectbmaze",
+    "type": "shader",
+    "title": "Project B - Procedural Maze",
+    "summary": "程序化迷宫拾币奔跑。",
+    "url": "https://langdons143.itch.io/projectbmaze",
+    "imageUrl": "/covers/itch-langdons143-projectbmaze.jpg",
+    "source": "itch",
+    "sourceId": "langdons143-projectbmaze",
+    "tags": [
+      "procedural",
+      "maze",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-redisitic-half-life-ue5",
+    "type": "shader",
+    "title": "Half-Life: UE5 (c1a0)",
+    "summary": "异常物质第二张图的 UE5 移植视觉。",
+    "url": "https://redisitic.itch.io/half-life-ue5",
+    "imageUrl": "/covers/itch-redisitic-half-life-ue5.jpg",
+    "source": "itch",
+    "sourceId": "redisitic-half-life-ue5",
+    "tags": [
+      "ue5",
+      "remake",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-paronthes-af",
+    "type": "shader",
+    "title": "After Dark",
+    "summary": "唯一光源也在引来它们：光影恐怖。",
+    "url": "https://paronthes.itch.io/af",
+    "imageUrl": "/covers/itch-paronthes-af.jpg",
+    "source": "itch",
+    "sourceId": "paronthes-af",
+    "tags": [
+      "lighting",
+      "horror",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-a-inde-gaming-quack-courier",
+    "type": "shader",
+    "title": "Quack Courier",
+    "summary": "运河城滑索滑翔的鸭子快递。",
+    "url": "https://a-inde-gaming.itch.io/quack-courier",
+    "imageUrl": "/covers/itch-a-inde-gaming-quack-courier.jpg",
+    "source": "itch",
+    "sourceId": "a-inde-gaming-quack-courier",
+    "tags": [
+      "city",
+      "lowpoly",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-metaworldos-universeexplorer",
+    "type": "shader",
+    "title": "UniverseExplorer",
+    "summary": "浏览器里实时写实太阳系。",
+    "url": "https://metaworldos.itch.io/universeexplorer",
+    "imageUrl": "/covers/itch-metaworldos-universeexplorer.jpg",
+    "source": "itch",
+    "sourceId": "metaworldos-universeexplorer",
+    "tags": [
+      "space",
+      "realtime",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-neon-grid-neon-citadel",
+    "type": "shader",
+    "title": "NEON CITADEL",
+    "summary": "赛博侦探 3D：清四区感染节点。",
+    "url": "https://neon-grid.itch.io/neon-citadel",
+    "imageUrl": "/covers/itch-neon-grid-neon-citadel.jpg",
+    "source": "itch",
+    "sourceId": "neon-grid-neon-citadel",
+    "tags": [
+      "cyberpunk",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-rio-studio-kitsune-runner",
+    "type": "shader",
+    "title": "KITSUNE -妖狐疾走-",
+    "summary": "白九尾狐穿神社小径疾走。",
+    "url": "https://rio-studio.itch.io/kitsune-runner",
+    "imageUrl": "/covers/itch-rio-studio-kitsune-runner.jpg",
+    "source": "itch",
+    "sourceId": "rio-studio-kitsune-runner",
+    "tags": [
+      "stylized",
+      "japan",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-centinelastudio-servicio-galctico",
+    "type": "shader",
+    "title": "Servicio Galáctico",
+    "summary": "复古等距街机：收太空包裹。",
+    "url": "https://centinelastudio.itch.io/servicio-galctico",
+    "imageUrl": "/covers/itch-centinelastudio-servicio-galctico.jpg",
+    "source": "itch",
+    "sourceId": "centinelastudio-servicio-galctico",
+    "tags": [
+      "isometric",
+      "retro",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-kkshark11-ebb",
+    "type": "shader",
+    "title": "EBB",
+    "summary": "潮退、力气也退的视觉小品。",
+    "url": "https://kkshark11.itch.io/ebb",
+    "imageUrl": "/covers/itch-kkshark11-ebb.jpg",
+    "source": "itch",
+    "sourceId": "kkshark11-ebb",
+    "tags": [
+      "tide",
+      "mood",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-aoiti-steam-rider",
+    "type": "shader",
+    "title": "Steam Rider",
+    "summary": "蒸汽骑乘视觉小品。",
+    "url": "https://aoiti.itch.io/steam-rider",
+    "imageUrl": "/covers/itch-aoiti-steam-rider.jpg",
+    "source": "itch",
+    "sourceId": "aoiti-steam-rider",
+    "tags": [
+      "steam",
+      "visual",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-somitbond-golf",
+    "type": "shader",
+    "title": "3D Golf: 9 Holes",
+    "summary": "浏览器九洞 3D 高尔夫，十四杆。",
+    "url": "https://somitbond.itch.io/golf",
+    "imageUrl": "/covers/itch-somitbond-golf.jpg",
+    "source": "itch",
+    "sourceId": "somitbond-golf",
+    "tags": [
+      "3d",
+      "golf",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-4ygamesmobile-plane-evolution-3d",
+    "type": "shader",
+    "title": "Plane Evolution 3D",
+    "summary": "七纪元飞机进化飞行视觉。",
+    "url": "https://4ygamesmobile.itch.io/plane-evolution-3d",
+    "imageUrl": "/covers/itch-4ygamesmobile-plane-evolution-3d.jpg",
+    "source": "itch",
+    "sourceId": "4ygamesmobile-plane-evolution-3d",
+    "tags": [
+      "3d",
+      "flight",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-haruka-apps-games-galaxy-mission-pinball-artwork-edition",
+    "type": "shader",
+    "title": "Galaxy Mission Pinball",
+    "summary": "霓虹科幻 3D 弹珠台。",
+    "url": "https://haruka-apps-games.itch.io/galaxy-mission-pinball-artwork-edition",
+    "imageUrl": "/covers/itch-haruka-apps-games-galaxy-mission-pinball-artwork-edition.jpg",
+    "source": "itch",
+    "sourceId": "haruka-apps-games-galaxy-mission-pinball-artwork-edition",
+    "tags": [
+      "neon",
+      "pinball",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "itch-lurking-horrors-abduction-run",
+    "type": "shader",
+    "title": "Abduction Run",
+    "summary": "俯视 UFO 肉鸽：吸人吃车跑路。",
+    "url": "https://lurking-horrors.itch.io/abduction-run",
+    "imageUrl": "/covers/itch-lurking-horrors-abduction-run.jpg",
+    "source": "itch",
+    "sourceId": "lurking-horrors-abduction-run",
+    "tags": [
+      "ufo",
+      "roguelike",
+      "itch"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95980",
+    "type": "shader",
+    "title": "VybeNomad 数字游民模拟",
+    "summary": "Three.js 手机可跑的温馨数字游民生活模拟。",
+    "url": "https://discourse.threejs.org/t/vybenomad-a-cozy-digital-nomad-life-sim-in-three-js-that-runs-on-phones/95980",
+    "imageUrl": "/covers/threejs-forum-95980.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95980",
+    "tags": [
+      "threejs",
+      "life-sim",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95978",
+    "type": "shader",
+    "title": "LeafThrough 翻页库",
+    "summary": "可弯曲翻卷书页的 TypeScript/three.js 杂志翻页库。",
+    "url": "https://discourse.threejs.org/t/another-page-flip-library-with-pages-that-bend-and-roll/95978",
+    "imageUrl": "/covers/threejs-forum-95978.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95978",
+    "tags": [
+      "threejs",
+      "library",
+      "pages"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95971",
+    "type": "shader",
+    "title": "Three.js 多人射击",
+    "summary": "浏览器 Three.js 多人射击求反馈。",
+    "url": "https://discourse.threejs.org/t/new-game-plz-try-respond/95971",
+    "imageUrl": "/covers/threejs-forum-95971.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95971",
+    "tags": [
+      "threejs",
+      "multiplayer",
+      "shooter"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95967",
+    "type": "shader",
+    "title": "FLOAT 动量跑酷",
+    "summary": "Three.js+Rapier 第一人称动量跑酷，Brutalist 风。",
+    "url": "https://discourse.threejs.org/t/float-3d-first-person-momentum-parkour-browser-game-three-js-rapier3d/95967",
+    "imageUrl": "/covers/threejs-forum-95967.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95967",
+    "tags": [
+      "threejs",
+      "parkour",
+      "physics"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95965",
+    "type": "shader",
+    "title": "Whoops Tac Toe 立体",
+    "summary": "看不见对手落子的立体井字棋。",
+    "url": "https://discourse.threejs.org/t/whoops-tac-toe-hidden-move-tic-tac-toe-on-a-three-js-cube/95965",
+    "imageUrl": "/covers/threejs-forum-95965.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95965",
+    "tags": [
+      "threejs",
+      "puzzle",
+      "game"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95962",
+    "type": "shader",
+    "title": "GTAV 风驾驶原型",
+    "summary": "six-DOF 轮胎物理的 three.js 驾驶原型。",
+    "url": "https://discourse.threejs.org/t/aaa-gtav-style-car-game/95962",
+    "imageUrl": "/covers/threejs-forum-95962.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95962",
+    "tags": [
+      "threejs",
+      "driving",
+      "physics"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95929",
+    "type": "shader",
+    "title": "RentSynk 落地页 3D",
+    "summary": "物业管理应用落地页上的交互 3D。",
+    "url": "https://discourse.threejs.org/t/rentsynk-a-cross-platform-property-management-app-landing-page-featuring-interactive-3d-graphics-built-with-three-js/95929",
+    "imageUrl": "/covers/threejs-forum-95929.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95929",
+    "tags": [
+      "threejs",
+      "landing",
+      "product"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95928",
+    "type": "shader",
+    "title": "Wildlands Seasonkeeper",
+    "summary": "灯笼改季节的五座程序化低模岛。",
+    "url": "https://discourse.threejs.org/t/wildlands-seasonkeeper/95928",
+    "imageUrl": "/covers/threejs-forum-95928.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95928",
+    "tags": [
+      "threejs",
+      "procgen",
+      "seasons"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95925",
+    "type": "shader",
+    "title": "公路自行车配置器",
+    "summary": "Three.js 交互产品展台：公路自行车配置。",
+    "url": "https://discourse.threejs.org/t/my-3d-product-configurator-demo/95925",
+    "imageUrl": "/covers/threejs-forum-95925.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95925",
+    "tags": [
+      "threejs",
+      "configurator",
+      "product"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "threejs-forum-95835",
+    "type": "shader",
+    "title": "Qiaflo 城市模拟",
+    "summary": "演示 BLE 宠物找回生态的交互 3D 城市场景。",
+    "url": "https://discourse.threejs.org/t/qiaflo-city-simulation-an-interactive-3d-simulation-experience-that-demonstrates-how-the-real-time-ble-pet-recovery-ecosystem-work/95835",
+    "imageUrl": "/covers/threejs-forum-95835.jpg",
+    "source": "threejs",
+    "sourceId": "forum-95835",
+    "tags": [
+      "threejs",
+      "city",
+      "sim"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "80lv-stardew-valley-style-dark-fantasy-rpg-delays-steam-early-access-launch-to-2027",
+    "type": "game",
+    "title": "暗黑星露谷风 RPG 延期",
+    "summary": "星露谷式暗黑奇幻 RPG 将抢先体验延至 2027。",
+    "url": "https://80.lv/articles/stardew-valley-style-dark-fantasy-rpg-delays-steam-early-access-launch-to-2027",
+    "imageUrl": "/covers/80lv-stardew-valley-style-dark-fantasy-rpg-delays-steam-early-access-launch-to-2027.jpg",
+    "source": "80lv",
+    "sourceId": "stardew-valley-style-dark-fantasy-rpg-delays-steam-early-access-launch-to-2027",
+    "tags": [
+      "80lv",
+      "rpg"
+    ],
+    "collectedAt": "2026-10-28",
+    "genres": [
+      "平台/动作/RPG",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "80lv-building-a-stylized-mountain-cabin-with-modular-assets-and-custom-shaders",
+    "type": "shader",
+    "title": "风格化山间小屋",
+    "summary": "模块化资产 + 自定义 shader 搭风格化山间小屋。",
+    "url": "https://80.lv/articles/building-a-stylized-mountain-cabin-with-modular-assets-and-custom-shaders",
+    "imageUrl": "/covers/80lv-building-a-stylized-mountain-cabin-with-modular-assets-and-custom-shaders.jpg",
+    "source": "80lv",
+    "sourceId": "building-a-stylized-mountain-cabin-with-modular-assets-and-custom-shaders",
+    "tags": [
+      "80lv",
+      "environment",
+      "shader"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "80lv-building-a-game-ready-nordic-village-scene-with-day-night-lighting-setups",
+    "type": "shader",
+    "title": "北欧村庄日夜光照",
+    "summary": "游戏可用北欧村庄场景与日夜光照方案。",
+    "url": "https://80.lv/articles/building-a-game-ready-nordic-village-scene-with-day-night-lighting-setups",
+    "imageUrl": "/covers/80lv-building-a-game-ready-nordic-village-scene-with-day-night-lighting-setups.jpg",
+    "source": "80lv",
+    "sourceId": "building-a-game-ready-nordic-village-scene-with-day-night-lighting-setups",
+    "tags": [
+      "80lv",
+      "environment",
+      "lighting"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "80lv-see-how-this-music-video-was-made-in-blender-instead-of-after-effects",
+    "type": "shader",
+    "title": "Blender 做的 MV",
+    "summary": "不用 AE、全在 Blender 里做的音乐视频拆解。",
+    "url": "https://80.lv/articles/see-how-this-music-video-was-made-in-blender-instead-of-after-effects",
+    "imageUrl": "/covers/80lv-see-how-this-music-video-was-made-in-blender-instead-of-after-effects.jpg",
+    "source": "80lv",
+    "sourceId": "see-how-this-music-video-was-made-in-blender-instead-of-after-effects",
+    "tags": [
+      "80lv",
+      "blender",
+      "cinematic"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "80lv-real-time-motion-paths-add-on-for-blender-gets-updated",
+    "type": "shader",
+    "title": "Blender 实时运动路径",
+    "summary": "Real-Time Motion Paths 插件更新。",
+    "url": "https://80.lv/articles/real-time-motion-paths-add-on-for-blender-gets-updated",
+    "imageUrl": "/covers/80lv-real-time-motion-paths-add-on-for-blender-gets-updated.jpg",
+    "source": "80lv",
+    "sourceId": "real-time-motion-paths-add-on-for-blender-gets-updated",
+    "tags": [
+      "80lv",
+      "blender",
+      "tool"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "80lv-this-my-little-pony-character-s-bizarre-2d-3d-look-will-break-your-brain",
+    "type": "shader",
+    "title": "小马怪异 2D/3D",
+    "summary": "打破脑回路的 2D/3D 混搭角色造型。",
+    "url": "https://80.lv/articles/this-my-little-pony-character-s-bizarre-2d-3d-look-will-break-your-brain",
+    "imageUrl": "/covers/80lv-this-my-little-pony-character-s-bizarre-2d-3d-look-will-break-your-brain.jpg",
+    "source": "80lv",
+    "sourceId": "this-my-little-pony-character-s-bizarre-2d-3d-look-will-break-your-brain",
+    "tags": [
+      "80lv",
+      "stylized",
+      "character"
+    ],
+    "collectedAt": "2026-10-28"
+  },
+  {
     "id": "itch-falvey-downtown-road-tiles-15-top-down-pixel-road-tiles-32x32",
     "type": "inspiration",
     "title": "俯视城区道路瓦片",
