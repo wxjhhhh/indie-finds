@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-kinkoo7-tiny-tileset",
+    "type": "inspiration",
+    "title": "迷你自然瓦片 32×32",
+    "summary": "河流木桥草地与岩石成套，32×32 俯视自然地表铺图很干净。",
+    "url": "https://kinkoo7.itch.io/tiny-tileset",
+    "imageUrl": "/covers/itch-kinkoo7-tiny-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-kinkoo7-tiny-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pmvuongvna-rpg-environments-packs",
+    "type": "inspiration",
+    "title": "奇幻环境建筑包",
+    "summary": "茅顶民居风车石拱与围栏同框，俯视 RPG 村镇环境参考很满。",
+    "url": "https://pmvuongvna.itch.io/rpg-environments-packs",
+    "imageUrl": "/covers/itch-pmvuongvna-rpg-environments-packs.jpg",
+    "source": "itch",
+    "sourceId": "itch-pmvuongvna-rpg-environments-packs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bitnuker-fantasy-environments-grounds",
+    "type": "inspiration",
+    "title": "奇幻地表三景",
+    "summary": "熔岩、符文法阵与蘑菇仙环并排，奇幻地表材质切换一眼能用。",
+    "url": "https://bitnuker.itch.io/fantasy-environments-grounds",
+    "imageUrl": "/covers/itch-bitnuker-fantasy-environments-grounds.jpg",
+    "source": "itch",
+    "sourceId": "itch-bitnuker-fantasy-environments-grounds",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maidolee-pixel-art-ice-snow-platformer-tileset",
+    "type": "inspiration",
+    "title": "冰雪平台瓦片",
+    "summary": "蓝冰砖块与雪地城堡侧视，32×32 冰雪平台关卡铺图很清爽。",
+    "url": "https://maidolee.itch.io/pixel-art-ice-snow-platformer-tileset",
+    "imageUrl": "/covers/itch-maidolee-pixel-art-ice-snow-platformer-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-maidolee-pixel-art-ice-snow-platformer-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2114467634393776154",
+    "type": "inspiration",
+    "title": "Cavernook 三色板",
+    "summary": "原色/Game Boy/单色三套地牢瓦片对照，配色切换参考很直观。",
+    "url": "https://x.com/DontPeek_art/status/2114467634393776154",
+    "imageUrl": "/covers/x-2114467634393776154.jpg",
+    "source": "x",
+    "sourceId": "x-2114467634393776154",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-voxel-floating-sky-islands-pack",
+    "type": "inspiration",
+    "title": "体素浮空岛",
+    "summary": "热气球飞艇石拱与木桥连岛，体素空岛地貌氛围足。",
+    "url": "https://tersco.itch.io/voxel-floating-sky-islands-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-floating-sky-islands-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-floating-sky-islands-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-dino-valley-diorama-pack",
+    "type": "inspiration",
+    "title": "体素恐龙谷",
+    "summary": "火山棕榈与三角龙腕龙同框，史前体素谷地很热闹。",
+    "url": "https://tersco.itch.io/voxel-dino-valley-diorama-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-dino-valley-diorama-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-dino-valley-diorama-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-desert-oasis-caravan-market-pack",
+    "type": "inspiration",
+    "title": "体素绿洲市集",
+    "summary": "蓝顶陶屋棕榈与条纹篷摊，沙漠绿洲体素市集很完整。",
+    "url": "https://tersco.itch.io/voxel-desert-oasis-caravan-market-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-desert-oasis-caravan-market-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-desert-oasis-caravan-market-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-arabian-gulf-heritage-pack",
+    "type": "inspiration",
+    "title": "体素海湾遗产",
+    "summary": "帆船码头与风塔石屋同岸，海湾传统体素聚落气质足。",
+    "url": "https://tersco.itch.io/voxel-arabian-gulf-heritage-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-arabian-gulf-heritage-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-arabian-gulf-heritage-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelgrove-cozy-farm-kit",
+    "type": "inspiration",
+    "title": "体素温馨农场",
+    "summary": "红谷仓筒仓与四阶段作物，等距农场体素种田包很实用。",
+    "url": "https://voxelgrove.itch.io/cozy-farm-kit",
+    "imageUrl": "/covers/itch-voxelgrove-cozy-farm-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-cozy-farm-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-samura133-n3xus-starter-free",
+    "type": "inspiration",
+    "title": "N3XUS 俯视角色包",
+    "summary": "四人三宠坐骑与六怪四向，免费俯视 RPG 起步角色包。",
+    "url": "https://samura133.itch.io/n3xus-starter-free",
+    "imageUrl": "/covers/itch-samura133-n3xus-starter-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-samura133-n3xus-starter-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dani-maccari-player-animations-tim",
+    "type": "inspiration",
+    "title": "TiM 角色动画",
+    "summary": "白剪影跳跃翻滚序列，平台角色动作模板参考清楚。",
+    "url": "https://dani-maccari.itch.io/player-animations-tim",
+    "imageUrl": "/covers/itch-dani-maccari-player-animations-tim.jpg",
+    "source": "itch",
+    "sourceId": "itch-dani-maccari-player-animations-tim",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-watsubara-firemage",
+    "type": "inspiration",
+    "title": "火焰法师精灵",
+    "summary": "法师待机施法与六种火系特效，像素战斗角色技能很齐。",
+    "url": "https://watsubara.itch.io/firemage",
+    "imageUrl": "/covers/itch-watsubara-firemage.jpg",
+    "source": "itch",
+    "sourceId": "itch-watsubara-firemage",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-100-free-glacierbreaker-knight-animated-character-story-art",
+    "type": "inspiration",
+    "title": "破冰骑士免费样",
+    "summary": "立绘、八向精灵与技能图同页，暗黑幻想骑士起步免费。",
+    "url": "https://elie-automata.itch.io/100-free-glacierbreaker-knight-animated-character-story-art",
+    "imageUrl": "/covers/itch-elie-automata-100-free-glacierbreaker-knight-animated-character-story-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-100-free-glacierbreaker-knight-animated-character-story-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2115189774566998103",
+    "type": "inspiration",
+    "title": "Patch 弹幕主角",
+    "summary": "等距平台上的像素主角原型，弹幕射击角色站姿很清晰。",
+    "url": "https://x.com/_papeRabbit/status/2115189774566998103",
+    "imageUrl": "/covers/x-2115189774566998103.jpg",
+    "source": "x",
+    "sourceId": "x-2115189774566998103",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-super-circle-supply-corner-store-bodega",
+    "type": "inspiration",
+    "title": "街角杂货铺室内",
+    "summary": "货架冷柜收银台成套，32×32 俯视便利店室内很生活。",
+    "url": "https://super-circle-supply.itch.io/corner-store-bodega",
+    "imageUrl": "/covers/itch-super-circle-supply-corner-store-bodega.jpg",
+    "source": "itch",
+    "sourceId": "itch-super-circle-supply-corner-store-bodega",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-super-circle-supply-heat-locker-sneaker-shop",
+    "type": "inspiration",
+    "title": "球鞋潮店室内",
+    "summary": "墙面鞋墙衣架木箱陈列，俯视潮牌店室内一眼能用。",
+    "url": "https://super-circle-supply.itch.io/heat-locker-sneaker-shop",
+    "imageUrl": "/covers/itch-super-circle-supply-heat-locker-sneaker-shop.jpg",
+    "source": "itch",
+    "sourceId": "itch-super-circle-supply-heat-locker-sneaker-shop",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-route-66-1950s-roadside-town-pixel-buildings",
+    "type": "inspiration",
+    "title": "Route 66 路边镇",
+    "summary": "霓虹汽车旅馆与复古餐厅，等距 50 年代路边小镇很有味。",
+    "url": "https://antahonist.itch.io/route-66-1950s-roadside-town-pixel-buildings",
+    "imageUrl": "/covers/itch-antahonist-route-66-1950s-roadside-town-pixel-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-route-66-1950s-roadside-town-pixel-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ridgeworksstudio-stonehold-village",
+    "type": "inspiration",
+    "title": "Stonehold 村庄",
+    "summary": "民居摊位与建造损坏阶段，等距中世纪村庄策略很合适。",
+    "url": "https://ridgeworksstudio.itch.io/stonehold-village",
+    "imageUrl": "/covers/itch-ridgeworksstudio-stonehold-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-ridgeworksstudio-stonehold-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v3su-isometric-haunted-mansion-pixel-art-horror-interior-tileset",
+    "type": "inspiration",
+    "title": "鬼宅等距室内",
+    "summary": "钢琴钟鬼影与四向家具，32×32 恐怖宅邸室内拼装很全。",
+    "url": "https://v3su.itch.io/isometric-haunted-mansion-pixel-art-horror-interior-tileset",
+    "imageUrl": "/covers/itch-v3su-isometric-haunted-mansion-pixel-art-horror-interior-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-isometric-haunted-mansion-pixel-art-horror-interior-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-modular-voxel-building-kit",
+    "type": "inspiration",
+    "title": "模块体素建筑",
+    "summary": "墙窗楼梯红瓦屋拆解，四风格卡扣体素建筑拼装清楚。",
+    "url": "https://tersco.itch.io/modular-voxel-building-kit",
+    "imageUrl": "/covers/itch-tersco-modular-voxel-building-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-modular-voxel-building-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-mushroom-forest-village-pack",
+    "type": "inspiration",
+    "title": "体素蘑菇村",
+    "summary": "蘑菇屋发光植物与林间小路，奇幻体素蘑菇聚落很梦幻。",
+    "url": "https://tersco.itch.io/voxel-mushroom-forest-village-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-mushroom-forest-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-mushroom-forest-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v2kid-poly-voxel-ancient-egypt-unity-godot-blender",
+    "type": "inspiration",
+    "title": "体素古埃及城",
+    "summary": "金字塔神庙狮身与泥砖屋，四百余件埃及城建体素很壮观。",
+    "url": "https://v2kid.itch.io/poly-voxel-ancient-egypt-unity-godot-blender",
+    "imageUrl": "/covers/itch-v2kid-poly-voxel-ancient-egypt-unity-godot-blender.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-poly-voxel-ancient-egypt-unity-godot-blender",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v2kid-poly-voxel-desert-town-unity-godot-blender",
+    "type": "inspiration",
+    "title": "体素沙漠小镇",
+    "summary": "风塔土坯屋与集市驼队，四百余件沙漠城建体素很密。",
+    "url": "https://v2kid.itch.io/poly-voxel-desert-town-unity-godot-blender",
+    "imageUrl": "/covers/itch-v2kid-poly-voxel-desert-town-unity-godot-blender.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-poly-voxel-desert-town-unity-godot-blender",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-tiny-room-miniatures-pack",
+    "type": "inspiration",
+    "title": "体素迷你房间",
+    "summary": "卧室书房咖啡馆三景，温馨体素室内微缩布置很暖。",
+    "url": "https://tersco.itch.io/voxel-tiny-room-miniatures-pack",
+    "imageUrl": "/covers/itch-tersco-voxel-tiny-room-miniatures-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-tiny-room-miniatures-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-riclmbr-modern-pixel-ui-hud-439-clean-pixel-art-ui-elements",
+    "type": "inspiration",
+    "title": "现代像素 HUD 439",
+    "summary": "九切片面板按钮小地图与准星，四百余件现代界面很全。",
+    "url": "https://riclmbr.itch.io/modern-pixel-ui-hud-439-clean-pixel-art-ui-elements",
+    "imageUrl": "/covers/itch-riclmbr-modern-pixel-ui-hud-439-clean-pixel-art-ui-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-modern-pixel-ui-hud-439-clean-pixel-art-ui-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-freezepops-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "经典像素 UI 套",
+    "summary": "蓝黄对话框血蓝条与槽位，四风格复古菜单 CC0 好用。",
+    "url": "https://freezepops.itch.io/pixel-ui-kit",
+    "imageUrl": "/covers/itch-freezepops-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-freezepops-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-freezepops-sci-fi-ui-kit",
+    "type": "inspiration",
+    "title": "科幻像素 UI 套",
+    "summary": "暗底霓虹分段条与九切片，科幻菜单四风格 CC0 整齐。",
+    "url": "https://freezepops.itch.io/sci-fi-ui-kit",
+    "imageUrl": "/covers/itch-freezepops-sci-fi-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-freezepops-sci-fi-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-sticky-note-desk-ui-32-pixel-ui-kit-pieces-sticky-note",
+    "type": "inspiration",
+    "title": "便签桌面 UI",
+    "summary": "折角胶带黄便签面板，桌面便签风界面很有生活感。",
+    "url": "https://falvey.itch.io/sticky-note-desk-ui-32-pixel-ui-kit-pieces-sticky-note",
+    "imageUrl": "/covers/itch-falvey-sticky-note-desk-ui-32-pixel-ui-kit-pieces-sticky-note.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-sticky-note-desk-ui-32-pixel-ui-kit-pieces-sticky-note",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-tactical-stencil-ops-ui-32-pixel-ui-kit-pieces-tactical-stencil",
+    "type": "inspiration",
+    "title": "战术模板 UI",
+    "summary": "橄榄绿切角板与警戒条，军事模板风界面很硬派。",
+    "url": "https://falvey.itch.io/tactical-stencil-ops-ui-32-pixel-ui-kit-pieces-tactical-stencil",
+    "imageUrl": "/covers/itch-falvey-tactical-stencil-ops-ui-32-pixel-ui-kit-pieces-tactical-stencil.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-tactical-stencil-ops-ui-32-pixel-ui-kit-pieces-tactical-stencil",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-frosted-glass-phone-ui-32-pixel-ui-kit-pieces-frosted-glass",
+    "type": "inspiration",
+    "title": "磨砂玻璃手机 UI",
+    "summary": "半透明亮面板与圆角控件，磨砂玻璃手机风界面很干净。",
+    "url": "https://falvey.itch.io/frosted-glass-phone-ui-32-pixel-ui-kit-pieces-frosted-glass",
+    "imageUrl": "/covers/itch-falvey-frosted-glass-phone-ui-32-pixel-ui-kit-pieces-frosted-glass.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-frosted-glass-phone-ui-32-pixel-ui-kit-pieces-frosted-glass",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-harning-wood-and-iron-rpg-ui",
+    "type": "inspiration",
+    "title": "木铁 RPG UI",
+    "summary": "木板金饰与铆钉铁框双材质，经典奇幻背包界面很正。",
+    "url": "https://harning.itch.io/wood-and-iron-rpg-ui",
+    "imageUrl": "/covers/itch-harning-wood-and-iron-rpg-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-harning-wood-and-iron-rpg-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-friedspin-pixel-inventory-slots-40",
+    "type": "inspiration",
+    "title": "像素背包格 40",
+    "summary": "六稀有度三状态与装备提示格，背包栏位扩展很实用。",
+    "url": "https://friedspin.itch.io/pixel-inventory-slots-40",
+    "imageUrl": "/covers/itch-friedspin-pixel-inventory-slots-40.jpg",
+    "source": "itch",
+    "sourceId": "itch-friedspin-pixel-inventory-slots-40",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-friedspin-pixel-hearts-meters",
+    "type": "inspiration",
+    "title": "心形与进度条",
+    "summary": "心形血条与 HP/MP/XP 多形态，状态条素材一次配齐。",
+    "url": "https://friedspin.itch.io/pixel-hearts-meters",
+    "imageUrl": "/covers/itch-friedspin-pixel-hearts-meters.jpg",
+    "source": "itch",
+    "sourceId": "itch-friedspin-pixel-hearts-meters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-friedspin-pixel-portrait-frames-36",
+    "type": "inspiration",
+    "title": "像素头像框 36",
+    "summary": "圆方盾六边形六材质框，角色头像边框选型很丰富。",
+    "url": "https://friedspin.itch.io/pixel-portrait-frames-36",
+    "imageUrl": "/covers/itch-friedspin-pixel-portrait-frames-36.jpg",
+    "source": "itch",
+    "sourceId": "itch-friedspin-pixel-portrait-frames-36",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2115017424114209150",
     "type": "game",
     "title": "Weasel Pikeman 刺串",
