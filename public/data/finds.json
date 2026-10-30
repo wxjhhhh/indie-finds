@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-pulsarcp-frozen-caverns",
+    "type": "inspiration",
+    "title": "冰封洞窟瓦片 64×64",
+    "summary": "冰崖雪地与雪怪同框，四色板侧视冰窟平台铺图很冷冽。",
+    "url": "https://pulsarcp.itch.io/frozen-caverns",
+    "imageUrl": "/covers/itch-pulsarcp-frozen-caverns.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsarcp-frozen-caverns",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ironkeep-pixel-studio-wildwoods-forest-builder-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "Wildwoods 森林建造",
+    "summary": "白桦巨干黄花与苔石，俯视森林建造铺图很茂密。",
+    "url": "https://ironkeep-pixel-studio.itch.io/wildwoods-forest-builder-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-ironkeep-pixel-studio-wildwoods-forest-builder-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-ironkeep-pixel-studio-wildwoods-forest-builder-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pulsarcp-desert-ruins",
+    "type": "inspiration",
+    "title": "沙漠遗迹瓦片 64×64",
+    "summary": "沙丘金字塔与棕榈骷髅，四色板沙漠遗迹氛围足。",
+    "url": "https://pulsarcp.itch.io/desert-ruins",
+    "imageUrl": "/covers/itch-pulsarcp-desert-ruins.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsarcp-desert-ruins",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comradecoding-dungeon-pixel-tileset-16x16",
+    "type": "inspiration",
+    "title": "地牢像素瓦片 16×16",
+    "summary": "灰石墙蓝水池木桶阶梯，俯视地牢铺图一眼能用。",
+    "url": "https://comradecoding.itch.io/dungeon-pixel-tileset-16x16",
+    "imageUrl": "/covers/itch-comradecoding-dungeon-pixel-tileset-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-comradecoding-dungeon-pixel-tileset-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wook-dev-field-kit-dungeon",
+    "type": "inspiration",
+    "title": "野外地牢道具包",
+    "summary": "书架桌椅陶罐与石墙，196 块 16×16 地牢道具很齐。",
+    "url": "https://wook-dev.itch.io/field-kit-dungeon",
+    "imageUrl": "/covers/itch-wook-dev-field-kit-dungeon.jpg",
+    "source": "itch",
+    "sourceId": "itch-wook-dev-field-kit-dungeon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voxelgrove-iso-terrain-mega-tileset",
+    "type": "inspiration",
+    "title": "等距地形巨型瓦片",
+    "summary": "悬崖坡岸河流桥一包，174 块体素像素地形可自动铺。",
+    "url": "https://voxelgrove.itch.io/iso-terrain-mega-tileset",
+    "imageUrl": "/covers/itch-voxelgrove-iso-terrain-mega-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-iso-terrain-mega-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-nocciolina-ai-voxel-forest-lite",
+    "type": "inspiration",
+    "title": "体素森林精简免费样",
+    "summary": "四季树丛河岸小松鼠，等距体素森林免费样张。",
+    "url": "https://nocciolina-ai.itch.io/voxel-forest-lite",
+    "imageUrl": "/covers/itch-nocciolina-ai-voxel-forest-lite.jpg",
+    "source": "itch",
+    "sourceId": "itch-nocciolina-ai-voxel-forest-lite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dopamineking-voxel-micro-farm-starter",
+    "type": "inspiration",
+    "title": "体素微农场起步包",
+    "summary": "红顶谷仓菜畦与围栏，体素农场地貌起步很温馨。",
+    "url": "https://dopamineking.itch.io/voxel-micro-farm-starter",
+    "imageUrl": "/covers/itch-dopamineking-voxel-micro-farm-starter.jpg",
+    "source": "itch",
+    "sourceId": "itch-dopamineking-voxel-micro-farm-starter",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-cozy-fantasy-bundle",
+    "type": "inspiration",
+    "title": "体素治愈奇幻合集",
+    "summary": "茶杯蘑菇糖果浮空岛，四主题治愈体素地貌一次齐。",
+    "url": "https://tersco.itch.io/voxel-cozy-fantasy-bundle",
+    "imageUrl": "/covers/itch-tersco-voxel-cozy-fantasy-bundle.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-cozy-fantasy-bundle",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-tersco-voxel-retro-sci-fi-bundle",
+    "type": "inspiration",
+    "title": "体素复古科幻合集",
+    "summary": "太空餐厅霓虹城发条，四主题复古科幻体素很炫。",
+    "url": "https://tersco.itch.io/voxel-retro-sci-fi-bundle",
+    "imageUrl": "/covers/itch-tersco-voxel-retro-sci-fi-bundle.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-voxel-retro-sci-fi-bundle",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-qinling-p-qinmao-free-panda-samurai-character",
+    "type": "inspiration",
+    "title": "秦猫熊猫武士免费",
+    "summary": "斗笠熊猫武士月下立绘，免费像素角色很有辨识度。",
+    "url": "https://qinling-p.itch.io/qinmao-free-panda-samurai-character",
+    "imageUrl": "/covers/itch-qinling-p-qinmao-free-panda-samurai-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-qinling-p-qinmao-free-panda-samurai-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bobkingg-penguin-sprites-pack-animated-penguin-characters",
+    "type": "inspiration",
+    "title": "企鹅精灵动画包",
+    "summary": "多帽企鹅雪地站姿，可爱企鹅角色动画很萌。",
+    "url": "https://bobkingg.itch.io/penguin-sprites-pack-animated-penguin-characters",
+    "imageUrl": "/covers/itch-bobkingg-penguin-sprites-pack-animated-penguin-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-bobkingg-penguin-sprites-pack-animated-penguin-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-willosuna-pixel-platformer-heroes-traps",
+    "type": "inspiration",
+    "title": "平台英雄与陷阱",
+    "summary": "五十四角色五十陷阱，侧视平台起步包很全。",
+    "url": "https://willosuna.itch.io/pixel-platformer-heroes-traps",
+    "imageUrl": "/covers/itch-willosuna-pixel-platformer-heroes-traps.jpg",
+    "source": "itch",
+    "sourceId": "itch-willosuna-pixel-platformer-heroes-traps",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-happyhustle-wild-west-town-characters",
+    "type": "inspiration",
+    "title": "西部小镇角色免费",
+    "summary": "牛仔镇民与酒馆同框，免费西部像素角色很实用。",
+    "url": "https://happyhustle.itch.io/wild-west-town-characters",
+    "imageUrl": "/covers/itch-happyhustle-wild-west-town-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-happyhustle-wild-west-town-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-village-baker-animated-npc-story-art",
+    "type": "inspiration",
+    "title": "村里面包师动画",
+    "summary": "面包篮待机与劳作序列，工坊 NPC 动画参考清楚。",
+    "url": "https://elie-automata.itch.io/village-baker-animated-npc-story-art",
+    "imageUrl": "/covers/itch-elie-automata-village-baker-animated-npc-story-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-village-baker-animated-npc-story-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riclmbr-pixel-isometric-interiors-city-509-isometric-pixel-art-assets",
+    "type": "inspiration",
+    "title": "等距室内与城市 509",
+    "summary": "喷泉商铺与高楼同城，等距城建室内一次配齐。",
+    "url": "https://riclmbr.itch.io/pixel-isometric-interiors-city-509-isometric-pixel-art-assets",
+    "imageUrl": "/covers/itch-riclmbr-pixel-isometric-interiors-city-509-isometric-pixel-art-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-pixel-isometric-interiors-city-509-isometric-pixel-art-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-modern-desert-city-top-down-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "现代沙漠城俯视",
+    "summary": "土坯平顶仙人掌棕榈，俯视沙漠城镇一眼能铺。",
+    "url": "https://comshadow.itch.io/modern-desert-city-top-down-pixel-art-tileset",
+    "imageUrl": "/covers/itch-comshadow-modern-desert-city-top-down-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-modern-desert-city-top-down-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-devs-in-exile-isometric-pixel-art-room-diorama-tileset",
+    "type": "inspiration",
+    "title": "等距房间立体盒",
+    "summary": "厨房卧室商铺密铺，等距室内立体盒层次清楚。",
+    "url": "https://devs-in-exile.itch.io/isometric-pixel-art-room-diorama-tileset",
+    "imageUrl": "/covers/itch-devs-in-exile-isometric-pixel-art-room-diorama-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-devs-in-exile-isometric-pixel-art-room-diorama-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ahtu20-castle-kingdom-isometric-buildings",
+    "type": "inspiration",
+    "title": "城堡王国等距建筑",
+    "summary": "蓝顶塔楼城墙与要塞，等距中世纪城建很成套。",
+    "url": "https://ahtu20.itch.io/castle-kingdom-isometric-buildings",
+    "imageUrl": "/covers/itch-ahtu20-castle-kingdom-isometric-buildings.jpg",
+    "source": "itch",
+    "sourceId": "itch-ahtu20-castle-kingdom-isometric-buildings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-imersastudios-office-pixel-art",
+    "type": "inspiration",
+    "title": "办公室内俯视 32×32",
+    "summary": "会议室白板与工位，俯视现代办公铺图很生活。",
+    "url": "https://imersastudios.itch.io/office-pixel-art",
+    "imageUrl": "/covers/itch-imersastudios-office-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-imersastudios-office-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dopamineking-voxel-micro-farm-mill-market",
+    "type": "inspiration",
+    "title": "体素微农场磨坊市集",
+    "summary": "风车磨坊红顶屋与摊位，体素农场建筑很完整。",
+    "url": "https://dopamineking.itch.io/voxel-micro-farm-mill-market",
+    "imageUrl": "/covers/itch-dopamineking-voxel-micro-farm-mill-market.jpg",
+    "source": "itch",
+    "sourceId": "itch-dopamineking-voxel-micro-farm-mill-market",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v2kid-poly-voxel-graveyard-halloween-unity-godot-blender",
+    "type": "inspiration",
+    "title": "体素墓地万圣包",
+    "summary": "墓碑枯树南瓜与铁门，哥特墓地体素道具很齐。",
+    "url": "https://v2kid.itch.io/poly-voxel-graveyard-halloween-unity-godot-blender",
+    "imageUrl": "/covers/itch-v2kid-poly-voxel-graveyard-halloween-unity-godot-blender.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-poly-voxel-graveyard-halloween-unity-godot-blender",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-polysw-village-nature-props",
+    "type": "inspiration",
+    "title": "村庄与自然道具",
+    "summary": "樱花井木桥与木屋，体素村景自然道具很治愈。",
+    "url": "https://polysw.itch.io/village-nature-props",
+    "imageUrl": "/covers/itch-polysw-village-nature-props.jpg",
+    "source": "itch",
+    "sourceId": "itch-polysw-village-nature-props",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelgrove-spooky-hollow",
+    "type": "inspiration",
+    "title": "幽灵谷万圣道具",
+    "summary": "鬼屋枯树南瓜幽灵，等距万圣像素道具加三维。",
+    "url": "https://voxelgrove.itch.io/spooky-hollow",
+    "imageUrl": "/covers/itch-voxelgrove-spooky-hollow.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-spooky-hollow",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-arcade-amusement-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "街机游乐三维像素",
+    "summary": "爪机弹珠台与台球桌，三维像素游乐场道具很热闹。",
+    "url": "https://antahonist.itch.io/arcade-amusement-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-arcade-amusement-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-arcade-amusement-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-falvey-spire-run-deckbuilder-hud-18-pixel-deckbuilder-hud-pieces",
+    "type": "inspiration",
+    "title": "尖塔卡组构筑 HUD",
+    "summary": "能量宝石与卡槽框，卡组构筑界面组件很全。",
+    "url": "https://falvey.itch.io/spire-run-deckbuilder-hud-18-pixel-deckbuilder-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-spire-run-deckbuilder-hud-18-pixel-deckbuilder-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-spire-run-deckbuilder-hud-18-pixel-deckbuilder-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-luem-dark-fantasy-metroidvania-ui",
+    "type": "inspiration",
+    "title": "暗黑银河城 UI",
+    "summary": "石纹血条背包与装备槽，暗黑银河城界面很沉浸。",
+    "url": "https://luem.itch.io/dark-fantasy-metroidvania-ui",
+    "imageUrl": "/covers/itch-luem-dark-fantasy-metroidvania-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-luem-dark-fantasy-metroidvania-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-lane-keep-tower-defense-hud-12-pixel-tower-defense-hud-pieces",
+    "type": "inspiration",
+    "title": "车道塔防 HUD",
+    "summary": "波次计数与单位圆钮，塔防对战界面很清楚。",
+    "url": "https://falvey.itch.io/lane-keep-tower-defense-hud-12-pixel-tower-defense-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-lane-keep-tower-defense-hud-12-pixel-tower-defense-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-lane-keep-tower-defense-hud-12-pixel-tower-defense-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-grid-crawler-dungeon-hud-12-pixel-dungeon-crawler-hud-pieces",
+    "type": "inspiration",
+    "title": "网格地牢爬行 HUD",
+    "summary": "方向键肖像与搜索营火，地牢探索界面很经典。",
+    "url": "https://falvey.itch.io/grid-crawler-dungeon-hud-12-pixel-dungeon-crawler-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-grid-crawler-dungeon-hud-12-pixel-dungeon-crawler-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-grid-crawler-dungeon-hud-12-pixel-dungeon-crawler-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-drozd-studios-64-game-icons-inventory-ui",
+    "type": "inspiration",
+    "title": "六十四游戏图标背包",
+    "summary": "剑盾药剂宝石钱币，16/32 双尺寸背包图标很齐。",
+    "url": "https://drozd-studios.itch.io/64-game-icons-inventory-ui",
+    "imageUrl": "/covers/itch-drozd-studios-64-game-icons-inventory-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-drozd-studios-64-game-icons-inventory-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-fingerpost-rpg-cursor-and-selection-ui-kit",
+    "type": "inspiration",
+    "title": "路标 RPG 光标选择",
+    "summary": "铁手套放大镜与指令菜单，RPG 光标选择很完整。",
+    "url": "https://csaf.itch.io/fingerpost-rpg-cursor-and-selection-ui-kit",
+    "imageUrl": "/covers/itch-csaf-fingerpost-rpg-cursor-and-selection-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-fingerpost-rpg-cursor-and-selection-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-friedspin-pixel-ui-complete",
+    "type": "inspiration",
+    "title": "像素 UI 完整六主题",
+    "summary": "背包暂停与技能树，六主题加 Godot4 主题一次齐。",
+    "url": "https://friedspin.itch.io/pixel-ui-complete",
+    "imageUrl": "/covers/itch-friedspin-pixel-ui-complete.jpg",
+    "source": "itch",
+    "sourceId": "itch-friedspin-pixel-ui-complete",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-evidence-board-detective-hud-12-pixel-detective-game-hud-pieces",
+    "type": "inspiration",
+    "title": "证据板侦探 HUD",
+    "summary": "文件夹拍立得与图钉便签，侦探调查界面很有味。",
+    "url": "https://falvey.itch.io/evidence-board-detective-hud-12-pixel-detective-game-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-evidence-board-detective-hud-12-pixel-detective-game-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-evidence-board-detective-hud-12-pixel-detective-game-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-harvest-days-farm-sim-hud-16-pixel-farm-sim-hud-pieces",
+    "type": "inspiration",
+    "title": "收获日农场 HUD",
+    "summary": "日期金币心形与工具栏，农场模拟界面很温馨。",
+    "url": "https://falvey.itch.io/harvest-days-farm-sim-hud-16-pixel-farm-sim-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-harvest-days-farm-sim-hud-16-pixel-farm-sim-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-harvest-days-farm-sim-hud-16-pixel-farm-sim-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-falvey-dread-manor-horror-hud-13-pixel-survival-horror-hud-pieces",
+    "type": "inspiration",
+    "title": "恐惧庄园恐怖 HUD",
+    "summary": "心电波形与状态警示，生存恐怖 HUD 很沉浸。",
+    "url": "https://falvey.itch.io/dread-manor-horror-hud-13-pixel-survival-horror-hud-pieces",
+    "imageUrl": "/covers/itch-falvey-dread-manor-horror-hud-13-pixel-survival-horror-hud-pieces.jpg",
+    "source": "itch",
+    "sourceId": "itch-falvey-dread-manor-horror-hud-13-pixel-survival-horror-hud-pieces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-10-30",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2115772161331782073",
     "type": "game",
     "title": "冬猫城建舒适度",
