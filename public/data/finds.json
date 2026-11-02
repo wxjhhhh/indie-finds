@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-pulsarcp-sunken-reef",
+    "type": "inspiration",
+    "title": "沉礁海底瓦片",
+    "summary": "珊瑚气泡与蟹章鱼，六十四见方海底自铺瓦片五十五动画。",
+    "url": "https://pulsarcp.itch.io/sunken-reef",
+    "imageUrl": "/covers/itch-pulsarcp-sunken-reef.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsarcp-sunken-reef",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ridgeworksstudio-pocket-atlas-highlands",
+    "type": "inspiration",
+    "title": "高地矿镇袖珍图",
+    "summary": "石门矿洞与山羊崖壁，三十二俯视高地采矿小镇很扎实。",
+    "url": "https://ridgeworksstudio.itch.io/pocket-atlas-highlands",
+    "imageUrl": "/covers/itch-ridgeworksstudio-pocket-atlas-highlands.jpg",
+    "source": "itch",
+    "sourceId": "itch-ridgeworksstudio-pocket-atlas-highlands",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-16x16-top-down-terrain-tileset-autotile",
+    "type": "inspiration",
+    "title": "十六地形自铺瓦片",
+    "summary": "草地沙水雪同框，一百零二片自铺加十二道具很齐。",
+    "url": "https://northleafstudio.itch.io/16x16-top-down-terrain-tileset-autotile",
+    "imageUrl": "/covers/itch-northleafstudio-16x16-top-down-terrain-tileset-autotile.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-16x16-top-down-terrain-tileset-autotile",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-pixel-hex-tileset-24-terrain",
+    "type": "inspiration",
+    "title": "二十四格六角地形",
+    "summary": "草水沙雪沼泽熔岩，策略四战六角地形二十四格够用。",
+    "url": "https://northleafstudio.itch.io/pixel-hex-tileset-24-terrain",
+    "imageUrl": "/covers/itch-northleafstudio-pixel-hex-tileset-24-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-pixel-hex-tileset-24-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-16x16-dungeon-tileset-autotile-walls",
+    "type": "inspiration",
+    "title": "地牢自铺墙瓦片",
+    "summary": "石地自铺墙门梯，三十二瓦十一战利品道具很地牢。",
+    "url": "https://northleafstudio.itch.io/16x16-dungeon-tileset-autotile-walls",
+    "imageUrl": "/covers/itch-northleafstudio-16x16-dungeon-tileset-autotile-walls.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-16x16-dungeon-tileset-autotile-walls",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mmorwynn-1-bit-dead-forest",
+    "type": "inspiration",
+    "title": "一比特枯林瓦片",
+    "summary": "白描枯枝黑水立石，一比特暗黑等距枯林很锐利。",
+    "url": "https://mmorwynn.itch.io/1-bit-dead-forest",
+    "imageUrl": "/covers/itch-mmorwynn-1-bit-dead-forest.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-1-bit-dead-forest",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mmorwynn-1-bit-necropolis",
+    "type": "inspiration",
+    "title": "一比特死城瓦片",
+    "summary": "白描骸马石像剪影，一比特暗黑等距死城很肃杀。",
+    "url": "https://mmorwynn.itch.io/1-bit-necropolis",
+    "imageUrl": "/covers/itch-mmorwynn-1-bit-necropolis.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-1-bit-necropolis",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mmorwynn-1-bit-cathedral",
+    "type": "inspiration",
+    "title": "一比特大教堂瓦片",
+    "summary": "高窗铅条与圣像，一比特哥特等距教堂很庄严。",
+    "url": "https://mmorwynn.itch.io/1-bit-cathedral",
+    "imageUrl": "/covers/itch-mmorwynn-1-bit-cathedral.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-1-bit-cathedral",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mmorwynn-1-bit-nature",
+    "type": "inspiration",
+    "title": "一比特自然树木",
+    "summary": "白描千叶树与灌丛，一比特等距自然植被很干净。",
+    "url": "https://mmorwynn.itch.io/1-bit-nature",
+    "imageUrl": "/covers/itch-mmorwynn-1-bit-nature.jpg",
+    "source": "itch",
+    "sourceId": "itch-mmorwynn-1-bit-nature",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-zatamazer-voxel-winter-forest",
+    "type": "inspiration",
+    "title": "体素冬林雪景",
+    "summary": "雪松岩石一百四十八变体，体素冬林道具很冷冽。",
+    "url": "https://zatamazer.itch.io/voxel-winter-forest",
+    "imageUrl": "/covers/itch-zatamazer-voxel-winter-forest.jpg",
+    "source": "itch",
+    "sourceId": "itch-zatamazer-voxel-winter-forest",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elie-automata-siege-construct-animated-dark-fantasy-character",
+    "type": "inspiration",
+    "title": "攻城构装体",
+    "summary": "蓝罐重甲八向动画，暗黑蒸汽攻城构装压迫感强。",
+    "url": "https://elie-automata.itch.io/siege-construct-animated-dark-fantasy-character",
+    "imageUrl": "/covers/itch-elie-automata-siege-construct-animated-dark-fantasy-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-siege-construct-animated-dark-fantasy-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-apprentice-woodland-ranger-animated-dark-fantasy-character",
+    "type": "inspiration",
+    "title": "林地学徒游侠",
+    "summary": "红披宽檐弓手立绘，暗黑八向游侠动画很利落。",
+    "url": "https://elie-automata.itch.io/apprentice-woodland-ranger-animated-dark-fantasy-character",
+    "imageUrl": "/covers/itch-elie-automata-apprentice-woodland-ranger-animated-dark-fantasy-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-apprentice-woodland-ranger-animated-dark-fantasy-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-plague-sentinel-animated-dark-fantasy-hero",
+    "type": "inspiration",
+    "title": "瘟疫哨卫英雄",
+    "summary": "橙光巨盾骨面盔，暗黑瘟疫哨卫六动画很沉。",
+    "url": "https://elie-automata.itch.io/plague-sentinel-animated-dark-fantasy-hero",
+    "imageUrl": "/covers/itch-elie-automata-plague-sentinel-animated-dark-fantasy-hero.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-plague-sentinel-animated-dark-fantasy-hero",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-happyhustle-post-apocalyptic-town-survivors",
+    "type": "inspiration",
+    "title": "末世小镇幸存者",
+    "summary": "五幸存者加据点家具，俯视末世小镇免费资产齐。",
+    "url": "https://happyhustle.itch.io/post-apocalyptic-town-survivors",
+    "imageUrl": "/covers/itch-happyhustle-post-apocalyptic-town-survivors.jpg",
+    "source": "itch",
+    "sourceId": "itch-happyhustle-post-apocalyptic-town-survivors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-frontier-executioner-animated-dark-fantasy-hero",
+    "type": "inspiration",
+    "title": "边疆处刑者",
+    "summary": "皮甲长柄宽檐帽，暗黑边疆处刑者六动画很狠。",
+    "url": "https://elie-automata.itch.io/frontier-executioner-animated-dark-fantasy-hero",
+    "imageUrl": "/covers/itch-elie-automata-frontier-executioner-animated-dark-fantasy-hero.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-frontier-executioner-animated-dark-fantasy-hero",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-modern-fire-station-topdown-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "现代消防站瓦片",
+    "summary": "消防车柜斧雷达，俯视现代消防站室内外很全。",
+    "url": "https://comshadow.itch.io/modern-fire-station-topdown-pixel-art-tileset",
+    "imageUrl": "/covers/itch-comshadow-modern-fire-station-topdown-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-modern-fire-station-topdown-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-tv-station-topdown-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "电视台演播瓦片",
+    "summary": "摄像机灯架新闻台，俯视电视台演播厅很热闹。",
+    "url": "https://comshadow.itch.io/tv-station-topdown-pixel-art-tileset",
+    "imageUrl": "/covers/itch-comshadow-tv-station-topdown-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-tv-station-topdown-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-modern-stadium-topdown-pixel-art-tileset",
+    "type": "inspiration",
+    "title": "现代体育场瓦片",
+    "summary": "跑道球场与看台灯，俯视现代体育场很开阔。",
+    "url": "https://comshadow.itch.io/modern-stadium-topdown-pixel-art-tileset",
+    "imageUrl": "/covers/itch-comshadow-modern-stadium-topdown-pixel-art-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-modern-stadium-topdown-pixel-art-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-comshadow-modern-construction-site-pixel-art-tileset-pack",
+    "type": "inspiration",
+    "title": "现代工地瓦片包",
+    "summary": "脚手架挖机与木料，俯视现代建筑工地很忙。",
+    "url": "https://comshadow.itch.io/modern-construction-site-pixel-art-tileset-pack",
+    "imageUrl": "/covers/itch-comshadow-modern-construction-site-pixel-art-tileset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-comshadow-modern-construction-site-pixel-art-tileset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nanasha-nashas-cozy-world-free-home-starter-kit",
+    "type": "inspiration",
+    "title": "治愈小屋入门包",
+    "summary": "茅屋水井与家具，二百七十四文件治愈家装免费。",
+    "url": "https://nanasha.itch.io/nashas-cozy-world-free-home-starter-kit",
+    "imageUrl": "/covers/itch-nanasha-nashas-cozy-world-free-home-starter-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-nanasha-nashas-cozy-world-free-home-starter-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-blacksmith-forge-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素铁匠铺",
+    "summary": "铁砧风箱与磨石，三维像素锻造铺三十六件。",
+    "url": "https://antahonist.itch.io/blacksmith-forge-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-blacksmith-forge-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-blacksmith-forge-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-gas-station-car-wash-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素加油站",
+    "summary": "油泵洗车间与罐车，三维像素加油站三十六件。",
+    "url": "https://antahonist.itch.io/gas-station-car-wash-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-gas-station-car-wash-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-gas-station-car-wash-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-fishing-marine-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素渔港",
+    "summary": "拖网船灯塔码头，三维像素渔港道具三十六件。",
+    "url": "https://antahonist.itch.io/fishing-marine-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-fishing-marine-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-fishing-marine-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-railway-yard-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素铁路场",
+    "summary": "蒸汽机车道口站台，三维像素铁路场三十六件。",
+    "url": "https://antahonist.itch.io/railway-yard-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-railway-yard-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-railway-yard-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-fire-station-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素消防站",
+    "summary": "消防车云梯消火栓，三维像素消防站三十六件。",
+    "url": "https://antahonist.itch.io/fire-station-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-fire-station-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-fire-station-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-buno182-runeforge-fantasy-ui-vol-1",
+    "type": "inspiration",
+    "title": "符文锻造奇幻 UI",
+    "summary": "三主题四态按钮图标，奇幻界面组件很利落。",
+    "url": "https://buno182.itch.io/runeforge-fantasy-ui-vol-1",
+    "imageUrl": "/covers/itch-buno182-runeforge-fantasy-ui-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-buno182-runeforge-fantasy-ui-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pulsar-assets-aftergrid",
+    "type": "inspiration",
+    "title": "AFTERGRID 赛博 HUD",
+    "summary": "霓虹蓝网格动效，赛博朋克界面三十底座很炫。",
+    "url": "https://pulsar-assets.itch.io/aftergrid",
+    "imageUrl": "/covers/itch-pulsar-assets-aftergrid.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsar-assets-aftergrid",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-lowbitlab-analog-horror-ui-kit",
+    "type": "inspiration",
+    "title": "模拟恐怖 UI",
+    "summary": "录像带噪点绿按钮，模拟恐怖界面氛围足。",
+    "url": "https://lowbitlab.itch.io/analog-horror-ui-kit",
+    "imageUrl": "/covers/itch-lowbitlab-analog-horror-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-lowbitlab-analog-horror-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-ui-kit-aegean-fantasy-rpg-interface-pixel-art-9-slice-godot-4",
+    "type": "inspiration",
+    "title": "爱琴奇幻 RPG UI",
+    "summary": "金边九宫格背包条，爱琴风 RPG 界面很完整。",
+    "url": "https://tersco.itch.io/ui-kit-aegean-fantasy-rpg-interface-pixel-art-9-slice-godot-4",
+    "imageUrl": "/covers/itch-tersco-ui-kit-aegean-fantasy-rpg-interface-pixel-art-9-slice-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-ui-kit-aegean-fantasy-rpg-interface-pixel-art-9-slice-godot-4",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-brunkagames-gothic-manor-pixel-ui-kit-ravenhollow-lite",
+    "type": "inspiration",
+    "title": "哥特庄园 UI 免费样",
+    "summary": "暗红窗框对话条，哥特吸血鬼界面免费样很沉。",
+    "url": "https://brunkagames.itch.io/gothic-manor-pixel-ui-kit-ravenhollow-lite",
+    "imageUrl": "/covers/itch-brunkagames-gothic-manor-pixel-ui-kit-ravenhollow-lite.jpg",
+    "source": "itch",
+    "sourceId": "itch-brunkagames-gothic-manor-pixel-ui-kit-ravenhollow-lite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-grimorista-the-obsidian-covenant",
+    "type": "inspiration",
+    "title": "黑曜契约卡牌 UI",
+    "summary": "暗黑卡框与罗盘，牌组构筑界面编辑器很全。",
+    "url": "https://grimorista.itch.io/the-obsidian-covenant",
+    "imageUrl": "/covers/itch-grimorista-the-obsidian-covenant.jpg",
+    "source": "itch",
+    "sourceId": "itch-grimorista-the-obsidian-covenant",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wook-dev-fernhollow-ui",
+    "type": "inspiration",
+    "title": "蕨谷治愈农场 UI",
+    "summary": "四季九宫格与图标，农场 RPG 界面很配套。",
+    "url": "https://wook-dev.itch.io/fernhollow-ui",
+    "imageUrl": "/covers/itch-wook-dev-fernhollow-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-wook-dev-fernhollow-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-badenpovilis-fantasy-rpg-ui-kit-items-110-png-assets",
+    "type": "inspiration",
+    "title": "奇幻 RPG UI 百十件",
+    "summary": "木板按钮皮囊宝箱，奇幻界面道具一百十张。",
+    "url": "https://badenpovilis.itch.io/fantasy-rpg-ui-kit-items-110-png-assets",
+    "imageUrl": "/covers/itch-badenpovilis-fantasy-rpg-ui-kit-items-110-png-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-badenpovilis-fantasy-rpg-ui-kit-items-110-png-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-duct-tape-grunge-and-distressed-ui-kit",
+    "type": "inspiration",
+    "title": "胶带做旧 UI",
+    "summary": "胶带手写便签八十件，做旧废土界面很糙。",
+    "url": "https://csaf.itch.io/duct-tape-grunge-and-distressed-ui-kit",
+    "imageUrl": "/covers/itch-csaf-duct-tape-grunge-and-distressed-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-duct-tape-grunge-and-distressed-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ken28904-cozy-thanksgiving-fall-icons-160-pixel-art-harvest-items-ui-kit",
+    "type": "inspiration",
+    "title": "感恩节秋收图标 UI",
+    "summary": "南瓜派枫叶一百六十，秋收治愈图标加界面。",
+    "url": "https://ken28904.itch.io/cozy-thanksgiving-fall-icons-160-pixel-art-harvest-items-ui-kit",
+    "imageUrl": "/covers/itch-ken28904-cozy-thanksgiving-fall-icons-160-pixel-art-harvest-items-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-ken28904-cozy-thanksgiving-fall-icons-160-pixel-art-harvest-items-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-02",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-1318584588822786049",
     "type": "game",
     "title": "Arclands 城建RPG",
