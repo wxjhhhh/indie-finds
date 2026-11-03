@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-pixelsonultra-tidecatch-harbour-tileset",
+    "type": "inspiration",
+    "title": "潮捕港湾瓦片",
+    "summary": "石岸摊棚与渔船，俯视港湾潮水码头瓦片很鲜活。",
+    "url": "https://pixelsonultra.itch.io/tidecatch-harbour-tileset",
+    "imageUrl": "/covers/itch-pixelsonultra-tidecatch-harbour-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-tidecatch-harbour-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pulsarcp-neon-city",
+    "type": "inspiration",
+    "title": "霓虹赛博城瓦片",
+    "summary": "紫青霓虹机甲月亮，六十四见方赛博城自铺很炫。",
+    "url": "https://pulsarcp.itch.io/neon-city",
+    "imageUrl": "/covers/itch-pulsarcp-neon-city.jpg",
+    "source": "itch",
+    "sourceId": "itch-pulsarcp-neon-city",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelsonultra-cogworks-factory-tileset",
+    "type": "inspiration",
+    "title": "齿轮工场瓦片",
+    "summary": "传送带管道与机台，俯视蒸汽工场瓦片很忙。",
+    "url": "https://pixelsonultra.itch.io/cogworks-factory-tileset",
+    "imageUrl": "/covers/itch-pixelsonultra-cogworks-factory-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-cogworks-factory-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-verdant-8bit",
+    "type": "inspiration",
+    "title": "翠绿八比特瓦片",
+    "summary": "白堡蓝塔与村庄，NES 风 RPG 地形很复古。",
+    "url": "https://csaf.itch.io/verdant-8bit",
+    "imageUrl": "/covers/itch-csaf-verdant-8bit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-verdant-8bit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sakpix-desert-kingdom-ancient-sands",
+    "type": "inspiration",
+    "title": "古沙沙漠王国",
+    "summary": "金沙棕榈神庙安卡，侧视埃及沙漠场景很华丽。",
+    "url": "https://sakpix.itch.io/desert-kingdom-ancient-sands",
+    "imageUrl": "/covers/itch-sakpix-desert-kingdom-ancient-sands.jpg",
+    "source": "itch",
+    "sourceId": "itch-sakpix-desert-kingdom-ancient-sands",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mrpi19-isometric-forest-tileset",
+    "type": "inspiration",
+    "title": "等距森林瓦片",
+    "summary": "层叠草地灌木乔木，等距森林地形免费包很绿。",
+    "url": "https://mrpi19.itch.io/isometric-forest-tileset",
+    "imageUrl": "/covers/itch-mrpi19-isometric-forest-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-mrpi19-isometric-forest-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-csaf-verdant-iso-01-meadow-river-highland",
+    "type": "inspiration",
+    "title": "翠绿等距地形",
+    "summary": "花甸河岸与岩崖，二百四十片六十四等距瓦片。",
+    "url": "https://csaf.itch.io/verdant-iso-01-meadow-river-highland",
+    "imageUrl": "/covers/itch-csaf-verdant-iso-01-meadow-river-highland.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-verdant-iso-01-meadow-river-highland",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v3su-isometric-farm-tileset-pixel-art-crops-barn-windmill",
+    "type": "inspiration",
+    "title": "等距农场瓦片",
+    "summary": "谷仓风车菜畦，三十二见方农场一百六十三件。",
+    "url": "https://v3su.itch.io/isometric-farm-tileset-pixel-art-crops-barn-windmill",
+    "imageUrl": "/covers/itch-v3su-isometric-farm-tileset-pixel-art-crops-barn-windmill.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-isometric-farm-tileset-pixel-art-crops-barn-windmill",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ptdesigns-town-environments-pixel-art-tiles",
+    "type": "inspiration",
+    "title": "小镇环境瓦片",
+    "summary": "木地板石阶门框，一百九十六片小镇内外瓦片。",
+    "url": "https://ptdesigns.itch.io/town-environments-pixel-art-tiles",
+    "imageUrl": "/covers/itch-ptdesigns-town-environments-pixel-art-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-ptdesigns-town-environments-pixel-art-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-colefoster-voxel-crypt-pack",
+    "type": "inspiration",
+    "title": "体素地穴包",
+    "summary": "二十四生物二百八十三瓦，体素地穴免费 CC0。",
+    "url": "https://colefoster.itch.io/voxel-crypt-pack",
+    "imageUrl": "/covers/itch-colefoster-voxel-crypt-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-colefoster-voxel-crypt-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-elie-automata-cathedral-reliquary-animated-dark-fantasy-character",
+    "type": "inspiration",
+    "title": "大教堂圣匣骑士",
+    "summary": "银甲白披长矛，暗黑八向圣匣骑士九动画。",
+    "url": "https://elie-automata.itch.io/cathedral-reliquary-animated-dark-fantasy-character",
+    "imageUrl": "/covers/itch-elie-automata-cathedral-reliquary-animated-dark-fantasy-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-cathedral-reliquary-animated-dark-fantasy-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-sanctuary-archangel-animated-dark-fantasy-character",
+    "type": "inspiration",
+    "title": "圣所大天使",
+    "summary": "金白翼甲飞行，暗黑八向大天使十四动画。",
+    "url": "https://elie-automata.itch.io/sanctuary-archangel-animated-dark-fantasy-character",
+    "imageUrl": "/covers/itch-elie-automata-sanctuary-archangel-animated-dark-fantasy-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-sanctuary-archangel-animated-dark-fantasy-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-blood-duchess-animated-dark-fantasy-character",
+    "type": "inspiration",
+    "title": "血公爵夫人",
+    "summary": "红金华服长斧，暗黑八向血公爵七动画。",
+    "url": "https://elie-automata.itch.io/blood-duchess-animated-dark-fantasy-character",
+    "imageUrl": "/covers/itch-elie-automata-blood-duchess-animated-dark-fantasy-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-blood-duchess-animated-dark-fantasy-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-larchrow-larchrow-16x16-characters-monsters",
+    "type": "inspiration",
+    "title": "十六角色怪物",
+    "summary": "史莱姆骷髅村民，三百五十六帧俯视精灵齐。",
+    "url": "https://larchrow.itch.io/larchrow-16x16-characters-monsters",
+    "imageUrl": "/covers/itch-larchrow-larchrow-16x16-characters-monsters.jpg",
+    "source": "itch",
+    "sourceId": "itch-larchrow-larchrow-16x16-characters-monsters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-leckie1989-neon-street-brawlers-free-sampler",
+    "type": "inspiration",
+    "title": "霓虹街霸样包",
+    "summary": "三斗士三暴徒加街道，六十四见方格斗免费样。",
+    "url": "https://leckie1989.itch.io/neon-street-brawlers-free-sampler",
+    "imageUrl": "/covers/itch-leckie1989-neon-street-brawlers-free-sampler.jpg",
+    "source": "itch",
+    "sourceId": "itch-leckie1989-neon-street-brawlers-free-sampler",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-super-circle-supply-ink-parlor-tattoo-shop",
+    "type": "inspiration",
+    "title": "纹身店室内包",
+    "summary": "棋盘地皮沙发椅，等距纹身店室内很潮。",
+    "url": "https://super-circle-supply.itch.io/ink-parlor-tattoo-shop",
+    "imageUrl": "/covers/itch-super-circle-supply-ink-parlor-tattoo-shop.jpg",
+    "source": "itch",
+    "sourceId": "itch-super-circle-supply-ink-parlor-tattoo-shop",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ironkeep-pixel-studio-enchanted-forest-buildings-pixel-art-asset-pack",
+    "type": "inspiration",
+    "title": "魔森木屋建筑",
+    "summary": "苔顶木屋石径花丛，俯视魔森建筑很治愈。",
+    "url": "https://ironkeep-pixel-studio.itch.io/enchanted-forest-buildings-pixel-art-asset-pack",
+    "imageUrl": "/covers/itch-ironkeep-pixel-studio-enchanted-forest-buildings-pixel-art-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-ironkeep-pixel-studio-enchanted-forest-buildings-pixel-art-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-peanutstudio-survival-horror-farm-mill-workshop",
+    "type": "inspiration",
+    "title": "农场磨坊工坊",
+    "summary": "木梁粮袋石磨，生存恐怖磨坊室内很沉。",
+    "url": "https://peanutstudio.itch.io/survival-horror-farm-mill-workshop",
+    "imageUrl": "/covers/itch-peanutstudio-survival-horror-farm-mill-workshop.jpg",
+    "source": "itch",
+    "sourceId": "itch-peanutstudio-survival-horror-farm-mill-workshop",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sharranghaeyo-cozy-cafe-asset-pack",
+    "type": "inspiration",
+    "title": "治愈咖啡馆",
+    "summary": "粉白遮阳雨夜灯，侧视治愈咖啡馆很暖。",
+    "url": "https://sharranghaeyo.itch.io/cozy-cafe-asset-pack",
+    "imageUrl": "/covers/itch-sharranghaeyo-cozy-cafe-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-sharranghaeyo-cozy-cafe-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-peanutstudio-survival-horror-village-church-memorial-garden",
+    "type": "inspiration",
+    "title": "村庄教堂墓园",
+    "summary": "哥特石堂铁栅墓碑，生存恐怖教堂夜景很肃。",
+    "url": "https://peanutstudio.itch.io/survival-horror-village-church-memorial-garden",
+    "imageUrl": "/covers/itch-peanutstudio-survival-horror-village-church-memorial-garden.jpg",
+    "source": "itch",
+    "sourceId": "itch-peanutstudio-survival-horror-village-church-memorial-garden",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-casino-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素赌场",
+    "summary": "老虎机轮盘金库门，三维像素赌场三十六件。",
+    "url": "https://antahonist.itch.io/casino-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-casino-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-casino-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-police-station-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素警局",
+    "summary": "警车审讯桌路障，三维像素警局三十六件。",
+    "url": "https://antahonist.itch.io/police-station-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-police-station-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-police-station-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-airport-aviation-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素机场",
+    "summary": "牵引车安检行李梯，三维像素机场三十六件。",
+    "url": "https://antahonist.itch.io/airport-aviation-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-airport-aviation-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-airport-aviation-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-xuz8848-massive-stylized-voxel-notre-dame-cathedral",
+    "type": "inspiration",
+    "title": "体素巴黎圣母院",
+    "summary": "尖塔飞扶壁法旗，大体素哥特大教堂很宏。",
+    "url": "https://xuz8848.itch.io/massive-stylized-voxel-notre-dame-cathedral",
+    "imageUrl": "/covers/itch-xuz8848-massive-stylized-voxel-notre-dame-cathedral.jpg",
+    "source": "itch",
+    "sourceId": "itch-xuz8848-massive-stylized-voxel-notre-dame-cathedral",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2116516094026600834",
+    "type": "inspiration",
+    "title": "等距洗衣房",
+    "summary": "洗衣机折叠台门口光，等距像素洗衣房很生活。",
+    "url": "https://x.com/Houpixarte/status/2116516094026600834",
+    "imageUrl": "/covers/x-2116516094026600834.jpg",
+    "source": "x",
+    "sourceId": "x-2116516094026600834",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-antahonist-pop-art-ui-kit",
+    "type": "inspiration",
+    "title": "波普艺术 UI",
+    "summary": "红黄蓝爆发框，四主题波普界面很跳。",
+    "url": "https://antahonist.itch.io/pop-art-ui-kit",
+    "imageUrl": "/covers/itch-antahonist-pop-art-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-pop-art-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-1950s-diner-ui-kit",
+    "type": "inspiration",
+    "title": "五十年代餐馆 UI",
+    "summary": "青绿红棋盘星标，四主题复古餐馆界面。",
+    "url": "https://antahonist.itch.io/1950s-diner-ui-kit",
+    "imageUrl": "/covers/itch-antahonist-1950s-diner-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-1950s-diner-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-art-deco-ui-kit",
+    "type": "inspiration",
+    "title": "装饰艺术 UI",
+    "summary": "金褐几何细线，四主题装饰艺术界面很雅。",
+    "url": "https://antahonist.itch.io/art-deco-ui-kit",
+    "imageUrl": "/covers/itch-antahonist-art-deco-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-art-deco-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-wasteland-hud-kit",
+    "type": "inspiration",
+    "title": "废土 HUD",
+    "summary": "黄黑警示骷髅面具，末日废土界面很糙。",
+    "url": "https://antahonist.itch.io/wasteland-hud-kit",
+    "imageUrl": "/covers/itch-antahonist-wasteland-hud-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-wasteland-hud-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tersco-oakhold-medieval-fantasy-rpg-ui-kit",
+    "type": "inspiration",
+    "title": "橡厅中世纪 UI",
+    "summary": "石板金边血蓝条，中世纪奇幻 RPG 界面全。",
+    "url": "https://tersco.itch.io/oakhold-medieval-fantasy-rpg-ui-kit",
+    "imageUrl": "/covers/itch-tersco-oakhold-medieval-fantasy-rpg-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-tersco-oakhold-medieval-fantasy-rpg-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v3su-cozy-ui-pixel-art-16x16-farming-life-sim-gui",
+    "type": "inspiration",
+    "title": "治愈农场 UI",
+    "summary": "粉绿圆钮爱心栏，十六见方农场生活界面。",
+    "url": "https://v3su.itch.io/cozy-ui-pixel-art-16x16-farming-life-sim-gui",
+    "imageUrl": "/covers/itch-v3su-cozy-ui-pixel-art-16x16-farming-life-sim-gui.jpg",
+    "source": "itch",
+    "sourceId": "itch-v3su-cozy-ui-pixel-art-16x16-farming-life-sim-gui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-katgrabowska-mystic-purple-pixel-gui-kit",
+    "type": "inspiration",
+    "title": "神秘紫 GUI",
+    "summary": "深紫蓝框按钮，神秘紫像素界面很暗调。",
+    "url": "https://katgrabowska.itch.io/mystic-purple-pixel-gui-kit",
+    "imageUrl": "/covers/itch-katgrabowska-mystic-purple-pixel-gui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-katgrabowska-mystic-purple-pixel-gui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-clutch-assets-pixel-fantasy-ui-kit",
+    "type": "inspiration",
+    "title": "像素奇幻 UI",
+    "summary": "木石羊皮九宫格，奇幻界面一百零九精灵。",
+    "url": "https://clutch-assets.itch.io/pixel-fantasy-ui-kit",
+    "imageUrl": "/covers/itch-clutch-assets-pixel-fantasy-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-clutch-assets-pixel-fantasy-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-belette-pixelart-tiny-realm-ui",
+    "type": "inspiration",
+    "title": "袖珍国度 UI",
+    "summary": "粗粒橙黄标题条，袖珍 RPG 界面很手持。",
+    "url": "https://belette-pixelart.itch.io/tiny-realm-ui",
+    "imageUrl": "/covers/itch-belette-pixelart-tiny-realm-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-belette-pixelart-tiny-realm-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-crucible-crafting-cooking-and-alchemy-ui-kit",
+    "type": "inspiration",
+    "title": "坩埚炼金 UI",
+    "summary": "配方格进度条，锻造烹饪炼金一百零七件。",
+    "url": "https://csaf.itch.io/crucible-crafting-cooking-and-alchemy-ui-kit",
+    "imageUrl": "/covers/itch-csaf-crucible-crafting-cooking-and-alchemy-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-crucible-crafting-cooking-and-alchemy-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-03",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2117110195897938312",
     "type": "game",
     "title": "千甲者 掉落鉴定",
