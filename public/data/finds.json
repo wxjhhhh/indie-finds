@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-jye9-pixel-dungeon-top-down-tileset-16x16",
+    "type": "inspiration",
+    "title": "像素地城瓦片",
+    "summary": "石墙红毯陷阱火把，十六见方俯视地城自铺很齐。",
+    "url": "https://jye9.itch.io/pixel-dungeon-top-down-tileset-16x16",
+    "imageUrl": "/covers/itch-jye9-pixel-dungeon-top-down-tileset-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-jye9-pixel-dungeon-top-down-tileset-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-funcase-cozy-valley-four-seasons-16x16-top-down-pixel-art-tileset-autotile-terrain-tr",
+    "type": "inspiration",
+    "title": "治愈山谷四季",
+    "summary": "春夏秋冬同图切色，十六见方自铺地形很柔。",
+    "url": "https://funcase.itch.io/cozy-valley-four-seasons-16x16-top-down-pixel-art-tileset-autotile-terrain-tr",
+    "imageUrl": "/covers/itch-funcase-cozy-valley-four-seasons-16x16-top-down-pixel-art-tileset-autotile-terrain-tr.jpg",
+    "source": "itch",
+    "sourceId": "itch-funcase-cozy-valley-four-seasons-16x16-top-down-pixel-art-tileset-autotile-terrain-tr",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-larchrow-larchrow-16x16-overworld",
+    "type": "inspiration",
+    "title": "大世界地图瓦片",
+    "summary": "山林河桥城堡营地，四百二十八片俯视大地图。",
+    "url": "https://larchrow.itch.io/larchrow-16x16-overworld",
+    "imageUrl": "/covers/itch-larchrow-larchrow-16x16-overworld.jpg",
+    "source": "itch",
+    "sourceId": "itch-larchrow-larchrow-16x16-overworld",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bytewrightstudio-faerie-forest-dungeon-16x16-top-down-fantasy-tileset-and-game-kit",
+    "type": "inspiration",
+    "title": "仙森地城套件",
+    "summary": "粉紫地砖青墙英雄，仙灵森林地城瓦片很梦幻。",
+    "url": "https://bytewrightstudio.itch.io/faerie-forest-dungeon-16x16-top-down-fantasy-tileset-and-game-kit",
+    "imageUrl": "/covers/itch-bytewrightstudio-faerie-forest-dungeon-16x16-top-down-fantasy-tileset-and-game-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-bytewrightstudio-faerie-forest-dungeon-16x16-top-down-fantasy-tileset-and-game-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-pixel-parallax-backgrounds-6-themes",
+    "type": "inspiration",
+    "title": "六主题视差背景",
+    "summary": "草甸日落沙漠雪洞，三二〇乘一八〇多层背景。",
+    "url": "https://northleafstudio.itch.io/pixel-parallax-backgrounds-6-themes",
+    "imageUrl": "/covers/itch-northleafstudio-pixel-parallax-backgrounds-6-themes.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-pixel-parallax-backgrounds-6-themes",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-softuki-powerlines",
+    "type": "inspiration",
+    "title": "等距电线杆",
+    "summary": "街灯砖楼与垂线，等距像素电力线很生活。",
+    "url": "https://softuki.itch.io/powerlines",
+    "imageUrl": "/covers/itch-softuki-powerlines.jpg",
+    "source": "itch",
+    "sourceId": "itch-softuki-powerlines",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ptdesigns-fall-collection-pixel-art-props-tiles",
+    "type": "inspiration",
+    "title": "秋季等距道具",
+    "summary": "秋树市集木门窗，一百二十道具四十七等距瓦。",
+    "url": "https://ptdesigns.itch.io/fall-collection-pixel-art-props-tiles",
+    "imageUrl": "/covers/itch-ptdesigns-fall-collection-pixel-art-props-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-ptdesigns-fall-collection-pixel-art-props-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxel-assets-voxel-dungeon-rpg-loot-pack",
+    "type": "inspiration",
+    "title": "体素地城战利",
+    "summary": "百件模块战利品，体素地城 RPG 包很块。",
+    "url": "https://voxel-assets.itch.io/voxel-dungeon-rpg-loot-pack",
+    "imageUrl": "/covers/itch-voxel-assets-voxel-dungeon-rpg-loot-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxel-assets-voxel-dungeon-rpg-loot-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelgrove-fantasy-loot-icons",
+    "type": "inspiration",
+    "title": "等距奇幻战利",
+    "summary": "一二二件武器药水，等距战利加库存图标。",
+    "url": "https://voxelgrove.itch.io/fantasy-loot-icons",
+    "imageUrl": "/covers/itch-voxelgrove-fantasy-loot-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-fantasy-loot-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ptdesigns-winter-holidays-pixel-art-props-tiles",
+    "type": "inspiration",
+    "title": "冬节等距道具",
+    "summary": "雪地礼盒壁炉摊，一百二十道具四十八等距瓦。",
+    "url": "https://ptdesigns.itch.io/winter-holidays-pixel-art-props-tiles",
+    "imageUrl": "/covers/itch-ptdesigns-winter-holidays-pixel-art-props-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-ptdesigns-winter-holidays-pixel-art-props-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-glitch-giggle-studios-raven-voss",
+    "type": "inspiration",
+    "title": "瑞文·沃斯精灵",
+    "summary": "金发八向走跑待机，六十四见方女主精灵包。",
+    "url": "https://glitch-giggle-studios.itch.io/raven-voss",
+    "imageUrl": "/covers/itch-glitch-giggle-studios-raven-voss.jpg",
+    "source": "itch",
+    "sourceId": "itch-glitch-giggle-studios-raven-voss",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-larchrow-larchrow-16x16-npcs-villagers",
+    "type": "inspiration",
+    "title": "十六村民 NPC",
+    "summary": "二十六镇民四向走，肖像表情对话框很齐。",
+    "url": "https://larchrow.itch.io/larchrow-16x16-npcs-villagers",
+    "imageUrl": "/covers/itch-larchrow-larchrow-16x16-npcs-villagers.jpg",
+    "source": "itch",
+    "sourceId": "itch-larchrow-larchrow-16x16-npcs-villagers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-willosuna-pixel-rpg-monsters-top-down",
+    "type": "inspiration",
+    "title": "俯视 RPG 怪物",
+    "summary": "六十三怪八首领，四向五动画精英配色。",
+    "url": "https://willosuna.itch.io/pixel-rpg-monsters-top-down",
+    "imageUrl": "/covers/itch-willosuna-pixel-rpg-monsters-top-down.jpg",
+    "source": "itch",
+    "sourceId": "itch-willosuna-pixel-rpg-monsters-top-down",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-automata-caravan-master-animated-dark-fantasy-npc",
+    "type": "inspiration",
+    "title": "驼队商旅主人",
+    "summary": "红金袍与骆驼，暗黑八向商旅 NPC 动画。",
+    "url": "https://elie-automata.itch.io/caravan-master-animated-dark-fantasy-npc",
+    "imageUrl": "/covers/itch-elie-automata-caravan-master-animated-dark-fantasy-npc.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-automata-caravan-master-animated-dark-fantasy-npc",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-spritewell-animated-pixel-rpg-characters-side-view",
+    "type": "inspiration",
+    "title": "侧视十二英杰",
+    "summary": "骑士法师兽人骷髅，侧视五动作十二角色。",
+    "url": "https://spritewell.itch.io/animated-pixel-rpg-characters-side-view",
+    "imageUrl": "/covers/itch-spritewell-animated-pixel-rpg-characters-side-view.jpg",
+    "source": "itch",
+    "sourceId": "itch-spritewell-animated-pixel-rpg-characters-side-view",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chuckyassets-modern-town-exteriors-free-sample",
+    "type": "inspiration",
+    "title": "现代小镇外观",
+    "summary": "蓝红屋咖啡馆喷泉，十六见方现代镇外观样。",
+    "url": "https://chuckyassets.itch.io/modern-town-exteriors-free-sample",
+    "imageUrl": "/covers/itch-chuckyassets-modern-town-exteriors-free-sample.jpg",
+    "source": "itch",
+    "sourceId": "itch-chuckyassets-modern-town-exteriors-free-sample",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mardlihabibi-lumina-pixel-ottoman-bazaar",
+    "type": "inspiration",
+    "title": "奥斯曼市集",
+    "summary": "千件市集澡堂花园，十六见方奥斯曼城镇。",
+    "url": "https://mardlihabibi.itch.io/lumina-pixel-ottoman-bazaar",
+    "imageUrl": "/covers/itch-mardlihabibi-lumina-pixel-ottoman-bazaar.jpg",
+    "source": "itch",
+    "sourceId": "itch-mardlihabibi-lumina-pixel-ottoman-bazaar",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelburrowstudio-top-down-rpg-building-exteriors-vol1",
+    "type": "inspiration",
+    "title": "RPG 建筑外观",
+    "summary": "四十八屋变体双尺寸，俯视城镇建筑很齐整。",
+    "url": "https://pixelburrowstudio.itch.io/top-down-rpg-building-exteriors-vol1",
+    "imageUrl": "/covers/itch-pixelburrowstudio-top-down-rpg-building-exteriors-vol1.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelburrowstudio-top-down-rpg-building-exteriors-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-spritewell-tavern-home-interiors-tileset-16x16",
+    "type": "inspiration",
+    "title": "酒馆家居室内",
+    "summary": "墙自铺地毯壁炉，七十八家具俯视室内。",
+    "url": "https://spritewell.itch.io/tavern-home-interiors-tileset-16x16",
+    "imageUrl": "/covers/itch-spritewell-tavern-home-interiors-tileset-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-spritewell-tavern-home-interiors-tileset-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-funcase-cozy-valley-farm-buildings-16x16-top-down-pixel-art-buildings-props-summer-w",
+    "type": "inspiration",
+    "title": "治愈山谷农场",
+    "summary": "十栋农舍夏冬版，风车栅栏矿石道具齐。",
+    "url": "https://funcase.itch.io/cozy-valley-farm-buildings-16x16-top-down-pixel-art-buildings-props-summer-w",
+    "imageUrl": "/covers/itch-funcase-cozy-valley-farm-buildings-16x16-top-down-pixel-art-buildings-props-summer-w.jpg",
+    "source": "itch",
+    "sourceId": "itch-funcase-cozy-valley-farm-buildings-16x16-top-down-pixel-art-buildings-props-summer-w",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-heavy-construction-vehicles-3d-pixel-art-kit",
+    "type": "inspiration",
+    "title": "三维像素工程车",
+    "summary": "挖机推土吊车搅拌，三十六件等距工程车。",
+    "url": "https://antahonist.itch.io/heavy-construction-vehicles-3d-pixel-art-kit",
+    "imageUrl": "/covers/itch-antahonist-heavy-construction-vehicles-3d-pixel-art-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-heavy-construction-vehicles-3d-pixel-art-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-illusionsystemx-isometric-detailed-pixel-art-skyscraper",
+    "type": "inspiration",
+    "title": "等距摩天楼",
+    "summary": "蓝玻璃塔与裙楼池，等距细密像素摩天楼。",
+    "url": "https://illusionsystemx.itch.io/isometric-detailed-pixel-art-skyscraper",
+    "imageUrl": "/covers/itch-illusionsystemx-isometric-detailed-pixel-art-skyscraper.jpg",
+    "source": "itch",
+    "sourceId": "itch-illusionsystemx-isometric-detailed-pixel-art-skyscraper",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-thirdangle-museum-pack",
+    "type": "inspiration",
+    "title": "等距博物馆",
+    "summary": "恐龙骨架柜半身像，四十九精灵博物馆套。",
+    "url": "https://thirdangle.itch.io/museum-pack",
+    "imageUrl": "/covers/itch-thirdangle-museum-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-thirdangle-museum-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-xuz8848-steampunk-voxel-train-stylized-3d-locomotive-pack",
+    "type": "inspiration",
+    "title": "蒸汽体素火车",
+    "summary": "黑壳红轮铁轨，蒸汽朋克体素火车很酷。",
+    "url": "https://xuz8848.itch.io/steampunk-voxel-train-stylized-3d-locomotive-pack",
+    "imageUrl": "/covers/itch-xuz8848-steampunk-voxel-train-stylized-3d-locomotive-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-xuz8848-steampunk-voxel-train-stylized-3d-locomotive-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-1camou-sci-fi-outpost-blockimagine",
+    "type": "inspiration",
+    "title": "科幻方块前哨",
+    "summary": "圆顶舱蓝灰模块，块状三维前哨免费 CC0。",
+    "url": "https://1camou.itch.io/sci-fi-outpost-blockimagine",
+    "imageUrl": "/covers/itch-1camou-sci-fi-outpost-blockimagine.jpg",
+    "source": "itch",
+    "sourceId": "itch-1camou-sci-fi-outpost-blockimagine",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-pixelsonultra-wayfarer-fantasy-rpg-ui-kit",
+    "type": "inspiration",
+    "title": "旅人奇幻 UI",
+    "summary": "五材质库存血蓝条，二百三十六图标四字体。",
+    "url": "https://pixelsonultra.itch.io/wayfarer-fantasy-rpg-ui-kit",
+    "imageUrl": "/covers/itch-pixelsonultra-wayfarer-fantasy-rpg-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-wayfarer-fantasy-rpg-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-bauhaus-ui-kit",
+    "type": "inspiration",
+    "title": "包豪斯 UI",
+    "summary": "红黄蓝几何表盘，四主题包豪斯界面很净。",
+    "url": "https://antahonist.itch.io/bauhaus-ui-kit",
+    "imageUrl": "/covers/itch-antahonist-bauhaus-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-bauhaus-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-antahonist-memphis-ui-kit",
+    "type": "inspiration",
+    "title": "孟菲斯 UI",
+    "summary": "粉青绿波浪锯齿，四主题八十年代界面很跳。",
+    "url": "https://antahonist.itch.io/memphis-ui-kit",
+    "imageUrl": "/covers/itch-antahonist-memphis-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-antahonist-memphis-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riclmbr-cozy-pixel-ui-4261-sprites-12-themes-9-slice-panels-buttons-hud-icons-portraits",
+    "type": "inspiration",
+    "title": "治愈像素 UI",
+    "summary": "四二六一精灵十二主题，九宫格面板按钮 HUD。",
+    "url": "https://riclmbr.itch.io/cozy-pixel-ui-4261-sprites-12-themes-9-slice-panels-buttons-hud-icons-portraits",
+    "imageUrl": "/covers/itch-riclmbr-cozy-pixel-ui-4261-sprites-12-themes-9-slice-panels-buttons-hud-icons-portraits.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-cozy-pixel-ui-4261-sprites-12-themes-9-slice-panels-buttons-hud-icons-portraits",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-larchrow-larchrow-16x16-hud-ui-icons",
+    "type": "inspiration",
+    "title": "十六 HUD 图标",
+    "summary": "五百枚心条药水币，九宫格加 Godot 主题。",
+    "url": "https://larchrow.itch.io/larchrow-16x16-hud-ui-icons",
+    "imageUrl": "/covers/itch-larchrow-larchrow-16x16-hud-ui-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-larchrow-larchrow-16x16-hud-ui-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-pixel-ui-kit-48-elements",
+    "type": "inspiration",
+    "title": "四十八件像素 UI",
+    "summary": "六色三态按钮血蓝条，面板勾选滑条光标。",
+    "url": "https://northleafstudio.itch.io/pixel-ui-kit-48-elements",
+    "imageUrl": "/covers/itch-northleafstudio-pixel-ui-kit-48-elements.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-pixel-ui-kit-48-elements",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-harning-classic-rpg-ui-kit",
+    "type": "inspiration",
+    "title": "经典 RPG UI",
+    "summary": "蓝框白边对话条，六风格复古 JRPG 界面。",
+    "url": "https://harning.itch.io/classic-rpg-ui-kit",
+    "imageUrl": "/covers/itch-harning-classic-rpg-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-harning-classic-rpg-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-johnisking-tiny-pixel-ui-free",
+    "type": "inspiration",
+    "title": "袖珍像素 UI",
+    "summary": "四主题粗边按钮条，四十六图标免费可用。",
+    "url": "https://johnisking.itch.io/tiny-pixel-ui-free",
+    "imageUrl": "/covers/itch-johnisking-tiny-pixel-ui-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-johnisking-tiny-pixel-ui-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-csaf-sundial-clock-day-night-and-weather-hud-ui-kit",
+    "type": "inspiration",
+    "title": "日晷天气 HUD",
+    "summary": "时钟季节天气件，八十七件日夜日历控件。",
+    "url": "https://csaf.itch.io/sundial-clock-day-night-and-weather-hud-ui-kit",
+    "imageUrl": "/covers/itch-csaf-sundial-clock-day-night-and-weather-hud-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-csaf-sundial-clock-day-night-and-weather-hud-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-francescocorrenti-neon-modern-ui-16x16-v1-rpg-interface-pack",
+    "type": "inspiration",
+    "title": "霓虹现代 UI",
+    "summary": "粉青霓虹对话栏，十六见方一百二十五件。",
+    "url": "https://francescocorrenti.itch.io/neon-modern-ui-16x16-v1-rpg-interface-pack",
+    "imageUrl": "/covers/itch-francescocorrenti-neon-modern-ui-16x16-v1-rpg-interface-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-francescocorrenti-neon-modern-ui-16x16-v1-rpg-interface-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-04",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2117342947188392030",
     "type": "game",
     "title": "Castillon 混搭RTS",
