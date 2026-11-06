@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-mushroompapa-caves-tileset",
+    "type": "inspiration",
+    "title": "矿洞洞穴瓦片",
+    "summary": "十六见方矿洞支撑柱，俯视洞穴瓦片齐。",
+    "url": "https://mushroompapa.itch.io/caves-tileset",
+    "imageUrl": "/covers/itch-mushroompapa-caves-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-mushroompapa-caves-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-catalonec-harvest-patch-16x16-farming-crops-soil-tools",
+    "type": "inspiration",
+    "title": "十六丰收田",
+    "summary": "十作物四生长土篱，十六见方农场土。",
+    "url": "https://catalonec.itch.io/harvest-patch-16x16-farming-crops-soil-tools",
+    "imageUrl": "/covers/itch-catalonec-harvest-patch-16x16-farming-crops-soil-tools.jpg",
+    "source": "itch",
+    "sourceId": "itch-catalonec-harvest-patch-16x16-farming-crops-soil-tools",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-creedey-mini-rpg-forest-tileset",
+    "type": "inspiration",
+    "title": "八位迷你森林",
+    "summary": "八乘八树草池塘，迷你 RPG 森林瓦。",
+    "url": "https://creedey.itch.io/mini-rpg-forest-tileset",
+    "imageUrl": "/covers/itch-creedey-mini-rpg-forest-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-creedey-mini-rpg-forest-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northleafstudio-free-pixel-parallax-background-meadow",
+    "type": "inspiration",
+    "title": "五层草甸视差",
+    "summary": "昼夜雪景五层山树，免费草甸视差景。",
+    "url": "https://northleafstudio.itch.io/free-pixel-parallax-background-meadow",
+    "imageUrl": "/covers/itch-northleafstudio-free-pixel-parallax-background-meadow.jpg",
+    "source": "itch",
+    "sourceId": "itch-northleafstudio-free-pixel-parallax-background-meadow",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-lowpolysh-pastel-farm-pixel-art-mega-asset-pack",
+    "type": "inspiration",
+    "title": "粉彩农场大包",
+    "summary": "谷仓果园水塘作物，粉彩农场超大包。",
+    "url": "https://lowpolysh.itch.io/pastel-farm-pixel-art-mega-asset-pack",
+    "imageUrl": "/covers/itch-lowpolysh-pastel-farm-pixel-art-mega-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-lowpolysh-pastel-farm-pixel-art-mega-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hagnok0768-ivoryleaf-citadel",
+    "type": "inspiration",
+    "title": "象牙叶精灵城",
+    "summary": "运河喷泉大理石廊，等距精灵城套。",
+    "url": "https://hagnok0768.itch.io/ivoryleaf-citadel",
+    "imageUrl": "/covers/itch-hagnok0768-ivoryleaf-citadel.jpg",
+    "source": "itch",
+    "sourceId": "itch-hagnok0768-ivoryleaf-citadel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hagnok0768-nightroot-terrain",
+    "type": "inspiration",
+    "title": "纱憩墓园",
+    "summary": "铁篱墓碑动画怪，等距墓园套件。",
+    "url": "https://hagnok0768.itch.io/nightroot-terrain",
+    "imageUrl": "/covers/itch-hagnok0768-nightroot-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-hagnok0768-nightroot-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ptdesigns-cyberpunk-city-pixel-art-props-tiles",
+    "type": "inspiration",
+    "title": "赛博城道具瓦",
+    "summary": "百二十道具五十一瓦，赛博城 CC0。",
+    "url": "https://ptdesigns.itch.io/cyberpunk-city-pixel-art-props-tiles",
+    "imageUrl": "/covers/itch-ptdesigns-cyberpunk-city-pixel-art-props-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-ptdesigns-cyberpunk-city-pixel-art-props-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dopamineking-voxel-dungeon-environment-kit",
+    "type": "inspiration",
+    "title": "体素地城套",
+    "summary": "百三七主件宝座柱，体素等距地城。",
+    "url": "https://dopamineking.itch.io/voxel-dungeon-environment-kit",
+    "imageUrl": "/covers/itch-dopamineking-voxel-dungeon-environment-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-dopamineking-voxel-dungeon-environment-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hagnok0768-undercrypt-collection",
+    "type": "inspiration",
+    "title": "地穴八位瓦",
+    "summary": "八十七件矿井下水道，等距地穴瓦。",
+    "url": "https://hagnok0768.itch.io/undercrypt-collection",
+    "imageUrl": "/covers/itch-hagnok0768-undercrypt-collection.jpg",
+    "source": "itch",
+    "sourceId": "itch-hagnok0768-undercrypt-collection",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-glitch-giggle-studios-sakura-school",
+    "type": "inspiration",
+    "title": "樱花学院角色",
+    "summary": "校服肖像教室道具，像素校园人物包。",
+    "url": "https://glitch-giggle-studios.itch.io/sakura-school",
+    "imageUrl": "/covers/itch-glitch-giggle-studios-sakura-school.jpg",
+    "source": "itch",
+    "sourceId": "itch-glitch-giggle-studios-sakura-school",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hoantdz-384-fantasy-npcs-chinese-ming-dynasty",
+    "type": "inspiration",
+    "title": "明朝三百八十四",
+    "summary": "明风 NPC 二十四表，透明切图标齐。",
+    "url": "https://hoantdz.itch.io/384-fantasy-npcs-chinese-ming-dynasty",
+    "imageUrl": "/covers/itch-hoantdz-384-fantasy-npcs-chinese-ming-dynasty.jpg",
+    "source": "itch",
+    "sourceId": "itch-hoantdz-384-fantasy-npcs-chinese-ming-dynasty",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-lipe-sprite-tiny-fantasy-32x32-animated-rpg-characters",
+    "type": "inspiration",
+    "title": "袖珍奇幻小队",
+    "summary": "三二见方骑士法师，动画 RPG 小队。",
+    "url": "https://lipe-sprite.itch.io/tiny-fantasy-32x32-animated-rpg-characters",
+    "imageUrl": "/covers/itch-lipe-sprite-tiny-fantasy-32x32-animated-rpg-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-lipe-sprite-tiny-fantasy-32x32-animated-rpg-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hyarismeowt-japanese-yokai-mythical-creatures-pixel-art-character-pack-32x32",
+    "type": "inspiration",
+    "title": "三二妖怪众",
+    "summary": "狐鬼河童等妖怪，三二见方神话怪。",
+    "url": "https://hyarismeowt.itch.io/japanese-yokai-mythical-creatures-pixel-art-character-pack-32x32",
+    "imageUrl": "/covers/itch-hyarismeowt-japanese-yokai-mythical-creatures-pixel-art-character-pack-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-hyarismeowt-japanese-yokai-mythical-creatures-pixel-art-character-pack-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chibbangkimong-blocky-top-down-characters",
+    "type": "inspiration",
+    "title": "块状俯视人",
+    "summary": "分层精灵可混搭，块状俯视角色库。",
+    "url": "https://chibbangkimong.itch.io/blocky-top-down-characters",
+    "imageUrl": "/covers/itch-chibbangkimong-blocky-top-down-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-chibbangkimong-blocky-top-down-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dlou-saiyan-urban-city-tileset-basic-2d-pixel-art-street-environment",
+    "type": "inspiration",
+    "title": "都市街道瓦",
+    "summary": "三二街道路树屋，免费都市起步包。",
+    "url": "https://dlou-saiyan.itch.io/urban-city-tileset-basic-2d-pixel-art-street-environment",
+    "imageUrl": "/covers/itch-dlou-saiyan-urban-city-tileset-basic-2d-pixel-art-street-environment.jpg",
+    "source": "itch",
+    "sourceId": "itch-dlou-saiyan-urban-city-tileset-basic-2d-pixel-art-street-environment",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ubiksmind-16-x-16-tavern-building-assets",
+    "type": "inspiration",
+    "title": "十六酒馆内装",
+    "summary": "木地板石墙吧台，十六见方酒馆内。",
+    "url": "https://ubiksmind.itch.io/16-x-16-tavern-building-assets",
+    "imageUrl": "/covers/itch-ubiksmind-16-x-16-tavern-building-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-ubiksmind-16-x-16-tavern-building-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixlog-ironblossom",
+    "type": "inspiration",
+    "title": "铁樱武家城",
+    "summary": "三二樱花城墙塔，俯视武家城大包。",
+    "url": "https://pixlog.itch.io/ironblossom",
+    "imageUrl": "/covers/itch-pixlog-ironblossom.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixlog-ironblossom",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-retropi-art-cafe",
+    "type": "inspiration",
+    "title": "十六咖啡厅",
+    "summary": "蓝卡座木窗景，十六见方咖啡内景。",
+    "url": "https://retropi-art.itch.io/cafe",
+    "imageUrl": "/covers/itch-retropi-art-cafe.jpg",
+    "source": "itch",
+    "sourceId": "itch-retropi-art-cafe",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sanctumpixel-tower-top-down-pixel-art-building-assets",
+    "type": "inspiration",
+    "title": "俯视三色塔",
+    "summary": "蓝红褐锥顶石塔，俯视塔楼三件。",
+    "url": "https://sanctumpixel.itch.io/tower-top-down-pixel-art-building-assets",
+    "imageUrl": "/covers/itch-sanctumpixel-tower-top-down-pixel-art-building-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-sanctumpixel-tower-top-down-pixel-art-building-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sdavgha-pixel-worlds-buildings-ruins",
+    "type": "inspiration",
+    "title": "九七建筑废墟",
+    "summary": "等距塔庙木屋，九七建筑废墟免费。",
+    "url": "https://sdavgha.itch.io/pixel-worlds-buildings-ruins",
+    "imageUrl": "/covers/itch-sdavgha-pixel-worlds-buildings-ruins.jpg",
+    "source": "itch",
+    "sourceId": "itch-sdavgha-pixel-worlds-buildings-ruins",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-sdavgha-pixel-worlds-dungeon-dragon-castle-props",
+    "type": "inspiration",
+    "title": "龙城地城道具",
+    "summary": "宝箱王座龙骨旗，五十等距龙城件。",
+    "url": "https://sdavgha.itch.io/pixel-worlds-dungeon-dragon-castle-props",
+    "imageUrl": "/covers/itch-sdavgha-pixel-worlds-dungeon-dragon-castle-props.jpg",
+    "source": "itch",
+    "sourceId": "itch-sdavgha-pixel-worlds-dungeon-dragon-castle-props",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-thirdangle-hotel-lobby-pack",
+    "type": "inspiration",
+    "title": "等距酒店大堂包",
+    "summary": "前台行李钟绿植，五十五件酒店大堂。",
+    "url": "https://thirdangle.itch.io/hotel-lobby-pack",
+    "imageUrl": "/covers/itch-thirdangle-hotel-lobby-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-thirdangle-hotel-lobby-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hanx-games-3d-pixel-city-pack",
+    "type": "inspiration",
+    "title": "三维像素都市",
+    "summary": "砖街店面彩色车，八二件三维像素城。",
+    "url": "https://hanx-games.itch.io/3d-pixel-city-pack",
+    "imageUrl": "/covers/itch-hanx-games-3d-pixel-city-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-hanx-games-3d-pixel-city-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hanx-games-3d-pixel-medieval-town-pack",
+    "type": "inspiration",
+    "title": "三维像素中世纪",
+    "summary": "蓝顶城堡城门，七四件中世纪城。",
+    "url": "https://hanx-games.itch.io/3d-pixel-medieval-town-pack",
+    "imageUrl": "/covers/itch-hanx-games-3d-pixel-medieval-town-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-hanx-games-3d-pixel-medieval-town-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-emerald22-neon-sovereign-hud-gold-chrome-cyber-ui",
+    "type": "inspiration",
+    "title": "霓虹主权 HUD",
+    "summary": "金铬赛博面板图，霓虹科幻 HUD。",
+    "url": "https://emerald22.itch.io/neon-sovereign-hud-gold-chrome-cyber-ui",
+    "imageUrl": "/covers/itch-emerald22-neon-sovereign-hud-gold-chrome-cyber-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-emerald22-neon-sovereign-hud-gold-chrome-cyber-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-martalex-pixel-ui-vol-1",
+    "type": "inspiration",
+    "title": "像素 UI 卷一",
+    "summary": "血条按钮宝石骷髅，经典像素界面。",
+    "url": "https://martalex.itch.io/pixel-ui-vol-1",
+    "imageUrl": "/covers/itch-martalex-pixel-ui-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-martalex-pixel-ui-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-angelofcuriosity-cozy-rpg-hud-icons",
+    "type": "inspiration",
+    "title": "治愈 RPG 图标",
+    "summary": "六十四元素道具标，软彩治愈 HUD。",
+    "url": "https://angelofcuriosity.itch.io/cozy-rpg-hud-icons",
+    "imageUrl": "/covers/itch-angelofcuriosity-cozy-rpg-hud-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-angelofcuriosity-cozy-rpg-hud-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-zerofactory-bunsik-pantry",
+    "type": "inspiration",
+    "title": "韩式小吃图标",
+    "summary": "四十八韩式小吃料，街边食材像素标。",
+    "url": "https://zerofactory.itch.io/bunsik-pantry",
+    "imageUrl": "/covers/itch-zerofactory-bunsik-pantry.jpg",
+    "source": "itch",
+    "sourceId": "itch-zerofactory-bunsik-pantry",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-oguzgames-medieval-weapons-pixel-art-pack",
+    "type": "inspiration",
+    "title": "中世纪武器标",
+    "summary": "剑斧锤矛成套，中世纪武器像素包。",
+    "url": "https://oguzgames.itch.io/medieval-weapons-pixel-art-pack",
+    "imageUrl": "/covers/itch-oguzgames-medieval-weapons-pixel-art-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-oguzgames-medieval-weapons-pixel-art-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-midnight-misfit-studio-moonpocket-cozy-inventory-ui-kit",
+    "type": "inspiration",
+    "title": "月袋库存 UI",
+    "summary": "十二匹配图标槽，治愈暗色库存套。",
+    "url": "https://midnight-misfit-studio.itch.io/moonpocket-cozy-inventory-ui-kit",
+    "imageUrl": "/covers/itch-midnight-misfit-studio-moonpocket-cozy-inventory-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-midnight-misfit-studio-moonpocket-cozy-inventory-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maiathiago-scifi-pixel-ui-hud-kit",
+    "type": "inspiration",
+    "title": "科幻像素 HUD",
+    "summary": "雷达货运通讯窗，蓝霓科幻界面。",
+    "url": "https://maiathiago.itch.io/scifi-pixel-ui-hud-kit",
+    "imageUrl": "/covers/itch-maiathiago-scifi-pixel-ui-hud-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-maiathiago-scifi-pixel-ui-hud-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cocotaslab-cocotas-farm-ui-hud",
+    "type": "inspiration",
+    "title": "农场 UI HUD",
+    "summary": "日历商店对话框，可爱农场界面。",
+    "url": "https://cocotaslab.itch.io/cocotas-farm-ui-hud",
+    "imageUrl": "/covers/itch-cocotaslab-cocotas-farm-ui-hud.jpg",
+    "source": "itch",
+    "sourceId": "itch-cocotaslab-cocotas-farm-ui-hud",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-emerald22-mythic-beast-boss-frames-health-bars-pixel-art-boss-hp-bars-nameplates-portra",
+    "type": "inspiration",
+    "title": "神话 Boss 血框",
+    "summary": "金银铜 Boss 名牌条，神话兽血框。",
+    "url": "https://emerald22.itch.io/mythic-beast-boss-frames-health-bars-pixel-art-boss-hp-bars-nameplates-portra",
+    "imageUrl": "/covers/itch-emerald22-mythic-beast-boss-frames-health-bars-pixel-art-boss-hp-bars-nameplates-portra.jpg",
+    "source": "itch",
+    "sourceId": "itch-emerald22-mythic-beast-boss-frames-health-bars-pixel-art-boss-hp-bars-nameplates-portra",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-m57-dev-geo-armory-rpg-ui-kit",
+    "type": "inspiration",
+    "title": "几何军械 UI",
+    "summary": "九宫格库存金边条，几何 RPG 界面。",
+    "url": "https://m57-dev.itch.io/geo-armory-rpg-ui-kit",
+    "imageUrl": "/covers/itch-m57-dev-geo-armory-rpg-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-m57-dev-geo-armory-rpg-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-06",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2118039752368918863",
     "type": "game",
     "title": "Berthier 掷弹枪",
