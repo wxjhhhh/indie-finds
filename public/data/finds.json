@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-gumnutpixel-mossbright-terrain-tileset-16px",
+    "type": "inspiration",
+    "title": "苔光地形",
+    "summary": "十六自贴岸崖，八十二道具齐。",
+    "url": "https://gumnutpixel.itch.io/mossbright-terrain-tileset-16px",
+    "imageUrl": "/covers/itch-gumnutpixel-mossbright-terrain-tileset-16px.jpg",
+    "source": "itch",
+    "sourceId": "itch-gumnutpixel-mossbright-terrain-tileset-16px",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-grizm-lantern-halls-dungeon-tileset",
+    "type": "inspiration",
+    "title": "灯厅地城",
+    "summary": "四主题十六瓦，八十三道具动。",
+    "url": "https://grizm.itch.io/lantern-halls-dungeon-tileset",
+    "imageUrl": "/covers/itch-grizm-lantern-halls-dungeon-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-grizm-lantern-halls-dungeon-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-neonpixelforge-starter-farm-autumn-orchard-cozy-farm-tileset-16x16",
+    "type": "inspiration",
+    "title": "秋果农庄",
+    "summary": "谷仓果园作物，百五九件就绪。",
+    "url": "https://neonpixelforge.itch.io/starter-farm-autumn-orchard-cozy-farm-tileset-16x16",
+    "imageUrl": "/covers/itch-neonpixelforge-starter-farm-autumn-orchard-cozy-farm-tileset-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-neonpixelforge-starter-farm-autumn-orchard-cozy-farm-tileset-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-catalonec-frost-peak",
+    "type": "inspiration",
+    "title": "霜峰雪境",
+    "summary": "雪地冰松小屋，七种雪兽动画。",
+    "url": "https://catalonec.itch.io/frost-peak",
+    "imageUrl": "/covers/itch-catalonec-frost-peak.jpg",
+    "source": "itch",
+    "sourceId": "itch-catalonec-frost-peak",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maltyy-hollow-creek-harbor-docks",
+    "type": "inspiration",
+    "title": "空溪港湾",
+    "summary": "夜港木栈渔船，海鸥浪动齐。",
+    "url": "https://maltyy.itch.io/hollow-creek-harbor-docks",
+    "imageUrl": "/covers/itch-maltyy-hollow-creek-harbor-docks.jpg",
+    "source": "itch",
+    "sourceId": "itch-maltyy-hollow-creek-harbor-docks",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cozyric-pixel-iso-outdoors-32x32-isometric-exteriors-232-pixel-art-assets",
+    "type": "inspiration",
+    "title": "等距户外",
+    "summary": "二三二等距外景，街园农滩雪。",
+    "url": "https://cozyric.itch.io/pixel-iso-outdoors-32x32-isometric-exteriors-232-pixel-art-assets",
+    "imageUrl": "/covers/itch-cozyric-pixel-iso-outdoors-32x32-isometric-exteriors-232-pixel-art-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozyric-pixel-iso-outdoors-32x32-isometric-exteriors-232-pixel-art-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ridgeworksstudio-stonehold-snowbound",
+    "type": "inspiration",
+    "title": "石堡雪境",
+    "summary": "雪崖开门堡垒，冬日兵种齐。",
+    "url": "https://ridgeworksstudio.itch.io/stonehold-snowbound",
+    "imageUrl": "/covers/itch-ridgeworksstudio-stonehold-snowbound.jpg",
+    "source": "itch",
+    "sourceId": "itch-ridgeworksstudio-stonehold-snowbound",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hvnbnn-sky-whale-garden",
+    "type": "inspiration",
+    "title": "空鲸花园",
+    "summary": "飞鲸背园灯塔，篮村十七件。",
+    "url": "https://hvnbnn.itch.io/sky-whale-garden",
+    "imageUrl": "/covers/itch-hvnbnn-sky-whale-garden.jpg",
+    "source": "itch",
+    "sourceId": "itch-hvnbnn-sky-whale-garden",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-5ed1bP",
+    "type": "inspiration",
+    "title": "日向体素城",
+    "summary": "夜灯日式宝塔，体素沙盒城景。",
+    "url": "https://www.artstation.com/artwork/5ed1bP",
+    "imageUrl": "/covers/artstation-5ed1bP.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-5ed1bP",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-WdPlYJ",
+    "type": "inspiration",
+    "title": "日向体素堡",
+    "summary": "鸟居樱道城堡，体素日式景。",
+    "url": "https://www.artstation.com/artwork/WdPlYJ",
+    "imageUrl": "/covers/artstation-WdPlYJ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-WdPlYJ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-pixlog-sulfurgate",
+    "type": "inspiration",
+    "title": "硫门魔军",
+    "summary": "十魔八向静姿，六四与一二八。",
+    "url": "https://pixlog.itch.io/sulfurgate",
+    "imageUrl": "/covers/itch-pixlog-sulfurgate.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixlog-sulfurgate",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixlog-steelpetal",
+    "type": "inspiration",
+    "title": "钢瓣侍众",
+    "summary": "十武士八向，防卫与突袭齐。",
+    "url": "https://pixlog.itch.io/steelpetal",
+    "imageUrl": "/covers/itch-pixlog-steelpetal.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixlog-steelpetal",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixlog-tidecutters",
+    "type": "inspiration",
+    "title": "潮裁海盗",
+    "summary": "十海盗八向，六四一二八齐。",
+    "url": "https://pixlog.itch.io/tidecutters",
+    "imageUrl": "/covers/itch-pixlog-tidecutters.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixlog-tidecutters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-grimorista-fantasy-rpg-character-collection-vol-1",
+    "type": "inspiration",
+    "title": "奇幻四人组",
+    "summary": "四角色百一动，八百五十四帧。",
+    "url": "https://grimorista.itch.io/fantasy-rpg-character-collection-vol-1",
+    "imageUrl": "/covers/itch-grimorista-fantasy-rpg-character-collection-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-grimorista-fantasy-rpg-character-collection-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vibeforge-sidescroller-hero-set",
+    "type": "inspiration",
+    "title": "侧视六英雄",
+    "summary": "六英雄十片段，受击闪与冲刺。",
+    "url": "https://vibeforge.itch.io/sidescroller-hero-set",
+    "imageUrl": "/covers/itch-vibeforge-sidescroller-hero-set.jpg",
+    "source": "itch",
+    "sourceId": "itch-vibeforge-sidescroller-hero-set",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelsonultra-code-red-fire-station-tileset",
+    "type": "inspiration",
+    "title": "火警站瓦",
+    "summary": "五风格消防车，三一动画件。",
+    "url": "https://pixelsonultra.itch.io/code-red-fire-station-tileset",
+    "imageUrl": "/covers/itch-pixelsonultra-code-red-fire-station-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-code-red-fire-station-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelsonultra-code-blue-hospital-tileset",
+    "type": "inspiration",
+    "title": "急救院瓦",
+    "summary": "五风格病房，三二动画件。",
+    "url": "https://pixelsonultra.itch.io/code-blue-hospital-tileset",
+    "imageUrl": "/covers/itch-pixelsonultra-code-blue-hospital-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-code-blue-hospital-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maidolee-wood-and-interior-pixel-tileset-pack-32x32",
+    "type": "inspiration",
+    "title": "木构内装",
+    "summary": "三二木块家具，桦橡云杉齐。",
+    "url": "https://maidolee.itch.io/wood-and-interior-pixel-tileset-pack-32x32",
+    "imageUrl": "/covers/itch-maidolee-wood-and-interior-pixel-tileset-pack-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-maidolee-wood-and-interior-pixel-tileset-pack-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-frodigefrodo-tavern-interior-pixel-art-asset-pack-with-animations",
+    "type": "inspiration",
+    "title": "酒馆内景",
+    "summary": "百六七酒馆件，十九动画齐。",
+    "url": "https://frodigefrodo.itch.io/tavern-interior-pixel-art-asset-pack-with-animations",
+    "imageUrl": "/covers/itch-frodigefrodo-tavern-interior-pixel-art-asset-pack-with-animations.jpg",
+    "source": "itch",
+    "sourceId": "itch-frodigefrodo-tavern-interior-pixel-art-asset-pack-with-animations",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelsonultra-insert-coin-arcade-tileset",
+    "type": "inspiration",
+    "title": "投币街机",
+    "summary": "五风格机厅，三七动画柜。",
+    "url": "https://pixelsonultra.itch.io/insert-coin-arcade-tileset",
+    "imageUrl": "/covers/itch-pixelsonultra-insert-coin-arcade-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelsonultra-insert-coin-arcade-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cozyric-pixel-iso-rooms-32x32-isometric-interiors-340-pixel-art-assets",
+    "type": "inspiration",
+    "title": "等距内室",
+    "summary": "三百四十内景，十八主题房。",
+    "url": "https://cozyric.itch.io/pixel-iso-rooms-32x32-isometric-interiors-340-pixel-art-assets",
+    "imageUrl": "/covers/itch-cozyric-pixel-iso-rooms-32x32-isometric-interiors-340-pixel-art-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozyric-pixel-iso-rooms-32x32-isometric-interiors-340-pixel-art-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ridgeworksstudio-stonehold-cathedrals",
+    "type": "inspiration",
+    "title": "石堡大教堂",
+    "summary": "双教堂修道院，僧侣朝圣齐。",
+    "url": "https://ridgeworksstudio.itch.io/stonehold-cathedrals",
+    "imageUrl": "/covers/itch-ridgeworksstudio-stonehold-cathedrals.jpg",
+    "source": "itch",
+    "sourceId": "itch-ridgeworksstudio-stonehold-cathedrals",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-kyndrael-dark-fantasy-isometric-castle-free-sampler",
+    "type": "inspiration",
+    "title": "暗幻堡样包",
+    "summary": "十三灰石堡件，墙塔殿厅齐。",
+    "url": "https://kyndrael.itch.io/dark-fantasy-isometric-castle-free-sampler",
+    "imageUrl": "/covers/itch-kyndrael-dark-fantasy-isometric-castle-free-sampler.jpg",
+    "source": "itch",
+    "sourceId": "itch-kyndrael-dark-fantasy-isometric-castle-free-sampler",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-41a1JY",
+    "type": "inspiration",
+    "title": "罗森便利店",
+    "summary": "等距便利店外立，停车桩齐。",
+    "url": "https://www.artstation.com/artwork/41a1JY",
+    "imageUrl": "/covers/artstation-41a1JY.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-41a1JY",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-G1k15z",
+    "type": "inspiration",
+    "title": "金锁蛋糕店",
+    "summary": "等距菲律宾蛋糕店，黄顶招牌。",
+    "url": "https://www.artstation.com/artwork/G1k15z",
+    "imageUrl": "/covers/artstation-G1k15z.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-G1k15z",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ponysaysmeow-midnight-interface-retro-horror-ui-kit",
+    "type": "inspiration",
+    "title": "午夜恐怖 UI",
+    "summary": "八十五暗色界面，生存恐怖套。",
+    "url": "https://ponysaysmeow.itch.io/midnight-interface-retro-horror-ui-kit",
+    "imageUrl": "/covers/itch-ponysaysmeow-midnight-interface-retro-horror-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-ponysaysmeow-midnight-interface-retro-horror-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mogameassets-farm-and-shop-ui-kit",
+    "type": "inspiration",
+    "title": "农庄商店 UI",
+    "summary": "三七界面六布局，六十四图标。",
+    "url": "https://mogameassets.itch.io/farm-and-shop-ui-kit",
+    "imageUrl": "/covers/itch-mogameassets-farm-and-shop-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-mogameassets-farm-and-shop-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maltyy-hollow-creek-ui-kit",
+    "type": "inspiration",
+    "title": "空溪 HUD",
+    "summary": "血条钮面板，准星键位免费。",
+    "url": "https://maltyy.itch.io/hollow-creek-ui-kit",
+    "imageUrl": "/covers/itch-maltyy-hollow-creek-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-maltyy-hollow-creek-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-velorasociety-sunlit-homestead-cozy-farming-ui",
+    "type": "inspiration",
+    "title": "日照家园 UI",
+    "summary": "四季九切片，百二十农庄图标。",
+    "url": "https://velorasociety.itch.io/sunlit-homestead-cozy-farming-ui",
+    "imageUrl": "/covers/itch-velorasociety-sunlit-homestead-cozy-farming-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-velorasociety-sunlit-homestead-cozy-farming-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-siriusforge-prism-delve-crystal-mining-colony-ui",
+    "type": "inspiration",
+    "title": "棱晶矿城 UI",
+    "summary": "晶矿切面卡片，殖民读数齐。",
+    "url": "https://siriusforge.itch.io/prism-delve-crystal-mining-colony-ui",
+    "imageUrl": "/covers/itch-siriusforge-prism-delve-crystal-mining-colony-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-siriusforge-prism-delve-crystal-mining-colony-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-siriusforge-epicycle-works-clockpunk-observatory-ui",
+    "type": "inspiration",
+    "title": "本轮星仪 UI",
+    "summary": "钟表轨道刻度，星象谜题界面。",
+    "url": "https://siriusforge.itch.io/epicycle-works-clockpunk-observatory-ui",
+    "imageUrl": "/covers/itch-siriusforge-epicycle-works-clockpunk-observatory-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-siriusforge-epicycle-works-clockpunk-observatory-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gimblesgames-dark-fantasy-ui-kit",
+    "type": "inspiration",
+    "title": "暗幻面板 UI",
+    "summary": "可拉面板钮条，库存光标齐。",
+    "url": "https://gimblesgames.itch.io/dark-fantasy-ui-kit",
+    "imageUrl": "/covers/itch-gimblesgames-dark-fantasy-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-gimblesgames-dark-fantasy-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-grizm-kettle-icons-rpg-item-icons",
+    "type": "inspiration",
+    "title": "壶标五百五",
+    "summary": "十六道具五百五九，八材质阶。",
+    "url": "https://grizm.itch.io/kettle-icons-rpg-item-icons",
+    "imageUrl": "/covers/itch-grizm-kettle-icons-rpg-item-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-grizm-kettle-icons-rpg-item-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cozyric-pixel-dialogue-boxes-speech-bubbles-1396-sprites",
+    "type": "inspiration",
+    "title": "对话泡千三",
+    "summary": "千三百九六气泡，多主题框。",
+    "url": "https://cozyric.itch.io/pixel-dialogue-boxes-speech-bubbles-1396-sprites",
+    "imageUrl": "/covers/itch-cozyric-pixel-dialogue-boxes-speech-bubbles-1396-sprites.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozyric-pixel-dialogue-boxes-speech-bubbles-1396-sprites",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-luminary-labs-official-cozy-herbalist-sprite-ui-pack",
+    "type": "inspiration",
+    "title": "草药铺 UI",
+    "summary": "二百四十精灵，双主题库存。",
+    "url": "https://luminary-labs-official.itch.io/cozy-herbalist-sprite-ui-pack",
+    "imageUrl": "/covers/itch-luminary-labs-official-cozy-herbalist-sprite-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-luminary-labs-official-cozy-herbalist-sprite-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-09",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2119364769077461308",
     "type": "game",
     "title": "Green Hat Kid 原生 PC",
