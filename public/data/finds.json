@@ -1,5 +1,1372 @@
 [
   {
+    "id": "x-2121286709706956912",
+    "type": "game",
+    "title": "Wildward 雪地驾驶",
+    "summary": "Wildward 的雪地驾驶演示：车辙在不同深度的积雪里压出痕迹，每次开车地形手感都不一样，动态雪地很有技术美术味道。",
+    "url": "https://x.com/PlayWildward/status/2121286709706956912",
+    "imageUrl": "/covers/x-2121286709706956912.jpg",
+    "source": "x",
+    "sourceId": "2121286709706956912",
+    "tags": [
+      "x-bookmark",
+      "snow",
+      "vehicle"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2121559743458431092",
+    "type": "game",
+    "title": "MrMajorSol 城建今日上线",
+    "summary": "一款等距方块风城市建造游戏今天发布：从街区、道路到公园一块块拼出你的未来城市。",
+    "url": "https://x.com/MrMajorSol/status/2121559743458431092",
+    "imageUrl": "/covers/x-2121559743458431092.jpg",
+    "source": "x",
+    "sourceId": "2121559743458431092",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "isometric"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121230865032499616",
+    "type": "game",
+    "title": "Project Arcadia 领地策略",
+    "summary": "NoraEngine 的领地策略游戏：方块地形生成和地图探索已跑通，下一步在平原和山地上放置各派据点。",
+    "url": "https://x.com/NoraEngine/status/2121230865032499616",
+    "imageUrl": "/covers/x-2121230865032499616.jpg",
+    "source": "x",
+    "sourceId": "2121230865032499616",
+    "tags": [
+      "x-search",
+      "strategy",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121604066891780166",
+    "type": "game",
+    "title": "Pastel Squad 可暂停小队战术",
+    "summary": "实时小队战术、随时可暂停：部署队员、瞄准技能，顶住一波波失控机器的进攻，Steam 可愿望单。",
+    "url": "https://x.com/SketchAmpGames/status/2121604066891780166",
+    "imageUrl": "/covers/x-2121604066891780166.jpg",
+    "source": "x",
+    "sourceId": "2121604066891780166",
+    "tags": [
+      "x-search",
+      "tactics",
+      "rtwp"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121667752473534922",
+    "type": "game",
+    "title": "Fernweh 露营地一年",
+    "summary": "露营地大亨《Fernweh》：15 秒看完 Woltzdal 营地的一年，你最早建的那个角落只占整片营地一小块。",
+    "url": "https://x.com/SparkOfChaoses/status/2121667752473534922",
+    "imageUrl": "/covers/x-2121667752473534922.jpg",
+    "source": "x",
+    "sourceId": "2121667752473534922",
+    "tags": [
+      "x-search",
+      "tycoon",
+      "cozy"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121594265474322757",
+    "type": "game",
+    "title": "Convoy Inc 手绘世界物流",
+    "summary": "物流大亨《Convoy Inc.》：在手绘的真实世界地图上跑德里到科伦坡的季风货运线，Steam 免费测试进行中。",
+    "url": "https://x.com/pixcodream/status/2121594265474322757",
+    "imageUrl": "/covers/x-2121594265474322757.jpg",
+    "source": "x",
+    "sourceId": "2121594265474322757",
+    "tags": [
+      "x-search",
+      "tycoon",
+      "logistics"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121619163500216545",
+    "type": "game",
+    "title": "Earth Optional 空间站经营",
+    "summary": "UE 空间站经营模拟：你只拥有 400 公里高空的一个舱段，每个零件、每顿饭、每升水都得靠火箭运上来，昼夜对比很美。",
+    "url": "https://x.com/ozanatmar/status/2121619163500216545",
+    "imageUrl": "/covers/x-2121619163500216545.jpg",
+    "source": "x",
+    "sourceId": "2121619163500216545",
+    "tags": [
+      "x-search",
+      "management",
+      "unreal"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121565925988057152",
+    "type": "game",
+    "title": "G.O.B.L.I.N 攻城破坏者",
+    "summary": "六角格战场上的哥布林攻城破坏者：主炮、副炮、导弹齐备，几乎打不坏的战场之王，v0.1.30。",
+    "url": "https://x.com/GrejSzabo/status/2121565925988057152",
+    "imageUrl": "/covers/x-2121565925988057152.jpg",
+    "source": "x",
+    "sourceId": "2121565925988057152",
+    "tags": [
+      "x-search",
+      "hex",
+      "tactics"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2121612461023400253",
+    "type": "game",
+    "title": "Cozy Critter Empire 星落环礁",
+    "summary": "温馨殖民经营《Cozy Critter Empire》的最后一座岛：星落环礁的修复规模最大，一个长期殖民地在这里成形。",
+    "url": "https://x.com/fennrivostudios/status/2121612461023400253",
+    "imageUrl": "/covers/x-2121612461023400253.jpg",
+    "source": "x",
+    "sourceId": "2121612461023400253",
+    "tags": [
+      "x-search",
+      "colony",
+      "cozy"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121650516136460626",
+    "type": "game",
+    "title": "Rally Point 前后对比",
+    "summary": "RTS《Rally Point》新旧画面对比：同一款游戏，上半是以前，下半是现在，11 月 24 日抢先体验。",
+    "url": "https://x.com/AnotherBuild_G/status/2121650516136460626",
+    "imageUrl": "/covers/x-2121650516136460626.jpg",
+    "source": "x",
+    "sourceId": "2121650516136460626",
+    "tags": [
+      "x-search",
+      "rts",
+      "before-after"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2121747770377703725",
+    "type": "game",
+    "title": "They Came for Earth 火箭齐射",
+    "summary": "外星虫潮 RTS：第一轮火箭齐射命中，虫群还在涌来，炮艇再次开火。",
+    "url": "https://x.com/ChuteApps/status/2121747770377703725",
+    "imageUrl": "/covers/x-2121747770377703725.jpg",
+    "source": "x",
+    "sourceId": "2121747770377703725",
+    "tags": [
+      "x-search",
+      "rts",
+      "sci-fi"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121621219485295076",
+    "type": "game",
+    "title": "Longdusk 黑夜就是敌人",
+    "summary": "没有敌人的休闲工厂游戏《Longdusk》：真正的威胁是黑夜，日落后电力和氧气必须撑到天亮，iPad 可玩。",
+    "url": "https://x.com/hermanlintvelt/status/2121621219485295076",
+    "imageUrl": "/covers/x-2121621219485295076.jpg",
+    "source": "x",
+    "sourceId": "2121621219485295076",
+    "tags": [
+      "x-search",
+      "factory",
+      "colony"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121636876914245713",
+    "type": "game",
+    "title": "战场会记住一切",
+    "summary": "受《英雄连》启发的独立 RTS：泥地、车辙、伤员和阵亡者在战斗后都留在战场上。",
+    "url": "https://x.com/Claws_and_Iron/status/2121636876914245713",
+    "imageUrl": "/covers/x-2121636876914245713.jpg",
+    "source": "x",
+    "sourceId": "2121636876914245713",
+    "tags": [
+      "x-search",
+      "rts",
+      "ww2"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121697426767561042",
+    "type": "game",
+    "title": "海岛城建低多边形风",
+    "summary": "Unity 海岛城建：喷气机起飞、吊车把潜艇放进海里，一切都是圆滚滚的低多边形积木，玩具感很强。",
+    "url": "https://x.com/Tsartsaris/status/2121697426767561042",
+    "imageUrl": "/covers/x-2121697426767561042.jpg",
+    "source": "x",
+    "sourceId": "2121697426767561042",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "lowpoly"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121603283886481669",
+    "type": "game",
+    "title": "Angul Kingdoms 中世纪村庄",
+    "summary": "中世纪村庄经营策略《Angul Kingdoms》：你能在中世纪管好一座村子吗？Steam 可愿望单。",
+    "url": "https://x.com/siegerats/status/2121603283886481669",
+    "imageUrl": "/covers/x-2121603283886481669.jpg",
+    "source": "x",
+    "sourceId": "2121603283886481669",
+    "tags": [
+      "x-search",
+      "medieval",
+      "village"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2121533256395022469",
+    "type": "game",
+    "title": "高地视野回合战术",
+    "summary": "回合制战术：坦克上不了山，步兵可以，站在山顶能多看两格迷雾，发现隐藏坦克后炮兵当回合就打掉。",
+    "url": "https://x.com/RuneVigilGames/status/2121533256395022469",
+    "imageUrl": "/covers/x-2121533256395022469.jpg",
+    "source": "x",
+    "sourceId": "2121533256395022469",
+    "tags": [
+      "x-search",
+      "tactics",
+      "turn-based"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2121552797154050402",
+    "type": "game",
+    "title": "Crown & Hex 九王冠",
+    "summary": "六角地图王国策略：九位统治者争一顶王冠，建国、招兵、谈判、行军，浏览器免费玩。",
+    "url": "https://x.com/Health1W/status/2121552797154050402",
+    "imageUrl": "/covers/x-2121552797154050402.jpg",
+    "source": "x",
+    "sourceId": "2121552797154050402",
+    "tags": [
+      "x-search",
+      "hex",
+      "kingdom"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2121645865366606234",
+    "type": "game",
+    "title": "INaNE 太空与行星 4X",
+    "summary": "Godot 4X 项目《INaNE》：太空和行星地表两层战斗。",
+    "url": "https://x.com/INaNE_SpaceGame/status/2121645865366606234",
+    "imageUrl": "/covers/x-2121645865366606234.jpg",
+    "source": "x",
+    "sourceId": "2121645865366606234",
+    "tags": [
+      "x-search",
+      "4x",
+      "godot"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121367257540673643",
+    "type": "game",
+    "title": "体素程序化城市",
+    "summary": "全部程序化生成的体素城市：夜里灯火亮起，城市开始有生活感，作者的电脑连独显都没有。",
+    "url": "https://x.com/friendbuddy123/status/2121367257540673643",
+    "imageUrl": "/covers/x-2121367257540673643.jpg",
+    "source": "x",
+    "sourceId": "2121367257540673643",
+    "tags": [
+      "x-search",
+      "voxel",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121666024952967191",
+    "type": "game",
+    "title": "Dawn Of The Realm 王国黎明",
+    "summary": "开发两年多的中世纪 RTS《Dawn Of The Realm》：夜色中的木屋村落与火光。",
+    "url": "https://x.com/Birdsong_Games/status/2121666024952967191",
+    "imageUrl": "/covers/x-2121666024952967191.jpg",
+    "source": "x",
+    "sourceId": "2121666024952967191",
+    "tags": [
+      "x-search",
+      "rts",
+      "medieval"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121747620917866767",
+    "type": "game",
+    "title": "Trafficity 11/16 上 Steam",
+    "summary": "专注交通的城建《Trafficity》周一（11/16）上 Steam：无网格道路、环岛、可自定义红绿灯和大型立交。",
+    "url": "https://x.com/SuperStrangeX/status/2121747620917866767",
+    "imageUrl": "/covers/x-2121747620917866767.jpg",
+    "source": "x",
+    "sourceId": "2121747620917866767",
+    "tags": [
+      "x-search",
+      "city-builder",
+      "traffic"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121586237551386690",
+    "type": "game",
+    "title": "中世纪沙盒世界地图演进",
+    "summary": "像素中世纪沙盒的世界地图：初版和现在对比，262 次修复后六角地图长成了有城镇和地形的大陆。",
+    "url": "https://x.com/pengchi87/status/2121586237551386690",
+    "imageUrl": "/covers/x-2121586237551386690.jpg",
+    "source": "x",
+    "sourceId": "2121586237551386690",
+    "tags": [
+      "x-search",
+      "medieval",
+      "sandbox"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121649362887647525",
+    "type": "game",
+    "title": "Exterminalo 清剿异形巢穴",
+    "summary": "俯视 RTS《Exterminalo》：枪械、炮塔和炸弹清理外星巢穴，测试招募中。",
+    "url": "https://x.com/growlabgames/status/2121649362887647525",
+    "imageUrl": "/covers/x-2121649362887647525.jpg",
+    "source": "x",
+    "sourceId": "2121649362887647525",
+    "tags": [
+      "x-search",
+      "rts",
+      "sci-fi"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121573877512012277",
+    "type": "game",
+    "title": "Medieval Peasant Simulator",
+    "summary": "一个农夫一把斧：砍树挖金、雇工人、守住掠夺者，再拉起军队攻城夺堡，Steam 可愿望单。",
+    "url": "https://x.com/DraevenGames/status/2121573877512012277",
+    "imageUrl": "/covers/x-2121573877512012277.jpg",
+    "source": "x",
+    "sourceId": "2121573877512012277",
+    "tags": [
+      "x-search",
+      "medieval",
+      "army"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2121588966118076712",
+    "type": "game",
+    "title": "Firebrand 工业 RTS",
+    "summary": "独立 RTS《Firebrand》：夜色里的工厂与火光，俯视即时战略。",
+    "url": "https://x.com/firebrand_rts/status/2121588966118076712",
+    "imageUrl": "/covers/x-2121588966118076712.jpg",
+    "source": "x",
+    "sourceId": "2121588966118076712",
+    "tags": [
+      "x-search",
+      "rts",
+      "industrial"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2121747473949708793",
+    "type": "shader",
+    "title": "VRChat 拖影与残影系统",
+    "summary": "Monado_Art 的 Smears 系统：连续拖影加残影，动作越快拖尾越夸张，彩虹残影很有动画感。",
+    "url": "https://x.com/Monado_Art/status/2121747473949708793",
+    "imageUrl": "/covers/x-2121747473949708793.jpg",
+    "source": "x",
+    "sourceId": "2121747473949708793",
+    "tags": [
+      "x-search",
+      "smear",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121655458914312436",
+    "type": "shader",
+    "title": "Codevember「张力」蜘蛛网",
+    "summary": "真实蛛网物理：点一下网，蜘蛛以为是晚饭；拉太狠网会断，three.js 开源可玩。",
+    "url": "https://x.com/ajc_builds/status/2121655458914312436",
+    "imageUrl": "/covers/x-2121655458914312436.jpg",
+    "source": "x",
+    "sourceId": "2121655458914312436",
+    "tags": [
+      "x-search",
+      "threejs",
+      "physics"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121543937001160995",
+    "type": "shader",
+    "title": "随灯光变化的烟雾贴片",
+    "summary": "vidar 复刻 Thomas Iché 的 URP 烟雾光照：每团烟带六张烘焙光照图，按灯的方向混合，灯绕着烟柱转。",
+    "url": "https://x.com/vidar_0208/status/2121543937001160995",
+    "imageUrl": "/covers/x-2121543937001160995.jpg",
+    "source": "x",
+    "sourceId": "2121543937001160995",
+    "tags": [
+      "x-search",
+      "smoke",
+      "unity"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121256787743506931",
+    "type": "shader",
+    "title": "Godot 风中翻滚的落叶",
+    "summary": "Nolkaloid 在 Godot 里用粒子拖尾做阵风，自定义着色器让叶子翻滚，金色午后很有氛围。",
+    "url": "https://x.com/jettelly/status/2121256787743506931",
+    "imageUrl": "/covers/x-2121256787743506931.jpg",
+    "source": "x",
+    "sourceId": "2121256787743506931",
+    "tags": [
+      "x-search",
+      "godot",
+      "wind"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121602351434015044",
+    "type": "shader",
+    "title": "Codevember「Tension」",
+    "summary": "_pwd_ 的 Codevember 第 14 天：TSL/WebGPU 做的张力主题互动作品，开声音看。",
+    "url": "https://x.com/_pwd_/status/2121602351434015044",
+    "imageUrl": "/covers/x-2121602351434015044.jpg",
+    "source": "x",
+    "sourceId": "2121602351434015044",
+    "tags": [
+      "x-search",
+      "threejs",
+      "tsl"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121607230210334836",
+    "type": "shader",
+    "title": "几何节点程序化树",
+    "summary": "Blender 几何节点做的可定制程序化树：低面数主干加片状枝叶，游戏可用。",
+    "url": "https://x.com/NiloBravo3D/status/2121607230210334836",
+    "imageUrl": "/covers/x-2121607230210334836.jpg",
+    "source": "x",
+    "sourceId": "2121607230210334836",
+    "tags": [
+      "x-search",
+      "blender",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121325057016221964",
+    "type": "shader",
+    "title": "Here Comes The Swarm 水面",
+    "summary": "RTS《Here Comes The Swarm》的新水面着色器：更真实的风浪和岸边涟漪。",
+    "url": "https://x.com/HereComesSwarm/status/2121325057016221964",
+    "imageUrl": "/covers/x-2121325057016221964.jpg",
+    "source": "x",
+    "sourceId": "2121325057016221964",
+    "tags": [
+      "x-search",
+      "water",
+      "rts"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121503382536114177",
+    "type": "shader",
+    "title": "UE 海洋与体积云",
+    "summary": "Epic MegaJam 作品：喷气机掠过海面，海洋和体积云着色器由 AI 生成，作者稍后放出拆解。",
+    "url": "https://x.com/OddberryStudio/status/2121503382536114177",
+    "imageUrl": "/covers/x-2121503382536114177.jpg",
+    "source": "x",
+    "sourceId": "2121503382536114177",
+    "tags": [
+      "x-search",
+      "ocean",
+      "clouds"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121483274404913452",
+    "type": "shader",
+    "title": "火星 HiRISE 地形瓦片",
+    "summary": "把 NASA HiRISE 1 米精度的火星地形切成 320 块可直接用于 three.js/WebGPU/Godot/Blender 的瓦片，Hugging Face 免费。",
+    "url": "https://x.com/anxuanng/status/2121483274404913452",
+    "imageUrl": "/covers/x-2121483274404913452.jpg",
+    "source": "x",
+    "sourceId": "2121483274404913452",
+    "tags": [
+      "x-search",
+      "terrain",
+      "mars"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121738791803400332",
+    "type": "shader",
+    "title": "光线步进与流体的酷 Bug",
+    "summary": "raymarcher 和流体模拟里各有一个 bug，作者决定不修，因为太好看了。",
+    "url": "https://x.com/me_irl/status/2121738791803400332",
+    "imageUrl": "/covers/x-2121738791803400332.jpg",
+    "source": "x",
+    "sourceId": "2121738791803400332",
+    "tags": [
+      "x-search",
+      "raymarching",
+      "fluid"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121481445902278930",
+    "type": "shader",
+    "title": "Burner 浏览器实时火焰",
+    "summary": "铜链吊着一枚玻璃 U 盘燃着绿火，滚动时零件散开；没有视频没有贴图，火焰每帧在浏览器实时绘制。",
+    "url": "https://x.com/0xNextia/status/2121481445902278930",
+    "imageUrl": "/covers/x-2121481445902278930.jpg",
+    "source": "x",
+    "sourceId": "2121481445902278930",
+    "tags": [
+      "x-search",
+      "threejs",
+      "webgpu"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121473836453617784",
+    "type": "shader",
+    "title": "UE 程序化植物生长",
+    "summary": "Unreal 程序化植物生成器的生长回放：根系蔓延、主干升起、枝条抽出、叶子逐个张开，最后结果。",
+    "url": "https://x.com/Sameek_Kundu/status/2121473836453617784",
+    "imageUrl": "/covers/x-2121473836453617784.jpg",
+    "source": "x",
+    "sourceId": "2121473836453617784",
+    "tags": [
+      "x-search",
+      "unreal",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121415072845386104",
+    "type": "shader",
+    "title": "沼泽第四天：风",
+    "summary": "MabraX 的 three.js 沼泽：阵风吹过，芦苇倒伏又弹起，苔藓飘动，水面被风吹皱，雾光很美。",
+    "url": "https://x.com/MabraX/status/2121415072845386104",
+    "imageUrl": "/covers/x-2121415072845386104.jpg",
+    "source": "x",
+    "sourceId": "2121415072845386104",
+    "tags": [
+      "x-search",
+      "threejs",
+      "foliage"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121468312508944667",
+    "type": "shader",
+    "title": "包裹 3D 场景的数字雨",
+    "summary": "vidar 复刻 MatrixVFX：三向世界空间投影把下落字符铺满每个表面，然后表面剥落，房间变成代码。",
+    "url": "https://x.com/vidar_0208/status/2121468312508944667",
+    "imageUrl": "/covers/x-2121468312508944667.jpg",
+    "source": "x",
+    "sourceId": "2121468312508944667",
+    "tags": [
+      "x-search",
+      "matrix",
+      "unity"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121282298184118554",
+    "type": "shader",
+    "title": "SILICON DREAMS 零贴图",
+    "summary": "60 万面、全程序化着色器、0 字节贴图的梦核房间，2.6 万个实例节点压到 144 个，下一步在浏览器实时跑。",
+    "url": "https://x.com/nxtheartbeat/status/2121282298184118554",
+    "imageUrl": "/covers/x-2121282298184118554.jpg",
+    "source": "x",
+    "sourceId": "2121282298184118554",
+    "tags": [
+      "x-search",
+      "threejs",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121755412408021138",
+    "type": "shader",
+    "title": "视差遮蔽：一张面片的深度",
+    "summary": "砖墙、地洞和窗外山谷都只是一张平面，深度来自像素着色器里沿高度图步进的光线。",
+    "url": "https://x.com/vidar_0208/status/2121755412408021138",
+    "imageUrl": "/covers/x-2121755412408021138.jpg",
+    "source": "x",
+    "sourceId": "2121755412408021138",
+    "tags": [
+      "x-search",
+      "parallax",
+      "shader"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121632050251743336",
+    "type": "shader",
+    "title": "TSL 光线步进棉花糖",
+    "summary": "Nodevember 第 7 天：糖丝缠绕成球、烘进 3D 纹理，折痕处透出深覆盆子色光。",
+    "url": "https://x.com/NeeLandro/status/2121632050251743336",
+    "imageUrl": "/covers/x-2121632050251743336.jpg",
+    "source": "x",
+    "sourceId": "2121632050251743336",
+    "tags": [
+      "x-search",
+      "tsl",
+      "raymarching"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121765277172142452",
+    "type": "shader",
+    "title": "高斯泼溅熔岩灯",
+    "summary": "用高斯泼溅做的熔岩灯，橙红色的蜡团在玻璃里浮动。",
+    "url": "https://x.com/graphtraversal/status/2121765277172142452",
+    "imageUrl": "/covers/x-2121765277172142452.jpg",
+    "source": "x",
+    "sourceId": "2121765277172142452",
+    "tags": [
+      "x-search",
+      "gaussian-splat",
+      "fun"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "x-2121676498109431999",
+    "type": "shader",
+    "title": "Truco Godot 集显开发日志",
+    "summary": "Godot 4 在集显上跑：IK 驱动的走路和狗尾巴、深度加天空反射的水面着色器、520 棵公告板树。",
+    "url": "https://x.com/JoaoVGuedess/status/2121676498109431999",
+    "imageUrl": "/covers/x-2121676498109431999.jpg",
+    "source": "x",
+    "sourceId": "2121676498109431999",
+    "tags": [
+      "x-search",
+      "godot",
+      "water"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "steam-5274500",
+    "type": "game",
+    "title": "Eiroku 永禄：浪人之路",
+    "summary": "战国版骑砍：在日本地图上游历、拉起一支武士团、结交大名，在 3D 战场上击败诸侯氏族。$12.74。",
+    "url": "https://store.steampowered.com/app/5274500/",
+    "imageUrl": "/covers/steam-5274500.jpg",
+    "source": "steam",
+    "sourceId": "5274500",
+    "tags": [
+      "steam",
+      "sengoku",
+      "warband"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4836960",
+    "type": "game",
+    "title": "Cozy Burg 舒适小镇",
+    "summary": "温馨六角格城建：每个居民都有真实的工作和需求，要靠自然、通勤和服务把他们吸引来，抢先体验。$5.99。",
+    "url": "https://store.steampowered.com/app/4836960/",
+    "imageUrl": "/covers/steam-4836960.jpg",
+    "source": "steam",
+    "sourceId": "4836960",
+    "tags": [
+      "steam",
+      "hex",
+      "city-builder"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-1498330",
+    "type": "game",
+    "title": "Little Lands 小小大地",
+    "summary": "一次放一块六角格、慢慢拼出世界的低压力世界建造游戏，紫花森林与河流，玩具感很强。$4.24。",
+    "url": "https://store.steampowered.com/app/1498330/",
+    "imageUrl": "/covers/steam-1498330.jpg",
+    "source": "steam",
+    "sourceId": "1498330",
+    "tags": [
+      "steam",
+      "hex",
+      "world-builder"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5211290",
+    "type": "game",
+    "title": "GroundInFlames 燃烧之地",
+    "summary": "现代合成兵种即时战术：战壕、压制和小队士气，城镇在炮火中燃烧。$10.79。",
+    "url": "https://store.steampowered.com/app/5211290/",
+    "imageUrl": "/covers/steam-5211290.jpg",
+    "source": "steam",
+    "sourceId": "5211290",
+    "tags": [
+      "steam",
+      "rtt",
+      "modern-war"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-5295330",
+    "type": "game",
+    "title": "Water TD 洪水塔防",
+    "summary": "敌人是真正的洪水：几十万水滴从六角地形上倾泻而下，用地形和建筑引流，流体模拟做的塔防。$8.49。",
+    "url": "https://store.steampowered.com/app/5295330/",
+    "imageUrl": "/covers/steam-5295330.jpg",
+    "source": "steam",
+    "sourceId": "5295330",
+    "tags": [
+      "steam",
+      "fluid-sim",
+      "tower-defense"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-5490450",
+    "type": "game",
+    "title": "NeoTanker 新坦克兵",
+    "summary": "小坦克大决策：每块格子都影响胜负的回合制战术，占城、造兵，玩具积木风城镇。免费。",
+    "url": "https://store.steampowered.com/app/5490450/",
+    "imageUrl": "/covers/steam-5490450.jpg",
+    "source": "steam",
+    "sourceId": "5490450",
+    "tags": [
+      "steam",
+      "tactics",
+      "toy"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "steam-5013740",
+    "type": "game",
+    "title": "Aviator 航空帝国",
+    "summary": "从喷气时代开始经营全球航空公司：在手绘世界地图上连接 120+ 城市，抢先体验 $11.68。",
+    "url": "https://store.steampowered.com/app/5013740/",
+    "imageUrl": "/covers/steam-5013740.jpg",
+    "source": "steam",
+    "sourceId": "5013740",
+    "tags": [
+      "steam",
+      "tycoon",
+      "airline"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5189780",
+    "type": "game",
+    "title": "Aspect Arena 攻城自走棋",
+    "summary": "攻城自走棋：招募战士、配装、排阵，然后看 60 秒决定胜负，15 胜通关一场战役。$3.50。",
+    "url": "https://store.steampowered.com/app/5189780/",
+    "imageUrl": "/covers/steam-5189780.jpg",
+    "source": "steam",
+    "sourceId": "5189780",
+    "tags": [
+      "steam",
+      "siege",
+      "auto-battler"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-eclyptox-aphel",
+    "type": "game",
+    "title": "APHEL 最后的殖民地",
+    "summary": "快节奏科幻 RTS：遭遇战、肉鸽远征模式和 1v1 联机，浏览器免费玩。",
+    "url": "https://eclyptox.itch.io/aphel",
+    "imageUrl": "/covers/itch-eclyptox-aphel.jpg",
+    "source": "itch",
+    "sourceId": "eclyptox-aphel",
+    "tags": [
+      "rts",
+      "sci-fi",
+      "browser",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-angel-devv-burgo",
+    "type": "game",
+    "title": "Burgo 小镇",
+    "summary": "发展村庄、训练军队、征服对面的敌对城镇，经典的村落 + 战争循环。免费。",
+    "url": "https://angel-devv.itch.io/burgo",
+    "imageUrl": "/covers/itch-angel-devv-burgo.jpg",
+    "source": "itch",
+    "sourceId": "angel-devv-burgo",
+    "tags": [
+      "village",
+      "army",
+      "rts",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-khaji-skirmisle",
+    "type": "game",
+    "title": "Skirmisle 群岛小冲突",
+    "summary": "Godot 回合制策略：在 Nebulian 群岛的六角小岛上排兵布阵。$2.99。",
+    "url": "https://khaji.itch.io/skirmisle",
+    "imageUrl": "/covers/itch-khaji-skirmisle.jpg",
+    "source": "itch",
+    "sourceId": "khaji-skirmisle",
+    "tags": [
+      "turn-based",
+      "godot",
+      "islands",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-onorstudio-the-last-fortress",
+    "type": "game",
+    "title": "The Last Fortress 最后堡垒",
+    "summary": "进攻或守卫一座中世纪要塞的回合制战术策略，配合卡牌技能，浏览器免费。",
+    "url": "https://onorstudio.itch.io/the-last-fortress",
+    "imageUrl": "/covers/itch-onorstudio-the-last-fortress.jpg",
+    "source": "itch",
+    "sourceId": "onorstudio-the-last-fortress",
+    "tags": [
+      "medieval",
+      "siege",
+      "turn-based",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-retromania-games-hearthland",
+    "type": "game",
+    "title": "Hearthland 炉边之地",
+    "summary": "「修路 + 搬运工」经典村庄建造的新演绎，像《工人物语》的物流城建，浏览器免费。",
+    "url": "https://retromania-games.itch.io/hearthland",
+    "imageUrl": "/covers/itch-retromania-games-hearthland.jpg",
+    "source": "itch",
+    "sourceId": "retromania-games-hearthland",
+    "tags": [
+      "village-builder",
+      "logistics",
+      "settlers-like",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-zachstera3-iron-reach-sector-front",
+    "type": "game",
+    "title": "Iron Reach 前线坦克",
+    "summary": "3D 快节奏策略战：亲自开坦克、占补给站、炮轰敌方基地。免费，多平台。",
+    "url": "https://zachstera3.itch.io/iron-reach-sector-front",
+    "imageUrl": "/covers/itch-zachstera3-iron-reach-sector-front.jpg",
+    "source": "itch",
+    "sourceId": "zachstera3-iron-reach-sector-front",
+    "tags": [
+      "rts",
+      "tank",
+      "3d",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-timulf-pohjola",
+    "type": "game",
+    "title": "Pohjola 北方之思",
+    "summary": "从海岸到海岸慢慢扩张的宁静聚落建造，北欧风低多边形。免费。",
+    "url": "https://timulf.itch.io/pohjola",
+    "imageUrl": "/covers/itch-timulf-pohjola.jpg",
+    "source": "itch",
+    "sourceId": "timulf-pohjola",
+    "tags": [
+      "settlement",
+      "cozy",
+      "nordic",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-xanomusik-trench-war",
+    "type": "game",
+    "title": "Trench War 堑壕战",
+    "summary": "Unity 体素 RTS：在可破坏战场上指挥小队，从 1940 年战壕打到 1965 年丛林。免费。",
+    "url": "https://xanomusik.itch.io/trench-war",
+    "imageUrl": "/covers/itch-xanomusik-trench-war.jpg",
+    "source": "itch",
+    "sourceId": "xanomusik-trench-war",
+    "tags": [
+      "voxel",
+      "rts",
+      "destructible",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-nexushorizon-bannershore",
+    "type": "game",
+    "title": "Bannershore 旗岸",
+    "summary": "Unity 网页策略：一座会自己运转的小岛，一座城堡一座城堡地征服过去。免费。",
+    "url": "https://nexushorizon.itch.io/bannershore",
+    "imageUrl": "/covers/itch-nexushorizon-bannershore.jpg",
+    "source": "itch",
+    "sourceId": "nexushorizon-bannershore",
+    "tags": [
+      "castle",
+      "island",
+      "conquest",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-keterklassmultimedia-blighthold-last-bastion",
+    "type": "game",
+    "title": "BlightHold 最后的堡垒",
+    "summary": "中世纪战术生存：白天搜刮物资，夜里守住防线抵挡枯萎大军。免费。",
+    "url": "https://keterklassmultimedia.itch.io/blighthold-last-bastion",
+    "imageUrl": "/covers/itch-keterklassmultimedia-blighthold-last-bastion.jpg",
+    "source": "itch",
+    "sourceId": "keterklassmultimedia-blighthold-last-bastion",
+    "tags": [
+      "medieval",
+      "survival",
+      "defense",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-roxannewolf01-emberfall-winter-settlement",
+    "type": "game",
+    "title": "Emberfall 冬日聚落",
+    "summary": "建一座冬日避难所：采集资源、盖房子、管理幸存者，让炉火一直燃着。免费。",
+    "url": "https://roxannewolf01.itch.io/emberfall-winter-settlement",
+    "imageUrl": "/covers/itch-roxannewolf01-emberfall-winter-settlement.jpg",
+    "source": "itch",
+    "sourceId": "roxannewolf01-emberfall-winter-settlement",
+    "tags": [
+      "settlement",
+      "winter",
+      "survival",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-kigaro-games-god-mode-on",
+    "type": "game",
+    "title": "God Mode: ON 上帝模式",
+    "summary": "Godot 上帝视角小游戏：你是一座小岛的神，两个部落互相看不顺眼，他们的信仰就是你的神力，WorldBox 味很足。免费。",
+    "url": "https://kigaro-games.itch.io/god-mode-on",
+    "imageUrl": "/covers/itch-kigaro-games-god-mode-on.jpg",
+    "source": "itch",
+    "sourceId": "kigaro-games-god-mode-on",
+    "tags": [
+      "god-game",
+      "godot",
+      "tribes",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-midasstudio-kerbtal",
+    "type": "game",
+    "title": "Kerbtal 灯火村庄",
+    "summary": "Godot 宁静建造游戏：只有灯笼照亮的地方，村子才能长大。免费。",
+    "url": "https://midasstudio.itch.io/kerbtal",
+    "imageUrl": "/covers/itch-midasstudio-kerbtal.jpg",
+    "source": "itch",
+    "sourceId": "midasstudio-kerbtal",
+    "tags": [
+      "village",
+      "godot",
+      "cozy",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-1sergeykuzmin-kings-watch",
+    "type": "game",
+    "title": "King's Watch 国王之望",
+    "summary": "低多边形圆形城堡防御：骑马的国王、弓箭手和箭塔，看你能守住几波。免费。",
+    "url": "https://1sergeykuzmin.itch.io/kings-watch",
+    "imageUrl": "/covers/itch-1sergeykuzmin-kings-watch.jpg",
+    "source": "itch",
+    "sourceId": "1sergeykuzmin-kings-watch",
+    "tags": [
+      "castle",
+      "lowpoly",
+      "defense",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-emilianostack-river-factory",
+    "type": "game",
+    "title": "River Factory 河流工厂",
+    "summary": "Godot 温馨等距工厂建造：沿着蜿蜒的河砍树、锯木、冶炼，再把货物顺流运走。免费。",
+    "url": "https://emilianostack.itch.io/river-factory",
+    "imageUrl": "/covers/itch-emilianostack-river-factory.jpg",
+    "source": "itch",
+    "sourceId": "emilianostack-river-factory",
+    "tags": [
+      "factory",
+      "isometric",
+      "godot",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-saasse-ruler-of-the-seven-climes",
+    "type": "game",
+    "title": "Ruler of the Seven Climes 七域之主",
+    "summary": "真实世界地图大战略：从 1444 年到今天管理一个国家的预算、军队和外交。免费。",
+    "url": "https://saasse.itch.io/ruler-of-the-seven-climes",
+    "imageUrl": "/covers/itch-saasse-ruler-of-the-seven-climes.jpg",
+    "source": "itch",
+    "sourceId": "saasse-ruler-of-the-seven-climes",
+    "tags": [
+      "grand-strategy",
+      "map",
+      "historical",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-tomgsx1-space4x",
+    "type": "game",
+    "title": "Space4X 太空 4X",
+    "summary": "Unity 实时太空 4X：每艘船都被模拟，可以亲自操控、交给顾问，或让帝国自己运转。免费。",
+    "url": "https://tomgsx1.itch.io/space4x",
+    "imageUrl": "/covers/itch-tomgsx1-space4x.jpg",
+    "source": "itch",
+    "sourceId": "tomgsx1-space4x",
+    "tags": [
+      "4x",
+      "space",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-babamitsu-archipel",
+    "type": "game",
+    "title": "Archipel 群岛",
+    "summary": "在大海中唤醒火山：岛屿升起，生命自己迁入，像一个小型的活体世界模拟。免费。",
+    "url": "https://babamitsu.itch.io/archipel",
+    "imageUrl": "/covers/itch-babamitsu-archipel.jpg",
+    "source": "itch",
+    "sourceId": "babamitsu-archipel",
+    "tags": [
+      "god-game",
+      "living-sim",
+      "islands",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-codypoirier-ex-nihilo",
+    "type": "shader",
+    "title": "Ex Nihilo 从无到有",
+    "summary": "输入一个词，看一个宇宙从这个词里诞生，分七幕程序化演化的网页视觉作品。免费。",
+    "url": "https://codypoirier.itch.io/ex-nihilo",
+    "imageUrl": "/covers/itch-codypoirier-ex-nihilo.jpg",
+    "source": "itch",
+    "sourceId": "codypoirier-ex-nihilo",
+    "tags": [
+      "generative",
+      "procedural",
+      "browser",
+      "itch"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
+    "id": "threejs-forum-97219",
+    "type": "game",
+    "title": "Komok 粘球滚城",
+    "summary": "three.js 多人浏览器游戏：粘粘球在小岛小镇里滚，从硬币铅笔粘到行人汽车，最后把房子也卷走，免费。",
+    "url": "https://discourse.threejs.org/t/komok-multiplayer-browser-game-where-a-sticky-ball-rolls-up-a-whole-town-three-js-r160/97219",
+    "imageUrl": "/covers/threejs-forum-97219.jpg",
+    "source": "threejs",
+    "sourceId": "forum-97219",
+    "tags": [
+      "threejs",
+      "browser",
+      "physics"
+    ],
+    "collectedAt": "2026-11-15",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "threejs-forum-97214",
+    "type": "shader",
+    "title": "水墨武侠客栈网站",
+    "summary": "three.js 做的可探索水墨武侠客栈：水墨风美术、动画角色，还能摆弄蒸笼点心，东方文化氛围很足。",
+    "url": "https://discourse.threejs.org/t/an-ink-wash-wuxia-inn-as-an-interactive-three-js-website/97214",
+    "imageUrl": "/covers/threejs-forum-97214.jpg",
+    "source": "threejs",
+    "sourceId": "forum-97214",
+    "tags": [
+      "threejs",
+      "ink-wash",
+      "npr"
+    ],
+    "collectedAt": "2026-11-15"
+  },
+  {
     "id": "itch-pixeledenstudio-village-tileset-pack",
     "type": "inspiration",
     "title": "十种无缝地形图块",
