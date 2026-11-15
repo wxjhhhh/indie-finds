@@ -11,7 +11,8 @@
     "tags": [
       "x-bookmark",
       "snow",
-      "vehicle"
+      "vehicle",
+      "沙盒/探索"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -30,7 +31,8 @@
     "tags": [
       "x-search",
       "city-builder",
-      "isometric"
+      "isometric",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -49,7 +51,8 @@
     "tags": [
       "x-search",
       "strategy",
-      "procedural"
+      "procedural",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -68,7 +71,8 @@
     "tags": [
       "x-search",
       "tactics",
-      "rtwp"
+      "rtwp",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -87,7 +91,8 @@
     "tags": [
       "x-search",
       "tycoon",
-      "cozy"
+      "cozy",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -106,7 +111,9 @@
     "tags": [
       "x-search",
       "tycoon",
-      "logistics"
+      "logistics",
+      "城建/殖民/经营",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -126,7 +133,8 @@
     "tags": [
       "x-search",
       "management",
-      "unreal"
+      "unreal",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -145,7 +153,9 @@
     "tags": [
       "x-search",
       "hex",
-      "tactics"
+      "tactics",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -165,7 +175,8 @@
     "tags": [
       "x-search",
       "colony",
-      "cozy"
+      "cozy",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -184,7 +195,9 @@
     "tags": [
       "x-search",
       "rts",
-      "before-after"
+      "before-after",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -204,7 +217,8 @@
     "tags": [
       "x-search",
       "rts",
-      "sci-fi"
+      "sci-fi",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -223,7 +237,8 @@
     "tags": [
       "x-search",
       "factory",
-      "colony"
+      "colony",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -242,7 +257,9 @@
     "tags": [
       "x-search",
       "rts",
-      "ww2"
+      "ww2",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -262,7 +279,8 @@
     "tags": [
       "x-search",
       "city-builder",
-      "lowpoly"
+      "lowpoly",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -281,7 +299,9 @@
     "tags": [
       "x-search",
       "medieval",
-      "village"
+      "village",
+      "城建/殖民/经营",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -301,7 +321,9 @@
     "tags": [
       "x-search",
       "tactics",
-      "turn-based"
+      "turn-based",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -321,7 +343,9 @@
     "tags": [
       "x-search",
       "hex",
-      "kingdom"
+      "kingdom",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -341,7 +365,8 @@
     "tags": [
       "x-search",
       "4x",
-      "godot"
+      "godot",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -360,7 +385,8 @@
     "tags": [
       "x-search",
       "voxel",
-      "procedural"
+      "procedural",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -379,7 +405,9 @@
     "tags": [
       "x-search",
       "rts",
-      "medieval"
+      "medieval",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -399,7 +427,8 @@
     "tags": [
       "x-search",
       "city-builder",
-      "traffic"
+      "traffic",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -418,7 +447,9 @@
     "tags": [
       "x-search",
       "medieval",
-      "sandbox"
+      "sandbox",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -438,7 +469,8 @@
     "tags": [
       "x-search",
       "rts",
-      "sci-fi"
+      "sci-fi",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -457,7 +489,9 @@
     "tags": [
       "x-search",
       "medieval",
-      "army"
+      "army",
+      "骑砍/战争",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -477,7 +511,8 @@
     "tags": [
       "x-search",
       "rts",
-      "industrial"
+      "industrial",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -800,7 +835,9 @@
     "tags": [
       "steam",
       "sengoku",
-      "warband"
+      "warband",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -820,7 +857,8 @@
     "tags": [
       "steam",
       "hex",
-      "city-builder"
+      "city-builder",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -839,7 +877,8 @@
     "tags": [
       "steam",
       "hex",
-      "world-builder"
+      "world-builder",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -858,7 +897,9 @@
     "tags": [
       "steam",
       "rtt",
-      "modern-war"
+      "modern-war",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -878,7 +919,8 @@
     "tags": [
       "steam",
       "fluid-sim",
-      "tower-defense"
+      "tower-defense",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -897,7 +939,9 @@
     "tags": [
       "steam",
       "tactics",
-      "toy"
+      "toy",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -917,7 +961,8 @@
     "tags": [
       "steam",
       "tycoon",
-      "airline"
+      "airline",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -936,7 +981,9 @@
     "tags": [
       "steam",
       "siege",
-      "auto-battler"
+      "auto-battler",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -957,7 +1004,8 @@
       "rts",
       "sci-fi",
       "browser",
-      "itch"
+      "itch",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -977,7 +1025,9 @@
       "village",
       "army",
       "rts",
-      "itch"
+      "itch",
+      "城建/殖民/经营",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -998,7 +1048,9 @@
       "turn-based",
       "godot",
       "islands",
-      "itch"
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1019,7 +1071,9 @@
       "medieval",
       "siege",
       "turn-based",
-      "itch"
+      "itch",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1040,7 +1094,8 @@
       "village-builder",
       "logistics",
       "settlers-like",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1060,7 +1115,9 @@
       "rts",
       "tank",
       "3d",
-      "itch"
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1081,7 +1138,8 @@
       "settlement",
       "cozy",
       "nordic",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1101,7 +1159,9 @@
       "voxel",
       "rts",
       "destructible",
-      "itch"
+      "itch",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1122,7 +1182,9 @@
       "castle",
       "island",
       "conquest",
-      "itch"
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1143,7 +1205,9 @@
       "medieval",
       "survival",
       "defense",
-      "itch"
+      "itch",
+      "骑砍/战争",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1164,7 +1228,8 @@
       "settlement",
       "winter",
       "survival",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1184,7 +1249,9 @@
       "god-game",
       "godot",
       "tribes",
-      "itch"
+      "itch",
+      "城建/殖民/经营",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1205,7 +1272,8 @@
       "village",
       "godot",
       "cozy",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1225,7 +1293,9 @@
       "castle",
       "lowpoly",
       "defense",
-      "itch"
+      "itch",
+      "骑砍/战争",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1246,7 +1316,8 @@
       "factory",
       "isometric",
       "godot",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1266,7 +1337,9 @@
       "grand-strategy",
       "map",
       "historical",
-      "itch"
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1287,7 +1360,8 @@
       "4x",
       "space",
       "simulation",
-      "itch"
+      "itch",
+      "策略/4X/RTS"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1307,7 +1381,8 @@
       "god-game",
       "living-sim",
       "islands",
-      "itch"
+      "itch",
+      "城建/殖民/经营"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
@@ -1343,7 +1418,8 @@
     "tags": [
       "threejs",
       "browser",
-      "physics"
+      "physics",
+      "沙盒/探索"
     ],
     "collectedAt": "2026-11-15",
     "genres": [
