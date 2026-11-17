@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-kyndrael-isometric-terrain-nature-darkfantasy-2d-pixelart",
+    "type": "inspiration",
+    "title": "暗黑奇幻等距地形自动拼接",
+    "summary": "64×32 等距像素地块：草地、泥土、石地、水面自动拼接，树木带风动，等距大地图地表过渡参考。",
+    "url": "https://kyndrael.itch.io/isometric-terrain-nature-darkfantasy-2d-pixelart",
+    "imageUrl": "/covers/itch-kyndrael-isometric-terrain-nature-darkfantasy-2d-pixelart.jpg",
+    "source": "itch",
+    "sourceId": "itch-kyndrael-isometric-terrain-nature-darkfantasy-2d-pixelart",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kyndrael-isometric-map-borders-cliffs-deep-water-forest-walls-dark-fantasy",
+    "type": "inspiration",
+    "title": "等距地图边界：悬崖、深水与林墙",
+    "summary": "用悬崖、洞口、深水和密林墙把等距地图自然收边，不靠空气墙，地图边缘设计很值得借鉴。",
+    "url": "https://kyndrael.itch.io/isometric-map-borders-cliffs-deep-water-forest-walls-dark-fantasy",
+    "imageUrl": "/covers/itch-kyndrael-isometric-map-borders-cliffs-deep-water-forest-walls-dark-fantasy.jpg",
+    "source": "itch",
+    "sourceId": "itch-kyndrael-isometric-map-borders-cliffs-deep-water-forest-walls-dark-fantasy",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chadliebrecht16-boop-cozy-farm-ground-16x16",
+    "type": "inspiration",
+    "title": "16×16 农场地表拼接",
+    "summary": "63 格草地、土路、池塘和农田自动拼接，配栅栏道具，小格子下地表层次干净清爽。",
+    "url": "https://chadliebrecht16-boop.itch.io/cozy-farm-ground-16x16",
+    "imageUrl": "/covers/itch-chadliebrecht16-boop-cozy-farm-ground-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-chadliebrecht16-boop-cozy-farm-ground-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bytewrightstudio-crystal-caverns-tileset-16x16-top-down-cave-tileset-and-game-kit",
+    "type": "inspiration",
+    "title": "发光水晶洞窟图块",
+    "summary": "16×16 俯视洞窟：青色水晶、地下水潭和发光效果，地下资源区的冷色调配色参考。",
+    "url": "https://bytewrightstudio.itch.io/crystal-caverns-tileset-16x16-top-down-cave-tileset-and-game-kit",
+    "imageUrl": "/covers/itch-bytewrightstudio-crystal-caverns-tileset-16x16-top-down-cave-tileset-and-game-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-bytewrightstudio-crystal-caverns-tileset-16x16-top-down-cave-tileset-and-game-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122300147489206703",
+    "type": "inspiration",
+    "title": "水道区鹅卵石图块",
+    "summary": "32×32 鹅卵石与水道地块的手绘更新版，石块高光与缝隙阴影处理细腻，城镇石板路很好参考。",
+    "url": "https://x.com/ScootyIN2D/status/2122300147489206703",
+    "imageUrl": "/covers/x-2122300147489206703.jpg",
+    "source": "x",
+    "sourceId": "x-2122300147489206703",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qzforge-low-poly-pixel-art-caves-resource-pack",
+    "type": "inspiration",
+    "title": "像素贴图低模洞穴",
+    "summary": "336 个低模加像素贴图的洞穴岩壁、矿道、木架和矿车，地下地形低分辨率 3D 化的范例。",
+    "url": "https://qzforge.itch.io/low-poly-pixel-art-caves-resource-pack",
+    "imageUrl": "/covers/itch-qzforge-low-poly-pixel-art-caves-resource-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-low-poly-pixel-art-caves-resource-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-yeshenshadow-art-sunlit-watergarden-kit",
+    "type": "inspiration",
+    "title": "体素冰湖雪庭与阳光水庭",
+    "summary": "模块化体素小场景：冰湖、雪地、鸭子池塘，等距体素地块的水面与季节配色参考。",
+    "url": "https://yeshenshadow-art.itch.io/sunlit-watergarden-kit",
+    "imageUrl": "/covers/itch-yeshenshadow-art-sunlit-watergarden-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-yeshenshadow-art-sunlit-watergarden-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-lil-cthulhu-isoblocks-nature",
+    "type": "inspiration",
+    "title": "IsoBlocks 方块自然地形",
+    "summary": "等距像素方块地形：草块、水块、树木可自由堆叠，伪 3D 方块大地图的高差表现参考。",
+    "url": "https://lil-cthulhu.itch.io/isoblocks-nature",
+    "imageUrl": "/covers/itch-lil-cthulhu-isoblocks-nature.jpg",
+    "source": "itch",
+    "sourceId": "itch-lil-cthulhu-isoblocks-nature",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-zirconiumapps-stylized-voxel-countryside-diorama-low-poly-3d-model",
+    "type": "inspiration",
+    "title": "体素乡间沙盘",
+    "summary": "等距体素沙盘：白岩悬崖、溪流和绿地，高低落差与水系布局的 3D 体块参考。",
+    "url": "https://zirconiumapps.itch.io/stylized-voxel-countryside-diorama-low-poly-3d-model",
+    "imageUrl": "/covers/itch-zirconiumapps-stylized-voxel-countryside-diorama-low-poly-3d-model.jpg",
+    "source": "itch",
+    "sourceId": "itch-zirconiumapps-stylized-voxel-countryside-diorama-low-poly-3d-model",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-redeugene-fallen-deities-530-isometric-voxel-assets-4k-unrealunity",
+    "type": "inspiration",
+    "title": "陨神群岛等距体素地块",
+    "summary": "530+ 个等距体素地块与遗迹，逐格拼出群岛世界，大地图模块化体素地形的思路很实用。",
+    "url": "https://redeugene.itch.io/fallen-deities-530-isometric-voxel-assets-4k-unrealunity",
+    "imageUrl": "/covers/itch-redeugene-fallen-deities-530-isometric-voxel-assets-4k-unrealunity.jpg",
+    "source": "itch",
+    "sourceId": "itch-redeugene-fallen-deities-530-isometric-voxel-assets-4k-unrealunity",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-junnolu-medieval-army-vol-2",
+    "type": "inspiration",
+    "title": "中世纪军队：老兵",
+    "summary": "48×48 动画兵种：队长、牧师、重装兵，四种阵营色，攻城火光下的布阵封面很有战争感，贴合骑砍题材。",
+    "url": "https://junnolu.itch.io/medieval-army-vol-2",
+    "imageUrl": "/covers/itch-junnolu-medieval-army-vol-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-junnolu-medieval-army-vol-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nooboo-work-boar-knight-spear-8-direction",
+    "type": "inspiration",
+    "title": "野猪骑士长枪兵",
+    "summary": "骑野猪的长枪骑手，8 方向移动与骑乘冲锋动画，坐骑单位的轮廓与动作设计参考。",
+    "url": "https://nooboo-work.itch.io/boar-knight-spear-8-direction",
+    "imageUrl": "/covers/itch-nooboo-work-boar-knight-spear-8-direction.jpg",
+    "source": "itch",
+    "sourceId": "itch-nooboo-work-boar-knight-spear-8-direction",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-1LbVno",
+    "type": "inspiration",
+    "title": "UNDERKEEP 敌兵精灵",
+    "summary": "地下城敌人全家福：骷髅、蜘蛛、亡灵兵等小尺寸像素精灵，统一调色板下的怪物剪影区分做得好。",
+    "url": "https://www.artstation.com/artwork/1LbVno",
+    "imageUrl": "/covers/artstation-1LbVno.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-1LbVno",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gimblesgames-dark-fantasy-portraits-vol-2",
+    "type": "inspiration",
+    "title": "暗黑奇幻头像第二辑",
+    "summary": "60 张 64×64 像素头像：英雄、镇民、反派和怪物，对话框与角色面板头像的风格参考。",
+    "url": "https://gimblesgames.itch.io/dark-fantasy-portraits-vol-2",
+    "imageUrl": "/covers/itch-gimblesgames-dark-fantasy-portraits-vol-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-gimblesgames-dark-fantasy-portraits-vol-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gocquetyhon-rice-village-animated-characters-vol-2",
+    "type": "inspiration",
+    "title": "稻村日本人物第二辑",
+    "summary": "16 个日本村民动画角色，四方向行走加专属动作，小人物生活感与服饰辨识度参考。",
+    "url": "https://gocquetyhon.itch.io/rice-village-animated-characters-vol-2",
+    "imageUrl": "/covers/itch-gocquetyhon-rice-village-animated-characters-vol-2.jpg",
+    "source": "itch",
+    "sourceId": "itch-gocquetyhon-rice-village-animated-characters-vol-2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-2dshower-isometric-map-creature-dwellings",
+    "type": "inspiration",
+    "title": "等距大地图生物巢穴",
+    "summary": "6 个阵营 4 级巢穴建筑加中立据点，大地图招兵建筑分级的造型参考，和策略游戏很契合。",
+    "url": "https://2dshower.itch.io/isometric-map-creature-dwellings",
+    "imageUrl": "/covers/itch-2dshower-isometric-map-creature-dwellings.jpg",
+    "source": "itch",
+    "sourceId": "itch-2dshower-isometric-map-creature-dwellings",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-100-free-medieval-gothic-food-granary",
+    "type": "inspiration",
+    "title": "哥特中世纪粮仓",
+    "summary": "带动画的哥特式粮仓建筑，红瓦尖顶和木构细节丰富，城镇资源建筑的像素造型参考。",
+    "url": "https://elie-worldsmith.itch.io/100-free-medieval-gothic-food-granary",
+    "imageUrl": "/covers/itch-elie-worldsmith-100-free-medieval-gothic-food-granary.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-100-free-medieval-gothic-food-granary",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-100-free-medieval-windmill",
+    "type": "inspiration",
+    "title": "中世纪风车",
+    "summary": "叶片转动的中世纪风车，三方向视图，农业建筑的动态点缀参考。",
+    "url": "https://elie-worldsmith.itch.io/100-free-medieval-windmill",
+    "imageUrl": "/covers/itch-elie-worldsmith-100-free-medieval-windmill.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-100-free-medieval-windmill",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gocquetyhon-japanese-castle-town-samurai-district",
+    "type": "inspiration",
+    "title": "日本城下町与武家屋敷",
+    "summary": "16×16 城下町图块：武家宅邸、商铺、城墙和守卫，东方城镇布局参考。",
+    "url": "https://gocquetyhon.itch.io/japanese-castle-town-samurai-district",
+    "imageUrl": "/covers/itch-gocquetyhon-japanese-castle-town-samurai-district.jpg",
+    "source": "itch",
+    "sourceId": "itch-gocquetyhon-japanese-castle-town-samurai-district",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122487400543015147",
+    "type": "inspiration",
+    "title": "苔藓覆盖的老屋",
+    "summary": "横版像素老屋：藤蔓爬满墙面、木门和小窗，废弃建筑的旧化与植被覆盖处理很细。",
+    "url": "https://x.com/Vulpe_ofc/status/2122487400543015147",
+    "imageUrl": "/covers/x-2122487400543015147.jpg",
+    "source": "x",
+    "sourceId": "x-2122487400543015147",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qzforge-low-poly-pixel-art-farm-resource-pack",
+    "type": "inspiration",
+    "title": "像素贴图低模农场",
+    "summary": "453 个低模加像素贴图的谷仓、农舍、风车和栅栏，农场建筑 3D 化又保留像素质感。",
+    "url": "https://qzforge.itch.io/low-poly-pixel-art-farm-resource-pack",
+    "imageUrl": "/covers/itch-qzforge-low-poly-pixel-art-farm-resource-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-low-poly-pixel-art-farm-resource-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelgrove-winter-holiday-kit",
+    "type": "inspiration",
+    "title": "等距体素冬日小屋",
+    "summary": "45 个冬季体素道具与雪屋，4 个朝向都有 3D 模型，雪顶建筑的冷暖配色参考。",
+    "url": "https://voxelgrove.itch.io/winter-holiday-kit",
+    "imageUrl": "/covers/itch-voxelgrove-winter-holiday-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelgrove-winter-holiday-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v2kid-poly-hd-2d-highland-kingdom-medieval-town-castle-interiors-unity-godot-blende",
+    "type": "inspiration",
+    "title": "HD-2D 高地王国城镇",
+    "summary": "821 个 HD-2D 中世纪城镇、城堡和剖面室内模型，像素贴图 3D 城池的整套参考。",
+    "url": "https://v2kid.itch.io/poly-hd-2d-highland-kingdom-medieval-town-castle-interiors-unity-godot-blende",
+    "imageUrl": "/covers/itch-v2kid-poly-hd-2d-highland-kingdom-medieval-town-castle-interiors-unity-godot-blende.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-poly-hd-2d-highland-kingdom-medieval-town-castle-interiors-unity-godot-blende",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-v2kid-poly-hd2d-crimson-sakura-citadel",
+    "type": "inspiration",
+    "title": "HD-2D 赤港樱城",
+    "summary": "1080 个 HD-2D 日式城郭、神社、运河和夜市模型，8 个街区的城池规划参考。",
+    "url": "https://v2kid.itch.io/poly-hd2d-crimson-sakura-citadel",
+    "imageUrl": "/covers/itch-v2kid-poly-hd2d-crimson-sakura-citadel.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-poly-hd2d-crimson-sakura-citadel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-bubbabba-hd-2d-millbrook-village",
+    "type": "inspiration",
+    "title": "HD-2D 磨坊村",
+    "summary": "HD-2D 农村：水车磨坊、风车、270 个模型加 92 个像素精灵，昼夜三种氛围演示。",
+    "url": "https://bubbabba.itch.io/hd-2d-millbrook-village",
+    "imageUrl": "/covers/itch-bubbabba-hd-2d-millbrook-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-bubbabba-hd-2d-millbrook-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-gwapehyd-fantasy-rpg-inventory-kit",
+    "type": "inspiration",
+    "title": "奇幻 RPG 背包界面",
+    "summary": "装备栏、物品格、元素符文槽和属性面板一套，像素背包界面的信息层级参考。",
+    "url": "https://gwapehyd.itch.io/fantasy-rpg-inventory-kit",
+    "imageUrl": "/covers/itch-gwapehyd-fantasy-rpg-inventory-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-gwapehyd-fantasy-rpg-inventory-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-bytewrightstudio-arcane-ui-16x16-pixel-art-game-ui-kit",
+    "type": "inspiration",
+    "title": "奥术 16×16 像素 UI",
+    "summary": "奥术塔主题的窗口、按钮、HUD、对话框和图标，绿紫配色的完整像素 UI 方案。",
+    "url": "https://bytewrightstudio.itch.io/arcane-ui-16x16-pixel-art-game-ui-kit",
+    "imageUrl": "/covers/itch-bytewrightstudio-arcane-ui-16x16-pixel-art-game-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-bytewrightstudio-arcane-ui-16x16-pixel-art-game-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-suntrail-almanac",
+    "type": "inspiration",
+    "title": "日径年鉴冒险 UI",
+    "summary": "大地图 RPG 用的背包、HUD、路线图、任务和对话界面，蓝金配色干净耐看。",
+    "url": "https://goodthings.itch.io/suntrail-almanac",
+    "imageUrl": "/covers/itch-goodthings-suntrail-almanac.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-suntrail-almanac",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wanderrabbit-gothic-mini-16-bit-ui-kit",
+    "type": "inspiration",
+    "title": "哥特迷你 16-bit UI",
+    "summary": "紫粉色调的小尺寸窗口、滑块、对话框和光标，迷你 UI 的像素描边处理参考。",
+    "url": "https://wanderrabbit.itch.io/gothic-mini-16-bit-ui-kit",
+    "imageUrl": "/covers/itch-wanderrabbit-gothic-mini-16-bit-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-wanderrabbit-gothic-mini-16-bit-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-infi76-detective-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "侦探推理像素 UI",
+    "summary": "案件板、嫌疑人头像、证据图标、印章和逻辑格，推理玩法的界面组织参考。",
+    "url": "https://infi76.itch.io/detective-pixel-ui-kit",
+    "imageUrl": "/covers/itch-infi76-detective-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-infi76-detective-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tennosuke-obsidian-bone-brass",
+    "type": "inspiration",
+    "title": "黑曜石骨铜 ARPG HUD",
+    "summary": "液体职业球、Boss 血条、伤害数字、技能树与背包，暗黑类像素 HUD 参考。",
+    "url": "https://tennosuke.itch.io/obsidian-bone-brass",
+    "imageUrl": "/covers/itch-tennosuke-obsidian-bone-brass.jpg",
+    "source": "itch",
+    "sourceId": "itch-tennosuke-obsidian-bone-brass",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-arejay561-stone-pixel-ui-kit-godot",
+    "type": "inspiration",
+    "title": "石质暗黑像素 UI",
+    "summary": "石材加金边铆钉的面板、滑块、选项卡，三种配色，厚重中世纪 UI 的边框参考。",
+    "url": "https://arejay561.itch.io/stone-pixel-ui-kit-godot",
+    "imageUrl": "/covers/itch-arejay561-stone-pixel-ui-kit-godot.jpg",
+    "source": "itch",
+    "sourceId": "itch-arejay561-stone-pixel-ui-kit-godot",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-infi76-auto-battler-ui-free",
+    "type": "inspiration",
+    "title": "自走棋像素 UI",
+    "summary": "商店卡牌、单位令牌、血条和刷新按钮，自走棋/策略对战的商店界面参考。",
+    "url": "https://infi76.itch.io/auto-battler-ui-free",
+    "imageUrl": "/covers/itch-infi76-auto-battler-ui-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-infi76-auto-battler-ui-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-zidane42-fantasy-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "奇幻像素 UI 套件",
+    "summary": "窗口、按钮、状态条、图标和下拉控件，9 宫格可拉伸，蓝金色奇幻界面参考。",
+    "url": "https://zidane42.itch.io/fantasy-pixel-ui-kit",
+    "imageUrl": "/covers/itch-zidane42-fantasy-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-zidane42-fantasy-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ianiffy230-retroarcadeuiminipack",
+    "type": "inspiration",
+    "title": "复古街机 UI 迷你包",
+    "summary": "80 个霓虹描边的按钮、面板、进度条和分数框，复古街机风界面参考。",
+    "url": "https://ianiffy230.itch.io/retroarcadeuiminipack",
+    "imageUrl": "/covers/itch-ianiffy230-retroarcadeuiminipack.jpg",
+    "source": "itch",
+    "sourceId": "itch-ianiffy230-retroarcadeuiminipack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-17",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2122096155295195205",
     "type": "game",
     "title": "Burn It Back 被掩埋的城市",
