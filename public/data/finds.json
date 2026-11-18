@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-faizknight-free-pixel-terrain-starter-kit-200-tiles",
+    "type": "inspiration",
+    "title": "免费像素地形入门 200 块",
+    "summary": "草地、水面、沙滩、道路、悬崖 200 块无缝地块，过渡边缘处理整齐，大地图地表配色好参考。",
+    "url": "https://faizknight.itch.io/free-pixel-terrain-starter-kit-200-tiles",
+    "imageUrl": "/covers/itch-faizknight-free-pixel-terrain-starter-kit-200-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-faizknight-free-pixel-terrain-starter-kit-200-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-turkraftgames-western-front-terrain",
+    "type": "inspiration",
+    "title": "一战西线战壕地形",
+    "summary": "23 套俯视战壕、道路、铁丝网与弹坑过渡图块，附 14 张战场地图，战争策略地图的地形参考。",
+    "url": "https://turkraftgames.itch.io/western-front-terrain",
+    "imageUrl": "/covers/itch-turkraftgames-western-front-terrain.jpg",
+    "source": "itch",
+    "sourceId": "itch-turkraftgames-western-front-terrain",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-starfall-ridge",
+    "type": "inspiration",
+    "title": "星落山脊山道图块",
+    "summary": "32px 高地山道、过河石桥与瞭望点，高差和小路的层次表现很清楚，山地关卡好参考。",
+    "url": "https://goodthings.itch.io/starfall-ridge",
+    "imageUrl": "/covers/itch-goodthings-starfall-ridge.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-starfall-ridge",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-theneuralpeach-ember-caverns",
+    "type": "inspiration",
+    "title": "余烬洞窟 16×16 图块",
+    "summary": "暗色洞窟配橙红熔岩光点，只用 24 块图块就拼出完整洞穴关卡，配色克制很耐看。",
+    "url": "https://theneuralpeach.itch.io/ember-caverns",
+    "imageUrl": "/covers/itch-theneuralpeach-ember-caverns.jpg",
+    "source": "itch",
+    "sourceId": "itch-theneuralpeach-ember-caverns",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nexwell-harvest-hollow-16x16-top-down-farm-tileset",
+    "type": "inspiration",
+    "title": "丰收谷 16×16 农场地表",
+    "summary": "118 块暖色农田、土路、草地自动拼接图块，田垄与作物的像素排布干净舒服。",
+    "url": "https://nexwell.itch.io/harvest-hollow-16x16-top-down-farm-tileset",
+    "imageUrl": "/covers/itch-nexwell-harvest-hollow-16x16-top-down-farm-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-nexwell-harvest-hollow-16x16-top-down-farm-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-maxparata-tank-tactic",
+    "type": "inspiration",
+    "title": "体素战棋地形与坦克",
+    "summary": "高级战争式体素地形格：平原、森林、山地、水面加坦克和士兵，3D 战棋六角/方格地图很值得借鉴。",
+    "url": "https://maxparata.itch.io/tank-tactic",
+    "imageUrl": "/covers/itch-maxparata-tank-tactic.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-tank-tactic",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-luminous-dice-tiny-voxel-nature-pack",
+    "type": "inspiration",
+    "title": "迷你体素自然地块",
+    "summary": "小块体素草地、土路、树木组成的浮岛场景，低分辨率 3D 地形的颜色分层很干净。",
+    "url": "https://luminous-dice.itch.io/tiny-voxel-nature-pack",
+    "imageUrl": "/covers/itch-luminous-dice-tiny-voxel-nature-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-luminous-dice-tiny-voxel-nature-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hanx-games-3d-pixel-dungeon-pack",
+    "type": "inspiration",
+    "title": "3D 像素贴图地牢",
+    "summary": "低模加像素贴图的模块化地牢墙体、门、陷阱和火把，像素风 3D 地下场景范例。",
+    "url": "https://hanx-games.itch.io/3d-pixel-dungeon-pack",
+    "imageUrl": "/covers/itch-hanx-games-3d-pixel-dungeon-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-hanx-games-3d-pixel-dungeon-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-mattar-productions-small-voxel-forest",
+    "type": "inspiration",
+    "title": "体素小森林",
+    "summary": "体素树冠与岩石的细节密度高，黄绿两色树林层次丰富，3D 体素植被参考。",
+    "url": "https://mattar-productions.itch.io/small-voxel-forest",
+    "imageUrl": "/covers/itch-mattar-productions-small-voxel-forest.jpg",
+    "source": "itch",
+    "sourceId": "itch-mattar-productions-small-voxel-forest",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-sandial-duskvault-depths-dungeon-mega-pack",
+    "type": "inspiration",
+    "title": "暮库深渊地牢大包",
+    "summary": "347 个复古像素贴图的模块化地牢件，墙地砖、楼梯、机关一应俱全，俯视 3D 地牢布局参考。",
+    "url": "https://sandial.itch.io/duskvault-depths-dungeon-mega-pack",
+    "imageUrl": "/covers/itch-sandial-duskvault-depths-dungeon-mega-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-sandial-duskvault-depths-dungeon-mega-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-junnolu-medieval-army-vol-1",
+    "type": "inspiration",
+    "title": "中世纪军队：士兵篇",
+    "summary": "48×48 动画兵种：步兵、弓手、骑兵等 8 种，带 4 色阵营，骑砍/策略战争单位的像素造型参考。",
+    "url": "https://junnolu.itch.io/medieval-army-vol-1",
+    "imageUrl": "/covers/itch-junnolu-medieval-army-vol-1.jpg",
+    "source": "itch",
+    "sourceId": "itch-junnolu-medieval-army-vol-1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-capimpixel-horse-pack",
+    "type": "inspiration",
+    "title": "16 方向动画战马",
+    "summary": "3 种毛色的马匹 16 方向动画，鞍具和阴影分层，带骑手锚点，做骑兵和坐骑系统很实用。",
+    "url": "https://capimpixel.itch.io/horse-pack",
+    "imageUrl": "/covers/itch-capimpixel-horse-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-capimpixel-horse-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mekai-games-steampunk-automatons",
+    "type": "inspiration",
+    "title": "蒸汽朋克机械人 20 款",
+    "summary": "等距 8 方向的发条机械角色，英雄、市民、敌人和魔像都有，金铜配色统一。",
+    "url": "https://mekai-games.itch.io/steampunk-automatons",
+    "imageUrl": "/covers/itch-mekai-games-steampunk-automatons.jpg",
+    "source": "itch",
+    "sourceId": "itch-mekai-games-steampunk-automatons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gocquetyhon-japanese-rpg-characters-vol-3-classes-combat",
+    "type": "inspiration",
+    "title": "和风 RPG 职业角色",
+    "summary": "16 种和风战斗职业，4 方向跑动、攻击、格挡、施法动作齐全，小尺寸角色剪影辨识度高。",
+    "url": "https://gocquetyhon.itch.io/japanese-rpg-characters-vol-3-classes-combat",
+    "imageUrl": "/covers/itch-gocquetyhon-japanese-rpg-characters-vol-3-classes-combat.jpg",
+    "source": "itch",
+    "sourceId": "itch-gocquetyhon-japanese-rpg-characters-vol-3-classes-combat",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jaelim-dawnblade-hero",
+    "type": "inspiration",
+    "title": "曙光剑士精灵表",
+    "summary": "只用 6 色的剑士 31 套动作，剑波特效和觉醒形态很有冲击力，像素动作动画参考。",
+    "url": "https://jaelim.itch.io/dawnblade-hero",
+    "imageUrl": "/covers/itch-jaelim-dawnblade-hero.jpg",
+    "source": "itch",
+    "sourceId": "itch-jaelim-dawnblade-hero",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-2dshower-isometric-map-temples-altars",
+    "type": "inspiration",
+    "title": "等距大地图神殿与祭坛",
+    "summary": "阵营神殿、1-4 级法术神龛和法力源，策略大地图功能建筑的造型和等级区分参考。",
+    "url": "https://2dshower.itch.io/isometric-map-temples-altars",
+    "imageUrl": "/covers/itch-2dshower-isometric-map-temples-altars.jpg",
+    "source": "itch",
+    "sourceId": "itch-2dshower-isometric-map-temples-altars",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-2dshower-isometric-map-mines-resources",
+    "type": "inspiration",
+    "title": "等距大地图矿场与资源点",
+    "summary": "7 种资源矿场的运作/废弃两种状态加资源拾取物，资源建筑设计很适合策略游戏。",
+    "url": "https://2dshower.itch.io/isometric-map-mines-resources",
+    "imageUrl": "/covers/itch-2dshower-isometric-map-mines-resources.jpg",
+    "source": "itch",
+    "sourceId": "itch-2dshower-isometric-map-mines-resources",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-alderweir-riverworks",
+    "type": "inspiration",
+    "title": "河畔磨坊与水车",
+    "summary": "俯视磨坊建筑带转动水车动画，木结构与水渠衔接自然，村庄生产建筑参考。",
+    "url": "https://goodthings.itch.io/alderweir-riverworks",
+    "imageUrl": "/covers/itch-goodthings-alderweir-riverworks.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-alderweir-riverworks",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-chris-tutorials-smithy-building-2d-pixel-rpg-art",
+    "type": "inspiration",
+    "title": "铁匠铺与民居",
+    "summary": "俯视铁匠铺加民居组合，屋顶瓦片与砖墙质感清楚，中世纪村镇建筑参考。",
+    "url": "https://chris-tutorials.itch.io/smithy-building-2d-pixel-rpg-art",
+    "imageUrl": "/covers/itch-chris-tutorials-smithy-building-2d-pixel-rpg-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-chris-tutorials-smithy-building-2d-pixel-rpg-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-the-pixel-game-stone-tower-evolution-3-stages-mage-castle",
+    "type": "inspiration",
+    "title": "石塔三阶段进化",
+    "summary": "法师塔/城堡塔的 3 个升级阶段，建筑随等级逐步加高加装饰，建筑升级表现很直观。",
+    "url": "https://the-pixel-game.itch.io/stone-tower-evolution-3-stages-mage-castle",
+    "imageUrl": "/covers/itch-the-pixel-game-stone-tower-evolution-3-stages-mage-castle.jpg",
+    "source": "itch",
+    "sourceId": "itch-the-pixel-game-stone-tower-evolution-3-stages-mage-castle",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voxelempire-blocky-city-exteriors-3d",
+    "type": "inspiration",
+    "title": "方块城市外景 1799 件",
+    "summary": "体素风楼房、道路、车辆的整城套件，俯视城区排布整齐，3D 体素城市建设参考。",
+    "url": "https://voxelempire.itch.io/blocky-city-exteriors-3d",
+    "imageUrl": "/covers/itch-voxelempire-blocky-city-exteriors-3d.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelempire-blocky-city-exteriors-3d",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-felixstrefter-medieval-voxel-assets",
+    "type": "inspiration",
+    "title": "中世纪体素建筑",
+    "summary": "米色石墙与木屋顶的中世纪体素房屋、城墙和摊位，村镇建筑组合很适合上帝视角。",
+    "url": "https://felixstrefter.itch.io/medieval-voxel-assets",
+    "imageUrl": "/covers/itch-felixstrefter-medieval-voxel-assets.jpg",
+    "source": "itch",
+    "sourceId": "itch-felixstrefter-medieval-voxel-assets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-o0xGxz",
+    "type": "inspiration",
+    "title": "希腊神庙体素模型",
+    "summary": "MagicaVoxel 做的希腊神庙，柱廊和阶梯台基比例考究，体素古典建筑参考。",
+    "url": "https://www.artstation.com/artwork/o0xGxz",
+    "imageUrl": "/covers/artstation-o0xGxz.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-o0xGxz",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-darksoulsgothic-monogon",
+    "type": "inspiration",
+    "title": "体素哥特城堡套件",
+    "summary": "上百件哥特教堂、城堡、尖塔体素模型，暗紫色调氛围强，黑暗奇幻建筑参考。",
+    "url": "https://maxparata.itch.io/darksoulsgothic-monogon",
+    "imageUrl": "/covers/itch-maxparata-darksoulsgothic-monogon.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-darksoulsgothic-monogon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ghstbstrd-fortress-palisade-voxel-kit",
+    "type": "inspiration",
+    "title": "体素要塞木栅墙",
+    "summary": "11 件体素木栅栏、城门和箭塔，可拼成营寨防线，战争策略里的营地防御工事参考。",
+    "url": "https://ghstbstrd.itch.io/fortress-palisade-voxel-kit",
+    "imageUrl": "/covers/itch-ghstbstrd-fortress-palisade-voxel-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-ghstbstrd-fortress-palisade-voxel-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ww0nderful-oak-gold-fantasy-rpg-pixel-ui-pack",
+    "type": "inspiration",
+    "title": "橡木与金奇幻 RPG UI",
+    "summary": "150+ 个木纹金边面板、按钮、血条和背包格，9 宫格可拉伸，暖色奇幻 UI 很好参考。",
+    "url": "https://ww0nderful.itch.io/oak-gold-fantasy-rpg-pixel-ui-pack",
+    "imageUrl": "/covers/itch-ww0nderful-oak-gold-fantasy-rpg-pixel-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-ww0nderful-oak-gold-fantasy-rpg-pixel-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vizucraft-bitforge-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "Bitforge 像素 UI 套件",
+    "summary": "深蓝底配亮色描边的复古界面，面板、按钮、对话框风格统一，清爽好读。",
+    "url": "https://vizucraft.itch.io/bitforge-pixel-ui-kit",
+    "imageUrl": "/covers/itch-vizucraft-bitforge-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-vizucraft-bitforge-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-voidpixelworks-void-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "Void 像素 UI 四主题",
+    "summary": "428 个 UI 精灵、4 套配色主题，同一结构换皮的做法值得借鉴，按钮状态齐全。",
+    "url": "https://voidpixelworks.itch.io/void-pixel-ui-kit",
+    "imageUrl": "/covers/itch-voidpixelworks-void-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-voidpixelworks-void-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nexwell-parchment-brass-65-pixel-art-ui-elements-fantasy-rpg",
+    "type": "inspiration",
+    "title": "羊皮纸与黄铜 UI",
+    "summary": "65 个奇幻 RPG 面板、槽位和进度条，4 套配色，羊皮纸质感适合科技树和国家列表。",
+    "url": "https://nexwell.itch.io/parchment-brass-65-pixel-art-ui-elements-fantasy-rpg",
+    "imageUrl": "/covers/itch-nexwell-parchment-brass-65-pixel-art-ui-elements-fantasy-rpg.jpg",
+    "source": "itch",
+    "sourceId": "itch-nexwell-parchment-brass-65-pixel-art-ui-elements-fantasy-rpg",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-seliel-the-shaper-menu-ui",
+    "type": "inspiration",
+    "title": "像素菜单 GUI 全套",
+    "summary": "菜单框、属性条、按钮、滑块一应俱全，圆角绿色主题柔和，设置界面很好参考。",
+    "url": "https://seliel-the-shaper.itch.io/menu-ui",
+    "imageUrl": "/covers/itch-seliel-the-shaper-menu-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-seliel-the-shaper-menu-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-tideglass-ledger",
+    "type": "inspiration",
+    "title": "潮汐账簿海岸 RPG UI",
+    "summary": "背包、装备、任务、对话的完整界面，青绿海洋配色统一，信息层级清楚。",
+    "url": "https://goodthings.itch.io/tideglass-ledger",
+    "imageUrl": "/covers/itch-goodthings-tideglass-ledger.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-tideglass-ledger",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122616513819762732",
+    "type": "inspiration",
+    "title": "委托像素 UI 面板",
+    "summary": "深紫木板面板配金色雕花边框与圆形头像框，按钮和标签小件统一，奇幻 UI 边框细节好参考。",
+    "url": "https://x.com/GREEN_PIXEL_s/status/2122616513819762732",
+    "imageUrl": "/covers/x-2122616513819762732.jpg",
+    "source": "x",
+    "sourceId": "x-2122616513819762732",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-yraj1457-pixel-desk-ui-kit",
+    "type": "inspiration",
+    "title": "复古桌面像素 UI",
+    "summary": "老电脑窗口、任务栏、图标与光标，3 种像素外观，窗口式管理界面的有趣思路。",
+    "url": "https://yraj1457.itch.io/pixel-desk-ui-kit",
+    "imageUrl": "/covers/itch-yraj1457-pixel-desk-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-yraj1457-pixel-desk-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ahustga-psx-horror-ui",
+    "type": "inspiration",
+    "title": "PSX 恐怖游戏 UI",
+    "summary": "暗红背包格、状态心电图和菜单，CRT 质感强，物品栏图标排布清楚。",
+    "url": "https://ahustga.itch.io/psx-horror-ui",
+    "imageUrl": "/covers/itch-ahustga-psx-horror-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-ahustga-psx-horror-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122852015793668394",
+    "type": "inspiration",
+    "title": "像素 UI 重做进行中",
+    "summary": "开发者重做的暗色像素背包与地图面板，左右双栏加底部快捷栏，信息密度高仍然清楚。",
+    "url": "https://x.com/wade_dev/status/2122852015793668394",
+    "imageUrl": "/covers/x-2122852015793668394.jpg",
+    "source": "x",
+    "sourceId": "x-2122852015793668394",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-18",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2122388999390040403",
     "type": "game",
     "title": "Vhalenn 瀑布小憩",
