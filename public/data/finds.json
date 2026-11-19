@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-2dshower-isometric-adventure-map-kit",
+    "type": "inspiration",
+    "title": "等距冒险大地图套件",
+    "summary": "300 块等距地形加城镇、矿场、巢穴、神龛和英雄坐骑，英雄无敌式策略大地图的地表与据点布局参考。",
+    "url": "https://2dshower.itch.io/isometric-adventure-map-kit",
+    "imageUrl": "/covers/itch-2dshower-isometric-adventure-map-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-2dshower-isometric-adventure-map-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-coffeemmo-nyria-desert-winter-pack",
+    "type": "inspiration",
+    "title": "Nyria 沙漠与雪原图块",
+    "summary": "16×16 沙丘、绿洲、遗迹、雪地和冰面，两种气候生物群系配色对比鲜明，大地图分区好参考。",
+    "url": "https://coffeemmo.itch.io/nyria-desert-winter-pack",
+    "imageUrl": "/covers/itch-coffeemmo-nyria-desert-winter-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-coffeemmo-nyria-desert-winter-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-kitepost-stormwatch",
+    "type": "inspiration",
+    "title": "风筝驿站浮空岛图块",
+    "summary": "浮空岛地块、天空码头和滑翔机动画，岛屿边缘与云层的层次处理干净，空中地形思路新颖。",
+    "url": "https://goodthings.itch.io/kitepost-stormwatch",
+    "imageUrl": "/covers/itch-goodthings-kitepost-stormwatch.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-kitepost-stormwatch",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-in-the-void-unruin",
+    "type": "inspiration",
+    "title": "UNRUIN 废墟/修复村庄",
+    "summary": "16×16 村庄每块图块都有破败和修复两版，适合表现文明兴衰、灾后重建的上帝视角玩法。",
+    "url": "https://in-the-void.itch.io/unruin",
+    "imageUrl": "/covers/itch-in-the-void-unruin.jpg",
+    "source": "itch",
+    "sourceId": "itch-in-the-void-unruin",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122778584192364855",
+    "type": "inspiration",
+    "title": "细节拉满的等距像素 RPG",
+    "summary": "斜俯视的石板广场、木屋屋顶和投影层次丰富，等距像素地面的材质密度很值得参考。",
+    "url": "https://x.com/OubralsLantern/status/2122778584192364855",
+    "imageUrl": "/covers/x-2122778584192364855.jpg",
+    "source": "x",
+    "sourceId": "x-2122778584192364855",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qzforge-3d-low-poly-pixel-art-dungeon-pack",
+    "type": "inspiration",
+    "title": "低模像素贴图地牢 167 件",
+    "summary": "低多边形配像素贴图的模块化地牢墙地、门和道具，3D 像素风地下场景的拼装范例。",
+    "url": "https://qzforge.itch.io/3d-low-poly-pixel-art-dungeon-pack",
+    "imageUrl": "/covers/itch-qzforge-3d-low-poly-pixel-art-dungeon-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-3d-low-poly-pixel-art-dungeon-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-qzforge-low-poly-pixel-art-savanna-resource-pack",
+    "type": "inspiration",
+    "title": "低模像素草原生物群系",
+    "summary": "猴面包树、红土地和岩石的 369 件低模像素资源，暖黄配色的 3D 草原地形很出彩。",
+    "url": "https://qzforge.itch.io/low-poly-pixel-art-savanna-resource-pack",
+    "imageUrl": "/covers/itch-qzforge-low-poly-pixel-art-savanna-resource-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-low-poly-pixel-art-savanna-resource-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-tinyvoxeldungeon",
+    "type": "inspiration",
+    "title": "体素沙漠地牢模块",
+    "summary": "MagicaVoxel 制作的沙色地牢墙体、楼梯和机关，附等距 2D 渲染图，体素地形拼装参考。",
+    "url": "https://maxparata.itch.io/tinyvoxeldungeon",
+    "imageUrl": "/covers/itch-maxparata-tinyvoxeldungeon.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-tinyvoxeldungeon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-voxel-ancient-environment",
+    "type": "inspiration",
+    "title": "体素远古遗迹环境",
+    "summary": "长满苔藓的石柱、神殿残骸和发光植物，暗绿色调的体素遗迹氛围感很强。",
+    "url": "https://maxparata.itch.io/voxel-ancient-environment",
+    "imageUrl": "/covers/itch-maxparata-voxel-ancient-environment.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-voxel-ancient-environment",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-0lvere",
+    "type": "inspiration",
+    "title": "我的世界风体素地形",
+    "summary": "Houdini 生成的大片体素地形，草地、雪山、水域按高度分布，像一张 3D 体素世界地图。",
+    "url": "https://www.artstation.com/artwork/0lvere",
+    "imageUrl": "/covers/artstation-0lvere.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-0lvere",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-k1-ghost-warrior-knight-12-colors",
+    "type": "inspiration",
+    "title": "12 色模块化骑士",
+    "summary": "中世纪骑士 11 种配色、9 套流畅动作，按阵营换色的思路很适合策略游戏兵种。",
+    "url": "https://k1-ghost.itch.io/warrior-knight-12-colors",
+    "imageUrl": "/covers/itch-k1-ghost-warrior-knight-12-colors.jpg",
+    "source": "itch",
+    "sourceId": "itch-k1-ghost-warrior-knight-12-colors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-eggrY6",
+    "type": "inspiration",
+    "title": "像素耶尼切里行军",
+    "summary": "奥斯曼禁卫军举旗行军的像素动画，民族纹样边框和服饰细节浓郁，历史战争兵种参考。",
+    "url": "https://www.artstation.com/artwork/eggrY6",
+    "imageUrl": "/covers/artstation-eggrY6.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-eggrY6",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-coffeemmo-nyria-villagers-pack",
+    "type": "inspiration",
+    "title": "Nyria 村民 42 款",
+    "summary": "42 个 16×16 村民 4 方向行走动画，职业和服装区分清楚，上帝视角小人口模拟正合适。",
+    "url": "https://coffeemmo.itch.io/nyria-villagers-pack",
+    "imageUrl": "/covers/itch-coffeemmo-nyria-villagers-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-coffeemmo-nyria-villagers-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-alannix-magma-military-pack",
+    "type": "inspiration",
+    "title": "熔炉先锋军团",
+    "summary": "火山主题的重甲兵、炮手和战车部队，暗红熔岩配色统一，阵营兵种设计参考。",
+    "url": "https://alannix.itch.io/magma-military-pack",
+    "imageUrl": "/covers/itch-alannix-magma-military-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-alannix-magma-military-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2122339371370340799",
+    "type": "inspiration",
+    "title": "诅咒王国亡灵兵种",
+    "summary": "48×48 骷髅、木乃伊、无头死神、骨魔像等 10 种亡灵单位，剪影辨识度高，阵营怪物参考。",
+    "url": "https://x.com/Tcatstar/status/2122339371370340799",
+    "imageUrl": "/covers/x-2122339371370340799.jpg",
+    "source": "x",
+    "sourceId": "x-2122339371370340799",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mythrylstudio-tiny-empires",
+    "type": "inspiration",
+    "title": "迷你帝国中世纪 RTS",
+    "summary": "4 个阵营的等距动画兵种与建筑，32px 格子即拼即用，RTS/上帝视角建造的建筑等级参考。",
+    "url": "https://mythrylstudio.itch.io/tiny-empires",
+    "imageUrl": "/covers/itch-mythrylstudio-tiny-empires.jpg",
+    "source": "itch",
+    "sourceId": "itch-mythrylstudio-tiny-empires",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mekai-games-medieval-town-kit",
+    "type": "inspiration",
+    "title": "等距中世纪城镇套件",
+    "summary": "830+ 件等距房屋、城堡、室内和陷阱，夜色灯光下的木石城镇很有氛围，城建布局参考。",
+    "url": "https://mekai-games.itch.io/medieval-town-kit",
+    "imageUrl": "/covers/itch-mekai-games-medieval-town-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-mekai-games-medieval-town-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-2dshower-isometric-map-schools-boons",
+    "type": "inspiration",
+    "title": "等距大地图学院与增益点",
+    "summary": "16 种技能学习建筑和 16 个运气、士气加成点，策略大地图功能建筑的造型区分参考。",
+    "url": "https://2dshower.itch.io/isometric-map-schools-boons",
+    "imageUrl": "/covers/itch-2dshower-isometric-map-schools-boons.jpg",
+    "source": "itch",
+    "sourceId": "itch-2dshower-isometric-map-schools-boons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-coffeemmo-nyria-village-pack",
+    "type": "inspiration",
+    "title": "Nyria 村庄房屋与室内",
+    "summary": "43 栋 16×16 房屋带屋顶和室内，色彩明快统一，小格子村镇建筑的配色参考。",
+    "url": "https://coffeemmo.itch.io/nyria-village-pack",
+    "imageUrl": "/covers/itch-coffeemmo-nyria-village-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-coffeemmo-nyria-village-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-eRbra3",
+    "type": "inspiration",
+    "title": "中世纪城堡建筑拆件",
+    "summary": "城墙、塔楼、拱门、旗帜和城门的灰石拆件表，可拼出多种城堡，模块化城建思路清楚。",
+    "url": "https://www.artstation.com/artwork/eRbra3",
+    "imageUrl": "/covers/artstation-eRbra3.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-eRbra3",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-djagdev-hearthwick-building-kit",
+    "type": "inspiration",
+    "title": "炉边村方块房屋套件",
+    "summary": "45 件方块风墙、屋顶、地板与楼梯按同一网格拼接，3D 体素中世纪村屋的模块化范例。",
+    "url": "https://djagdev.itch.io/hearthwick-building-kit",
+    "imageUrl": "/covers/itch-djagdev-hearthwick-building-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-djagdev-hearthwick-building-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-z-zeal-isometric-voxel-building-pack-legion",
+    "type": "inspiration",
+    "title": "等距体素基地：军团",
+    "summary": "等距体素兵营、仓库和水塔，4 朝向 6 种队伍色，RTS 基地建筑的阵营换色参考。",
+    "url": "https://z-zeal.itch.io/isometric-voxel-building-pack-legion",
+    "imageUrl": "/covers/itch-z-zeal-isometric-voxel-building-pack-legion.jpg",
+    "source": "itch",
+    "sourceId": "itch-z-zeal-isometric-voxel-building-pack-legion",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-kw4K2x",
+    "type": "inspiration",
+    "title": "体素新古典大宅",
+    "summary": "体素堆出的多层新古典宅邸，柱廊、阳台和屋檐细节扎实，体素大型建筑的比例参考。",
+    "url": "https://www.artstation.com/artwork/kw4K2x",
+    "imageUrl": "/covers/artstation-kw4K2x.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-kw4K2x",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "artstation-O335ne",
+    "type": "inspiration",
+    "title": "体素沙漠神殿",
+    "summary": "金顶神殿立在沙岩高地上，等距小地块的地形和建筑融为一体，体素奇观建筑参考。",
+    "url": "https://www.artstation.com/artwork/O335ne",
+    "imageUrl": "/covers/artstation-O335ne.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-O335ne",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voskullvoxels-wild-west-environments-theme-3d-voxel-models-mini-bundle-low-poly-3d-model",
+    "type": "inspiration",
+    "title": "体素西部小镇环境",
+    "summary": "木屋、篝火、仙人掌和货摊的体素小品，暖褐色调统一，3D 体素聚落布景参考。",
+    "url": "https://voskullvoxels.itch.io/wild-west-environments-theme-3d-voxel-models-mini-bundle-low-poly-3d-model",
+    "imageUrl": "/covers/itch-voskullvoxels-wild-west-environments-theme-3d-voxel-models-mini-bundle-low-poly-3d-model.jpg",
+    "source": "itch",
+    "sourceId": "itch-voskullvoxels-wild-west-environments-theme-3d-voxel-models-mini-bundle-low-poly-3d-model",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-coffeemmo-nyria-ui-kit",
+    "type": "inspiration",
+    "title": "Nyria 像素 UI 套件",
+    "summary": "面板、按钮、状态条、140 个技能图标和 2 款像素字体，叠在地图上的 HUD 层级清楚。",
+    "url": "https://coffeemmo.itch.io/nyria-ui-kit",
+    "imageUrl": "/covers/itch-coffeemmo-nyria-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-coffeemmo-nyria-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wanderingnomad1995-deckbuilder-starter-kit-vol-1-dark-fantasy-pixel-ui",
+    "type": "inspiration",
+    "title": "暗黑奇幻卡牌像素 UI",
+    "summary": "55 个卡框、卡背、地图节点和能量球，暗紫配金边的哥特风界面质感很好。",
+    "url": "https://wanderingnomad1995.itch.io/deckbuilder-starter-kit-vol-1-dark-fantasy-pixel-ui",
+    "imageUrl": "/covers/itch-wanderingnomad1995-deckbuilder-starter-kit-vol-1-dark-fantasy-pixel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-wanderingnomad1995-deckbuilder-starter-kit-vol-1-dark-fantasy-pixel-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-arejay561-cozy-pixel-ui-kit-godot",
+    "type": "inspiration",
+    "title": "柔和粉彩像素 UI",
+    "summary": "圆角粉彩面板、滑块和标签页，暖奶油色调和你的 C 风格接近，设置界面直接可参考。",
+    "url": "https://arejay561.itch.io/cozy-pixel-ui-kit-godot",
+    "imageUrl": "/covers/itch-arejay561-cozy-pixel-ui-kit-godot.jpg",
+    "source": "itch",
+    "sourceId": "itch-arejay561-cozy-pixel-ui-kit-godot",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-anoisek-pixel-ui-kits",
+    "type": "inspiration",
+    "title": "32 主题像素 UI 合集",
+    "summary": "同一套面板、按钮、槽位做出 32 种主题配色，9 宫格可拉伸，换皮方案很好借鉴。",
+    "url": "https://anoisek.itch.io/pixel-ui-kits",
+    "imageUrl": "/covers/itch-anoisek-pixel-ui-kits.jpg",
+    "source": "itch",
+    "sourceId": "itch-anoisek-pixel-ui-kits",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-eROPqJ",
+    "type": "inspiration",
+    "title": "像素羊皮卷与丝带 GUI",
+    "summary": "可拼接的卷轴、丝带标题和羊皮纸面板，配地图底纹很适合科技树或国家信息面板。",
+    "url": "https://www.artstation.com/artwork/eROPqJ",
+    "imageUrl": "/covers/artstation-eROPqJ.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-eROPqJ",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-o0O2QW",
+    "type": "inspiration",
+    "title": "Eldertide 主菜单 UI",
+    "summary": "森林场景上叠石质按钮的主菜单，标题字和发光元素统一，像素游戏开场界面参考。",
+    "url": "https://www.artstation.com/artwork/o0O2QW",
+    "imageUrl": "/covers/artstation-o0O2QW.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-o0O2QW",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kedamahaku-wafu-skill-icons-32px",
+    "type": "inspiration",
+    "title": "和风技能图标 32px",
+    "summary": "50 个 32×32 技能图标，每个都有就绪/按下/禁用三态，按钮状态设计很完整。",
+    "url": "https://kedamahaku.itch.io/wafu-skill-icons-32px",
+    "imageUrl": "/covers/itch-kedamahaku-wafu-skill-icons-32px.jpg",
+    "source": "itch",
+    "sourceId": "itch-kedamahaku-wafu-skill-icons-32px",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-inkbyte7-pixel-realms-300-rpg-icons-collection-vol1",
+    "type": "inspiration",
+    "title": "像素领域 300 RPG 图标",
+    "summary": "300 个 32×32 武器、护甲、药水、宝石图标，色彩饱满轮廓清楚，资源与物品图标参考。",
+    "url": "https://inkbyte7.itch.io/pixel-realms-300-rpg-icons-collection-vol1",
+    "imageUrl": "/covers/itch-inkbyte7-pixel-realms-300-rpg-icons-collection-vol1.jpg",
+    "source": "itch",
+    "sourceId": "itch-inkbyte7-pixel-realms-300-rpg-icons-collection-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "artstation-xdY3x2",
+    "type": "inspiration",
+    "title": "复古像素对话框 UI",
+    "summary": "木框对话框、头像框和血条叠在小场景上，暖色木纹边框简洁，对话与提示框参考。",
+    "url": "https://www.artstation.com/artwork/xdY3x2",
+    "imageUrl": "/covers/artstation-xdY3x2.jpg",
+    "source": "artstation",
+    "sourceId": "artstation-xdY3x2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-arejay561-pixel-ui-kit-godot",
+    "type": "inspiration",
+    "title": "深红像素设置面板",
+    "summary": "设置、背包、状态三标签页，滑块、复选框和单选齐全，游戏设置界面的控件参考。",
+    "url": "https://arejay561.itch.io/pixel-ui-kit-godot",
+    "imageUrl": "/covers/itch-arejay561-pixel-ui-kit-godot.jpg",
+    "source": "itch",
+    "sourceId": "itch-arejay561-pixel-ui-kit-godot",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-19",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2122688186308599891",
     "type": "game",
     "title": "ForkedPush 湖上垂钓 RPG",
