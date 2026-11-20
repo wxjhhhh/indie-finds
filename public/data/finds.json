@@ -1,5 +1,824 @@
 [
   {
+    "id": "x-2123295206208401439",
+    "type": "game",
+    "title": "Driftwood 荒岛建造",
+    "summary": "荒岛求生的建造实机：在网格上放下幽灵预览，漂流者就挥锤搭起简棚、篝火、火把柱和木箱，棕榈与海滩是风格化 3D。",
+    "url": "https://x.com/itsfazley/status/2123295206208401439",
+    "imageUrl": "/covers/x-2123295206208401439.jpg",
+    "source": "x",
+    "sourceId": "2123295206208401439",
+    "tags": [
+      "x-bookmark",
+      "survival",
+      "building",
+      "island",
+      "沙盒/探索",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "沙盒/探索",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123095340241048021",
+    "type": "shader",
+    "title": "Pure Nature 2 东亚山谷",
+    "summary": "收藏的 Unity 环境资源预告：俯瞰层层梯田、山村与谷间河流，竹林和田埂一直铺到远山，是东亚田园风的大场景。",
+    "url": "https://x.com/AssetLove/status/2123095340241048021",
+    "imageUrl": "/covers/x-2123095340241048021.jpg",
+    "source": "x",
+    "sourceId": "2123095340241048021",
+    "tags": [
+      "x-bookmark",
+      "unity",
+      "environment",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123286750110077049",
+    "type": "shader",
+    "title": "瞄准镜眼点与镜头着色",
+    "summary": "KatDoes3D 调瞄准镜着色：白色背景里一个带十字分划的圆形目镜，边缘一圈柔和虚化，用来表现眼点（eye relief）和镜头数值。",
+    "url": "https://x.com/KatDoes3D/status/2123286750110077049",
+    "imageUrl": "/covers/x-2123286750110077049.jpg",
+    "source": "x",
+    "sourceId": "2123286750110077049",
+    "tags": [
+      "x-bookmark",
+      "shader",
+      "lens",
+      "scope"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123285935936909776",
+    "type": "shader",
+    "title": "ME AND BRO 沼泽快艇",
+    "summary": "风格化 3D 短片：黄昏芦苇荡里两个人开着浅蓝快艇破浪前行，船上叠着 ME AND BRO 字样，水面与喷溅很夸张。",
+    "url": "https://x.com/0xInk_/status/2123285935936909776",
+    "imageUrl": "/covers/x-2123285935936909776.jpg",
+    "source": "x",
+    "sourceId": "2123285935936909776",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "water",
+      "animation"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123155634216460486",
+    "type": "shader",
+    "title": "Godot 风格化水体",
+    "summary": "80 Level 介绍的 Godot 风格化 3D 水体：棕榈、浅滩和一艘海盗船停在高饱和的青蓝水面上，带波浪、泡沫与焦散。",
+    "url": "https://x.com/80Level/status/2123155634216460486",
+    "imageUrl": "/covers/x-2123155634216460486.jpg",
+    "source": "x",
+    "sourceId": "2123155634216460486",
+    "tags": [
+      "x-bookmark",
+      "godot",
+      "water",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123250179952484477",
+    "type": "shader",
+    "title": "安藤路与阿姆斯特丹街景",
+    "summary": "Aprilzz 用 GPT-6.2 Astra 做的街尺度实验：轴测视角的阿姆斯特丹运河转角排屋，据说用了真实建筑数据和季节变化。",
+    "url": "https://x.com/Aprilzz423/status/2123250179952484477",
+    "imageUrl": "/covers/x-2123250179952484477.jpg",
+    "source": "x",
+    "sourceId": "2123250179952484477",
+    "tags": [
+      "x-bookmark",
+      "ai-generated",
+      "city",
+      "isometric"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123532936310042974",
+    "type": "game",
+    "title": "Runespell 低多边形法术",
+    "summary": "低多边形角色站在紫红栏杆的石砌阳台上，身边一颗半透明方块，灯光明暗很硬，作者说这是 Runespell 的低多边形/像素风预告。",
+    "url": "https://x.com/alexmmmmichael/status/2123532936310042974",
+    "imageUrl": "/covers/x-2123532936310042974.jpg",
+    "source": "x",
+    "sourceId": "2123532936310042974",
+    "tags": [
+      "lowpoly",
+      "pixel",
+      "adventure",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123454102411559398",
+    "type": "game",
+    "title": "Pikebound 方阵长矛兵",
+    "summary": "低多边形骷髅头长矛兵沿着土路列队：从 Pikeman 升到 Spearman，再把三支长矛对准骑兵冲击。3D 单位块面清楚，是 Pikebound 的方阵单位介绍。",
+    "url": "https://x.com/DeveloperAbi/status/2123454102411559398",
+    "imageUrl": "/covers/x-2123454102411559398.jpg",
+    "source": "x",
+    "sourceId": "2123454102411559398",
+    "tags": [
+      "lowpoly",
+      "medieval",
+      "rts",
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2123059926989951070",
+    "type": "game",
+    "title": "Brewhaven 酿酒殖民地",
+    "summary": "秋天白桦林里玩家正对着一只红色大蜘蛛，任务栏要建脚夫公会、安排运货和酿酒。是酿啤酒还能给村民附加魔法效果的殖民地经营。",
+    "url": "https://x.com/WellfallStudios/status/2123059926989951070",
+    "imageUrl": "/covers/x-2123059926989951070.jpg",
+    "source": "x",
+    "sourceId": "2123059926989951070",
+    "tags": [
+      "colony-sim",
+      "tavern",
+      "stylized",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123101641247469956",
+    "type": "game",
+    "title": "Age of Scrap 废土基建 RTS",
+    "summary": "第一人称站在石墙垛口往下看草地与小路，界面写着 Design and use your own base：分五阶段成长，基地会自己往上盖，偏 Rust 味的 RTS。",
+    "url": "https://x.com/bootleggedbatma/status/2123101641247469956",
+    "imageUrl": "/covers/x-2123101641247469956.jpg",
+    "source": "x",
+    "sourceId": "2123101641247469956",
+    "tags": [
+      "rts",
+      "base-building",
+      "survival",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123467171137556930",
+    "type": "game",
+    "title": "Salt of the Earth 盐土城建",
+    "summary": "等距中世纪城建实机：在 BLACKHALL UNDER WOOD 的树林草地上放置庄园，任务是凑 25 名居民并建集市，还要囤粮过冬、修塔防劫匪。",
+    "url": "https://x.com/outonsteam/status/2123467171137556930",
+    "imageUrl": "/covers/x-2123467171137556930.jpg",
+    "source": "x",
+    "sourceId": "2123467171137556930",
+    "tags": [
+      "city-builder",
+      "medieval",
+      "isometric",
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2123099615557746817",
+    "type": "game",
+    "title": "Powder & Crown 火药与王冠",
+    "summary": "1764 年争夺波兰王位的 RTS：红衣火枪队列正在齐射，对面绿衣步兵举着蓝白旗，右侧一队红骑兵压上来，硝烟一团团散开。",
+    "url": "https://x.com/powderandcrown/status/2123099615557746817",
+    "imageUrl": "/covers/x-2123099615557746817.jpg",
+    "source": "x",
+    "sourceId": "2123099615557746817",
+    "tags": [
+      "rts",
+      "historical",
+      "cavalry",
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2123256012232876395",
+    "type": "game",
+    "title": "Thrill Craft 游乐园建造",
+    "summary": "3D 游乐园全景：红色过山车轨道爬上天空，前面是旋转木马和大转轮，游客沿花坛走道往里走，是游乐园建造经营的首次实机。",
+    "url": "https://x.com/thrillcraftgame/status/2123256012232876395",
+    "imageUrl": "/covers/x-2123256012232876395.jpg",
+    "source": "x",
+    "sourceId": "2123256012232876395",
+    "tags": [
+      "tycoon",
+      "management",
+      "park",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123507135040405967",
+    "type": "game",
+    "title": "Upgrade Factory 三维六边形地图",
+    "summary": "浅色背景上的立体六边形战场：棕色高地、蓝色河道与深潭、成簇的绿色林地，标题写着 Raise the hills. Carve the rivers.，是给战棋准备的 3D 六边形地图工具。",
+    "url": "https://x.com/UpgradeFactory/status/2123507135040405967",
+    "imageUrl": "/covers/x-2123507135040405967.jpg",
+    "source": "x",
+    "sourceId": "2123507135040405967",
+    "tags": [
+      "hex",
+      "wargame",
+      "map-maker",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2123462839570416110",
+    "type": "game",
+    "title": "My Dream Gym 健身房沙盒",
+    "summary": "俯视 3D 健身房：跑步机和单车摆成几排，多台器械顶着红色感叹号，有人正走进去，前台还坐着工作人员，是健身房建造经营。",
+    "url": "https://x.com/jadewakestudio/status/2123462839570416110",
+    "imageUrl": "/covers/x-2123462839570416110.jpg",
+    "source": "x",
+    "sourceId": "2123462839570416110",
+    "tags": [
+      "management",
+      "building",
+      "tycoon",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123120243765637573",
+    "type": "shader",
+    "title": "UE5 辫状绳索物理",
+    "summary": "虚幻 5 的物理绳索：人站在灰地上，一条带编织纹理的绳子会绕过障碍再绷紧，绳子本身在动而不是贴图在滑。",
+    "url": "https://x.com/unity3dvfx/status/2123120243765637573",
+    "imageUrl": "/covers/x-2123120243765637573.jpg",
+    "source": "x",
+    "sourceId": "2123120243765637573",
+    "tags": [
+      "ue5",
+      "physics",
+      "rope",
+      "techart"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123435163032178895",
+    "type": "shader",
+    "title": "tkduze Godot 交互水体",
+    "summary": "Godot 风格化场景：水井搭着蓝色棚顶，左边是浅塘，前景草地被压出一圈湿痕，作者说这是可交互草地之后做的可交互水。",
+    "url": "https://x.com/tkduze/status/2123435163032178895",
+    "imageUrl": "/covers/x-2123435163032178895.jpg",
+    "source": "x",
+    "sourceId": "2123435163032178895",
+    "tags": [
+      "godot",
+      "water",
+      "grass",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123400914526687396",
+    "type": "shader",
+    "title": "Godot 连锁闪电 VFX",
+    "summary": "棋盘地面上几颗带表情的圆球被紫色电弧依次击中，闪电会从上一个目标弹到下一个，是 Godot 的连锁闪电特效测试。",
+    "url": "https://x.com/jettelly/status/2123400914526687396",
+    "imageUrl": "/covers/x-2123400914526687396.jpg",
+    "source": "x",
+    "sourceId": "2123400914526687396",
+    "tags": [
+      "godot",
+      "vfx",
+      "lightning"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123370718402339176",
+    "type": "shader",
+    "title": "Godot 泳池焦散地板",
+    "summary": "一张平面被着色器做成闪烁的池底：青色网格波纹和光斑在水下移动，像阳光穿过水面打在瓷砖上。",
+    "url": "https://x.com/jettelly/status/2123370718402339176",
+    "imageUrl": "/covers/x-2123370718402339176.jpg",
+    "source": "x",
+    "sourceId": "2123370718402339176",
+    "tags": [
+      "godot",
+      "shader",
+      "caustics",
+      "water"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123470133880614995",
+    "type": "shader",
+    "title": "UE 纹理深度心形",
+    "summary": "虚幻里一块鲜红的心形平面，加上纹理后表面有起伏和深度，作者说同一套做法也可以换成更复杂的图形。",
+    "url": "https://x.com/delaigrodela/status/2123470133880614995",
+    "imageUrl": "/covers/x-2123470133880614995.jpg",
+    "source": "x",
+    "sourceId": "2123470133880614995",
+    "tags": [
+      "ue",
+      "vfx",
+      "shader",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123231586640703778",
+    "type": "shader",
+    "title": "体积闪电 Vol.78 渐变色",
+    "summary": "深色场景里一道紫色闪电在几何体之间拉出体积感，着色器加了颜色渐变，是 keebar 体积闪电系列第 78 期。",
+    "url": "https://x.com/keebar_techArt/status/2123231586640703778",
+    "imageUrl": "/covers/x-2123231586640703778.jpg",
+    "source": "x",
+    "sourceId": "2123231586640703778",
+    "tags": [
+      "techart",
+      "lightning",
+      "volumetric"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123412103994151086",
+    "type": "shader",
+    "title": "Codevember 19 侵蚀地球",
+    "summary": "three.js 做的一颗地球在缓慢被侵蚀：陆地板块像被水削过，海洋与地形交界还在算，是 Codevember 第 19 天。",
+    "url": "https://x.com/_pwd_/status/2123412103994151086",
+    "imageUrl": "/covers/x-2123412103994151086.jpg",
+    "source": "x",
+    "sourceId": "2123412103994151086",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "erosion",
+      "codevember"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123280110698869188",
+    "type": "shader",
+    "title": "宝石与动漫眼睛着色器",
+    "summary": "同一套 Unity 着色器用在两处：一颗切面宝石在转出高光，旁边一只紫色动漫眼睛的虹膜同样在闪，是材质技巧演示。",
+    "url": "https://x.com/jettelly/status/2123280110698869188",
+    "imageUrl": "/covers/x-2123280110698869188.jpg",
+    "source": "x",
+    "sourceId": "2123280110698869188",
+    "tags": [
+      "unity",
+      "shader",
+      "gemstone"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123446216889655801",
+    "type": "shader",
+    "title": "水韻 Suiin 西芳寺庭园",
+    "summary": "WebGL 交互庭园：青苔、石块和一汪池水，手指划过水面会泛起波纹和焦散，灵感来自京都西芳寺的黄金池。",
+    "url": "https://x.com/masa_px/status/2123446216889655801",
+    "imageUrl": "/covers/x-2123446216889655801.jpg",
+    "source": "x",
+    "sourceId": "2123446216889655801",
+    "tags": [
+      "webgl",
+      "threejs",
+      "water",
+      "garden"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123352556504072406",
+    "type": "shader",
+    "title": "Three.js WebGPU 街区",
+    "summary": "作者第一次用 Three.js + WebGPU 搭的 3D 环境：浅色现代建筑排在街道两侧，编辑器界面还开在旁边。",
+    "url": "https://x.com/mytahir_dev/status/2123352556504072406",
+    "imageUrl": "/covers/x-2123352556504072406.jpg",
+    "source": "x",
+    "sourceId": "2123352556504072406",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "environment"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123505606803751002",
+    "type": "shader",
+    "title": "Godot 草地与水洼生成",
+    "summary": "开阔绿野上草随风偏，低洼处积着一小片水洼，远处有树，是 Godot 里程序生成的草地和水洼。",
+    "url": "https://x.com/chep4ikp0/status/2123505606803751002",
+    "imageUrl": "/covers/x-2123505606803751002.jpg",
+    "source": "x",
+    "sourceId": "2123505606803751002",
+    "tags": [
+      "godot",
+      "grass",
+      "water",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123565380572782883",
+    "type": "shader",
+    "title": "体积闪电 Vol.80 彩虹电",
+    "summary": "同样的体积闪电，这期给预设加了随机颜色，电弧会在紫、青之间跳，是第 80 期彩虹闪电。",
+    "url": "https://x.com/keebar_techArt/status/2123565380572782883",
+    "imageUrl": "/covers/x-2123565380572782883.jpg",
+    "source": "x",
+    "sourceId": "2123565380572782883",
+    "tags": [
+      "techart",
+      "lightning",
+      "volumetric"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123347531409113259",
+    "type": "shader",
+    "title": "半透明义肢着色器",
+    "summary": "Unity 场景里一条半透明的义肢或机械臂，内部结构和表面折射都看得见，是偏写实的定制着色器展示。",
+    "url": "https://x.com/indieforgames/status/2123347531409113259",
+    "imageUrl": "/covers/x-2123347531409113259.jpg",
+    "source": "x",
+    "sourceId": "2123347531409113259",
+    "tags": [
+      "unity",
+      "shader",
+      "material"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123426570207441053",
+    "type": "shader",
+    "title": "dabble 抖动模式",
+    "summary": "红色圆形图案铺满画面，软边形状被改成抖动网点，颗粒感很强，是 dabble 即将发布前的 dither 模式。",
+    "url": "https://x.com/danjan_design/status/2123426570207441053",
+    "imageUrl": "/covers/x-2123426570207441053.jpg",
+    "source": "x",
+    "sourceId": "2123426570207441053",
+    "tags": [
+      "shader",
+      "dither",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123555706989347190",
+    "type": "shader",
+    "title": "瞄准镜场阑特写",
+    "summary": "第一人称瞄准镜里能看见准星外的草地和远处一个人，圆形场阑（field stop）把视野切得很干净，是镜头光学效果演示。",
+    "url": "https://x.com/KatDoes3D/status/2123555706989347190",
+    "imageUrl": "/covers/x-2123555706989347190.jpg",
+    "source": "x",
+    "sourceId": "2123555706989347190",
+    "tags": [
+      "shader",
+      "lens",
+      "scope"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123347109890211928",
+    "type": "shader",
+    "title": "Three.js 雪豹",
+    "summary": "雪山上的实时 3D 雪豹：多层体积毛发、几种步态和雪地上的脚印，远处是 paler 的峰线，用 Three.js 做的交互演示。",
+    "url": "https://x.com/fxgg76665/status/2123347109890211928",
+    "imageUrl": "/covers/x-2123347109890211928.jpg",
+    "source": "x",
+    "sourceId": "2123347109890211928",
+    "tags": [
+      "threejs",
+      "webgl",
+      "fur",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123430512056570015",
+    "type": "shader",
+    "title": "TSL 光盘衍射着色器",
+    "summary": "一张光盘斜放在白背景上，衍射光栅把高光拆成光谱色，指针旁边还能看到色散，是用 TSL 写的 CD shader。",
+    "url": "https://x.com/NeeLandro/status/2123430512056570015",
+    "imageUrl": "/covers/x-2123430512056570015.jpg",
+    "source": "x",
+    "sourceId": "2123430512056570015",
+    "tags": [
+      "threejs",
+      "tsl",
+      "webgpu",
+      "diffraction"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123419784318775439",
+    "type": "shader",
+    "title": "程序化梅花树",
+    "summary": "浏览器里一棵冬天的梅树：深色枝桠上开着浅粉花，完全程序生成、没有外置模型或贴图，用 Three.js 做的。",
+    "url": "https://x.com/fxgg76665/status/2123419784318775439",
+    "imageUrl": "/covers/x-2123419784318775439.jpg",
+    "source": "x",
+    "sourceId": "2123419784318775439",
+    "tags": [
+      "threejs",
+      "procedural",
+      "tree"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123461307005378635",
+    "type": "shader",
+    "title": "Alpine 山谷导入 UE5",
+    "summary": "先在浏览器 WorldWeaver 里手摆的阿尔卑斯山谷，再放到 UE5 里长出写实树木和草甸，绿色坡地一直延伸到远处。",
+    "url": "https://x.com/cosindra/status/2123461307005378635",
+    "imageUrl": "/covers/x-2123461307005378635.jpg",
+    "source": "x",
+    "sourceId": "2123461307005378635",
+    "tags": [
+      "ue5",
+      "terrain",
+      "worldgen"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123531479498305824",
+    "type": "shader",
+    "title": "WebGPU 28 万棵树",
+    "summary": "俯视一片茂密绿林，作者说在浏览器 WebGPU + three.js 里跑到 28 万棵树、RTX 3060 上 60 帧。",
+    "url": "https://x.com/nawariokra/status/2123531479498305824",
+    "imageUrl": "/covers/x-2123531479498305824.jpg",
+    "source": "x",
+    "sourceId": "2123531479498305824",
+    "tags": [
+      "webgpu",
+      "threejs",
+      "trees",
+      "performance"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123499050234433644",
+    "type": "shader",
+    "title": "Reality Origami 折叠地貌",
+    "summary": "风格化小世界：浅蓝山脉和白色结晶结构立在草地上，按 1–4 会看地貌折叠。场景由 GPU 按种子和相机程序生成溅射点。",
+    "url": "https://x.com/cutetoxicguy/status/2123499050234433644",
+    "imageUrl": "/covers/x-2123499050234433644.jpg",
+    "source": "x",
+    "sourceId": "2123499050234433644",
+    "tags": [
+      "procedural",
+      "splat",
+      "webgpu",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "x-2123121404325593536",
+    "type": "shader",
+    "title": "UE5 闪烁体积光",
+    "summary": "黑暗房间里地板上排出粉紫灯带，光在空气里有体积感，还在一下一下闪，是 UE5 的灯光 VFX。",
+    "url": "https://x.com/MOCHITSUNAMI/status/2123121404325593536",
+    "imageUrl": "/covers/x-2123121404325593536.jpg",
+    "source": "x",
+    "sourceId": "2123121404325593536",
+    "tags": [
+      "ue5",
+      "vfx",
+      "volumetric",
+      "lighting"
+    ],
+    "collectedAt": "2026-11-20"
+  },
+  {
+    "id": "steam-5447490",
+    "type": "game",
+    "title": "MOST ARE MINE 亡灵围城",
+    "summary": "低多边形亡灵潮水般涌向一座蓝顶白堡：右侧计数有 783 个徵兵、424 长矛、550 弓手，施法者站在紫阵上把倒下的人再拉起来，是“他们大多数是我的人”的万人围城。$4.49。",
+    "url": "https://store.steampowered.com/app/5447490/",
+    "imageUrl": "/covers/steam-5447490.jpg",
+    "source": "steam",
+    "sourceId": "5447490",
+    "tags": [
+      "steam",
+      "wargame",
+      "necromancer",
+      "siege",
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-4743950",
+    "type": "game",
+    "title": "Titanhelm 泰坦基地",
+    "summary": "海岛沙滩上建造农田和炮塔，玩家驾驶一尊挥着燃烧大剑的泰坦在岸边清怪，是合作基建生存：收魂升级泰坦和武器。$5.99。",
+    "url": "https://store.steampowered.com/app/4743950/",
+    "imageUrl": "/covers/steam-4743950.jpg",
+    "source": "steam",
+    "sourceId": "4743950",
+    "tags": [
+      "steam",
+      "base-building",
+      "survival",
+      "titan",
+      "城建/殖民/经营",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营",
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "steam-4598930",
+    "type": "game",
+    "title": "Frank 'n' Stein's Body Shop",
+    "summary": "城堡地下室里的怪诞店铺：绿皮肤店员穿着领结站在柜台后，第一张订单写着 SKULL，火把和托盘都在暗处，要一边备货一边应付越来越乱的客人。$8.49。",
+    "url": "https://store.steampowered.com/app/4598930/",
+    "imageUrl": "/covers/steam-4598930.jpg",
+    "source": "steam",
+    "sourceId": "4598930",
+    "tags": [
+      "steam",
+      "management",
+      "shop",
+      "stylized",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5523540",
+    "type": "game",
+    "title": "MischkaSpace 星海 4X",
+    "summary": "银河图上的回合制太空 4X：恒星系连成网，右侧在给 Bryaera Major 下造船指令，物种从原子时代一路走到超脱，还能指挥实时空战。$9.59。",
+    "url": "https://store.steampowered.com/app/5523540/",
+    "imageUrl": "/covers/steam-5523540.jpg",
+    "source": "steam",
+    "sourceId": "5523540",
+    "tags": [
+      "steam",
+      "4x",
+      "space",
+      "grand-strategy",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-5547440",
+    "type": "game",
+    "title": "Dungeon Defense 地城防守",
+    "summary": "3D 地城战斗回合：五名矮小冒险者围住房间中央一只持棍的绿皮怪物，血条齐亮，是布置房间和陷阱、再自动打退英雄的地城塔防。$11.04。",
+    "url": "https://store.steampowered.com/app/5547440/",
+    "imageUrl": "/covers/steam-5547440.jpg",
+    "source": "steam",
+    "sourceId": "5547440",
+    "tags": [
+      "steam",
+      "tower-defense",
+      "dungeon",
+      "roguelite",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-mrbooz-mars-empires",
+    "type": "game",
+    "title": "Mars Empires 火星帝国",
+    "summary": "火星上的 3D 即时战略：红土上铺开白蓝相间的栖息舱和温室，中央是八角指挥穹顶，殖民者在走，状态栏写着 Colony Era 和 32 名殖民者。免费试玩。",
+    "url": "https://mrbooz.itch.io/mars-empires",
+    "imageUrl": "/covers/itch-mrbooz-mars-empires.jpg",
+    "source": "itch",
+    "sourceId": "mrbooz-mars-empires",
+    "tags": [
+      "rts",
+      "colony",
+      "mars",
+      "3d",
+      "itch",
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-noname-epic-def-towers",
+    "type": "game",
+    "title": "Def Towers 符文塔防",
+    "summary": "低多边形塔防：石板迷宫在草地上拐来拐去，符文塔喷着紫白光弹，尽头还有带旗的塔楼，要守住符文之心挡住哥布林潮。$2.99。",
+    "url": "https://noname-epic.itch.io/def-towers",
+    "imageUrl": "/covers/itch-noname-epic-def-towers.jpg",
+    "source": "itch",
+    "sourceId": "noname-epic-def-towers",
+    "tags": [
+      "tower-defense",
+      "lowpoly",
+      "medieval",
+      "rts",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-20",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
     "id": "itch-2dshower-isometric-adventure-map-kit",
     "type": "inspiration",
     "title": "等距冒险大地图套件",
