@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-spriteforgestudio-stonevein-mines",
+    "type": "inspiration",
+    "title": "矿脉岩壁图块",
+    "summary": "16×16 顶视角矿洞，连通岩壁、三种地面和可挖掘矿脉，地下开采地形的层次很清楚。",
+    "url": "https://spriteforgestudio.itch.io/stonevein-mines",
+    "imageUrl": "/covers/itch-spriteforgestudio-stonevein-mines.jpg",
+    "source": "itch",
+    "sourceId": "itch-spriteforgestudio-stonevein-mines",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kyndrael-dark-fantasy-isometric-wilderness-seasons-collection",
+    "type": "inspiration",
+    "title": "暗黑等距荒野三季",
+    "summary": "夏秋冬三套等距荒野、树林和悬崖，策略大地图的季节地表对比鲜明。",
+    "url": "https://kyndrael.itch.io/dark-fantasy-isometric-wilderness-seasons-collection",
+    "imageUrl": "/covers/itch-kyndrael-dark-fantasy-isometric-wilderness-seasons-collection.jpg",
+    "source": "itch",
+    "sourceId": "itch-kyndrael-dark-fantasy-isometric-wilderness-seasons-collection",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-k1-ghost-terrain-tiles",
+    "type": "inspiration",
+    "title": "八种地形地砖",
+    "summary": "8 种完整地形地砖，草、土、石、沙配色区分清楚，大地图地表铺装参考。",
+    "url": "https://k1-ghost.itch.io/terrain-tiles",
+    "imageUrl": "/covers/itch-k1-ghost-terrain-tiles.jpg",
+    "source": "itch",
+    "sourceId": "itch-k1-ghost-terrain-tiles",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-roszelek-petalwood-village-6-cats-60-terrain-designs-roszel",
+    "type": "inspiration",
+    "title": "花木村地形与建筑",
+    "summary": "60 款地形加 96 种植物建筑，粉绿植物风的村庄地表和花屋搭配很统一。",
+    "url": "https://roszelek.itch.io/petalwood-village-6-cats-60-terrain-designs-roszel",
+    "imageUrl": "/covers/itch-roszelek-petalwood-village-6-cats-60-terrain-designs-roszel.jpg",
+    "source": "itch",
+    "sourceId": "itch-roszelek-petalwood-village-6-cats-60-terrain-designs-roszel",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-rio1222-shorebreak-animated-beach-waves",
+    "type": "inspiration",
+    "title": "岸边浪花动画",
+    "summary": "12 块透明岸线浪花和湿沙，可叠在海滩图块上，海岸地形的动态边缘参考。",
+    "url": "https://rio1222.itch.io/shorebreak-animated-beach-waves",
+    "imageUrl": "/covers/itch-rio1222-shorebreak-animated-beach-waves.jpg",
+    "source": "itch",
+    "sourceId": "itch-rio1222-shorebreak-animated-beach-waves",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qzforge-low-poly-pixel-art-horror-cult-resource-pack",
+    "type": "inspiration",
+    "title": "邪教神殿低模像素",
+    "summary": "低多边形配像素贴图的祭坛、石室和柱廊，3D 像素风地下神殿氛围浓。",
+    "url": "https://qzforge.itch.io/low-poly-pixel-art-horror-cult-resource-pack",
+    "imageUrl": "/covers/itch-qzforge-low-poly-pixel-art-horror-cult-resource-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-low-poly-pixel-art-horror-cult-resource-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-max3nce-voxel-grass-and-mushrooms-pack",
+    "type": "inspiration",
+    "title": "体素草地蘑菇 84 件",
+    "summary": "84 个 32×32 体素草丛和蘑菇，俯视散布在地面上，3D 自然地表点缀参考。",
+    "url": "https://max3nce.itch.io/voxel-grass-and-mushrooms-pack",
+    "imageUrl": "/covers/itch-max3nce-voxel-grass-and-mushrooms-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-max3nce-voxel-grass-and-mushrooms-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-guilherme587-wildwood-stylized-forest-pack",
+    "type": "inspiration",
+    "title": "体素风格化森林",
+    "summary": "28 件树木、灌木和花草，密林层次和树冠形状适合 3D 像素风野外场景。",
+    "url": "https://guilherme587.itch.io/wildwood-stylized-forest-pack",
+    "imageUrl": "/covers/itch-guilherme587-wildwood-stylized-forest-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-guilherme587-wildwood-stylized-forest-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-max3nce-voxel-free-water-and-aquatic-pack",
+    "type": "inspiration",
+    "title": "体素水域 115 件",
+    "summary": "115 个体素水面、水草和平台，彩色浅滩和深水的衔接很漂亮。",
+    "url": "https://max3nce.itch.io/voxel-free-water-and-aquatic-pack",
+    "imageUrl": "/covers/itch-max3nce-voxel-free-water-and-aquatic-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-max3nce-voxel-free-water-and-aquatic-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelbloom-mushroom-grove-24-voxel-mushrooms",
+    "type": "inspiration",
+    "title": "体素蘑菇林 24 款",
+    "summary": "24 种高低模蘑菇，颜色和菌盖造型丰富，体素奇幻植被参考。",
+    "url": "https://voxelbloom.itch.io/mushroom-grove-24-voxel-mushrooms",
+    "imageUrl": "/covers/itch-voxelbloom-mushroom-grove-24-voxel-mushrooms.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelbloom-mushroom-grove-24-voxel-mushrooms",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-christ1147-skyreach-order-airship-knights",
+    "type": "inspiration",
+    "title": "天空骑士团",
+    "summary": "8 个飞艇骑士 8 方向，盔甲和飞行器具辨识度高，空中阵营兵种参考。",
+    "url": "https://christ1147.itch.io/skyreach-order-airship-knights",
+    "imageUrl": "/covers/itch-christ1147-skyreach-order-airship-knights.jpg",
+    "source": "itch",
+    "sourceId": "itch-christ1147-skyreach-order-airship-knights",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-christ1147-sunscorch-dynasty-desert-kingdom",
+    "type": "inspiration",
+    "title": "烈日王朝沙漠兵种",
+    "summary": "9 个沙漠王国角色 8 方向，袍甲和头饰有沙漠王国味道，阵营兵种好参考。",
+    "url": "https://christ1147.itch.io/sunscorch-dynasty-desert-kingdom",
+    "imageUrl": "/covers/itch-christ1147-sunscorch-dynasty-desert-kingdom.jpg",
+    "source": "itch",
+    "sourceId": "itch-christ1147-sunscorch-dynasty-desert-kingdom",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-christ1147-mire-hollow-swamp-folk",
+    "type": "inspiration",
+    "title": "沼泽居民",
+    "summary": "10 个沼泽民 8 方向，蛙人、女巫和泥沼生物剪影清楚，地域阵营设计参考。",
+    "url": "https://christ1147.itch.io/mire-hollow-swamp-folk",
+    "imageUrl": "/covers/itch-christ1147-mire-hollow-swamp-folk.jpg",
+    "source": "itch",
+    "sourceId": "itch-christ1147-mire-hollow-swamp-folk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kaymue-cozy-bits-villagers",
+    "type": "inspiration",
+    "title": "舒适风村民",
+    "summary": "16×16 顶视角村民带闲置、行走和职业动作，上帝视角小人口正好用。",
+    "url": "https://kaymue.itch.io/cozy-bits-villagers",
+    "imageUrl": "/covers/itch-kaymue-cozy-bits-villagers.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaymue-cozy-bits-villagers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pushthev1be-frontier",
+    "type": "inspiration",
+    "title": "边地冲突角色包",
+    "summary": "小队顶视角单位和技能特效，体型虽小但阵营对抗的动作很清楚。",
+    "url": "https://pushthev1be.itch.io/frontier",
+    "imageUrl": "/covers/itch-pushthev1be-frontier.jpg",
+    "source": "itch",
+    "sourceId": "itch-pushthev1be-frontier",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-100-free-medieval-gothic-farm",
+    "type": "inspiration",
+    "title": "哥特农庄",
+    "summary": "动画像素农庄，尖顶、木梁和石墙，中世纪乡村建筑的剪影很好看。",
+    "url": "https://elie-worldsmith.itch.io/100-free-medieval-gothic-farm",
+    "imageUrl": "/covers/itch-elie-worldsmith-100-free-medieval-gothic-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-100-free-medieval-gothic-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-100-free-gothic-fortress-barracks",
+    "type": "inspiration",
+    "title": "哥特要塞营房",
+    "summary": "带旗帜和塔楼的营房建筑，要塞功能建筑的立面层次清楚。",
+    "url": "https://elie-worldsmith.itch.io/100-free-gothic-fortress-barracks",
+    "imageUrl": "/covers/itch-elie-worldsmith-100-free-gothic-fortress-barracks.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-100-free-gothic-fortress-barracks",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goodthings-starfall-commons",
+    "type": "inspiration",
+    "title": "星落高地村庄",
+    "summary": "顶视角高地村庄，10 个动画村民和 48 件道具，村镇布局和建筑组合参考。",
+    "url": "https://goodthings.itch.io/starfall-commons",
+    "imageUrl": "/covers/itch-goodthings-starfall-commons.jpg",
+    "source": "itch",
+    "sourceId": "itch-goodthings-starfall-commons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-mekai-games-steampunk-city-kit",
+    "type": "inspiration",
+    "title": "蒸汽朋克等距城市",
+    "summary": "460+ 等距建筑、飞艇、火车和室内，密集工业城市的屋顶层次很壮观。",
+    "url": "https://mekai-games.itch.io/steampunk-city-kit",
+    "imageUrl": "/covers/itch-mekai-games-steampunk-city-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-mekai-games-steampunk-city-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-thecommongoodsus-winter-town-pixel-tileset",
+    "type": "inspiration",
+    "title": "冬镇图块 314 块",
+    "summary": "16×16 雪镇道路、池塘、15 栋建筑和昼夜两版，冬日城建配色统一。",
+    "url": "https://thecommongoodsus.itch.io/winter-town-pixel-tileset",
+    "imageUrl": "/covers/itch-thecommongoodsus-winter-town-pixel-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-thecommongoodsus-winter-town-pixel-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-qzforge-3d-low-poly-pixel-art-castle-pack",
+    "type": "inspiration",
+    "title": "低模像素城堡",
+    "summary": "像素贴图的城堡室内、楼梯和家具，3D 像素风城堡空间的拼装范例。",
+    "url": "https://qzforge.itch.io/3d-low-poly-pixel-art-castle-pack",
+    "imageUrl": "/covers/itch-qzforge-3d-low-poly-pixel-art-castle-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-3d-low-poly-pixel-art-castle-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-qzforge-low-poly-pixel-art-horror-cabin-resource-pack",
+    "type": "inspiration",
+    "title": "恐怖木屋低模像素",
+    "summary": "林中木屋的墙体、家具和炉火，3D 像素风小屋内部很完整。",
+    "url": "https://qzforge.itch.io/low-poly-pixel-art-horror-cabin-resource-pack",
+    "imageUrl": "/covers/itch-qzforge-low-poly-pixel-art-horror-cabin-resource-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-qzforge-low-poly-pixel-art-horror-cabin-resource-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-voxelempire-blocky-interiors",
+    "type": "inspiration",
+    "title": "方块室内 39 间",
+    "summary": "39 个已布置房间和模块化墙体，体素室内家具的摆场参考。",
+    "url": "https://voxelempire.itch.io/blocky-interiors",
+    "imageUrl": "/covers/itch-voxelempire-blocky-interiors.jpg",
+    "source": "itch",
+    "sourceId": "itch-voxelempire-blocky-interiors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-z-zeal-isometric-voxel-building-pack-soviets",
+    "type": "inspiration",
+    "title": "等距体素基地：苏维埃",
+    "summary": "等距体素兵营和仓库，4 朝向 6 种队伍色，RTS 基地建筑的阵营换色参考。",
+    "url": "https://z-zeal.itch.io/isometric-voxel-building-pack-soviets",
+    "imageUrl": "/covers/itch-z-zeal-isometric-voxel-building-pack-soviets.jpg",
+    "source": "itch",
+    "sourceId": "itch-z-zeal-isometric-voxel-building-pack-soviets",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ghstbstrd-keep-doors-props-voxel-pack",
+    "type": "inspiration",
+    "title": "城堡门与构件",
+    "summary": "12 件体素拱门、木门和石柱，城堡入口构件的比例和材质很好。",
+    "url": "https://ghstbstrd.itch.io/keep-doors-props-voxel-pack",
+    "imageUrl": "/covers/itch-ghstbstrd-keep-doors-props-voxel-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-ghstbstrd-keep-doors-props-voxel-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-wrethlahain-sci-fi-pixel-ui-kit-577-sprites-27-animations",
+    "type": "inspiration",
+    "title": "科幻像素 UI 套件",
+    "summary": "窗口、按钮、状态条和背包，577 精灵加 27 组动画，叠在画面上的 HUD 层级清楚。",
+    "url": "https://wrethlahain.itch.io/sci-fi-pixel-ui-kit-577-sprites-27-animations",
+    "imageUrl": "/covers/itch-wrethlahain-sci-fi-pixel-ui-kit-577-sprites-27-animations.jpg",
+    "source": "itch",
+    "sourceId": "itch-wrethlahain-sci-fi-pixel-ui-kit-577-sprites-27-animations",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-eglays-iron-enamel-ui-kit",
+    "type": "inspiration",
+    "title": "铁与珐琅 UI",
+    "summary": "彩色按钮、图标和 9 宫格面板，悬停和禁用态齐全，设置菜单配色明快。",
+    "url": "https://eglays.itch.io/iron-enamel-ui-kit",
+    "imageUrl": "/covers/itch-eglays-iron-enamel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-eglays-iron-enamel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kerembolek-fantasy-rpg-ui-pack",
+    "type": "inspiration",
+    "title": "奇幻 RPG UI 套件",
+    "summary": "暖色和暗色两套木纹面板、按钮、槽位和 43 个图标，自带像素字体。",
+    "url": "https://kerembolek.itch.io/fantasy-rpg-ui-pack",
+    "imageUrl": "/covers/itch-kerembolek-fantasy-rpg-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-kerembolek-fantasy-rpg-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pigeong-cozy-paperwork-pixel-ui",
+    "type": "inspiration",
+    "title": "舒适文书像素 UI",
+    "summary": "214 件印章、表格和桌面道具，日夜两套配色，文件/政务界面很有趣。",
+    "url": "https://pigeong.itch.io/cozy-paperwork-pixel-ui",
+    "imageUrl": "/covers/itch-pigeong-cozy-paperwork-pixel-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-pigeong-cozy-paperwork-pixel-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cedric17-pixel-rpg-icon-mega-pack",
+    "type": "inspiration",
+    "title": "250 个 16×16 RPG 图标",
+    "summary": "装备、战利品、药水和技能图标加 2 套像素 UI 皮肤，小图标轮廓清楚。",
+    "url": "https://cedric17.itch.io/pixel-rpg-icon-mega-pack",
+    "imageUrl": "/covers/itch-cedric17-pixel-rpg-icon-mega-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-cedric17-pixel-rpg-icon-mega-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-artdiestudio-dark-fantasy-rpg-ui-pack",
+    "type": "inspiration",
+    "title": "暗黑地牢 GUI",
+    "summary": "挖矿与地牢主题的面板、按钮和 HUD，深色界面适合地下玩法。",
+    "url": "https://artdiestudio.itch.io/dark-fantasy-rpg-ui-pack",
+    "imageUrl": "/covers/itch-artdiestudio-dark-fantasy-rpg-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-artdiestudio-dark-fantasy-rpg-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wrethlahain-medieval-item-icons-160-pixel-art-items",
+    "type": "inspiration",
+    "title": "中世纪物品图标 160 个",
+    "summary": "武器、盔甲、工具、酒馆食物和宝物，32/64px，中世纪物资图标参考。",
+    "url": "https://wrethlahain.itch.io/medieval-item-icons-160-pixel-art-items",
+    "imageUrl": "/covers/itch-wrethlahain-medieval-item-icons-160-pixel-art-items.jpg",
+    "source": "itch",
+    "sourceId": "itch-wrethlahain-medieval-item-icons-160-pixel-art-items",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kedamahaku-wafu-status-effect-icons-32px",
+    "type": "inspiration",
+    "title": "和风状态图标 104 个",
+    "summary": "32×32 减益、增益和妖怪诅咒，素面和带框两版，状态提示很完整。",
+    "url": "https://kedamahaku.itch.io/wafu-status-effect-icons-32px",
+    "imageUrl": "/covers/itch-kedamahaku-wafu-status-effect-icons-32px.jpg",
+    "source": "itch",
+    "sourceId": "itch-kedamahaku-wafu-status-effect-icons-32px",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sourcererden-hellgun-boomer-shooter-hud",
+    "type": "inspiration",
+    "title": "复古射手状态栏",
+    "summary": "90 年代射击 HUD：8 种面部状态、弹药、钥匙和准星，经典状态条布局。",
+    "url": "https://sourcererden.itch.io/hellgun-boomer-shooter-hud",
+    "imageUrl": "/covers/itch-sourcererden-hellgun-boomer-shooter-hud.jpg",
+    "source": "itch",
+    "sourceId": "itch-sourcererden-hellgun-boomer-shooter-hud",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wrethlahain-16-fantasy-rpg-item-icons",
+    "type": "inspiration",
+    "title": "16 个奇幻物品图标",
+    "summary": "32/64px 透明药水、武器和宝物图标，单件造型饱满好认。",
+    "url": "https://wrethlahain.itch.io/16-fantasy-rpg-item-icons",
+    "imageUrl": "/covers/itch-wrethlahain-16-fantasy-rpg-item-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-wrethlahain-16-fantasy-rpg-item-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-20",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2123295206208401439",
     "type": "game",
     "title": "Driftwood 荒岛建造",
