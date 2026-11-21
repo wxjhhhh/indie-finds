@@ -1,5 +1,926 @@
 [
   {
+    "id": "x-2123410151357178078",
+    "type": "game",
+    "title": "像素溅射民俗 Roguelite",
+    "summary": "俯视圆形法阵地面上，白衣角色站在紫色螺旋传送门旁挥砍，四周散落符文与小怪，右上有血条和技能栏。作者称全用像素风高斯溅射搭建，一天内借助 JungleSilicon 工具和 Claude 做出这款受 Hades 启发、带日本民俗主题的 roguelite。",
+    "url": "https://x.com/suth_a/status/2123410151357178078",
+    "imageUrl": "/covers/x-2123410151357178078.jpg",
+    "source": "x",
+    "sourceId": "2123410151357178078",
+    "tags": [
+      "x-bookmark",
+      "roguelite",
+      "splat",
+      "pixel",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123418820396081356",
+    "type": "game",
+    "title": "Ratpack 串烧物理",
+    "summary": "Godot 等距暗黑动作：草地上一群老鼠弓箭手围着被长矛串起来的敌人，地上有血迹和倒下的老鼠。作者新加了串烧物理、喷血和矛上滴血。",
+    "url": "https://x.com/OozyEssence/status/2123418820396081356",
+    "imageUrl": "/covers/x-2123418820396081356.jpg",
+    "source": "x",
+    "sourceId": "2123418820396081356",
+    "tags": [
+      "x-bookmark",
+      "godot",
+      "isometric",
+      "action",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123395166371242242",
+    "type": "shader",
+    "title": "Gemini Neon 微距虹膜",
+    "summary": "用 Gemini 4 Neon 从零生成的 Three.js 微距摄影：一只棕色虹膜占满镜头，纤维和瞳孔的细节很清楚，右侧还开着编辑面板。作者说先让模型写微距描述，再按描述在 Three.js 里搭出来。",
+    "url": "https://x.com/SimonasLTU1/status/2123395166371242242",
+    "imageUrl": "/covers/x-2123395166371242242.jpg",
+    "source": "x",
+    "sourceId": "2123395166371242242",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "ai-generated",
+      "macro"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123363430937592229",
+    "type": "shader",
+    "title": "Neon 等距五场景小城",
+    "summary": "Gemini Neon 生成的等距小城：浅色地面上摆着灰楼、红顶小屋、储罐和绿树，像一座沙盘模型。作者用这个模型做了 5 个场景测试，大约花了 30 分钟。",
+    "url": "https://x.com/notjazii/status/2123363430937592229",
+    "imageUrl": "/covers/x-2123363430937592229.jpg",
+    "source": "x",
+    "sourceId": "2123363430937592229",
+    "tags": [
+      "x-bookmark",
+      "ai-generated",
+      "isometric",
+      "city"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123397019406373066",
+    "type": "shader",
+    "title": "Astra 灯塔小岛",
+    "summary": "GPT Astra 生成的等距小岛：红白灯塔、木屋和一艘黄船停在碧蓝水边，树和岩石堆得很整齐。作者对比后觉得 Astra 的颜色比 Neon 更好。",
+    "url": "https://x.com/notjazii/status/2123397019406373066",
+    "imageUrl": "/covers/x-2123397019406373066.jpg",
+    "source": "x",
+    "sourceId": "2123397019406373066",
+    "tags": [
+      "x-bookmark",
+      "ai-generated",
+      "isometric",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123389969062633652",
+    "type": "shader",
+    "title": "Unity 地形物体距离混合",
+    "summary": "Unity 里一块浅灰混凝土体块嵌进褐色岩坡，接缝处用法线朝地形插值和 triplanar + RVT，把物体表面融进地形。",
+    "url": "https://x.com/TheRealEricHu/status/2123389969062633652",
+    "imageUrl": "/covers/x-2123389969062633652.jpg",
+    "source": "x",
+    "sourceId": "2123389969062633652",
+    "tags": [
+      "x-bookmark",
+      "unity",
+      "techart",
+      "terrain"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123661123702739290",
+    "type": "shader",
+    "title": "虚拟水族箱与免费鱼模",
+    "summary": "浏览器虚拟水族箱：一条条纹盘鱼从海草和岩石间游过，小鱼在周围穿梭。作者把鱼的外形和游动做得很细，还可以把鰯鱼丢进乌贼缸里喂食，模型可免费下载。",
+    "url": "https://x.com/nachat_dayo/status/2123661123702739290",
+    "imageUrl": "/covers/x-2123661123702739290.jpg",
+    "source": "x",
+    "sourceId": "2123661123702739290",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "aquarium",
+      "realtime"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123701412882235681",
+    "type": "game",
+    "title": "Battle For Crown 王冠之战",
+    "summary": "黄昏城堡庭院里士兵列队：石头墙垛上挂着旗帜，左侧走道站着一排举盾的人，远处有塔楼和暖黄灯光，是这款游戏在做的中世纪村庄氛围。",
+    "url": "https://x.com/vividmindgames/status/2123701412882235681",
+    "imageUrl": "/covers/x-2123701412882235681.jpg",
+    "source": "x",
+    "sourceId": "2123701412882235681",
+    "tags": [
+      "medieval",
+      "unity",
+      "atmosphere",
+      "骑砍/战争",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "骑砍/战争",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123730589492650009",
+    "type": "game",
+    "title": "Epochs of War 纪元之战",
+    "summary": "俯视一座石墙围起来的中世纪城镇：中央是城堡主楼，周围有田地、房舍和烟，作者在做从投石机打到坦克直升机的手机 RTS，这一幕是骑士时代的城池。",
+    "url": "https://x.com/IlyaMudry/status/2123730589492650009",
+    "imageUrl": "/covers/x-2123730589492650009.jpg",
+    "source": "x",
+    "sourceId": "2123730589492650009",
+    "tags": [
+      "rts",
+      "medieval",
+      "mobile",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2123645049007190128",
+    "type": "game",
+    "title": "Lunar City Builder 月球城建",
+    "summary": "第一人称站在浅色台阶上，眼前是六边形铺装、樱花树和现代雕塑，远处有低多边形建筑。这是带社交工程的城建游戏，城镇会昼夜运转。",
+    "url": "https://x.com/LunarCTbuilder/status/2123645049007190128",
+    "imageUrl": "/covers/x-2123645049007190128.jpg",
+    "source": "x",
+    "sourceId": "2123645049007190128",
+    "tags": [
+      "city-builder",
+      "unity",
+      "stylized",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123516720186843327",
+    "type": "game",
+    "title": "制度代理上帝游戏",
+    "summary": "上帝视角的低多边形小村：木屋、篝火、石桌和一群小人围着一头牛在吃，树荫底下还有人走动。作者说这些代理会通过制度彼此协调、盖房子。",
+    "url": "https://x.com/TTrussner/status/2123516720186843327",
+    "imageUrl": "/covers/x-2123516720186843327.jpg",
+    "source": "x",
+    "sourceId": "2123516720186843327",
+    "tags": [
+      "god-game",
+      "lowpoly",
+      "simulation",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123739568813813833",
+    "type": "game",
+    "title": "DREADMINER 百万之下",
+    "summary": "俯视黑暗洞穴里一座被围住的要塞：橙色岩浆或虫群沿着土墙往里涌，碉堡和外墙还在撑。这是哥特蒸汽朋克塔防 RTS《DREADMINER: Millions Below》的新实机。",
+    "url": "https://x.com/kodingnights/status/2123739568813813833",
+    "imageUrl": "/covers/x-2123739568813813833.jpg",
+    "source": "x",
+    "sourceId": "2123739568813813833",
+    "tags": [
+      "rts",
+      "tower-defense",
+      "gothic",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123853888004747643",
+    "type": "game",
+    "title": "Canyon Ring Run 峡谷金环",
+    "summary": "低多边形沙漠峡谷里开着一架蓝翼小飞机，要穿过前方的金色圆环，右侧是触控键。这是一关 12 个金环、单 HTML 文件的灌木丛小飞机游戏。",
+    "url": "https://x.com/wikiwayne/status/2123853888004747643",
+    "imageUrl": "/covers/x-2123853888004747643.jpg",
+    "source": "x",
+    "sourceId": "2123853888004747643",
+    "tags": [
+      "lowpoly",
+      "flight",
+      "web",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123816533805666398",
+    "type": "game",
+    "title": "一次航程送到cove",
+    "summary": "风格化 3D 帆船在灰绿海浪里侧倾，帆被风灌满，浪花拍上船体。作者做的是一趟 3 到 5 分钟的航程：要在暴风或天黑前把货送到海湾。",
+    "url": "https://x.com/2600th/status/2123816533805666398",
+    "imageUrl": "/covers/x-2123816533805666398.jpg",
+    "source": "x",
+    "sourceId": "2123816533805666398",
+    "tags": [
+      "sailing",
+      "stylized",
+      "water",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123847730061828256",
+    "type": "game",
+    "title": "Handful 桌上的小人国",
+    "summary": "混合现实上帝游戏：真实房间的地板和茶几上，出现一小片绿草地、木屋和一群彩色小人在走动。玩家要在自己的房间里给这些小人盖房子、保护他们。",
+    "url": "https://x.com/AtomBombBody/status/2123847730061828256",
+    "imageUrl": "/covers/x-2123847730061828256.jpg",
+    "source": "x",
+    "sourceId": "2123847730061828256",
+    "tags": [
+      "god-game",
+      "mixed-reality",
+      "tabletop",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123796685864513652",
+    "type": "game",
+    "title": "Iron and Oath 橡树王座",
+    "summary": "黄昏柏树林里，一名旅人站在金色逆光中，面前弹出对话选项。这是 Unity 单人做的开放世界中世纪 RPG，同一存档可以从黎明的大路玩到午夜墓地。",
+    "url": "https://x.com/CascianoTaylor/status/2123796685864513652",
+    "imageUrl": "/covers/x-2123796685864513652.jpg",
+    "source": "x",
+    "sourceId": "2123796685864513652",
+    "tags": [
+      "rpg",
+      "medieval",
+      "unity",
+      "open-world",
+      "沙盒/探索",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2123833387211460762",
+    "type": "game",
+    "title": "Shardfall 碎片坠落",
+    "summary": "俯视 3D 战场：蓝白圆顶建筑和部队散布在草地与疏林之间，有单位正在交火。这是作者用 Godot 独做的即时战略，设定是一颗垂死恒星的碎片砸在 Kaelor 世界上，开放测试即将免费上线。",
+    "url": "https://x.com/YBridgeGames/status/2123833387211460762",
+    "imageUrl": "/covers/x-2123833387211460762.jpg",
+    "source": "x",
+    "sourceId": "2123833387211460762",
+    "tags": [
+      "rts",
+      "godot",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2123910034299977971",
+    "type": "game",
+    "title": "Carnage in City 城里的四季",
+    "summary": "从高处俯瞰一座写实感的现代都市：高楼、街道和滨水区铺开，天气和季节会在同一套街区里切换。这是 Godot 开放世界《Carnage in City》的动态天气展示。",
+    "url": "https://x.com/veloxZervan/status/2123910034299977971",
+    "imageUrl": "/covers/x-2123910034299977971.jpg",
+    "source": "x",
+    "sourceId": "2123910034299977971",
+    "tags": [
+      "godot",
+      "city",
+      "weather",
+      "open-world",
+      "沙盒/探索",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "沙盒/探索",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123491504568295540",
+    "type": "game",
+    "title": "星星等级上帝游戏",
+    "summary": "俯视同一块草地：Star 1 只有一棵树和几条虫子，Star 7 已经有木屋、火堆、桌子和一座小监狱，小人在旁边走动。作者在做上帝游戏，问下一步该盖什么。",
+    "url": "https://x.com/4thSenseEvo/status/2123491504568295540",
+    "imageUrl": "/covers/x-2123491504568295540.jpg",
+    "source": "x",
+    "sourceId": "2123491504568295540",
+    "tags": [
+      "god-game",
+      "stylized",
+      "progression",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123906530483331551",
+    "type": "game",
+    "title": "Last Accord 最后协定",
+    "summary": "低多边形工业区上空落下金色光柱，厂房、烟囱和车辆摆在灰绿色地面上，是 2000 年代风格的基地战。作者称这是三阵营、一份破裂条约的策略游戏，由一名开发者和 AI 一起做，Steam 页还在准备。",
+    "url": "https://x.com/LastAccordGame/status/2123906530483331551",
+    "imageUrl": "/covers/x-2123906530483331551.jpg",
+    "source": "x",
+    "sourceId": "2123906530483331551",
+    "tags": [
+      "rts",
+      "lowpoly",
+      "ai-assisted",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2123740232889872847",
+    "type": "shader",
+    "title": "Distilled Cube 蒸馏立方",
+    "summary": "一只半透明的玻璃立方体里嵌着电路一样的青色结构，表面在折射周围的高楼。作者用 three.js / WebGPU 做了这个可玩的立方体演示，并公开了源码。",
+    "url": "https://x.com/sabosugi/status/2123740232889872847",
+    "imageUrl": "/covers/x-2123740232889872847.jpg",
+    "source": "x",
+    "sourceId": "2123740232889872847",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "shader"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123672691701891388",
+    "type": "shader",
+    "title": "Godot 火焰挖孔",
+    "summary": "棋盘地面上并排四团火焰：橙、青绿、黄和紫色，火焰中间有被圆切出来的空隙。AtPlayerSaturn 用圆形把火苗镂空，这是 Godot 的程序火焰做法。",
+    "url": "https://x.com/jettelly/status/2123672691701891388",
+    "imageUrl": "/covers/x-2123672691701891388.jpg",
+    "source": "x",
+    "sourceId": "2123672691701891388",
+    "tags": [
+      "godot",
+      "vfx",
+      "fire"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123782162742964269",
+    "type": "shader",
+    "title": "PSX 游戏结束画面",
+    "summary": "一间低精度的卧室：铁架床、柜上的显示器和窗户透进来的光，墙边立着生物危害标志。作者在为每个敌人做独特的游戏结束画面，偏 PSX 恐怖。",
+    "url": "https://x.com/Noxious_Blight/status/2123782162742964269",
+    "imageUrl": "/covers/x-2123782162742964269.jpg",
+    "source": "x",
+    "sourceId": "2123782162742964269",
+    "tags": [
+      "psx",
+      "lowpoly",
+      "horror"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123654802626220217",
+    "type": "shader",
+    "title": "Neon 程序哥斯拉",
+    "summary": "夜色城市上空一道粗亮的白光束斜劈下来，周围是青蓝高楼和 fort 一样的红塔。作者用 Gemini 4 Neon 在 three.js TSL 里程序生成了这只哥斯拉。",
+    "url": "https://x.com/majidmanzarpour/status/2123654802626220217",
+    "imageUrl": "/covers/x-2123654802626220217.jpg",
+    "source": "x",
+    "sourceId": "2123654802626220217",
+    "tags": [
+      "threejs",
+      "tsl",
+      "ai-generated",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123839654755549687",
+    "type": "shader",
+    "title": "Caribbean Alleyway 加勒比巷弄",
+    "summary": "虚幻 5 的写实街巷：石头拱廊、阳台、电线和墙上的海报一直铺到深处，阳光从巷口打进来。Santiago Forero 做的卡塔赫纳风城市场景，材料堆得很密。",
+    "url": "https://x.com/80Level/status/2123839654755549687",
+    "imageUrl": "/covers/x-2123839654755549687.jpg",
+    "source": "x",
+    "sourceId": "2123839654755549687",
+    "tags": [
+      "ue5",
+      "environment",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123461068995678322",
+    "type": "shader",
+    "title": "地面裂隙与发光技能",
+    "summary": "深色网格地面上，红黑两团能量在地上炸开裂纹并泛出光，标题写着 Glowing Cracks + Ground Glow。这是技能特效的分解演示。",
+    "url": "https://x.com/0xprojectzero/status/2123461068995678322",
+    "imageUrl": "/covers/x-2123461068995678322.jpg",
+    "source": "x",
+    "sourceId": "2123461068995678322",
+    "tags": [
+      "vfx",
+      "shader",
+      "ground"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123628279055954396",
+    "type": "shader",
+    "title": "Muse 实时路径追踪",
+    "summary": "浅灰背景上三颗球：玻璃、金色金属和白瓷，反射和焦散都已经收敛。作者让 Muse 自动生成 Three.js 实时路径追踪，并用 C++ 写同一套逻辑做验证，还说明代码由模型生成。",
+    "url": "https://x.com/meby_central/status/2123628279055954396",
+    "imageUrl": "/covers/x-2123628279055954396.jpg",
+    "source": "x",
+    "sourceId": "2123628279055954396",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "pathtracing",
+      "ai-generated"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123853885320081771",
+    "type": "shader",
+    "title": "Godot 高度图水晶",
+    "summary": "切开的红色晶簇占满画面，一层层晶面往里凹，像有厚度的矿物。作者用高度图给 Godot 水晶着色器做出深度和视差。",
+    "url": "https://x.com/jettelly/status/2123853885320081771",
+    "imageUrl": "/covers/x-2123853885320081771.jpg",
+    "source": "x",
+    "sourceId": "2123853885320081771",
+    "tags": [
+      "godot",
+      "shader",
+      "parallax",
+      "crystal"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123434461878681951",
+    "type": "shader",
+    "title": "低多边形室内布光",
+    "summary": "一间 PSX 味的小房间：铁架床、柜子和墙上的辐射标志，窗外有光打在地板上。作者说想离开不统一的 PSX 贴图，改用普通低多边形加上更好的光照。",
+    "url": "https://x.com/BuggVT/status/2123434461878681951",
+    "imageUrl": "/covers/x-2123434461878681951.jpg",
+    "source": "x",
+    "sourceId": "2123434461878681951",
+    "tags": [
+      "lowpoly",
+      "psx",
+      "lighting",
+      "environment"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123642494839926844",
+    "type": "shader",
+    "title": "Unity 四款动漫光斑",
+    "summary": "深色背景里几点青绿色的闪光和拖尾，像技能命中时的镜头光斑。这是 Jettelly 做的四款动漫风格 Unity 光斑。",
+    "url": "https://x.com/jettelly/status/2123642494839926844",
+    "imageUrl": "/covers/x-2123642494839926844.jpg",
+    "source": "x",
+    "sourceId": "2123642494839926844",
+    "tags": [
+      "unity",
+      "vfx",
+      "anime"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123793014472552481",
+    "type": "shader",
+    "title": "Codevember 20 茧",
+    "summary": "一颗粉紫的有机球体悬在雾里，表面有血管一样的裂纹，还在缓慢搏动。这是 _pwd_ 的 Codevember 第 20 天作品 Cocoon，用 three.js 实时演示。",
+    "url": "https://x.com/_pwd_/status/2123793014472552481",
+    "imageUrl": "/covers/x-2123793014472552481.jpg",
+    "source": "x",
+    "sourceId": "2123793014472552481",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "codevember",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123702897661681788",
+    "type": "shader",
+    "title": "Unity 水彩树绽放",
+    "summary": "黑色剪影树冠被一层蓝紫色水彩掀开，像被激光点中后从里往外开花。DeccoSkyrider 在 Unity 里做的水彩显现效果。",
+    "url": "https://x.com/jettelly/status/2123702897661681788",
+    "imageUrl": "/covers/x-2123702897661681788.jpg",
+    "source": "x",
+    "sourceId": "2123702897661681788",
+    "tags": [
+      "unity",
+      "shader",
+      "watercolor",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123791331541807385",
+    "type": "shader",
+    "title": "Three.js Grassworks 草地",
+    "summary": "风格化原野上一个战士站在齐腰的绿草里，远处有树和房子，草随风偏。作者把 Three.js Grassworks 演示更新到 1.3.0 的新特性。",
+    "url": "https://x.com/Bk23544/status/2123791331541807385",
+    "imageUrl": "/covers/x-2123791331541807385.jpg",
+    "source": "x",
+    "sourceId": "2123791331541807385",
+    "tags": [
+      "threejs",
+      "grass",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123763288500531494",
+    "type": "shader",
+    "title": "Godot 传送门裁切",
+    "summary": "角色走到一圈蓝色传送门边缘时，网格在门口被切开，人从环里消失。Gennai 用 Godot 片元着色器在传送门边界裁切网格。",
+    "url": "https://x.com/jettelly/status/2123763288500531494",
+    "imageUrl": "/covers/x-2123763288500531494.jpg",
+    "source": "x",
+    "sourceId": "2123763288500531494",
+    "tags": [
+      "godot",
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123793488525578532",
+    "type": "shader",
+    "title": "Unity 海洋吸收与折射",
+    "summary": "日落海边：浅水见底的岛岸、一艘停着的帆船和远处的岩峰，水下有折射和吸收。boshy_time 做的 Unity 海洋着色器。",
+    "url": "https://x.com/jettelly/status/2123793488525578532",
+    "imageUrl": "/covers/x-2123793488525578532.jpg",
+    "source": "x",
+    "sourceId": "2123793488525578532",
+    "tags": [
+      "unity",
+      "water",
+      "shader",
+      "ocean"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123925182838718950",
+    "type": "shader",
+    "title": "体积闪电 Vol.81 彩色环电",
+    "summary": "青绿电弧绕着一颗深色球体，边缘还有一圈环状闪电。keebar 把随机颜色属性用到了表面闪电和环状闪电上，是体积闪电系列第 81 期。",
+    "url": "https://x.com/keebar_techArt/status/2123925182838718950",
+    "imageUrl": "/covers/x-2123925182838718950.jpg",
+    "source": "x",
+    "sourceId": "2123925182838718950",
+    "tags": [
+      "techart",
+      "lightning",
+      "volumetric"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123559497016746417",
+    "type": "shader",
+    "title": "油画笔触水花",
+    "summary": "岸边一块褐色礁石被拍出白色水花，水花带一点油画笔触，远处是草地和天空。作者在 Unity 里试这种 painterly water splat。",
+    "url": "https://x.com/coffeevideogame/status/2123559497016746417",
+    "imageUrl": "/covers/x-2123559497016746417.jpg",
+    "source": "x",
+    "sourceId": "2123559497016746417",
+    "tags": [
+      "unity",
+      "water",
+      "stylized",
+      "techart"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123439132777263407",
+    "type": "shader",
+    "title": "准星画中画与弹道贯穿",
+    "summary": "第一人称瞄准镜里是沙漠和远处的人，作者在测画中画光学瞄准着色，以及用 Unity ECS/DOTS 做的弹道和穿透。",
+    "url": "https://x.com/1w7g0/status/2123439132777263407",
+    "imageUrl": "/covers/x-2123439132777263407.jpg",
+    "source": "x",
+    "sourceId": "2123439132777263407",
+    "tags": [
+      "unity",
+      "shader",
+      "scope",
+      "ballistics"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123897294928167005",
+    "type": "shader",
+    "title": "WebGPU 实时黑洞",
+    "summary": "紫色吸积盘绕着一团漆黑的黑洞，尘埃往里旋，字幕写着 Gravity Remembers what we forget。作者用 WebGPU 和 three.js 做了引力透镜和 15 万粒子的实时黑洞。",
+    "url": "https://x.com/jasperketone/status/2123897294928167005",
+    "imageUrl": "/covers/x-2123897294928167005.jpg",
+    "source": "x",
+    "sourceId": "2123897294928167005",
+    "tags": [
+      "webgpu",
+      "threejs",
+      "raymarch",
+      "blackhole"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123856344029757627",
+    "type": "shader",
+    "title": "高斯溅射神经渲染",
+    "summary": "浏览器里一块风化的砖石残垣，表面细节比普通溅射更实。作者给高斯溅射加了神经渲染，想把实时效果做稳，并提供了在线试用。",
+    "url": "https://x.com/Gussebb/status/2123856344029757627",
+    "imageUrl": "/covers/x-2123856344029757627.jpg",
+    "source": "x",
+    "sourceId": "2123856344029757627",
+    "tags": [
+      "gaussian-splat",
+      "webgpu",
+      "threejs",
+      "neural"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123801039933780418",
+    "type": "shader",
+    "title": "Godot 泻湖与小船",
+    "summary": "俯视一座风格化小岛：碧蓝浅水、白沙滩和一艘小船停在岸边，浪会拍出一条泡沫线。这是可以在浏览器里打开的 Godot 场景。",
+    "url": "https://x.com/cutetoxicguy/status/2123801039933780418",
+    "imageUrl": "/covers/x-2123801039933780418.jpg",
+    "source": "x",
+    "sourceId": "2123801039933780418",
+    "tags": [
+      "godot",
+      "water",
+      "stylized",
+      "island"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123793492828991757",
+    "type": "shader",
+    "title": "Logo 星云流体",
+    "summary": "黑色背景上一条粉紫螺旋星云在流动，像把标志拆成流体再聚回来。作者把流体模拟映射到自定义 3D 网格上，光标可以打散它。",
+    "url": "https://x.com/Simone_dev_com/status/2123793492828991757",
+    "imageUrl": "/covers/x-2123793492828991757.jpg",
+    "source": "x",
+    "sourceId": "2123793492828991757",
+    "tags": [
+      "fluid",
+      "webgl",
+      "simulation"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123574953173819770",
+    "type": "shader",
+    "title": "Substance 卡通着色器",
+    "summary": "Substance Painter 里一尊灰色头雕，表面是硬边卡通光，还开着材质图层。作者在测试自己的 Toon shader 新功能。",
+    "url": "https://x.com/Iy79fXuzmJgMhTP/status/2123574953173819770",
+    "imageUrl": "/covers/x-2123574953173819770.jpg",
+    "source": "x",
+    "sourceId": "2123574953173819770",
+    "tags": [
+      "shader",
+      "toon",
+      "substance"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123831263849042161",
+    "type": "shader",
+    "title": "Nodevember 柠檬蛋白塔",
+    "summary": "一盘金色花瓣一样的柠檬蛋白塔，尖端被烤成焦糖色，体积感很足。NeeLandro 用 TSL 挤出蛋白霜，作为 Nodevember 甜点收尾。",
+    "url": "https://x.com/NeeLandro/status/2123831263849042161",
+    "imageUrl": "/covers/x-2123831263849042161.jpg",
+    "source": "x",
+    "sourceId": "2123831263849042161",
+    "tags": [
+      "threejs",
+      "tsl",
+      "nodevember",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123623897341833217",
+    "type": "shader",
+    "title": "Godot 轨道尺度",
+    "summary": "深色背景里几颗星球沿着轨道绕着一颗恒星转，还有卫星圈。作者在讲：卫星离行星 400 公里、行星离恒星 1.5 亿公里时，怎么在同一 Godot 场景里画出来。",
+    "url": "https://x.com/cutetoxicguy/status/2123623897341833217",
+    "imageUrl": "/covers/x-2123623897341833217.jpg",
+    "source": "x",
+    "sourceId": "2123623897341833217",
+    "tags": [
+      "godot",
+      "simulation",
+      "scale",
+      "space"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "x-2123531432920576443",
+    "type": "shader",
+    "title": "Webbing 茶具与焦散",
+    "summary": "桌面上几把卡通茶壶、杯和方糖，有的半透明，桌面有彩色焦散和描边。TankModeZ 在测一套叫 Webbing 的导航原型，顺带把布料凹陷、玻璃焦散和彩色阴影画在一起。",
+    "url": "https://x.com/TankModeZ/status/2123531432920576443",
+    "imageUrl": "/covers/x-2123531432920576443.jpg",
+    "source": "x",
+    "sourceId": "2123531432920576443",
+    "tags": [
+      "shader",
+      "caustics",
+      "stylized",
+      "unity"
+    ],
+    "collectedAt": "2026-11-21"
+  },
+  {
+    "id": "steam-3953490",
+    "type": "game",
+    "title": "Infinite Fantasy Battlefront 无限幻想战线",
+    "summary": "3D 即时战略：冰面上几架带翅膀的飞行器正在交火，青白色能量弹拖着尾迹，远处还有更大的单位。这是免费的科幻奇幻 RTS，有多阵营和 PvP/PvE。免费。",
+    "url": "https://store.steampowered.com/app/3953490/",
+    "imageUrl": "/covers/steam-3953490.jpg",
+    "source": "steam",
+    "sourceId": "3953490",
+    "tags": [
+      "steam",
+      "rts",
+      "scifi",
+      "fantasy",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "steam-2960760",
+    "type": "game",
+    "title": "Greed Forest TD 贪婪森林塔防",
+    "summary": "俯视风格化 3D 塔防：绿色树桩塔和木栅栏围成迷宫，白色小怪物成群往里挤，爆炸把花和土块掀起来。可以把塔组出联动，还能把建造单位加成。$7.14。",
+    "url": "https://store.steampowered.com/app/2960760/",
+    "imageUrl": "/covers/steam-2960760.jpg",
+    "source": "steam",
+    "sourceId": "2960760",
+    "tags": [
+      "steam",
+      "tower-defense",
+      "stylized",
+      "3d",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "steam-5090830",
+    "type": "game",
+    "title": "Game Dev Dynasty 游戏开发王朝",
+    "summary": "等距 3D 工作室：开放办公区里几个人坐在电脑前，白板、沙发和绿植摆得很整齐，是游戏公司经营。要做封面、带团队、在市场里跟对手抢销量。$17.99。",
+    "url": "https://store.steampowered.com/app/5090830/",
+    "imageUrl": "/covers/steam-5090830.jpg",
+    "source": "steam",
+    "sourceId": "5090830",
+    "tags": [
+      "steam",
+      "tycoon",
+      "management",
+      "isometric",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-axlpl-grod",
+    "type": "game",
+    "title": "GROD: Part One 格罗德（上部）",
+    "summary": "3D 中世纪经营：绿草坡上几条土路通向木屋和农田，村民在走，树林一直铺到河边。你要带着一个家族走过七个世纪的波兰战争，从第一座棚屋一直打到维也纳城下的冲锋。作者标明画面、音效和文本有 AI 辅助。免费。",
+    "url": "https://axlpl.itch.io/grod",
+    "imageUrl": "/covers/itch-axlpl-grod.jpg",
+    "source": "itch",
+    "sourceId": "axlpl-grod",
+    "tags": [
+      "rts",
+      "city-builder",
+      "medieval",
+      "historical",
+      "ai-assisted",
+      "itch",
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-21",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
     "id": "itch-spriteforgestudio-stonevein-mines",
     "type": "inspiration",
     "title": "矿脉岩壁图块",
