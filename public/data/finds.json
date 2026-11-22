@@ -1,5 +1,961 @@
 [
   {
+    "id": "x-2124261677470306426",
+    "type": "game",
+    "title": "New France RTS 圣劳伦斯村",
+    "summary": "黄金时刻的河边村落：木屋、田地和一条小路对着水面，像黎明到黄昏的一天。作者在做一款可在手机和电脑上玩的帝国时代风格即时战略，这一幕是圣劳伦斯河上的新法兰西村子。帖子标明有 AI 辅助。",
+    "url": "https://x.com/abhilashhaz/status/2124261677470306426",
+    "imageUrl": "/covers/x-2124261677470306426.jpg",
+    "source": "x",
+    "sourceId": "2124261677470306426",
+    "tags": [
+      "rts",
+      "aoe-inspired",
+      "village",
+      "ai-assisted",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124119203825291371",
+    "type": "game",
+    "title": "Beyond the Pier 码头之外",
+    "summary": "俯视黄昏海滨殖民地：土墙围着木屋和田地，暖光打在屋顶上，远处是海。这是海军策略游戏，你登陆、任命总督、定下优先级就出海，镇子会跟着人口从棚屋长到木屋。",
+    "url": "https://x.com/poiesisint/status/2124119203825291371",
+    "imageUrl": "/covers/x-2124119203825291371.jpg",
+    "source": "x",
+    "sourceId": "2124119203825291371",
+    "tags": [
+      "naval",
+      "colony",
+      "strategy",
+      "city-builder",
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124139123334328792",
+    "type": "game",
+    "title": "T.S.K Commander 前线时刻",
+    "summary": "3D 战场上大量单位在雪地和废墟里交火，火焰和烟往上冒。这是 12 月 1 日上线的即时战略，六个世界、160 多种单位，时间是你唯一的资源。",
+    "url": "https://x.com/Kaan_Acikgoez/status/2124139123334328792",
+    "imageUrl": "/covers/x-2124139123334328792.jpg",
+    "source": "x",
+    "sourceId": "2124139123334328792",
+    "tags": [
+      "rts",
+      "wargame",
+      "steam",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2123947271704514648",
+    "type": "game",
+    "title": "The Welcome Inn 欢迎旅馆",
+    "summary": "第一人称站在中世纪木结构酒馆里：炉火、酒桶、长桌和暖黄灯光，柜台后面有人在忙。Godot 做的舒适酒馆经营，11 月 30 日将推出试玩。",
+    "url": "https://x.com/armadilodev/status/2123947271704514648",
+    "imageUrl": "/covers/x-2123947271704514648.jpg",
+    "source": "x",
+    "sourceId": "2123947271704514648",
+    "tags": [
+      "tavern",
+      "management",
+      "godot",
+      "medieval",
+      "cozy",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124114370980696560",
+    "type": "game",
+    "title": "World-Hive: Leukosia 活着的星球",
+    "summary": "俯视一块青绿与紫红交界的异星地面，几座发光建筑和单位散布其间。这是即时战略《World-Hive: Leukosia》：三族、会升级的英雄、两条配音战役，设定是一颗活着的星球想把你赶出去。",
+    "url": "https://x.com/World_Hive_Leuk/status/2124114370980696560",
+    "imageUrl": "/covers/x-2124114370980696560.jpg",
+    "source": "x",
+    "sourceId": "2124114370980696560",
+    "tags": [
+      "rts",
+      "alien",
+      "campaign",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124209807569957235",
+    "type": "game",
+    "title": "Metropolis Gear 大都会齿轮",
+    "summary": "等距 3D 街区：彩色方块建筑、绿色部队和车辆挤在一起，像积木城上的小战争。Godot 做的即时战略，作者这周在调角色界面和升级信息。",
+    "url": "https://x.com/GetB4ss/status/2124209807569957235",
+    "imageUrl": "/covers/x-2124209807569957235.jpg",
+    "source": "x",
+    "sourceId": "2124209807569957235",
+    "tags": [
+      "rts",
+      "godot",
+      "isometric",
+      "stylized",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124148906913366418",
+    "type": "game",
+    "title": "KPOP INFINITE 韩团经纪",
+    "summary": "夜景开放办公区：霓虹灯、绿植、沙发和落地窗对着外面的城市。这是经营韩团厂牌的 3D 大亨游戏，作者对比了从面馆楼上三室小办公室到第八档大楼的变化，计划 2027 年 1 月 15 日上 Steam。",
+    "url": "https://x.com/KPOPINFINITE/status/2124148906913366418",
+    "imageUrl": "/covers/x-2124148906913366418.jpg",
+    "source": "x",
+    "sourceId": "2124148906913366418",
+    "tags": [
+      "tycoon",
+      "management",
+      "stylized",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124142805018972655",
+    "type": "game",
+    "title": "Steinvar 岛上的灯塔",
+    "summary": "极光底下的海岛：近处是灯塔和红瓦木屋，烟从烟囱里冒出来，远处是礁石和被灯光点亮的村落。虚幻 5 的探索解谜，要跟着光去问这座岛上到底发生了什么。",
+    "url": "https://x.com/SteinvarGame/status/2124142805018972655",
+    "imageUrl": "/covers/x-2124142805018972655.jpg",
+    "source": "x",
+    "sourceId": "2124142805018972655",
+    "tags": [
+      "ue5",
+      "exploration",
+      "island",
+      "adventure",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2123985862946099232",
+    "type": "shader",
+    "title": "WebGPU 土星环影",
+    "summary": "深空里一颗带环的行星，环的影子穿过厚大气层落在球体上。codetaur 用 WebGPU 做了体积环影，光在气体里被一层层挡住。",
+    "url": "https://x.com/codetaur/status/2123985862946099232",
+    "imageUrl": "/covers/x-2123985862946099232.jpg",
+    "source": "x",
+    "sourceId": "2123985862946099232",
+    "tags": [
+      "webgpu",
+      "volumetric",
+      "planet",
+      "shader"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124299320849494115",
+    "type": "shader",
+    "title": "像素高斯溅射岛",
+    "summary": "一座可以绕着看的像素风小岛：绿树、亭子和层叠的植被，像把 3D 模型点成了像素画。dextune 的 pixelart-gaussiansplat 能在浏览器里把 glTF 转成高斯溅射场景。",
+    "url": "https://x.com/dextune/status/2124299320849494115",
+    "imageUrl": "/covers/x-2124299320849494115.jpg",
+    "source": "x",
+    "sourceId": "2124299320849494115",
+    "tags": [
+      "gaussian-splat",
+      "pixel",
+      "webgl",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2123947740715454500",
+    "type": "shader",
+    "title": "iPhone 海边水模拟",
+    "summary": "竖屏画面里一个人站在浅滩上，脚下是海和沙滩，左上角有圆形小地图。mlperego 把近岸水模拟又优化了一轮，号称在 iPhone 13 mini 上也能跑到几十帧。",
+    "url": "https://x.com/mlperego/status/2123947740715454500",
+    "imageUrl": "/covers/x-2123947740715454500.jpg",
+    "source": "x",
+    "sourceId": "2123947740715454500",
+    "tags": [
+      "water",
+      "simulation",
+      "mobile",
+      "shader"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124155884607533434",
+    "type": "shader",
+    "title": "Unity 六边形力场",
+    "summary": "一颗布满发光六边形网格的蓝色能量球，停在空旷的地面上，边缘在发青光。Jettelly 转的 MS Artworks 作品：用 Shader Graph 把力场裹成六边形栅格。",
+    "url": "https://x.com/jettelly/status/2124155884607533434",
+    "imageUrl": "/covers/x-2124155884607533434.jpg",
+    "source": "x",
+    "sourceId": "2124155884607533434",
+    "tags": [
+      "unity",
+      "shader",
+      "hex",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124035083170423211",
+    "type": "shader",
+    "title": "Unity 溶解机甲",
+    "summary": "紫背景前并排三台发光机甲，脚下和身上的像素正在往上飘、往下碎。Daniel Espinal 在 Unity 里做的角色溶解，最后几个像素会在空中停一下。",
+    "url": "https://x.com/jettelly/status/2124035083170423211",
+    "imageUrl": "/covers/x-2124035083170423211.jpg",
+    "source": "x",
+    "sourceId": "2124035083170423211",
+    "tags": [
+      "unity",
+      "shader",
+      "dissolve",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2123773954544537976",
+    "type": "shader",
+    "title": "计算着色器画画",
+    "summary": "林间空地上停着一辆白色轿车，周围是树和草，像把一张照片慢慢画到场景里。MMiuze 用计算着色器做绘画效果的第五天。",
+    "url": "https://x.com/MMiuze/status/2123773954544537976",
+    "imageUrl": "/covers/x-2123773954544537976.jpg",
+    "source": "x",
+    "sourceId": "2123773954544537976",
+    "tags": [
+      "compute-shader",
+      "painting",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124155882972008717",
+    "type": "shader",
+    "title": "Greyford 水塔",
+    "summary": "黄昏里一座锈色水塔立在草坡上，暖光打在金属架和木围栏上，全在引擎里完成。这是预兆恐怖游戏 PREECHO 的场景。",
+    "url": "https://x.com/preechogame/status/2124155882972008717",
+    "imageUrl": "/covers/x-2124155882972008717.jpg",
+    "source": "x",
+    "sourceId": "2124155882972008717",
+    "tags": [
+      "environment",
+      "in-engine",
+      "water-tower",
+      "atmosphere"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124124025467342965",
+    "type": "shader",
+    "title": "Parallax Strands 发草",
+    "summary": "三块立方体上分别长出短黄草、棕色绒毛和更长的草，像用视差把毛发挤出来。MrRolord 把这套便宜的程序发草更新到了 Blender 5.2。",
+    "url": "https://x.com/MrRolord/status/2124124025467342965",
+    "imageUrl": "/covers/x-2124124025467342965.jpg",
+    "source": "x",
+    "sourceId": "2124124025467342965",
+    "tags": [
+      "blender",
+      "grass",
+      "hair",
+      "procedural",
+      "shader"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124302707561578859",
+    "type": "shader",
+    "title": "体积彩虹闪电 Vol.82",
+    "summary": "一道彩色电弧在深色背景里扭着往前窜，带着虹彩。keebar 让 DeepSeek 给每一段闪电随机偏一个角度，做出很长的彩虹闪电。",
+    "url": "https://x.com/keebar_techArt/status/2124302707561578859",
+    "imageUrl": "/covers/x-2124302707561578859.jpg",
+    "source": "x",
+    "sourceId": "2124302707561578859",
+    "tags": [
+      "volumetric",
+      "lightning",
+      "vfx",
+      "ai-assisted"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124001003490209809",
+    "type": "shader",
+    "title": "玻璃硬币折射",
+    "summary": "一串半透明玻璃硬币沿曲线排开，里面在算折射、色散和彩虹膜。hexh1vb 用 three.js 做的实时玻璃阵列，还可以在弹簧环和玫瑰线之间变形。",
+    "url": "https://x.com/hexh1vb/status/2124001003490209809",
+    "imageUrl": "/covers/x-2124001003490209809.jpg",
+    "source": "x",
+    "sourceId": "2124001003490209809",
+    "tags": [
+      "threejs",
+      "glass",
+      "refraction",
+      "iridescent"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124098659776393253",
+    "type": "shader",
+    "title": "黄金时刻航拍城",
+    "summary": "黄昏俯拍一条高架桥和沿路的城市灯火，车流还在动。fxgg76665 把一段黄金时刻航拍做成了单 HTML 的可交互三维场景。",
+    "url": "https://x.com/fxgg76665/status/2124098659776393253",
+    "imageUrl": "/covers/x-2124098659776393253.jpg",
+    "source": "x",
+    "sourceId": "2124098659776393253",
+    "tags": [
+      "webgl",
+      "photogrammetry",
+      "golden-hour",
+      "city"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124137256063754411",
+    "type": "shader",
+    "title": "Contract Burn 地狱天幕",
+    "summary": "哥特风立体模型：烛火、彩色玻璃和光柱，多雷式地狱天空在着色器里转动。KeRui 用一套卡通着色器把七段剧情灯光锁在这个可转的西洋镜里。",
+    "url": "https://x.com/KeRui87851/status/2124137256063754411",
+    "imageUrl": "/covers/x-2124137256063754411.jpg",
+    "source": "x",
+    "sourceId": "2124137256063754411",
+    "tags": [
+      "toon",
+      "diorama",
+      "gothic",
+      "shader"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124261874208284813",
+    "type": "shader",
+    "title": "浏览器航海模拟",
+    "summary": "白色帆船在蓝绿色海面上行驶，帆被风灌满，远处是小岛。haussaire 用 three.js 和 WebGPU 做的浏览器航海模拟。",
+    "url": "https://x.com/haussaire/status/2124261874208284813",
+    "imageUrl": "/covers/x-2124261874208284813.jpg",
+    "source": "x",
+    "sourceId": "2124261874208284813",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "sailing",
+      "water"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124008790269849777",
+    "type": "shader",
+    "title": "Celestial Mandala 星曼陀罗",
+    "summary": "一朵发光的多层宇宙曼陀罗在转，11 层光环大约每 6 秒跳一次。behnazartist91 用 Three.js / WebGPU 做的实时生成装置，可以放大进去看。",
+    "url": "https://x.com/behnazartist91/status/2124008790269849777",
+    "imageUrl": "/covers/x-2124008790269849777.jpg",
+    "source": "x",
+    "sourceId": "2124008790269849777",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "generative",
+      "mandala"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124201651816784216",
+    "type": "shader",
+    "title": "Aster 风格化海水",
+    "summary": "编辑器里一片青绿海湾：近岸有泡沫，远处海水变深，右侧是从着色器参数生成的游戏界面。iikenv7 用一张表面着色器做了深度色、折射、焦散、岸边泡沫、Gerstner 浪和 SSR。",
+    "url": "https://x.com/iikenv7/status/2124201651816784216",
+    "imageUrl": "/covers/x-2124201651816784216.jpg",
+    "source": "x",
+    "sourceId": "2124201651816784216",
+    "tags": [
+      "water",
+      "shader",
+      "stylized",
+      "caustics"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2123964282316665088",
+    "type": "shader",
+    "title": "日式神社赛璐璐",
+    "summary": "镜头没入水下，锦鲤在桥墩边游，水面映着天光。HoLHon1 用 three.js 做了可行走的日式神社：赛璐璐、墨线、四季树、水下鱼和烟花倒影，手机也能跑。",
+    "url": "https://x.com/HoLHon1/status/2123964282316665088",
+    "imageUrl": "/covers/x-2123964282316665088.jpg",
+    "source": "x",
+    "sourceId": "2123964282316665088",
+    "tags": [
+      "threejs",
+      "cel-shading",
+      "water",
+      "environment"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124074191192564011",
+    "type": "shader",
+    "title": "MapStack 森林边缘",
+    "summary": "风格化林地渐渐变稀，灌木接上草地，没有一条硬切的林缘。thepixelgoblin 为 Godot 4 的 MapStack 做了森林过渡，避免程序地形一眼假。",
+    "url": "https://x.com/thepixelgoblin/status/2124074191192564011",
+    "imageUrl": "/covers/x-2124074191192564011.jpg",
+    "source": "x",
+    "sourceId": "2124074191192564011",
+    "tags": [
+      "godot",
+      "procgen",
+      "terrain",
+      "vegetation"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124153122977157560",
+    "type": "shader",
+    "title": "Three.js 踏草与法术环",
+    "summary": "石板路上站着几名士兵，身边是草地和小桥。角色会在纹理上留下足迹，着色器据此把草压弯，法术命中还会掀起一圈草浪。",
+    "url": "https://x.com/Blubdragongames/status/2124153122977157560",
+    "imageUrl": "/covers/x-2124153122977157560.jpg",
+    "source": "x",
+    "sourceId": "2124153122977157560",
+    "tags": [
+      "threejs",
+      "grass",
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124304044382621986",
+    "type": "shader",
+    "title": "HMS Meridian 程序帆船",
+    "summary": "一艘三桅帆船停在晚霞海面上，帆、绳索和海面全是代码画出来的。drvjpn 用 Three.js / WebGL、零外部模型做了这艘可在浏览器里看的实时帆船。",
+    "url": "https://x.com/drvjpn/status/2124304044382621986",
+    "imageUrl": "/covers/x-2124304044382621986.jpg",
+    "source": "x",
+    "sourceId": "2124304044382621986",
+    "tags": [
+      "threejs",
+      "procedural",
+      "sailing",
+      "webgl"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124303450490179762",
+    "type": "shader",
+    "title": "程序大理石宫殿",
+    "summary": "白色大理石柱廊通向金色装饰的交叉拱顶，远处是天空，近处水盘里有细波反射。drvjpn 用 TypeScript + Three.js 纯代码生成，带种子，手机也能打开。",
+    "url": "https://x.com/drvjpn/status/2124303450490179762",
+    "imageUrl": "/covers/x-2124303450490179762.jpg",
+    "source": "x",
+    "sourceId": "2124303450490179762",
+    "tags": [
+      "threejs",
+      "procedural",
+      "architecture",
+      "water"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2123749122901782798",
+    "type": "shader",
+    "title": "Three.js 液体球",
+    "summary": "一颗半透明的青绿液体球躺在浅色地面上，表面在晃、在拉丝。wararyo 用 Three.js 做的流体感球体，跑在 60 帧。",
+    "url": "https://x.com/wararyo/status/2123749122901782798",
+    "imageUrl": "/covers/x-2123749122901782798.jpg",
+    "source": "x",
+    "sourceId": "2123749122901782798",
+    "tags": [
+      "threejs",
+      "fluid",
+      "metaball",
+      "shader"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124285730897756201",
+    "type": "shader",
+    "title": "缆车登顶",
+    "summary": "雪山山谷里一条小路通向远处，阳光从峡谷尽头打过来。danjan_design 用 Fable 5.2 做了能坐缆车登顶、一路有鸟跟着的场景。",
+    "url": "https://x.com/danjan_design/status/2124285730897756201",
+    "imageUrl": "/covers/x-2124285730897756201.jpg",
+    "source": "x",
+    "sourceId": "2124285730897756201",
+    "tags": [
+      "environment",
+      "snow",
+      "ai-assisted"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124291982231052359",
+    "type": "shader",
+    "title": "体素烟雾 39 万格",
+    "summary": "一个穿西装的人站在一团白烟里，烟在立方网格上翻卷、撞上挡板再绕开。vidar 用 393,216 个体素存速度、密度和温度，每一步都做压力求解。",
+    "url": "https://x.com/vidar_0208/status/2124291982231052359",
+    "imageUrl": "/covers/x-2124291982231052359.jpg",
+    "source": "x",
+    "sourceId": "2124291982231052359",
+    "tags": [
+      "voxel",
+      "fluid",
+      "simulation",
+      "smoke"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2123748294576787467",
+    "type": "shader",
+    "title": "涉水走向光",
+    "summary": "一座长阶伸进海里，夕阳把台阶和水面照成金色。holdyshvlad 用 three.js 做的基金概念场景：创始人从水里走上岸、走向光。",
+    "url": "https://x.com/holdyshvlad/status/2123748294576787467",
+    "imageUrl": "/covers/x-2123748294576787467.jpg",
+    "source": "x",
+    "sourceId": "2123748294576787467",
+    "tags": [
+      "threejs",
+      "water",
+      "cinematic",
+      "environment"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124149597115457702",
+    "type": "shader",
+    "title": "可玩的小公园",
+    "summary": "一座迷你立体模型：绿树、小路和小小的建筑，像能走进去的公园角落。popi886 用 Codex + Three.js 做的可玩互动小场景。",
+    "url": "https://x.com/popi886/status/2124149597115457702",
+    "imageUrl": "/covers/x-2124149597115457702.jpg",
+    "source": "x",
+    "sourceId": "2124149597115457702",
+    "tags": [
+      "threejs",
+      "diorama",
+      "interactive",
+      "ai-assisted"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124179033990611451",
+    "type": "shader",
+    "title": "反射与自发光",
+    "summary": "阳光穿过密林，树干和地面上有光斑和暗部。lli_dev 在片元着色器里写了两套函数，让纹理既能反射也能自己发光。",
+    "url": "https://x.com/lli_dev/status/2124179033990611451",
+    "imageUrl": "/covers/x-2124179033990611451.jpg",
+    "source": "x",
+    "sourceId": "2124179033990611451",
+    "tags": [
+      "shader",
+      "lighting",
+      "environment"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124013780724269169",
+    "type": "shader",
+    "title": "运行时生成峡谷",
+    "summary": "镜头沿着一条发亮的河道冲进两侧的峡谷，两岸是程序生成的岩壁。Zenity07 的实验不引用任何资源库，连音频也在运行时生成，只用 TypeScript 和 WGSL。",
+    "url": "https://x.com/Zenity07/status/2124013780724269169",
+    "imageUrl": "/covers/x-2124013780724269169.jpg",
+    "source": "x",
+    "sourceId": "2124013780724269169",
+    "tags": [
+      "wgsl",
+      "procedural",
+      "runtime",
+      "webgpu"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "x-2124205915088023668",
+    "type": "shader",
+    "title": "Somnastra 黑洞群",
+    "summary": "深空里散布着许多发光的点和暗处，像星座和一群黑洞。Somnastra 用着色器画每个黑洞，宣称大群也能在电脑和手机上跑到 60 帧。",
+    "url": "https://x.com/Somnastragame/status/2124205915088023668",
+    "imageUrl": "/covers/x-2124205915088023668.jpg",
+    "source": "x",
+    "sourceId": "2124205915088023668",
+    "tags": [
+      "shader",
+      "black-hole",
+      "space",
+      "mobile"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "itch-scarnit-holmgang",
+    "type": "game",
+    "title": "Hólmgang 霍尔姆冈",
+    "summary": "风格化 3D 维京聚落：木头长屋、旗帜和小人在草地上走。你要重修废墟长屋、拉起一座村子，再出海去袭击、贸易和征服岛屿。免费。",
+    "url": "https://scarnit.itch.io/holmgang",
+    "imageUrl": "/covers/itch-scarnit-holmgang.jpg",
+    "source": "itch",
+    "sourceId": "scarnit-holmgang",
+    "tags": [
+      "city-builder",
+      "colony-sim",
+      "medieval",
+      "viking",
+      "itch",
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-araticus-7-flash-fire",
+    "type": "game",
+    "title": "Flash Fire 山火指挥",
+    "summary": "俯视山火现场：燃烧的林线和部署中的单位，界面上是指挥面板。你要当野火事故指挥官，调部队去压住正在蔓延的火线。免费。",
+    "url": "https://araticus-7.itch.io/flash-fire",
+    "imageUrl": "/covers/itch-araticus-7-flash-fire.jpg",
+    "source": "itch",
+    "sourceId": "araticus-7-flash-fire",
+    "tags": [
+      "rts",
+      "management",
+      "simulation",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-artiquea-smol-empire",
+    "type": "game",
+    "title": "Smol Empire 小帝国",
+    "summary": "低多边形现代战争地图：坦克和部队在土色地面上推进，远处有简易建筑。离线可打电脑，联机最多 20 人，还要把油、电、坦克、飞机和导弹管起来。5 欧元。",
+    "url": "https://artiquea.itch.io/smol-empire",
+    "imageUrl": "/covers/itch-artiquea-smol-empire.jpg",
+    "source": "itch",
+    "sourceId": "artiquea-smol-empire",
+    "tags": [
+      "rts",
+      "lowpoly",
+      "modern-warfare",
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-rpg-maker-plugins-for-the-booty",
+    "type": "game",
+    "title": "For The Booty 为了宝藏",
+    "summary": "风格化 3D 海盗港湾：木甲板、棕榈和远处的海岛，颜色很饱和。即时 3D 海盗策略，要建据点、指挥舰队、挖宝求生。$7.99，带源码。",
+    "url": "https://rpg-maker-plugins.itch.io/for-the-booty",
+    "imageUrl": "/covers/itch-rpg-maker-plugins-for-the-booty.jpg",
+    "source": "itch",
+    "sourceId": "rpg-maker-plugins-for-the-booty",
+    "tags": [
+      "rts",
+      "pirates",
+      "city-builder",
+      "stylized",
+      "itch",
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-enravage-theory-of-victory",
+    "type": "game",
+    "title": "Enravage: Theory of Victory 胜利理论",
+    "summary": "暗色 3D 战场上部队沿着道路和丘陵铺开。这是回合制策略：先选定自己怎么赢，战争只是四种手段里的一种。免费。",
+    "url": "https://enravage.itch.io/theory-of-victory",
+    "imageUrl": "/covers/itch-enravage-theory-of-victory.jpg",
+    "source": "itch",
+    "sourceId": "enravage-theory-of-victory",
+    "tags": [
+      "tbs",
+      "strategy",
+      "lowpoly",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-mrosati84-fronte-1944",
+    "type": "game",
+    "title": "Fronte 1944 1944 前线",
+    "summary": "低多边形雪地战场：坦克和士兵在浅色地面上交火。二战战术即时战略，2 到 4 人联机，掩体比手速更重要。免费。",
+    "url": "https://mrosati84.itch.io/fronte-1944",
+    "imageUrl": "/covers/itch-mrosati84-fronte-1944.jpg",
+    "source": "itch",
+    "sourceId": "mrosati84-fronte-1944",
+    "tags": [
+      "rts",
+      "ww2",
+      "lowpoly",
+      "tactical",
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-promotionfiverr96-frostline",
+    "type": "game",
+    "title": "Frostline 霜线",
+    "summary": "雪夜里几座木屋和灯火，外面是黑暗的林线。白天建造、夜里守住，要在真实地图上的巴利撑过四夜，直到车队到来。免费。",
+    "url": "https://promotionfiverr96.itch.io/frostline",
+    "imageUrl": "/covers/itch-promotionfiverr96-frostline.jpg",
+    "source": "itch",
+    "sourceId": "promotionfiverr96-frostline",
+    "tags": [
+      "base-building",
+      "survival",
+      "rts",
+      "itch",
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-thiagotulio-pindorama",
+    "type": "game",
+    "title": "Pindorama 平多拉马",
+    "summary": "俯视阳光下的海边部落：茅屋、沙滩、棕榈和一只停在近处的船。殖民前巴西海岸的图皮村庄，要种菜、捕鱼、办节、和邻居相处。免费。",
+    "url": "https://thiagotulio.itch.io/pindorama",
+    "imageUrl": "/covers/itch-thiagotulio-pindorama.jpg",
+    "source": "itch",
+    "sourceId": "thiagotulio-pindorama",
+    "tags": [
+      "colony-sim",
+      "city-builder",
+      "historical",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-bilogtek-puppets-and-bugs",
+    "type": "game",
+    "title": "Puppets & Bugs 木偶与虫群",
+    "summary": "柔和光照下的木偶小镇：积木一样的房子和农田。白天建村，夜里在墙头挡住虫群，免费 20 天试玩。",
+    "url": "https://bilogtek.itch.io/puppets-and-bugs",
+    "imageUrl": "/covers/itch-bilogtek-puppets-and-bugs.jpg",
+    "source": "itch",
+    "sourceId": "bilogtek-puppets-and-bugs",
+    "tags": [
+      "city-builder",
+      "survival",
+      "base-building",
+      "demo",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-gatuno-games-a-king-and-his-bow",
+    "type": "game",
+    "title": "A King and His Bow 国王与弓",
+    "summary": "俯视一座中世纪城堡和外面的军队，旗帜和人群铺在草地上。40 场攻城战里要用弓、魔法和冲锋的部队打破围城。$1。",
+    "url": "https://gatuno-games.itch.io/a-king-and-his-bow",
+    "imageUrl": "/covers/itch-gatuno-games-a-king-and-his-bow.jpg",
+    "source": "itch",
+    "sourceId": "gatuno-games-a-king-and-his-bow",
+    "tags": [
+      "rts",
+      "medieval",
+      "siege",
+      "itch",
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "骑砍/战争",
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-darkhand-publishing-banners-of-auren-demo",
+    "type": "game",
+    "title": "Banners of Auren 奥伦旗帜",
+    "summary": "六边形格子上站着风格化的 3D 部队和地形。故事向奇幻战役的回合制六边形战术，军队会一直带下去。免费试玩。",
+    "url": "https://darkhand-publishing.itch.io/banners-of-auren-demo",
+    "imageUrl": "/covers/itch-darkhand-publishing-banners-of-auren-demo.jpg",
+    "source": "itch",
+    "sourceId": "darkhand-publishing-banners-of-auren-demo",
+    "tags": [
+      "tactics",
+      "hex",
+      "fantasy",
+      "turn-based",
+      "itch",
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "策略/4X/RTS",
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-emilianostack-fishing-empire",
+    "type": "game",
+    "title": "Fishing Empire 渔业帝国",
+    "summary": "3D 港口：成排的红白渔船停在码头，后面是厂房和水域。先亲手捕鱼，再把港口建成渔业帝国，还要应付收税的人。免费。",
+    "url": "https://emilianostack.itch.io/fishing-empire",
+    "imageUrl": "/covers/itch-emilianostack-fishing-empire.jpg",
+    "source": "itch",
+    "sourceId": "emilianostack-fishing-empire",
+    "tags": [
+      "tycoon",
+      "city-builder",
+      "management",
+      "fishing",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-22",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-phnxfthr-boidbreaker",
+    "type": "shader",
+    "title": "Boidbreaker 鸟群打散",
+    "summary": "深色空间里密密的彩色粒子像一群鸟在游，被冲散后又聚回来。用沉浸式生命算法去撕开这些欧椋鸟式的群。免费。",
+    "url": "https://phnxfthr.itch.io/boidbreaker",
+    "imageUrl": "/covers/itch-phnxfthr-boidbreaker.jpg",
+    "source": "itch",
+    "sourceId": "phnxfthr-boidbreaker",
+    "tags": [
+      "boids",
+      "particles",
+      "simulation",
+      "procedural",
+      "itch"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
+    "id": "itch-steveinteractive-coral-view",
+    "type": "shader",
+    "title": "Coral View 珊瑚视角",
+    "summary": "水下发光的珊瑚和海草林，光线从上面漏下来。可在浏览器里潜进这座发光的 3D 礁石。$2。",
+    "url": "https://steveinteractive.itch.io/coral-view",
+    "imageUrl": "/covers/itch-steveinteractive-coral-view.jpg",
+    "source": "itch",
+    "sourceId": "steveinteractive-coral-view",
+    "tags": [
+      "threejs",
+      "underwater",
+      "environment",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-11-22"
+  },
+  {
     "id": "itch-pixlog-gulchwood",
     "type": "inspiration",
     "title": "边地小镇地形",
