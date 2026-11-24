@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-fogshelf-saltwharf-ships-open-sea-32x32-top-down-pixel-ship-deck-tileset",
+    "type": "inspiration",
+    "title": "盐码头船甲板",
+    "summary": "32×32 顶视角船甲板与开阔海面图块，用同一套黄昏 40 色就能拼出任意大小的船。",
+    "url": "https://fogshelf.itch.io/saltwharf-ships-open-sea-32x32-top-down-pixel-ship-deck-tileset",
+    "imageUrl": "/covers/itch-fogshelf-saltwharf-ships-open-sea-32x32-top-down-pixel-ship-deck-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-fogshelf-saltwharf-ships-open-sea-32x32-top-down-pixel-ship-deck-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ghostworkmedia-lantern-crypt",
+    "type": "inspiration",
+    "title": "灯笼墓穴",
+    "summary": "16×16 顶视角地牢，墙、陷坑、水面、动画陷阱和火把，再加上提灯英雄和怪物。",
+    "url": "https://ghostworkmedia.itch.io/lantern-crypt",
+    "imageUrl": "/covers/itch-ghostworkmedia-lantern-crypt.jpg",
+    "source": "itch",
+    "sourceId": "itch-ghostworkmedia-lantern-crypt",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nightcatworks-dark-fantasy-platformer-tileset",
+    "type": "inspiration",
+    "title": "暗黑平台五地貌",
+    "summary": "32×32 暗黑平台图块，五个地貌铺在一起，横版地图层次清楚。",
+    "url": "https://nightcatworks.itch.io/dark-fantasy-platformer-tileset",
+    "imageUrl": "/covers/itch-nightcatworks-dark-fantasy-platformer-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-nightcatworks-dark-fantasy-platformer-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixel-banner-rpg-pixel-realms-the-desert",
+    "type": "inspiration",
+    "title": "奇幻国度沙漠",
+    "summary": "32×32 顶视角沙漠图块和道具，沙地地表和废墟很好铺。",
+    "url": "https://pixel-banner.itch.io/rpg-pixel-realms-the-desert",
+    "imageUrl": "/covers/itch-pixel-banner-rpg-pixel-realms-the-desert.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixel-banner-rpg-pixel-realms-the-desert",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vibeforge-snow-pass",
+    "type": "inspiration",
+    "title": "雪道侧视场景",
+    "summary": "侧视雪道会随降雪留下脚印，还有四种生物住在附近，冬季关卡很完整。",
+    "url": "https://vibeforge.itch.io/snow-pass",
+    "imageUrl": "/covers/itch-vibeforge-snow-pass.jpg",
+    "source": "itch",
+    "sourceId": "itch-vibeforge-snow-pass",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gravyassets-psx-grass",
+    "type": "inspiration",
+    "title": "PSX 草地",
+    "summary": "54 株低多边形 PS1 风草、野花和灌木，64 像素抖动贴图，野地植被很好铺。",
+    "url": "https://gravyassets.itch.io/psx-grass",
+    "imageUrl": "/covers/itch-gravyassets-psx-grass.jpg",
+    "source": "itch",
+    "sourceId": "itch-gravyassets-psx-grass",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-josephpodado-voxel-fantasy-realms-free",
+    "type": "inspiration",
+    "title": "体素幻想村落",
+    "summary": "体素半身人村落加上各族英雄，草地和石屋把聚落摆得很清楚。",
+    "url": "https://josephpodado.itch.io/voxel-fantasy-realms-free",
+    "imageUrl": "/covers/itch-josephpodado-voxel-fantasy-realms-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-josephpodado-voxel-fantasy-realms-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-aura369-voxel-farm-pack",
+    "type": "inspiration",
+    "title": "体素农场",
+    "summary": "33 件体素农场：谷仓、风车、作物、牲口和拖拉机，田园聚落很完整。",
+    "url": "https://aura369.itch.io/voxel-farm-pack",
+    "imageUrl": "/covers/itch-aura369-voxel-farm-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-aura369-voxel-farm-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-gravyassets-psx-hospital-props",
+    "type": "inspiration",
+    "title": "PSX 医院",
+    "summary": "56 件 PS1 风医院模型，废弃和干净两套，病房空间很好搭。",
+    "url": "https://gravyassets.itch.io/psx-hospital-props",
+    "imageUrl": "/covers/itch-gravyassets-psx-hospital-props.jpg",
+    "source": "itch",
+    "sourceId": "itch-gravyassets-psx-hospital-props",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-onceuponajuan-hail-epsilon-outpost-kit",
+    "type": "inspiration",
+    "title": "低模科幻前哨",
+    "summary": "42 件模块化科幻前哨：住居、停机坪、货舱和塔楼，基地结构很好拼。",
+    "url": "https://onceuponajuan.itch.io/hail-epsilon-outpost-kit",
+    "imageUrl": "/covers/itch-onceuponajuan-hail-epsilon-outpost-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-onceuponajuan-hail-epsilon-outpost-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-jye9-hi-bit-foes-8-animated-top-down-enemies-32x32",
+    "type": "inspiration",
+    "title": "顶视角八敌人",
+    "summary": "8 名 32×32 四向动画敌人：骷髅、哥布林、兽人、强盗、邪教徒、僵尸和黑骑士。",
+    "url": "https://jye9.itch.io/hi-bit-foes-8-animated-top-down-enemies-32x32",
+    "imageUrl": "/covers/itch-jye9-hi-bit-foes-8-animated-top-down-enemies-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-jye9-hi-bit-foes-8-animated-top-down-enemies-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-claudeovernight-winter-night-characters",
+    "type": "inspiration",
+    "title": "冬夜村民",
+    "summary": "4 名四向行走的冬夜村民，再加上狐狸、兔子、企鹅、驯鹿和雪精灵。",
+    "url": "https://claudeovernight.itch.io/winter-night-characters",
+    "imageUrl": "/covers/itch-claudeovernight-winter-night-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-claudeovernight-winter-night-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tinytileset-top-down-town-npcs",
+    "type": "inspiration",
+    "title": "顶视角城镇居民",
+    "summary": "20 名 32×32 顶视角村民，人类和兽人各有闲置、行走和劳作动画。",
+    "url": "https://tinytileset.itch.io/top-down-town-npcs",
+    "imageUrl": "/covers/itch-tinytileset-top-down-town-npcs.jpg",
+    "source": "itch",
+    "sourceId": "itch-tinytileset-top-down-town-npcs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelwolf-x-pixel-adventurer-character",
+    "type": "inspiration",
+    "title": "像素冒险者",
+    "summary": "16×24 持剑英雄，待机、行走、攻击、跳跃和受伤，游侠、骑士和盗贼三套服装。",
+    "url": "https://pixelwolf-x.itch.io/pixel-adventurer-character",
+    "imageUrl": "/covers/itch-pixelwolf-x-pixel-adventurer-character.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelwolf-x-pixel-adventurer-character",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-neonpixelforge-fantasy-rpg-heroes-and-monsters-kit-16x16",
+    "type": "inspiration",
+    "title": "奇幻英雄与怪物",
+    "summary": "16×16 顶视角英雄和怪物合集，36 包小人排在一起，冒险编制很齐。",
+    "url": "https://neonpixelforge.itch.io/fantasy-rpg-heroes-and-monsters-kit-16x16",
+    "imageUrl": "/covers/itch-neonpixelforge-fantasy-rpg-heroes-and-monsters-kit-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-neonpixelforge-fantasy-rpg-heroes-and-monsters-kit-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jye9-hi-bit-interiors-top-down-house-shop-tavern-tileset-32x32",
+    "type": "inspiration",
+    "title": "高位室内屋舍",
+    "summary": "32×32 顶视角室内图块，地板、墙毯和 58 件家具，住宅、商店和酒馆都能摆。",
+    "url": "https://jye9.itch.io/hi-bit-interiors-top-down-house-shop-tavern-tileset-32x32",
+    "imageUrl": "/covers/itch-jye9-hi-bit-interiors-top-down-house-shop-tavern-tileset-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-jye9-hi-bit-interiors-top-down-house-shop-tavern-tileset-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-reodesuxz-free-pixel-top-down-harbor-market-and-tavern-row-tileset-16x16",
+    "type": "inspiration",
+    "title": "港口市场酒馆街",
+    "summary": "16×16 顶视角港口、市场和酒馆街，货箱、摊位和临街店面排成一排。",
+    "url": "https://reodesuxz.itch.io/free-pixel-top-down-harbor-market-and-tavern-row-tileset-16x16",
+    "imageUrl": "/covers/itch-reodesuxz-free-pixel-top-down-harbor-market-and-tavern-row-tileset-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-reodesuxz-free-pixel-top-down-harbor-market-and-tavern-row-tileset-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-spiritlandsonline-town-and-country-mega-pack-16x16",
+    "type": "inspiration",
+    "title": "城乡五套图块",
+    "summary": "五套配套 16×16 顶视角图块：村庄、城镇、铁路、海岸和室内，聚落范围很完整。",
+    "url": "https://spiritlandsonline.itch.io/town-and-country-mega-pack-16x16",
+    "imageUrl": "/covers/itch-spiritlandsonline-town-and-country-mega-pack-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-spiritlandsonline-town-and-country-mega-pack-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-claudeovernight-winter-night-cabin-interior",
+    "type": "inspiration",
+    "title": "冬夜木屋内景",
+    "summary": "16×16 原木小屋内景，壁炉、圣诞树、地毯和睡猫，冬夜房间很暖和。",
+    "url": "https://claudeovernight.itch.io/winter-night-cabin-interior",
+    "imageUrl": "/covers/itch-claudeovernight-winter-night-cabin-interior.jpg",
+    "source": "itch",
+    "sourceId": "itch-claudeovernight-winter-night-cabin-interior",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-free-medieval-gothic-marketplace",
+    "type": "inspiration",
+    "title": "中世纪哥特市集",
+    "summary": "动画像素哥特市集建筑，摊位和拱门立在一起，市集立面很好认。",
+    "url": "https://elie-worldsmith.itch.io/free-medieval-gothic-marketplace",
+    "imageUrl": "/covers/itch-elie-worldsmith-free-medieval-gothic-marketplace.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-free-medieval-gothic-marketplace",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-godver3-gothic-street-fronts",
+    "type": "inspiration",
+    "title": "PSX 哥特街面",
+    "summary": "3 座模块化低多边形维多利亚临街立面，同一套材质，街道排面很整齐。",
+    "url": "https://godver3.itch.io/gothic-street-fronts",
+    "imageUrl": "/covers/itch-godver3-gothic-street-fronts.jpg",
+    "source": "itch",
+    "sourceId": "itch-godver3-gothic-street-fronts",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-godver3-gothic-manor-interior",
+    "type": "inspiration",
+    "title": "PSX 哥特庄园内景",
+    "summary": "模块化低多边形维多利亚庄园墙体和 8 件家具，同一套材质，室内很好拼。",
+    "url": "https://godver3.itch.io/gothic-manor-interior",
+    "imageUrl": "/covers/itch-godver3-gothic-manor-interior.jpg",
+    "source": "itch",
+    "sourceId": "itch-godver3-gothic-manor-interior",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-sinclarity-sin64-cafe-kit-low-poly-pixel-art-cafe-bakery",
+    "type": "inspiration",
+    "title": "像素三维咖啡馆",
+    "summary": "70 多件低模像素风咖啡馆道具，柜台和墙体可拼接，烘焙店空间很完整。",
+    "url": "https://sinclarity.itch.io/sin64-cafe-kit-low-poly-pixel-art-cafe-bakery",
+    "imageUrl": "/covers/itch-sinclarity-sin64-cafe-kit-low-poly-pixel-art-cafe-bakery.jpg",
+    "source": "itch",
+    "sourceId": "itch-sinclarity-sin64-cafe-kit-low-poly-pixel-art-cafe-bakery",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dpclabs-psx-goshiwon",
+    "type": "inspiration",
+    "title": "PSX 韩式高时院",
+    "summary": "66 件 PS1 风高时院走廊、异常房门和半地下室，韩式恐怖空间很好走。",
+    "url": "https://dpclabs.itch.io/psx-goshiwon",
+    "imageUrl": "/covers/itch-dpclabs-psx-goshiwon.jpg",
+    "source": "itch",
+    "sourceId": "itch-dpclabs-psx-goshiwon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-razor5191-psx-interior-furniture-pack",
+    "type": "inspiration",
+    "title": "PSX 室内家具",
+    "summary": "复古低多边形室内家具和模块化建筑，房间陈设很好摆。",
+    "url": "https://razor5191.itch.io/psx-interior-furniture-pack",
+    "imageUrl": "/covers/itch-razor5191-psx-interior-furniture-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-razor5191-psx-interior-furniture-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-kaseystudio-forest-ui-kit-pixel-art-gui-pack",
+    "type": "inspiration",
+    "title": "森林界面套件",
+    "summary": "像素森林风按钮、面板和图标，深绿木纹框把菜单衬得很清楚。",
+    "url": "https://kaseystudio.itch.io/forest-ui-kit-pixel-art-gui-pack",
+    "imageUrl": "/covers/itch-kaseystudio-forest-ui-kit-pixel-art-gui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-kaseystudio-forest-ui-kit-pixel-art-gui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-zlatko69-neon-cyber-ui-vol2",
+    "type": "inspiration",
+    "title": "霓虹赛博界面扩展",
+    "summary": "341 个代码绘制的像素界面：按键提示、技能树和战利品，三档缩放都齐。",
+    "url": "https://zlatko69.itch.io/neon-cyber-ui-vol2",
+    "imageUrl": "/covers/itch-zlatko69-neon-cyber-ui-vol2.jpg",
+    "source": "itch",
+    "sourceId": "itch-zlatko69-neon-cyber-ui-vol2",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-itsmario-hq-tinker-panels",
+    "type": "inspiration",
+    "title": "工匠面板六主题",
+    "summary": "308 个像素界面精灵、六套配色，齿轮盘和槽位把制作台界面排得很清楚。",
+    "url": "https://itsmario-hq.itch.io/tinker-panels",
+    "imageUrl": "/covers/itch-itsmario-hq-tinker-panels.jpg",
+    "source": "itch",
+    "sourceId": "itch-itsmario-hq-tinker-panels",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelpanelco-ion-drift-ui",
+    "type": "inspiration",
+    "title": "离子漂流星舰界面",
+    "summary": "像素星舰 HUD，能量条、槽位和图标排在一起，舰桥状态栏很完整。",
+    "url": "https://pixelpanelco.itch.io/ion-drift-ui",
+    "imageUrl": "/covers/itch-pixelpanelco-ion-drift-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelpanelco-ion-drift-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelpanelco-kettle-clover-ui",
+    "type": "inspiration",
+    "title": "壶与三叶草农庄界面",
+    "summary": "像素农庄界面，背包、订单和作物格，田园经营柜台很好排。",
+    "url": "https://pixelpanelco.itch.io/kettle-clover-ui",
+    "imageUrl": "/covers/itch-pixelpanelco-kettle-clover-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelpanelco-kettle-clover-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-northlineshop-pine-smoke-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "松烟像素界面",
+    "summary": "深色像素库存和武器栏，松木框把装备槽衬得很清楚。",
+    "url": "https://northlineshop.itch.io/pine-smoke-pixel-ui-kit",
+    "imageUrl": "/covers/itch-northlineshop-pine-smoke-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-northlineshop-pine-smoke-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jizzel13-greenhouse-tray-ui-kit-godot-4",
+    "type": "inspiration",
+    "title": "温室托盘界面",
+    "summary": "从播种到收获的像素种植托盘，四阶段作物和面板，农艺进度很好看。",
+    "url": "https://jizzel13.itch.io/greenhouse-tray-ui-kit-godot-4",
+    "imageUrl": "/covers/itch-jizzel13-greenhouse-tray-ui-kit-godot-4.jpg",
+    "source": "itch",
+    "sourceId": "itch-jizzel13-greenhouse-tray-ui-kit-godot-4",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-lebez-gilded-night-ui-free",
+    "type": "inspiration",
+    "title": "镀金之夜界面",
+    "summary": "免费 20 件深蓝描金 16×16 像素 RPG 界面，九宫格、按钮和血蓝条都有。",
+    "url": "https://lebez.itch.io/gilded-night-ui-free",
+    "imageUrl": "/covers/itch-lebez-gilded-night-ui-free.jpg",
+    "source": "itch",
+    "sourceId": "itch-lebez-gilded-night-ui-free",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-harning-y2k-internet-ui",
+    "type": "inspiration",
+    "title": "千禧网络界面",
+    "summary": "像素风世纪初网页、即时通讯和邮箱界面，早期互联网壳很完整。",
+    "url": "https://harning.itch.io/y2k-internet-ui",
+    "imageUrl": "/covers/itch-harning-y2k-internet-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-harning-y2k-internet-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-raxxys-adventure-loot-128-pixel-art-item-icons-1616",
+    "type": "inspiration",
+    "title": "冒险战利品图标",
+    "summary": "128 个 16×16 像素物品图标，多色装备和道具排成一套，背包格很好点。",
+    "url": "https://raxxys.itch.io/adventure-loot-128-pixel-art-item-icons-1616",
+    "imageUrl": "/covers/itch-raxxys-adventure-loot-128-pixel-art-item-icons-1616.jpg",
+    "source": "itch",
+    "sourceId": "itch-raxxys-adventure-loot-128-pixel-art-item-icons-1616",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-24",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2124813876067766687",
     "type": "game",
     "title": "鸭子池塘",
