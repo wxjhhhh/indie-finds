@@ -1,5 +1,1129 @@
 [
   {
+    "id": "x-2124813876067766687",
+    "type": "game",
+    "title": "鸭子池塘",
+    "summary": "等距小池塘里可以逗鸭子玩，水面上漂着黄鸭和浮岛，是能互动的小玩具。",
+    "url": "https://x.com/mogmek/status/2124813876067766687",
+    "imageUrl": "/covers/x-2124813876067766687.jpg",
+    "source": "x",
+    "sourceId": "2124813876067766687",
+    "tags": [
+      "x-bookmark",
+      "sandbox",
+      "interactive",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2124788570519212248",
+    "type": "game",
+    "title": "LumberBoy",
+    "summary": "砍树无人机上场：风格化林地里，角色和飞行器一起把木头运走，资源在跑。",
+    "url": "https://x.com/HBFS_Lee/status/2124788570519212248",
+    "imageUrl": "/covers/x-2124788570519212248.jpg",
+    "source": "x",
+    "sourceId": "2124788570519212248",
+    "tags": [
+      "x-bookmark",
+      "management",
+      "stylized",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124811849787138538",
+    "type": "game",
+    "title": "gametessera 的动物们",
+    "summary": "Unity 里正在做的动物：粉色生物在风格化树林间走动，形很清楚。",
+    "url": "https://x.com/gametessera/status/2124811849787138538",
+    "imageUrl": "/covers/x-2124811849787138538.jpg",
+    "source": "x",
+    "sourceId": "2124811849787138538",
+    "tags": [
+      "x-bookmark",
+      "unity",
+      "stylized",
+      "animals",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2124407742240534791",
+    "type": "game",
+    "title": "精灵堆叠战术",
+    "summary": "零贴图零建模，用 48 层像素切片堆出可攀爬的战场，还能切到第一人称瞄准。",
+    "url": "https://x.com/cfenghub/status/2124407742240534791",
+    "imageUrl": "/covers/x-2124407742240534791.jpg",
+    "source": "x",
+    "sourceId": "2124407742240534791",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "tactical",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124829730054799854",
+    "type": "shader",
+    "title": "Codevember 21 Bolt",
+    "summary": "three.js / WebGL 的闪电：暗空间里一道雷从云层劈下。",
+    "url": "https://x.com/grgrdvrt/status/2124829730054799854",
+    "imageUrl": "/covers/x-2124829730054799854.jpg",
+    "source": "x",
+    "sourceId": "2124829730054799854",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "webgl",
+      "lightning",
+      "codevember"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124548688404193567",
+    "type": "shader",
+    "title": "像素里的世界经济",
+    "summary": "用 Gemini 4 Neon 做的像素俯视郊区与公路，像一版缩微经济模型。",
+    "url": "https://x.com/anxuanng/status/2124548688404193567",
+    "imageUrl": "/covers/x-2124548688404193567.jpg",
+    "source": "x",
+    "sourceId": "2124548688404193567",
+    "tags": [
+      "x-bookmark",
+      "pixel",
+      "isometric"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124737288940965998",
+    "type": "shader",
+    "title": "精灵堆叠直升机",
+    "summary": "28 层 2D 像素切片堆出的直升机飞过像素城，带飞行物理、实时法线和夜灯。",
+    "url": "https://x.com/sonic0828/status/2124737288940965998",
+    "imageUrl": "/covers/x-2124737288940965998.jpg",
+    "source": "x",
+    "sourceId": "2124737288940965998",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "pixel"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124485834594562535",
+    "type": "shader",
+    "title": "精灵堆叠鳟鱼",
+    "summary": "26 层像素切片叠成的鳟鱼，可以转到任意角度，用在下一款游戏里。",
+    "url": "https://x.com/OvidiuTepes/status/2124485834594562535",
+    "imageUrl": "/covers/x-2124485834594562535.jpg",
+    "source": "x",
+    "sourceId": "2124485834594562535",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "defold"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124403967169904826",
+    "type": "shader",
+    "title": "程序化楼体生成器",
+    "summary": "开源的 three.js 程序化建筑生成，楼体的窗与体块是算出来的。",
+    "url": "https://x.com/XtraAi/status/2124403967169904826",
+    "imageUrl": "/covers/x-2124403967169904826.jpg",
+    "source": "x",
+    "sourceId": "2124403967169904826",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "procedural",
+      "building"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124469262207385997",
+    "type": "shader",
+    "title": "林中篝火的朋友",
+    "summary": "像素风的夜营：火光把帐篷、树木和围坐的人从黑暗里托出来。",
+    "url": "https://x.com/JungleSilicon/status/2124469262207385997",
+    "imageUrl": "/covers/x-2124469262207385997.jpg",
+    "source": "x",
+    "sourceId": "2124469262207385997",
+    "tags": [
+      "x-bookmark",
+      "pixel",
+      "cinematic"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124625465508049051",
+    "type": "shader",
+    "title": "风格化爆炸",
+    "summary": "作者为讲座准备的爆炸特效，shader 技法会做成 90 分钟拆解。",
+    "url": "https://x.com/godsgreg/status/2124625465508049051",
+    "imageUrl": "/covers/x-2124625465508049051.jpg",
+    "source": "x",
+    "sourceId": "2124625465508049051",
+    "tags": [
+      "x-bookmark",
+      "vfx",
+      "explosion",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124474390553186755",
+    "type": "shader",
+    "title": "高斯溅射的四季风农场",
+    "summary": "Fable 5.2 用代码和高斯溅射生成的像素风 3D 农场，四季会自己换。",
+    "url": "https://x.com/zer0point_eth/status/2124474390553186755",
+    "imageUrl": "/covers/x-2124474390553186755.jpg",
+    "source": "x",
+    "sourceId": "2124474390553186755",
+    "tags": [
+      "x-bookmark",
+      "gaussian-splat",
+      "procedural",
+      "farm"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124513795280109611",
+    "type": "shader",
+    "title": "球面精灵堆叠行星",
+    "summary": "在可编辑的球形行星上做精灵堆叠，小人在水岸和绿地间走动。",
+    "url": "https://x.com/Fahne13/status/2124513795280109611",
+    "imageUrl": "/covers/x-2124513795280109611.jpg",
+    "source": "x",
+    "sourceId": "2124513795280109611",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "planet",
+      "roblox"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124689138993500230",
+    "type": "shader",
+    "title": "被水淹的房间",
+    "summary": "Fable 5.2 做的淹水房间：鱼在水里游，船员坐在房间边缘的台子上。",
+    "url": "https://x.com/danjan_design/status/2124689138993500230",
+    "imageUrl": "/covers/x-2124689138993500230.jpg",
+    "source": "x",
+    "sourceId": "2124689138993500230",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "interior",
+      "fable"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124452065212772583",
+    "type": "shader",
+    "title": "参数化精灵堆叠塔",
+    "summary": "每个资产大约 3KB 代码，可调细节、带绑定和动画，图里是一座石塔。",
+    "url": "https://x.com/creativedash/status/2124452065212772583",
+    "imageUrl": "/covers/x-2124452065212772583.jpg",
+    "source": "x",
+    "sourceId": "2124452065212772583",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124097509681467607",
+    "type": "shader",
+    "title": "两株花的性能实验",
+    "summary": "游戏里的花和叶，作者在谈植被和性能，形是清楚的。",
+    "url": "https://x.com/memoryfloater/status/2124097509681467607",
+    "imageUrl": "/covers/x-2124097509681467607.jpg",
+    "source": "x",
+    "sourceId": "2124097509681467607",
+    "tags": [
+      "x-bookmark",
+      "foliage",
+      "gamedev",
+      "performance"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124670361241334072",
+    "type": "shader",
+    "title": "Feral UI 的浮岛",
+    "summary": "风格化浮岛上的草地、小径和笔刷工具，很快会放到 Feral UI 上。",
+    "url": "https://x.com/SolutionB2u/status/2124670361241334072",
+    "imageUrl": "/covers/x-2124670361241334072.jpg",
+    "source": "x",
+    "sourceId": "2124670361241334072",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "foliage",
+      "tool"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124602363612950907",
+    "type": "shader",
+    "title": "Boids 鸟群",
+    "summary": "用 Boids 做的自然鸟群，日落海面上空飞过。",
+    "url": "https://x.com/asynkimo/status/2124602363612950907",
+    "imageUrl": "/covers/x-2124602363612950907.jpg",
+    "source": "x",
+    "sourceId": "2124602363612950907",
+    "tags": [
+      "x-bookmark",
+      "simulation",
+      "boids",
+      "birds"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124597283639447888",
+    "type": "shader",
+    "title": "夜里上山的朝圣者",
+    "summary": "提着灯走向山顶修道院，整条路都被灯照亮，气氛很完整。",
+    "url": "https://x.com/danjan_design/status/2124597283639447888",
+    "imageUrl": "/covers/x-2124597283639447888.jpg",
+    "source": "x",
+    "sourceId": "2124597283639447888",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "cinematic",
+      "fable"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124414672858231167",
+    "type": "shader",
+    "title": "五通道程序化山景",
+    "summary": "纯程序化 GLSL 的五通道场景：山谷、体积光和远山都是算出来的。",
+    "url": "https://x.com/dngzsn37461/status/2124414672858231167",
+    "imageUrl": "/covers/x-2124414672858231167.jpg",
+    "source": "x",
+    "sourceId": "2124414672858231167",
+    "tags": [
+      "x-bookmark",
+      "glsl",
+      "procedural",
+      "volumetric"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124603871678886149",
+    "type": "game",
+    "title": "Systemic War",
+    "summary": "现代大战略换成无人机式的绿色 HUD：宏观上管国家，焦点处再切进 RTS 战斗。",
+    "url": "https://x.com/playofbattle/status/2124603871678886149",
+    "imageUrl": "/covers/x-2124603871678886149.jpg",
+    "source": "x",
+    "sourceId": "2124603871678886149",
+    "tags": [
+      "rts",
+      "grand-strategy",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124781668338712918",
+    "type": "game",
+    "title": "Sovereign 幻想上帝游戏",
+    "summary": "小巧的幻想上帝游戏：把脚手架搭成雪夜里亮灯的房子，英雄会自己拿主意。",
+    "url": "https://x.com/NogitsuneGurl/status/2124781668338712918",
+    "imageUrl": "/covers/x-2124781668338712918.jpg",
+    "source": "x",
+    "sourceId": "2124781668338712918",
+    "tags": [
+      "god-game",
+      "sandbox",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2124974181129572444",
+    "type": "game",
+    "title": "SuperMassive",
+    "summary": "浏览器用 three.js / WebGPU 做的黑洞游戏：从实验变成完整可玩，你就是那颗黑洞。",
+    "url": "https://x.com/JDSherbert_/status/2124974181129572444",
+    "imageUrl": "/covers/x-2124974181129572444.jpg",
+    "source": "x",
+    "sourceId": "2124974181129572444",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "browser",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2124986851346059291",
+    "type": "game",
+    "title": "Swarm Bunker: Harvest Factory",
+    "summary": "守不住才叫失败的闲置塔防，加上传送带工厂：虫子倒下就变成生产线的原料。",
+    "url": "https://x.com/simustra_com/status/2124986851346059291",
+    "imageUrl": "/covers/x-2124986851346059291.jpg",
+    "source": "x",
+    "sourceId": "2124986851346059291",
+    "tags": [
+      "tower-defense",
+      "factory",
+      "base-building",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124548462725464331",
+    "type": "game",
+    "title": "Fungal Front",
+    "summary": "发光真菌星球上的动作 RTS：建基地、指挥人类部队对抗菌群，也有三人打指挥官的模式。",
+    "url": "https://x.com/mattgamedevguy/status/2124548462725464331",
+    "imageUrl": "/covers/x-2124548462725464331.jpg",
+    "source": "x",
+    "sourceId": "2124548462725464331",
+    "tags": [
+      "rts",
+      "base-building",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124601186141806667",
+    "type": "game",
+    "title": "Hannibal",
+    "summary": "汉尼拔大战略：在战役地图上选地区，开战后再直接指挥阵列和突击。11 月 22 日已发售，5.99 美元。",
+    "url": "https://x.com/outonsteam/status/2124601186141806667",
+    "imageUrl": "/covers/x-2124601186141806667.jpg",
+    "source": "x",
+    "sourceId": "2124601186141806667",
+    "tags": [
+      "grand-strategy",
+      "tactical",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124903302051643734",
+    "type": "game",
+    "title": "One Earth：LEVIATHAN 母舰",
+    "summary": "免费 RTS：三十架无人机只护一艘没有主炮的母舰，海航母还是空航母由你选。",
+    "url": "https://x.com/OneEarthManyAge/status/2124903302051643734",
+    "imageUrl": "/covers/x-2124903302051643734.jpg",
+    "source": "x",
+    "sourceId": "2124903302051643734",
+    "tags": [
+      "rts",
+      "browser",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124584752569020530",
+    "type": "game",
+    "title": "Seidr Awakening",
+    "summary": "三个外星族群的即时战略，中间隔着一首沉默了一万年的歌。封闭测试需邀请。",
+    "url": "https://x.com/seidrlabs/status/2124584752569020530",
+    "imageUrl": "/covers/x-2124584752569020530.jpg",
+    "source": "x",
+    "sourceId": "2124584752569020530",
+    "tags": [
+      "rts",
+      "sci-fi",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2124981624450257227",
+    "type": "shader",
+    "title": "Brush 高斯溅射",
+    "summary": "开源工具：从照片训练高斯溅射，得到完整的 3D 重建，Rust 加 WebGPU。",
+    "url": "https://x.com/calebfahlgren/status/2124981624450257227",
+    "imageUrl": "/covers/x-2124981624450257227.jpg",
+    "source": "x",
+    "sourceId": "2124981624450257227",
+    "tags": [
+      "webgpu",
+      "gaussian-splat",
+      "reconstruction"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124820259509338326",
+    "type": "shader",
+    "title": "程序化手里剑",
+    "summary": "Unity 里只画一片刃，shader 把它镜像成另外三片。",
+    "url": "https://x.com/jettelly/status/2124820259509338326",
+    "imageUrl": "/covers/x-2124820259509338326.jpg",
+    "source": "x",
+    "sourceId": "2124820259509338326",
+    "tags": [
+      "unity",
+      "shader",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124553046143418417",
+    "type": "shader",
+    "title": "程序化卡拉维尔帆船",
+    "summary": "Three.js 加自写 GLSL：海是 Gerstner 波，木纹和帆布全是代码生成。",
+    "url": "https://x.com/phstarrion/status/2124553046143418417",
+    "imageUrl": "/covers/x-2124553046143418417.jpg",
+    "source": "x",
+    "sourceId": "2124553046143418417",
+    "tags": [
+      "threejs",
+      "glsl",
+      "water",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124850452055658934",
+    "type": "shader",
+    "title": "墨边火球",
+    "summary": "Unity 火球带着描边，用三平面噪声让火焰接缝消失。",
+    "url": "https://x.com/jettelly/status/2124850452055658934",
+    "imageUrl": "/covers/x-2124850452055658934.jpg",
+    "source": "x",
+    "sourceId": "2124850452055658934",
+    "tags": [
+      "unity",
+      "fire",
+      "shader",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124427676115206578",
+    "type": "shader",
+    "title": "Godot 里的光柱",
+    "summary": "把雾的分辨率拉高之后，Godot 里的体积光柱变得很利落。",
+    "url": "https://x.com/jettelly/status/2124427676115206578",
+    "imageUrl": "/covers/x-2124427676115206578.jpg",
+    "source": "x",
+    "sourceId": "2124427676115206578",
+    "tags": [
+      "godot",
+      "volumetric",
+      "lighting"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124860594692014559",
+    "type": "shader",
+    "title": "程序化雷暴飞船",
+    "summary": "Three.js / WebGPU，零外部资源：云、闪电、雨和声音全是代码。",
+    "url": "https://x.com/AndreiProvkin/status/2124860594692014559",
+    "imageUrl": "/covers/x-2124860594692014559.jpg",
+    "source": "x",
+    "sourceId": "2124860594692014559",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "procedural",
+      "lightning"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2125014799528640680",
+    "type": "shader",
+    "title": "体积闪电",
+    "summary": "keebar 的体积闪电，枝叉更多，还能在 GTX 1050 Ti 上跑。",
+    "url": "https://x.com/keebar_techArt/status/2125014799528640680",
+    "imageUrl": "/covers/x-2125014799528640680.jpg",
+    "source": "x",
+    "sourceId": "2125014799528640680",
+    "tags": [
+      "tech-art",
+      "volumetric",
+      "lightning"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124413921461428385",
+    "type": "shader",
+    "title": "虹彩灯泡",
+    "summary": "会碎裂再重新聚拢的虹彩灯泡，three.js 做的。",
+    "url": "https://x.com/Aish2004Gupta/status/2124413921461428385",
+    "imageUrl": "/covers/x-2124413921461428385.jpg",
+    "source": "x",
+    "sourceId": "2124413921461428385",
+    "tags": [
+      "threejs",
+      "iridescent",
+      "shader"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124427368479785397",
+    "type": "shader",
+    "title": "Godot 爆炸 shader",
+    "summary": "Godot 里正在做的爆炸着色器，火花是算出来的，作者在征求意见。",
+    "url": "https://x.com/Baked_Light/status/2124427368479785397",
+    "imageUrl": "/covers/x-2124427368479785397.jpg",
+    "source": "x",
+    "sourceId": "2124427368479785397",
+    "tags": [
+      "godot",
+      "explosion",
+      "shader"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124837119718015384",
+    "type": "shader",
+    "title": "实时喷发的火山",
+    "summary": "three.js 里的活火山：喷发、灰云和岩浆都是生成出来的。",
+    "url": "https://x.com/Nokyoonggbibi/status/2124837119718015384",
+    "imageUrl": "/covers/x-2124837119718015384.jpg",
+    "source": "x",
+    "sourceId": "2124837119718015384",
+    "tags": [
+      "threejs",
+      "volumetric",
+      "lava"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2125018620015051209",
+    "type": "shader",
+    "title": "会发光的落雪",
+    "summary": "雪落下来也会发光，叠在串灯和节日场景上。",
+    "url": "https://x.com/coffeevideogame/status/2125018620015051209",
+    "imageUrl": "/covers/x-2125018620015051209.jpg",
+    "source": "x",
+    "sourceId": "2125018620015051209",
+    "tags": [
+      "unity",
+      "snow",
+      "shader",
+      "lights"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124442844311978267",
+    "type": "shader",
+    "title": "箱子激起的涟漪",
+    "summary": "丢一只箱子进水池，涟漪从落点散开；整片水面是一行 80 个数，计算着色器每秒步进 50 次。",
+    "url": "https://x.com/vidar_0208/status/2124442844311978267",
+    "imageUrl": "/covers/x-2124442844311978267.jpg",
+    "source": "x",
+    "sourceId": "2124442844311978267",
+    "tags": [
+      "compute-shader",
+      "water",
+      "simulation"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124502954401292414",
+    "type": "shader",
+    "title": "雨夜便利店街角",
+    "summary": "Three.js 做的三渲二雨夜日式便利店微缩：从地面逐层组装到亮灯落雨。",
+    "url": "https://x.com/yang_qiong_go/status/2124502954401292414",
+    "imageUrl": "/covers/x-2124502954401292414.jpg",
+    "source": "x",
+    "sourceId": "2124502954401292414",
+    "tags": [
+      "threejs",
+      "stylized",
+      "diorama"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2125016951764234742",
+    "type": "shader",
+    "title": "FLIP 流体同一片水",
+    "summary": "同一套水和网格，只改一个 Flipness 数字：0 时浪平缓退去，0.96 时拍柱子还不停喷雾。",
+    "url": "https://x.com/vidar_0208/status/2125016951764234742",
+    "imageUrl": "/covers/x-2125016951764234742.jpg",
+    "source": "x",
+    "sourceId": "2125016951764234742",
+    "tags": [
+      "flip-fluid",
+      "water",
+      "simulation",
+      "shader"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124888043018747989",
+    "type": "shader",
+    "title": "Veil 烟雾",
+    "summary": "用 Three.js Shading Language 做的烟雾小品，光和几座雕塑在烟里走。",
+    "url": "https://x.com/n_code99/status/2124888043018747989",
+    "imageUrl": "/covers/x-2124888043018747989.jpg",
+    "source": "x",
+    "sourceId": "2124888043018747989",
+    "tags": [
+      "threejs",
+      "tsl",
+      "smoke"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124910856861348158",
+    "type": "shader",
+    "title": "风格化水的鸭子",
+    "summary": "UE5 风格化水体：一个滑条就能把小波变成让鸭子害怕的风暴。",
+    "url": "https://x.com/RafaSCgamedev/status/2124910856861348158",
+    "imageUrl": "/covers/x-2124910856861348158.jpg",
+    "source": "x",
+    "sourceId": "2124910856861348158",
+    "tags": [
+      "unreal",
+      "water",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124589589713313889",
+    "type": "shader",
+    "title": "林间丁达尔光",
+    "summary": "纯 three.js：一束光从树冠缺口落下，穿过薄雾把林间一点点照亮，可走进去看。",
+    "url": "https://x.com/hexh1vb/status/2124589589713313889",
+    "imageUrl": "/covers/x-2124589589713313889.jpg",
+    "source": "x",
+    "sourceId": "2124589589713313889",
+    "tags": [
+      "threejs",
+      "god-rays",
+      "volumetric"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124760123726090636",
+    "type": "shader",
+    "title": "火山玄武岩与奥术环",
+    "summary": "可实时调节光照、岩浆辉光和青色环的玄武岩材质，能直接导出。",
+    "url": "https://x.com/mikhaz_/status/2124760123726090636",
+    "imageUrl": "/covers/x-2124760123726090636.jpg",
+    "source": "x",
+    "sourceId": "2124760123726090636",
+    "tags": [
+      "shader",
+      "lava",
+      "material"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "x-2124940573505380620",
+    "type": "shader",
+    "title": "没有单条网格的溪流",
+    "summary": "Godot 里溪流不用每条都建网格：贴在草地上的扁砖，岛上的溪、潭和水面都靠这一层。",
+    "url": "https://x.com/MMageGangsta/status/2124940573505380620",
+    "imageUrl": "/covers/x-2124940573505380620.jpg",
+    "source": "x",
+    "sourceId": "2124940573505380620",
+    "tags": [
+      "godot",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-thinkaboutitgames-hispaniola-1791-crown-and-liberty",
+    "type": "game",
+    "title": "Hispaniola 1791: Crown and Liberty",
+    "summary": "1791 年的伊斯帕尼奥拉：大战略战场上，山坡、旗帜和部队都在一份历史冲突里跑。",
+    "url": "https://thinkaboutitgames.itch.io/hispaniola-1791-crown-and-liberty",
+    "imageUrl": "/covers/itch-thinkaboutitgames-hispaniola-1791-crown-and-liberty.jpg",
+    "source": "itch",
+    "sourceId": "thinkaboutitgames-hispaniola-1791-crown-and-liberty",
+    "tags": [
+      "grand-strategy",
+      "rts",
+      "historical",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-gromvalgames-hold-the-hearth",
+    "type": "game",
+    "title": "Hold the Hearth",
+    "summary": "风格化的河谷村庄：小屋、树和溪流都在，城建和 RTS 叠在同一块地上。",
+    "url": "https://gromvalgames.itch.io/hold-the-hearth",
+    "imageUrl": "/covers/itch-gromvalgames-hold-the-hearth.jpg",
+    "source": "itch",
+    "sourceId": "gromvalgames-hold-the-hearth",
+    "tags": [
+      "city-builder",
+      "rts",
+      "stylized",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-edobgames-one-age-county",
+    "type": "game",
+    "title": "One Age County",
+    "summary": "低面的县域经营：开辟定居点，沿公路和河流做贸易，免费可试。",
+    "url": "https://edobgames.itch.io/one-age-county",
+    "imageUrl": "/covers/itch-edobgames-one-age-county.jpg",
+    "source": "itch",
+    "sourceId": "edobgames-one-age-county",
+    "tags": [
+      "city-builder",
+      "low-poly",
+      "management",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-yangsungbin-the-last-keep-demo",
+    "type": "game",
+    "title": "The Last Keep 海滨要塞",
+    "summary": "海边那座色彩饱和的城堡要守住：基地建设和中世纪 RTS 叠在一起，有试玩。",
+    "url": "https://yangsungbin.itch.io/the-last-keep-demo",
+    "imageUrl": "/covers/itch-yangsungbin-the-last-keep-demo.jpg",
+    "source": "itch",
+    "sourceId": "yangsungbin-the-last-keep-demo",
+    "tags": [
+      "base-building",
+      "rts",
+      "medieval",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-holdtheswarm-hold-the-swarm",
+    "type": "game",
+    "title": "Hold the Swarm",
+    "summary": "暗色科幻基地里，自动炮塔和部队一起把虫群拦在门外。",
+    "url": "https://holdtheswarm.itch.io/hold-the-swarm",
+    "imageUrl": "/covers/itch-holdtheswarm-hold-the-swarm.jpg",
+    "source": "itch",
+    "sourceId": "holdtheswarm-hold-the-swarm",
+    "tags": [
+      "base-building",
+      "rts",
+      "sci-fi",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-lezrick-oathbound-isles",
+    "type": "game",
+    "title": "Oathbound Isles",
+    "summary": "低面的夜岛营地：基地建设和即时战略还在早期，气氛已经有了。",
+    "url": "https://lezrick.itch.io/oathbound-isles",
+    "imageUrl": "/covers/itch-lezrick-oathbound-isles.jpg",
+    "source": "itch",
+    "sourceId": "lezrick-oathbound-isles",
+    "tags": [
+      "base-building",
+      "rts",
+      "low-poly",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-summate69-ortav-strategie",
+    "type": "game",
+    "title": "Ortav Strategie",
+    "summary": "低面草地上的战术对抗：单位在三维空间里站位、推进。",
+    "url": "https://summate69.itch.io/ortav-strategie",
+    "imageUrl": "/covers/itch-summate69-ortav-strategie.jpg",
+    "source": "itch",
+    "sourceId": "summate69-ortav-strategie",
+    "tags": [
+      "tactical",
+      "strategy",
+      "low-poly",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-kizzletm-squadron",
+    "type": "game",
+    "title": "Squadron",
+    "summary": "像玩具一样的三维载具部队，在雪地里排成一个中队。",
+    "url": "https://kizzletm.itch.io/squadron",
+    "imageUrl": "/covers/itch-kizzletm-squadron.jpg",
+    "source": "itch",
+    "sourceId": "kizzletm-squadron",
+    "tags": [
+      "rts",
+      "war",
+      "stylized",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-erpk0p-the-seven-crowns-rise-of-empires",
+    "type": "game",
+    "title": "THE SEVEN CROWNS: Rise of Empires",
+    "summary": "七顶王冠的帝国崛起：低面城镇和军队铺在大地上，是大战略向的。",
+    "url": "https://erpk0p.itch.io/the-seven-crowns-rise-of-empires",
+    "imageUrl": "/covers/itch-erpk0p-the-seven-crowns-rise-of-empires.jpg",
+    "source": "itch",
+    "sourceId": "erpk0p-the-seven-crowns-rise-of-empires",
+    "tags": [
+      "grand-strategy",
+      "medieval",
+      "kingdom",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-davidebergamin-ten-moons",
+    "type": "game",
+    "title": "Ten Moons",
+    "summary": "十个月亮的 4X：彩色的岛屿和领地在一张活的地图上生长。",
+    "url": "https://davidebergamin.itch.io/ten-moons",
+    "imageUrl": "/covers/itch-davidebergamin-ten-moons.jpg",
+    "source": "itch",
+    "sourceId": "davidebergamin-ten-moons",
+    "tags": [
+      "4x",
+      "medieval",
+      "wargame",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-24",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-technology83-fish-tank-plus",
+    "type": "shader",
+    "title": "Fish Tank Plus",
+    "summary": "浏览器里就能开的三维水族箱，鱼和水草都是活的。",
+    "url": "https://technology83.itch.io/fish-tank-plus",
+    "imageUrl": "/covers/itch-technology83-fish-tank-plus.jpg",
+    "source": "itch",
+    "sourceId": "technology83-fish-tank-plus",
+    "tags": [
+      "threejs",
+      "aquarium",
+      "simulation",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-steveinteractive-koi-pond-3d-garden-water-simulation",
+    "type": "shader",
+    "title": "Koi Pond — 3D Garden & Water Simulation",
+    "summary": "日式庭园和锦鲤池的三维模拟：暮色、灯笼和水都在。",
+    "url": "https://steveinteractive.itch.io/koi-pond-3d-garden-water-simulation",
+    "imageUrl": "/covers/itch-steveinteractive-koi-pond-3d-garden-water-simulation.jpg",
+    "source": "itch",
+    "sourceId": "steveinteractive-koi-pond-3d-garden-water-simulation",
+    "tags": [
+      "threejs",
+      "water",
+      "garden",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-midwinter-games-midwinter-night",
+    "type": "shader",
+    "title": "Midwinter Night",
+    "summary": "圣诞夜覆盖整个英格兰，从真实地图里长出来。可以走、飞或乘车穿过。",
+    "url": "https://midwinter-games.itch.io/midwinter-night",
+    "imageUrl": "/covers/itch-midwinter-games-midwinter-night.jpg",
+    "source": "itch",
+    "sourceId": "midwinter-games-midwinter-night",
+    "tags": [
+      "ray-tracing",
+      "procedural",
+      "landscape",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-mleecode-wooden-performance",
+    "type": "shader",
+    "title": "Wooden Performance",
+    "summary": "小巧的光线追踪摄影棚：木钉演员在微型布景里走位。",
+    "url": "https://mleecode.itch.io/wooden-performance",
+    "imageUrl": "/covers/itch-mleecode-wooden-performance.jpg",
+    "source": "itch",
+    "sourceId": "mleecode-wooden-performance",
+    "tags": [
+      "ray-tracing",
+      "stylized",
+      "interactive",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-everdust-particle-universe-simulator",
+    "type": "shader",
+    "title": "Particle Universe Simulator",
+    "summary": "26 万个粒子按真实宇宙学，从涟漪长成宇宙网的墙、丝和结。",
+    "url": "https://everdust.itch.io/particle-universe-simulator",
+    "imageUrl": "/covers/itch-everdust-particle-universe-simulator.jpg",
+    "source": "itch",
+    "sourceId": "everdust-particle-universe-simulator",
+    "tags": [
+      "particles",
+      "simulation",
+      "cosmology",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
+    "id": "itch-topdigitalforge-driftlight",
+    "type": "shader",
+    "title": "Driftlight",
+    "summary": "一小潭会跟着你动的光，你不碰的时候它自己慢慢漂。",
+    "url": "https://topdigitalforge.itch.io/driftlight",
+    "imageUrl": "/covers/itch-topdigitalforge-driftlight.jpg",
+    "source": "itch",
+    "sourceId": "topdigitalforge-driftlight",
+    "tags": [
+      "particles",
+      "interactive",
+      "light",
+      "itch"
+    ],
+    "collectedAt": "2026-11-24"
+  },
+  {
     "id": "itch-rarepixelco-wildwood-16x16-forest-tileset",
     "type": "inspiration",
     "title": "野林16森林图块",
