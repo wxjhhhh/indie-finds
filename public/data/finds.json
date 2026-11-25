@@ -1,5 +1,910 @@
 [
   {
+    "id": "x-2125131838947824122",
+    "type": "game",
+    "title": "NightOwl 刀剑对打",
+    "summary": "作者说今天又是适合打架的日子，镜头里是近身刀剑对打，自己的独立游戏战斗演示。",
+    "url": "https://x.com/NightOwlGameX/status/2125131838947824122",
+    "imageUrl": "/covers/x-2125131838947824122.jpg",
+    "source": "x",
+    "sourceId": "2125131838947824122",
+    "tags": [
+      "x-bookmark",
+      "melee",
+      "combat",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125119969109418333",
+    "type": "game",
+    "title": "Cinderwatch",
+    "summary": "用 Fable 5.2 做成的单文件 HTML 等距塔防，浏览器就能玩，已开源：四种塔、二十种敌人，每五波还有首领。",
+    "url": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+    "imageUrl": "/covers/x-2125119969109418333.jpg",
+    "source": "x",
+    "sourceId": "2125119969109418333",
+    "tags": [
+      "x-bookmark",
+      "tower-defense",
+      "browser",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125082261100056808",
+    "type": "game",
+    "title": "Raea 温馨钓鱼",
+    "summary": "用 raea 加 Claude 一次性写成的 TypeScript 温馨钓鱼小游戏，镜头里是能抛竿的小码头。",
+    "url": "https://x.com/shinyobjectz_/status/2125082261100056808",
+    "imageUrl": "/covers/x-2125082261100056808.jpg",
+    "source": "x",
+    "sourceId": "2125082261100056808",
+    "tags": [
+      "x-bookmark",
+      "fishing",
+      "cozy",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2124967472881360898",
+    "type": "game",
+    "title": "Appetite of the Abyss",
+    "summary": "生存烹饪肉鸽：摸清深渊生物爱吃什么，做饭养活并保护部落。Steam 愿望单，计划 2027 年，现有试玩。",
+    "url": "https://x.com/80Level/status/2124967472881360898",
+    "imageUrl": "/covers/x-2124967472881360898.jpg",
+    "source": "x",
+    "sourceId": "2124967472881360898",
+    "tags": [
+      "x-bookmark",
+      "survival",
+      "cooking",
+      "roguelite",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125149607026102713",
+    "type": "shader",
+    "title": "Polyfork 模型套件",
+    "summary": "3500 多个免费可商用 3D 模型，每个都是 three.js ES 模块，按中世纪村庄、街区、太空基地分成套件，还能在网页上调颜色和比例。",
+    "url": "https://x.com/ChatGptAstra/status/2125149607026102713",
+    "imageUrl": "/covers/x-2125149607026102713.jpg",
+    "source": "x",
+    "sourceId": "2125149607026102713",
+    "tags": [
+      "x-bookmark",
+      "threejs",
+      "library",
+      "models"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125127910394929527",
+    "type": "shader",
+    "title": "Boids 鳟鱼群",
+    "summary": "520 条鳟鱼各自按 Boids 四条规则游：留距、对齐、靠近、躲避捕食者。鱼还是作者之前那条精灵堆叠鳟鱼。",
+    "url": "https://x.com/OvidiuTepes/status/2125127910394929527",
+    "imageUrl": "/covers/x-2125127910394929527.jpg",
+    "source": "x",
+    "sourceId": "2125127910394929527",
+    "tags": [
+      "x-bookmark",
+      "boids",
+      "sprite-stacking",
+      "simulation"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2124940313932296470",
+    "type": "shader",
+    "title": "精灵堆叠的拆装",
+    "summary": "loktar 把精灵堆叠当成造型手法，展示模型和切片怎么组装、再拆开，形很清楚。",
+    "url": "https://x.com/loktar00/status/2124940313932296470",
+    "imageUrl": "/covers/x-2124940313932296470.jpg",
+    "source": "x",
+    "sourceId": "2124940313932296470",
+    "tags": [
+      "x-bookmark",
+      "sprite-stacking",
+      "pixel"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125050016813498867",
+    "type": "shader",
+    "title": "悬崖上的枯树",
+    "summary": "Fable 5.2 做的悬崖边枯树，人顺着伸出去的树干往外走。",
+    "url": "https://x.com/danjan_design/status/2125050016813498867",
+    "imageUrl": "/covers/x-2125050016813498867.jpg",
+    "source": "x",
+    "sourceId": "2125050016813498867",
+    "tags": [
+      "x-bookmark",
+      "stylized",
+      "fable",
+      "cinematic"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125313841307299883",
+    "type": "game",
+    "title": "Alteah: Sovereign Shores",
+    "summary": "最多四人一起玩的无网格中世纪城建：可以共治一个王国，也可以各建各的，还要囤粮过冬。像和朋友一起玩 Banished。Steam 页面已上，档期待定。",
+    "url": "https://x.com/theindieduck/status/2125313841307299883",
+    "imageUrl": "/covers/x-2125313841307299883.jpg",
+    "source": "x",
+    "sourceId": "2125313841307299883",
+    "tags": [
+      "city-builder",
+      "co-op",
+      "medieval",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124782186897543564",
+    "type": "game",
+    "title": "Godloom",
+    "summary": "安静的上帝游戏：在手掌大的星球上画河流、堆山、看村民自己过日子，触摸他们还会回头挥手。现为 iPhone / iPad，买断无广告，黑五 2.99 美元。",
+    "url": "https://x.com/Himmetaga/status/2124782186897543564",
+    "imageUrl": "/covers/x-2124782186897543564.jpg",
+    "source": "x",
+    "sourceId": "2124782186897543564",
+    "tags": [
+      "god-game",
+      "planet",
+      "mobile",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125064578673377293",
+    "type": "game",
+    "title": "Elyon",
+    "summary": "用声音下达神谕的上帝游戏，正在用 UE5 做：分开光暗、抬出陆地、再走进伊甸园。官网已上，还不能玩，目前在打磨花园和亚当夏娃的材质。",
+    "url": "https://x.com/PrimeCoCreator/status/2125064578673377293",
+    "imageUrl": "/covers/x-2125064578673377293.jpg",
+    "source": "x",
+    "sourceId": "2125064578673377293",
+    "tags": [
+      "god-game",
+      "ue5",
+      "voice",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125334803541082247",
+    "type": "game",
+    "title": "GUNKI",
+    "summary": "浮世绘木版画风的战争故事：四个氏族，四十天，倒下两个。作者正在做这套和式战争 RTS。",
+    "url": "https://x.com/me_leiko/status/2125334803541082247",
+    "imageUrl": "/covers/x-2125334803541082247.jpg",
+    "source": "x",
+    "sourceId": "2125334803541082247",
+    "tags": [
+      "rts",
+      "ukiyo-e",
+      "stylized",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2124860493185896829",
+    "type": "game",
+    "title": "MouseFolk",
+    "summary": "波兰小团队 Osada Games 的老鼠殖民模拟：村子自己过日子，你在议事厅里做决定。",
+    "url": "https://x.com/osadagames/status/2124860493185896829",
+    "imageUrl": "/covers/x-2124860493185896829.jpg",
+    "source": "x",
+    "sourceId": "2124860493185896829",
+    "tags": [
+      "colony-sim",
+      "cozy",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2124872483644076327",
+    "type": "game",
+    "title": "AI Dev Tycoon",
+    "summary": "Godot 做的 AI 实验室经营：从车库里的一张桌子，做到轨道上的数据中心，一次训练一个模型。将上 Steam，前五年有免费试玩。",
+    "url": "https://x.com/sum0silent/status/2124872483644076327",
+    "imageUrl": "/covers/x-2124872483644076327.jpg",
+    "source": "x",
+    "sourceId": "2124872483644076327",
+    "tags": [
+      "tycoon",
+      "godot",
+      "management",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125363845824999845",
+    "type": "game",
+    "title": "PAYLOAD",
+    "summary": "太空游戏里的建造更顺手了：俯视网格上拖出传送带，箭头标出货物流向。",
+    "url": "https://x.com/payloadgame_/status/2125363845824999845",
+    "imageUrl": "/covers/x-2125363845824999845.jpg",
+    "source": "x",
+    "sourceId": "2125363845824999845",
+    "tags": [
+      "factory",
+      "base-building",
+      "godot",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125349239056396318",
+    "type": "game",
+    "title": "Citadel Tower Defense",
+    "summary": "Godot 塔防开发日志：新技能 Gale 能把敌人往回推。Iron Crane Games 在做。",
+    "url": "https://x.com/KrehnSolutions/status/2125349239056396318",
+    "imageUrl": "/covers/x-2125349239056396318.jpg",
+    "source": "x",
+    "sourceId": "2125349239056396318",
+    "tags": [
+      "tower-defense",
+      "godot",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125300728596238704",
+    "type": "game",
+    "title": "低面太空公司模拟",
+    "summary": "作者在做一款低面风格的太空公司经营模拟，镜头里是火箭和厂房。",
+    "url": "https://x.com/rom_rz/status/2125300728596238704",
+    "imageUrl": "/covers/x-2125300728596238704.jpg",
+    "source": "x",
+    "sourceId": "2125300728596238704",
+    "tags": [
+      "tycoon",
+      "low-poly",
+      "space",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125304020449300857",
+    "type": "game",
+    "title": "SOS Copter",
+    "summary": "低面直升机救援，带着九十年代模拟的味道：吊桶灭火、把落水的人绞上来，还可以追嫌犯。已发售，浏览器可免费试。",
+    "url": "https://x.com/inhocsignolud/status/2125304020449300857",
+    "imageUrl": "/covers/x-2125304020449300857.jpg",
+    "source": "x",
+    "sourceId": "2125304020449300857",
+    "tags": [
+      "sim",
+      "low-poly",
+      "helicopter",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125331267512377844",
+    "type": "shader",
+    "title": "LanternTown",
+    "summary": "Fable 5.2 做的 three.js 实验：所有资产都是参数化生成，光照烘焙进顶点色，为的是跑得轻。",
+    "url": "https://x.com/makeshifted/status/2125331267512377844",
+    "imageUrl": "/covers/x-2125331267512377844.jpg",
+    "source": "x",
+    "sourceId": "2125331267512377844",
+    "tags": [
+      "threejs",
+      "procedural",
+      "vertex-color"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125365246638616623",
+    "type": "shader",
+    "title": "Godot 水下色散",
+    "summary": "水下不同颜色消得有快有慢，于是出现蓝绿色的水体。emiljecreates 在 Godot 里做的。",
+    "url": "https://x.com/jettelly/status/2125365246638616623",
+    "imageUrl": "/covers/x-2125365246638616623.jpg",
+    "source": "x",
+    "sourceId": "2125365246638616623",
+    "tags": [
+      "godot",
+      "water",
+      "shader",
+      "tech-art"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125341264510058981",
+    "type": "shader",
+    "title": "Nymkin 的水和飞溅",
+    "summary": "怪物 RPG《Nymkin》里自制的水体和溅射，还有在做的头发，Godot 加 Opus。",
+    "url": "https://x.com/NymkinGame/status/2125341264510058981",
+    "imageUrl": "/covers/x-2125341264510058981.jpg",
+    "source": "x",
+    "sourceId": "2125341264510058981",
+    "tags": [
+      "godot",
+      "water",
+      "splash",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125335261873861110",
+    "type": "shader",
+    "title": "体素蓬松云",
+    "summary": "作者把软乎乎的风格化体素云加进了自己的沙盒游戏，Unity 里做的。",
+    "url": "https://x.com/breck_hi/status/2125335261873861110",
+    "imageUrl": "/covers/x-2125335261873861110.jpg",
+    "source": "x",
+    "sourceId": "2125335261873861110",
+    "tags": [
+      "unity",
+      "clouds",
+      "voxel",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125352408020644330",
+    "type": "shader",
+    "title": "一条轨迹三种地表",
+    "summary": "Godot 里一张轨迹贴图，三种地表各读各的：雪地上留下脚印，草会被分开压倒，水面则散开涟漪。",
+    "url": "https://x.com/littlelilis/status/2125352408020644330",
+    "imageUrl": "/covers/x-2125352408020644330.jpg",
+    "source": "x",
+    "sourceId": "2125352408020644330",
+    "tags": [
+      "godot",
+      "shader",
+      "snow",
+      "grass",
+      "water"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125260170032746884",
+    "type": "shader",
+    "title": "Rust + wgpu 地形生成器",
+    "summary": "独立的程序化地形和世界生成器，Rust 加 wgpu，GPU 侵蚀和三维体素洞穴，能一键导出到 UE5、Unity 和 Godot。免费 Alpha v0.1.0。",
+    "url": "https://x.com/JSDAHL1989/status/2125260170032746884",
+    "imageUrl": "/covers/x-2125260170032746884.jpg",
+    "source": "x",
+    "sourceId": "2125260170032746884",
+    "tags": [
+      "wgpu",
+      "procedural",
+      "terrain",
+      "erosion"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125286772288761972",
+    "type": "shader",
+    "title": "World Forge 风格化水",
+    "summary": "Unity 6 + URP 的确定性地形生成：岛屿、侵蚀、河流、湖泊、生物群系和风格化水，同样的配方和种子就是同一张世界。9.99 有售，现 4.99 美元。",
+    "url": "https://x.com/deritukutsut/status/2125286772288761972",
+    "imageUrl": "/covers/x-2125286772288761972.jpg",
+    "source": "x",
+    "sourceId": "2125286772288761972",
+    "tags": [
+      "unity",
+      "terrain",
+      "water",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125274999514665085",
+    "type": "shader",
+    "title": "流体上的水转印",
+    "summary": "在三维流体模拟上做 hydro dipping，three.js 加 fal，颜料在水面上散开再贴到物体上。",
+    "url": "https://x.com/iris_y_meng/status/2125274999514665085",
+    "imageUrl": "/covers/x-2125274999514665085.jpg",
+    "source": "x",
+    "sourceId": "2125274999514665085",
+    "tags": [
+      "threejs",
+      "fluid",
+      "simulation",
+      "shader"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125356957448233378",
+    "type": "shader",
+    "title": "Godot 一日航岛",
+    "summary": "作者想看看 Godot 和 Opus 一天能走多远：从棋盘上的盒子开始，凌晨一点已经在岛与岛之间航行。不是游戏，是一次可行性试验。",
+    "url": "https://x.com/TheRealVinoth/status/2125356957448233378",
+    "imageUrl": "/covers/x-2125356957448233378.jpg",
+    "source": "x",
+    "sourceId": "2125356957448233378",
+    "tags": [
+      "godot",
+      "stylized",
+      "sailing"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125362451869040828",
+    "type": "shader",
+    "title": "宝丽来长曝光",
+    "summary": "three.js + WebGL2 自写 GLSL，再用 Canvas 2D 画宝丽来边框的长曝光练习。",
+    "url": "https://x.com/chistaai/status/2125362451869040828",
+    "imageUrl": "/covers/x-2125362451869040828.jpg",
+    "source": "x",
+    "sourceId": "2125362451869040828",
+    "tags": [
+      "threejs",
+      "glsl",
+      "generative"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125381730257256633",
+    "type": "shader",
+    "title": "妖月",
+    "summary": "用 Godot 把梦里的场景做成武侠小品，配了 Flow Music。",
+    "url": "https://x.com/littlelilis/status/2125381730257256633",
+    "imageUrl": "/covers/x-2125381730257256633.jpg",
+    "source": "x",
+    "sourceId": "2125381730257256633",
+    "tags": [
+      "godot",
+      "wuxia",
+      "stylized",
+      "cinematic"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125321987077947566",
+    "type": "shader",
+    "title": "纸人蒸汽船",
+    "summary": "把《Paperman》的画风和方法用到蒸汽船威利：用 Claude 做的着色器习作。",
+    "url": "https://x.com/varialdogflip/status/2125321987077947566",
+    "imageUrl": "/covers/x-2125321987077947566.jpg",
+    "source": "x",
+    "sourceId": "2125321987077947566",
+    "tags": [
+      "shader",
+      "stylized",
+      "npr"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125274850126139495",
+    "type": "shader",
+    "title": "Gerstner 海面的玄武岛",
+    "summary": "浏览器里就能玩的三维多人恐怖，Three.js + WebGL2：分块玄武岩岛、Gerstner 海面着色器，声音也是程序化的。",
+    "url": "https://x.com/gamesonsite/status/2125274850126139495",
+    "imageUrl": "/covers/x-2125274850126139495.jpg",
+    "source": "x",
+    "sourceId": "2125274850126139495",
+    "tags": [
+      "threejs",
+      "gerstner",
+      "ocean",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125278299785998716",
+    "type": "shader",
+    "title": "Jungle Demo 第三版光照",
+    "summary": "Godot 里做了一年的 Jungle Demo，现在的光照和着色已经和旧版完全不像，作者把新旧两版摆在一起。",
+    "url": "https://x.com/wrobot123/status/2125278299785998716",
+    "imageUrl": "/covers/x-2125278299785998716.jpg",
+    "source": "x",
+    "sourceId": "2125278299785998716",
+    "tags": [
+      "godot",
+      "lighting",
+      "shading"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125378539134636464",
+    "type": "shader",
+    "title": "粘土风 FPS",
+    "summary": "用 Google AI Neon 做成的粘土动画风格第一人称，跑在 three.js 里，大约七轮对话打磨出来。",
+    "url": "https://x.com/Nevsved/status/2125378539134636464",
+    "imageUrl": "/covers/x-2125378539134636464.jpg",
+    "source": "x",
+    "sourceId": "2125378539134636464",
+    "tags": [
+      "threejs",
+      "claymation",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "x-2125315019810484573",
+    "type": "shader",
+    "title": "积木超跑展厅",
+    "summary": "three.js 单文件 HTML：程序化搭出来的积木超跑展厅，可以拆解、看蓝图，灯光也会动。",
+    "url": "https://x.com/beingsalluu/status/2125315019810484573",
+    "imageUrl": "/covers/x-2125315019810484573.jpg",
+    "source": "x",
+    "sourceId": "2125315019810484573",
+    "tags": [
+      "threejs",
+      "procedural",
+      "toy"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "itch-ludo2k-emerald-rush",
+    "type": "game",
+    "title": "Emerald Rush",
+    "summary": "低面即时战略：挖绿宝石、建基地、再把对面推平，手机和浏览器都能玩。",
+    "url": "https://ludo2k.itch.io/emerald-rush",
+    "imageUrl": "/covers/itch-ludo2k-emerald-rush.jpg",
+    "source": "itch",
+    "sourceId": "ludo2k-emerald-rush",
+    "tags": [
+      "rts",
+      "low-poly",
+      "base-building",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-oalpcakir-maplings",
+    "type": "game",
+    "title": "Maplings",
+    "summary": "把真实地球上的任意地点当成地图来打的轻量 4X，地形来自真实地理。",
+    "url": "https://oalpcakir.itch.io/maplings",
+    "imageUrl": "/covers/itch-oalpcakir-maplings.jpg",
+    "source": "itch",
+    "sourceId": "oalpcakir-maplings",
+    "tags": [
+      "4x",
+      "rts",
+      "real-world",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-vortex-makers-conquerror",
+    "type": "game",
+    "title": "Conquerror: African Fantasy Royale",
+    "summary": "受中非传统王国启发的回合制战术，风格化三维，可本地多人。",
+    "url": "https://vortex-makers.itch.io/conquerror",
+    "imageUrl": "/covers/itch-vortex-makers-conquerror.jpg",
+    "source": "itch",
+    "sourceId": "vortex-makers-conquerror",
+    "tags": [
+      "tactical",
+      "stylized",
+      "african-fantasy",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-joklug-piste-tycoon",
+    "type": "game",
+    "title": "Piste Tycoon",
+    "summary": "低面高山滑雪场经营：架缆车、修雪道、建小屋，还可以跟着一位客人把一天滑完。",
+    "url": "https://joklug.itch.io/piste-tycoon",
+    "imageUrl": "/covers/itch-joklug-piste-tycoon.jpg",
+    "source": "itch",
+    "sourceId": "joklug-piste-tycoon",
+    "tags": [
+      "tycoon",
+      "low-poly",
+      "ski",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-munifux-slopetogether",
+    "type": "game",
+    "title": "SlopeTogether",
+    "summary": "Godot 做的滑雪场经营，可以单人，也可以和朋友一起把雪场跑起来。",
+    "url": "https://munifux.itch.io/slopetogether",
+    "imageUrl": "/covers/itch-munifux-slopetogether.jpg",
+    "source": "itch",
+    "sourceId": "munifux-slopetogether",
+    "tags": [
+      "tycoon",
+      "godot",
+      "co-op",
+      "ski",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-pibridge-timberandthaw",
+    "type": "game",
+    "title": "Timber And Thaw",
+    "summary": "定居点生存：每根木头、每块面包都是人亲手搬的，冬天会检验夏天的储备。售 9.99 美元。",
+    "url": "https://pibridge.itch.io/timberandthaw",
+    "imageUrl": "/covers/itch-pibridge-timberandthaw.jpg",
+    "source": "itch",
+    "sourceId": "pibridge-timberandthaw",
+    "tags": [
+      "colony-sim",
+      "survival",
+      "logistics",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-meero105-cloud-iron-frontier",
+    "type": "game",
+    "title": "Iron Frontier 铁的边境线",
+    "summary": "在三维地球仪上做世界征服的回合制大战略，开源，浏览器可玩。",
+    "url": "https://meero105-cloud.itch.io/iron-frontier",
+    "imageUrl": "/covers/itch-meero105-cloud-iron-frontier.jpg",
+    "source": "itch",
+    "sourceId": "meero105-cloud-iron-frontier",
+    "tags": [
+      "grand-strategy",
+      "globe",
+      "tbs",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-valick18-architect-of-souls",
+    "type": "game",
+    "title": "Architect of Souls",
+    "summary": "球面行星上帝模拟：从茅屋引导到摩天楼，审判灵魂，也可以降下神迹。Unity，浏览器和 Windows。",
+    "url": "https://valick18.itch.io/architect-of-souls",
+    "imageUrl": "/covers/itch-valick18-architect-of-souls.jpg",
+    "source": "itch",
+    "sourceId": "valick18-architect-of-souls",
+    "tags": [
+      "god-game",
+      "planet",
+      "unity",
+      "sandbox",
+      "itch",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "itch-daniel1810-chess-of-war",
+    "type": "game",
+    "title": "Chess of War",
+    "summary": "坐在三维办公室里，从 1776 管到 1962：谈判、间谍，必要时还可以授权动用核弹。",
+    "url": "https://daniel1810.itch.io/chess-of-war",
+    "imageUrl": "/covers/itch-daniel1810-chess-of-war.jpg",
+    "source": "itch",
+    "sourceId": "daniel1810-chess-of-war",
+    "tags": [
+      "grand-strategy",
+      "geopolitics",
+      "3d",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-b4rtaz-command2120",
+    "type": "game",
+    "title": "Command 2120",
+    "summary": "自己设计坦克，再拉上朋友打的免费线上即时战略，2 到 4 人。",
+    "url": "https://b4rtaz.itch.io/command2120",
+    "imageUrl": "/covers/itch-b4rtaz-command2120.jpg",
+    "source": "itch",
+    "sourceId": "b4rtaz-command2120",
+    "tags": [
+      "rts",
+      "tanks",
+      "multiplayer",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-bomezy-comrade-inc",
+    "type": "game",
+    "title": "Comrade Inc.",
+    "summary": "在一个正在散架的国家里，一条传送带一条传送带地建自己的枪械工厂。测试版。",
+    "url": "https://bomezy.itch.io/comrade-inc",
+    "imageUrl": "/covers/itch-bomezy-comrade-inc.jpg",
+    "source": "itch",
+    "sourceId": "bomezy-comrade-inc",
+    "tags": [
+      "factory",
+      "tycoon",
+      "base-building",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-pyramid-builder-last-one-in-the-city",
+    "type": "game",
+    "title": "Last One in the City",
+    "summary": "一座空城里只有 500 美元：打工、买店铺和房子，再把生意做大。免费三维浏览器游戏。",
+    "url": "https://pyramid-builder.itch.io/last-one-in-the-city",
+    "imageUrl": "/covers/itch-pyramid-builder-last-one-in-the-city.jpg",
+    "source": "itch",
+    "sourceId": "pyramid-builder-last-one-in-the-city",
+    "tags": [
+      "tycoon",
+      "low-poly",
+      "browser",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-ainsooalgon-lost-perimeter",
+    "type": "game",
+    "title": "Lost Perimeter",
+    "summary": "把作战平台投到虫群星球上，守住水晶十五天：夜里建造，白天打仗。Godot，低面偏 PSX。",
+    "url": "https://ainsooalgon.itch.io/lost-perimeter",
+    "imageUrl": "/covers/itch-ainsooalgon-lost-perimeter.jpg",
+    "source": "itch",
+    "sourceId": "ainsooalgon-lost-perimeter",
+    "tags": [
+      "base-building",
+      "psx",
+      "tower-defense",
+      "godot",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-25",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-z-w-a-v-e-blockform",
+    "type": "shader",
+    "title": "BlockForm",
+    "summary": "three.js 里的低面角色生成器，可以在浏览器里改部件、拼出自己的小人。",
+    "url": "https://z-w-a-v-e.itch.io/blockform",
+    "imageUrl": "/covers/itch-z-w-a-v-e-blockform.jpg",
+    "source": "itch",
+    "sourceId": "z-w-a-v-e-blockform",
+    "tags": [
+      "threejs",
+      "low-poly",
+      "character-creator",
+      "itch"
+    ],
+    "collectedAt": "2026-11-25"
+  },
+  {
     "id": "itch-fogshelf-saltwharf-ships-open-sea-32x32-top-down-pixel-ship-deck-tileset",
     "type": "inspiration",
     "title": "盐码头船甲板",
