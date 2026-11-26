@@ -1,5 +1,640 @@
 [
   {
+    "id": "x-2125361356635296161",
+    "type": "game",
+    "title": "Transport Miniverse",
+    "summary": "Kenney 转来的铁路迷你世界：模块化地块已经能铺轨、设路径点，装卸还可以加一个小游戏，下一步要做信号。三维白模分块，形很清楚。",
+    "url": "https://x.com/KenneyNL/status/2125361356635296161",
+    "imageUrl": "/covers/x-2125361356635296161.jpg",
+    "source": "x",
+    "sourceId": "2125361356635296161",
+    "tags": [
+      "x-bookmark",
+      "trains",
+      "tycoon",
+      "base-building",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125371388638728540",
+    "type": "shader",
+    "title": "圣托里尼低面模型包",
+    "summary": "177 个免费可商用的圣托里尼风低面模型：25 种建筑各有 6 个建造阶段，还有 27 件场景道具，带 Unity 6 URP 卡通着色器。CC BY 4.0，作者 Tsartsaris。",
+    "url": "https://x.com/BeyondTheBoxCN/status/2125371388638728540",
+    "imageUrl": "/covers/x-2125371388638728540.jpg",
+    "source": "x",
+    "sourceId": "2125371388638728540",
+    "tags": [
+      "x-bookmark",
+      "low-poly",
+      "toon-shader",
+      "models"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125218376440259043",
+    "type": "game",
+    "title": "Grow Your Kingdom",
+    "summary": "从一座小村子长成王国：要安置移民、发展城镇，还得防着哥布林和盗贼来抢。经营、防御和外交都在同一条成长线上。",
+    "url": "https://x.com/simustra_com/status/2125218376440259043",
+    "imageUrl": "/covers/x-2125218376440259043.jpg",
+    "source": "x",
+    "sourceId": "2125218376440259043",
+    "tags": [
+      "kingdom",
+      "city-builder",
+      "defense",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125701850121052277",
+    "type": "game",
+    "title": "The Scrap Age",
+    "summary": "Birich Studio 的新即时战略：又加了一台还没定名的机械（暂叫 Fire Mine），镜头里是枯林里的立体战场。",
+    "url": "https://x.com/BirichStudio/status/2125701850121052277",
+    "imageUrl": "/covers/x-2125701850121052277.jpg",
+    "source": "x",
+    "sourceId": "2125701850121052277",
+    "tags": [
+      "rts",
+      "stylized",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125509041573048593",
+    "type": "game",
+    "title": "ANTARIUM 2",
+    "summary": "蚂蚁巢穴自动化模拟的续作：挖隧道、运资源，再把生产线铺成一座地下工厂，还要守住巢穴。",
+    "url": "https://x.com/simustra_com/status/2125509041573048593",
+    "imageUrl": "/covers/x-2125509041573048593.jpg",
+    "source": "x",
+    "sourceId": "2125509041573048593",
+    "tags": [
+      "colony-sim",
+      "ants",
+      "automation",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125182651095253212",
+    "type": "game",
+    "title": "三国志 将軍伝",
+    "summary": "一边经营城池攒国力，一边在六边形地图上回合制打仗，比天下统一。地形和天气会改变计略，还有一骑讨和舌战。",
+    "url": "https://x.com/simustra_com/status/2125182651095253212",
+    "imageUrl": "/covers/x-2125182651095253212.jpg",
+    "source": "x",
+    "sourceId": "2125182651095253212",
+    "tags": [
+      "hex",
+      "tbs",
+      "three-kingdoms",
+      "city-management",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125408514767982667",
+    "type": "game",
+    "title": "Last Outpost Tycoon",
+    "summary": "PS1 味道的末日商店经营：在前哨开店、和幸存者做买卖，还要扛住僵尸来袭。免费试玩已经上线。",
+    "url": "https://x.com/benzejiGames/status/2125408514767982667",
+    "imageUrl": "/covers/x-2125408514767982667.jpg",
+    "source": "x",
+    "sourceId": "2125408514767982667",
+    "tags": [
+      "tycoon",
+      "psx",
+      "survival",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125612538230350180",
+    "type": "game",
+    "title": "Age of Legacies",
+    "summary": "风格化三维聚落又过了一轮视觉：岸边长出小植物，浅水会漾开光，木墙和弧顶能接住阳光。形和光都更清楚了。",
+    "url": "https://x.com/eridots/status/2125612538230350180",
+    "imageUrl": "/covers/x-2125612538230350180.jpg",
+    "source": "x",
+    "sourceId": "2125612538230350180",
+    "tags": [
+      "stylized",
+      "settlement",
+      "lighting",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125680655224680890",
+    "type": "game",
+    "title": "Permafront",
+    "summary": "第一次世界大战题材的回合制 4X，先做手机。作者写到对方拒绝停火、炮轰多佛，再派两辆坦克过桥。",
+    "url": "https://x.com/kartuz13/status/2125680655224680890",
+    "imageUrl": "/covers/x-2125680655224680890.jpg",
+    "source": "x",
+    "sourceId": "2125680655224680890",
+    "tags": [
+      "4x",
+      "tbs",
+      "ww1",
+      "mobile",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125632509090349123",
+    "type": "game",
+    "title": "MORVUS",
+    "summary": "黑死病年代的中世纪修道院生存经营：大雾里起步，要在一座偏远修院里把口粮、信仰和秩序一起撑住。Steam 愿望单已上。",
+    "url": "https://x.com/MohikoGames/status/2125632509090349123",
+    "imageUrl": "/covers/x-2125632509090349123.jpg",
+    "source": "x",
+    "sourceId": "2125632509090349123",
+    "tags": [
+      "management",
+      "medieval",
+      "survival",
+      "monastery",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125602944112570373",
+    "type": "game",
+    "title": "Silicon Tycoon",
+    "summary": "1971 年，两名工程师、一间车库，先设计第一颗 CPU。封装可以拆开看，热力图和晶圆良率要在立项前估好。",
+    "url": "https://x.com/Volutogaming/status/2125602944112570373",
+    "imageUrl": "/covers/x-2125602944112570373.jpg",
+    "source": "x",
+    "sourceId": "2125602944112570373",
+    "tags": [
+      "tycoon",
+      "management",
+      "hardware",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125239264229073177",
+    "type": "shader",
+    "title": "铃与天气",
+    "summary": "Fable 5.2 做的雪中小镇：可以改天气、跳到夜里，五口钟要一一敲过，大钟才会应声。",
+    "url": "https://x.com/danjan_design/status/2125239264229073177",
+    "imageUrl": "/covers/x-2125239264229073177.jpg",
+    "source": "x",
+    "sourceId": "2125239264229073177",
+    "tags": [
+      "fable",
+      "stylized",
+      "interactive"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125735785584603274",
+    "type": "shader",
+    "title": "山顶温泉",
+    "summary": "登山人在山顶发现温泉，一头牦牛凑过来暖鼻子。Fable 5.2 做的风格化小景，形和光都很清楚。",
+    "url": "https://x.com/danjan_design/status/2125735785584603274",
+    "imageUrl": "/covers/x-2125735785584603274.jpg",
+    "source": "x",
+    "sourceId": "2125735785584603274",
+    "tags": [
+      "fable",
+      "stylized",
+      "cinematic"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125613571195416604",
+    "type": "shader",
+    "title": "F-35 全息机库",
+    "summary": "three.js / WebGPU 上的全息机库：战斗机停在线框立方里，带演示和源码。",
+    "url": "https://x.com/sabosugi/status/2125613571195416604",
+    "imageUrl": "/covers/x-2125613571195416604.jpg",
+    "source": "x",
+    "sourceId": "2125613571195416604",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "hologram"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125686635404632287",
+    "type": "shader",
+    "title": "Godot 光线步进云",
+    "summary": "有人用 Godot 光线步进做出了有 Windows XP 壁纸味道的云和山丘，像走进那张经典风景里。",
+    "url": "https://x.com/jettelly/status/2125686635404632287",
+    "imageUrl": "/covers/x-2125686635404632287.jpg",
+    "source": "x",
+    "sourceId": "2125686635404632287",
+    "tags": [
+      "godot",
+      "raymarching",
+      "clouds"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125545039300313168",
+    "type": "shader",
+    "title": "一张着色器走完极光",
+    "summary": "Godot 里只用一张着色器，把天空从白昼转到极光。OrdinaryCicada 做的昼夜循环。",
+    "url": "https://x.com/jettelly/status/2125545039300313168",
+    "imageUrl": "/covers/x-2125545039300313168.jpg",
+    "source": "x",
+    "sourceId": "2125545039300313168",
+    "tags": [
+      "godot",
+      "shader",
+      "aurora",
+      "sky"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125245753484353718",
+    "type": "shader",
+    "title": "WebGPU 上的十五万棵草",
+    "summary": "Spline 里搭的小狗敏捷赛场：栏架、桥、水坑和泥地，大约十五万棵草用 WebGPU 着色器画出，还会绕着障碍生长、随风摆。",
+    "url": "https://x.com/parazar/status/2125245753484353718",
+    "imageUrl": "/covers/x-2125245753484353718.jpg",
+    "source": "x",
+    "sourceId": "2125245753484353718",
+    "tags": [
+      "webgpu",
+      "grass",
+      "shader"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125687731535622460",
+    "type": "shader",
+    "title": "citygen 程序化城镇",
+    "summary": "给 three.js 用的开源程序化城镇：五种城镇类型，路口有倒角路缘、车道线和斑马线，街区分区，建筑对着街道。",
+    "url": "https://x.com/hxtnv44/status/2125687731535622460",
+    "imageUrl": "/covers/x-2125687731535622460.jpg",
+    "source": "x",
+    "sourceId": "2125687731535622460",
+    "tags": [
+      "threejs",
+      "procedural",
+      "city"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125726236936753324",
+    "type": "shader",
+    "title": "全息水果",
+    "summary": "Godot 里用粗糙度贴图和边缘光，让全息水果上跳出细碎亮斑。",
+    "url": "https://x.com/jettelly/status/2125726236936753324",
+    "imageUrl": "/covers/x-2125726236936753324.jpg",
+    "source": "x",
+    "sourceId": "2125726236936753324",
+    "tags": [
+      "godot",
+      "hologram",
+      "material"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125243050330845557",
+    "type": "shader",
+    "title": "程序化浪花",
+    "summary": "24Ronin 在 Unity 海面着色器里用程序化方法生成浪花，泡沫把浪推到了眼前。",
+    "url": "https://x.com/jettelly/status/2125243050330845557",
+    "imageUrl": "/covers/x-2125243050330845557.jpg",
+    "source": "x",
+    "sourceId": "2125243050330845557",
+    "tags": [
+      "unity",
+      "ocean",
+      "foam",
+      "shader"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125748457394815016",
+    "type": "shader",
+    "title": "全程序化的巷道",
+    "summary": "不用外部资产、全部用代码搭出来的程序化场景，跑在网页上，巷道带着一点 PSX 和恐怖片的味道。",
+    "url": "https://x.com/meta_pavy/status/2125748457394815016",
+    "imageUrl": "/covers/x-2125748457394815016.jpg",
+    "source": "x",
+    "sourceId": "2125748457394815016",
+    "tags": [
+      "threejs",
+      "procedural",
+      "psx"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125582933738050001",
+    "type": "shader",
+    "title": "玻璃龙珠与程序化草",
+    "summary": "Fable 5.2 在 WebGPU 里做的七颗龙珠：写实玻璃、折射、程序化草和电影光，直接在浏览器里跑。",
+    "url": "https://x.com/zy_fou/status/2125582933738050001",
+    "imageUrl": "/covers/x-2125582933738050001.jpg",
+    "source": "x",
+    "sourceId": "2125582933738050001",
+    "tags": [
+      "webgpu",
+      "glass",
+      "refraction",
+      "grass"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125638820049875253",
+    "type": "shader",
+    "title": "TSL 液态玻璃操场",
+    "summary": "Peter Csipkay 的 Three.js TSL 着色器操场：打开 Liquid Glass 就能改颜色，即时更新，WebGPU 运行，带 WebGL2 回退。",
+    "url": "https://x.com/thisiskp_/status/2125638820049875253",
+    "imageUrl": "/covers/x-2125638820049875253.jpg",
+    "source": "x",
+    "sourceId": "2125638820049875253",
+    "tags": [
+      "threejs",
+      "tsl",
+      "webgpu",
+      "glass"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125066830276362494",
+    "type": "shader",
+    "title": "Godot 焦散",
+    "summary": "Godot 里做的水下焦散，光斑在池底和池壁上走动。",
+    "url": "https://x.com/ad_astra_saturn/status/2125066830276362494",
+    "imageUrl": "/covers/x-2125066830276362494.jpg",
+    "source": "x",
+    "sourceId": "2125066830276362494",
+    "tags": [
+      "godot",
+      "caustics",
+      "water",
+      "shader"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125605429610963122",
+    "type": "shader",
+    "title": "营地里的 GPU 流体火",
+    "summary": "Unity 营地夜景：篝火、火把和传送门都是实时 GPU 流体模拟，会卷、会反应，不是在循环一张序列帧。",
+    "url": "https://x.com/HexglowFX/status/2125605429610963122",
+    "imageUrl": "/covers/x-2125605429610963122.jpg",
+    "source": "x",
+    "sourceId": "2125605429610963122",
+    "tags": [
+      "unity",
+      "fluid",
+      "fire",
+      "gpu",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125665395696967847",
+    "type": "shader",
+    "title": "Unity 漫画着色器",
+    "summary": "Unity 6 URP 漫画着色器改了一轮：阴影改成带颜色的墨，世界空间半色调会跟着镜头远近变细。有免费浏览器演示。",
+    "url": "https://x.com/singhaniia_labs/status/2125665395696967847",
+    "imageUrl": "/covers/x-2125665395696967847.jpg",
+    "source": "x",
+    "sourceId": "2125665395696967847",
+    "tags": [
+      "unity",
+      "comic",
+      "shader",
+      "npr"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "x-2125616179641454925",
+    "type": "shader",
+    "title": "Narin 搬到 three.js",
+    "summary": "把 Unreal 里的 Narin 场景搬到 three.js：着色器在 JS 里重写，还能现场调参数，网页里就能玩。",
+    "url": "https://x.com/Dexter_KBD/status/2125616179641454925",
+    "imageUrl": "/covers/x-2125616179641454925.jpg",
+    "source": "x",
+    "sourceId": "2125616179641454925",
+    "tags": [
+      "threejs",
+      "webgl",
+      "stylized"
+    ],
+    "collectedAt": "2026-11-26"
+  },
+  {
+    "id": "itch-muraltoinvest-inselbund",
+    "type": "game",
+    "title": "INSELBUND",
+    "summary": "海岛城邦建造：每一块木板从砍到铺都能看见。早期体验 14.99 美元，画风是饱和的积木岛城。",
+    "url": "https://muraltoinvest.itch.io/inselbund",
+    "imageUrl": "/covers/itch-muraltoinvest-inselbund.jpg",
+    "source": "itch",
+    "sourceId": "muraltoinvest-inselbund",
+    "tags": [
+      "city-builder",
+      "island",
+      "medieval",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-lowpolyharbor-strait-command",
+    "type": "game",
+    "title": "Strait Command",
+    "summary": "低面海港经营：建海军基地、给舰船配员，再和三座邻岛博弈，盟友也可能倒戈。售 1 美元。",
+    "url": "https://lowpolyharbor.itch.io/strait-command",
+    "imageUrl": "/covers/itch-lowpolyharbor-strait-command.jpg",
+    "source": "itch",
+    "sourceId": "lowpolyharbor-strait-command",
+    "tags": [
+      "rts",
+      "low-poly",
+      "naval",
+      "base-building",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-gamedev-719-twin-crowns",
+    "type": "game",
+    "title": "Twin Crowns",
+    "summary": "浏览器就能玩的三维中世纪王国建造：养领地、带军队，和另一顶王冠比谁撑得更久。",
+    "url": "https://gamedev-719.itch.io/twin-crowns",
+    "imageUrl": "/covers/itch-gamedev-719-twin-crowns.jpg",
+    "source": "itch",
+    "sourceId": "gamedev-719-twin-crowns",
+    "tags": [
+      "city-builder",
+      "medieval",
+      "3d",
+      "browser",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-buildtounderstand-before-winter-comes",
+    "type": "game",
+    "title": "Before Winter Comes",
+    "summary": "三维雪地定居点：要在冬天到来之前把村子安顿好，镜头里是木屋、栅栏和薄雪。免费。",
+    "url": "https://buildtounderstand.itch.io/before-winter-comes",
+    "imageUrl": "/covers/itch-buildtounderstand-before-winter-comes.jpg",
+    "source": "itch",
+    "sourceId": "buildtounderstand-before-winter-comes",
+    "tags": [
+      "city-builder",
+      "survival",
+      "winter",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-virtuanista-myrmex",
+    "type": "game",
+    "title": "MYRMEX",
+    "summary": "免费的浏览器蚂蚁即时战略：挖巢、养七种职蚁，再把花园打下来。",
+    "url": "https://virtuanista.itch.io/myrmex",
+    "imageUrl": "/covers/itch-virtuanista-myrmex.jpg",
+    "source": "itch",
+    "sourceId": "virtuanista-myrmex",
+    "tags": [
+      "rts",
+      "colony-sim",
+      "ants",
+      "browser",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-abirzgals-stasis",
+    "type": "game",
+    "title": "STASIS",
+    "summary": "在小行星带上把电网铺开，守住核心、挡住一波波舰队。免费。",
+    "url": "https://abirzgals.itch.io/stasis",
+    "imageUrl": "/covers/itch-abirzgals-stasis.jpg",
+    "source": "itch",
+    "sourceId": "abirzgals-stasis",
+    "tags": [
+      "rts",
+      "base-building",
+      "space",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-games2026-tr-arcade-boss-95-3d",
+    "type": "game",
+    "title": "Arcade Boss 95",
+    "summary": "Godot 做的九十年代三维街机厅经营：摆机柜、修机器，还能加蹦床、抓娃娃机、舞台和 VIP 休息室。免费。",
+    "url": "https://games2026-tr.itch.io/arcade-boss-95-3d",
+    "imageUrl": "/covers/itch-games2026-tr-arcade-boss-95-3d.jpg",
+    "source": "itch",
+    "sourceId": "games2026-tr-arcade-boss-95-3d",
+    "tags": [
+      "tycoon",
+      "godot",
+      "arcade",
+      "3d",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-26",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
     "id": "itch-farropero-fantasy-battle-arenas",
     "type": "inspiration",
     "title": "奇幻对战竞技场",
