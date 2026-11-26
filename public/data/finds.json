@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-riclmbr-cozy-hex-map-tiles-universal-pixel-art-hexagon-tileset",
+    "type": "inspiration",
+    "title": "惬意六边形地图",
+    "summary": "783 块尖顶与平顶六边地形、道路、河流和海岸，策略大地图很好铺。",
+    "url": "https://riclmbr.itch.io/cozy-hex-map-tiles-universal-pixel-art-hexagon-tileset",
+    "imageUrl": "/covers/itch-riclmbr-cozy-hex-map-tiles-universal-pixel-art-hexagon-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-cozy-hex-map-tiles-universal-pixel-art-hexagon-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixelwrightstudio-overworld-tileset",
+    "type": "inspiration",
+    "title": "大地图地貌图块",
+    "summary": "16 与 32 像素顶视角地貌，含水域、悬崖和七十多件道具，世界地图很完整。",
+    "url": "https://pixelwrightstudio.itch.io/overworld-tileset",
+    "imageUrl": "/covers/itch-pixelwrightstudio-overworld-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelwrightstudio-overworld-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-justadev101-seaside-hamlet",
+    "type": "inspiration",
+    "title": "海滨小村",
+    "summary": "16×16 海岸村落自动图块，岸线、灯塔和码头能直接铺渔村。",
+    "url": "https://justadev101.itch.io/seaside-hamlet",
+    "imageUrl": "/covers/itch-justadev101-seaside-hamlet.jpg",
+    "source": "itch",
+    "sourceId": "itch-justadev101-seaside-hamlet",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vexelpoint-pixel-terrain-16",
+    "type": "inspiration",
+    "title": "十六像素无缝地形",
+    "summary": "30 块无缝 16×16 地砖，草地、泥土和石地过渡干净，适合快速铺关。",
+    "url": "https://vexelpoint.itch.io/pixel-terrain-16",
+    "imageUrl": "/covers/itch-vexelpoint-pixel-terrain-16.jpg",
+    "source": "itch",
+    "sourceId": "itch-vexelpoint-pixel-terrain-16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-laimunstudio-dungeon-rpg-tileset-500-pixel-art-sprites",
+    "type": "inspiration",
+    "title": "深渊地牢图块",
+    "summary": "500 件 16×16 暗黑地牢墙砖、陷阱、魔物和战利品，地下城很好搭。",
+    "url": "https://laimunstudio.itch.io/dungeon-rpg-tileset-500-pixel-art-sprites",
+    "imageUrl": "/covers/itch-laimunstudio-dungeon-rpg-tileset-500-pixel-art-sprites.jpg",
+    "source": "itch",
+    "sourceId": "itch-laimunstudio-dungeon-rpg-tileset-500-pixel-art-sprites",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wayfoldstudio-psx-forest-cabin-kit",
+    "type": "inspiration",
+    "title": "PSX 森林木屋",
+    "summary": "模块化原木小屋加上枯林与湖岸，PS1 风野外据点很有气氛。",
+    "url": "https://wayfoldstudio.itch.io/psx-forest-cabin-kit",
+    "imageUrl": "/covers/itch-wayfoldstudio-psx-forest-cabin-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-wayfoldstudio-psx-forest-cabin-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dgv-dev-psx-wwii-desert-outpost-kit",
+    "type": "inspiration",
+    "title": "PSX 二战沙漠前哨",
+    "summary": "45 件低模泥砖要塞、棕榈、沙丘和绿洲，北非前哨很好摆。",
+    "url": "https://dgv-dev.itch.io/psx-wwii-desert-outpost-kit",
+    "imageUrl": "/covers/itch-dgv-dev-psx-wwii-desert-outpost-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-dgv-dev-psx-wwii-desert-outpost-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-zaddyfi-cozy-farm",
+    "type": "inspiration",
+    "title": "体素惬意农场",
+    "summary": "140 件体素作物、果园、温室和鱼塘，经营农场地块一次铺齐。",
+    "url": "https://zaddyfi.itch.io/cozy-farm",
+    "imageUrl": "/covers/itch-zaddyfi-cozy-farm.jpg",
+    "source": "itch",
+    "sourceId": "itch-zaddyfi-cozy-farm",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dgv-dev-psx-wwii-artillery-battery-kit",
+    "type": "inspiration",
+    "title": "PSX 二战炮兵阵地",
+    "summary": "62 件低模火炮、掩体、探照灯和弹药坑，战争地图火力位很完整。",
+    "url": "https://dgv-dev.itch.io/psx-wwii-artillery-battery-kit",
+    "imageUrl": "/covers/itch-dgv-dev-psx-wwii-artillery-battery-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-dgv-dev-psx-wwii-artillery-battery-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-zaddyfi-survival-camp",
+    "type": "inspiration",
+    "title": "体素生存营地",
+    "summary": "116 件体素工具、资源、营地和农田，求生建造的营地很好搭。",
+    "url": "https://zaddyfi.itch.io/survival-camp",
+    "imageUrl": "/covers/itch-zaddyfi-survival-camp.jpg",
+    "source": "itch",
+    "sourceId": "itch-zaddyfi-survival-camp",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-ertugrulko-chibi-villagers",
+    "type": "inspiration",
+    "title": "Q 版村民",
+    "summary": "16 个四向小镇居民，含待机、走跑和挥手，经营游戏路人很够用。",
+    "url": "https://ertugrulko.itch.io/chibi-villagers",
+    "imageUrl": "/covers/itch-ertugrulko-chibi-villagers.jpg",
+    "source": "itch",
+    "sourceId": "itch-ertugrulko-chibi-villagers",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-creedey-16x16-pixel-art-mini-characters-humanoid-creatures",
+    "type": "inspiration",
+    "title": "微型奇幻人型角色",
+    "summary": "559 个 16×16 奇幻人型角色，军队、村民和怪物阵容可以一次配齐。",
+    "url": "https://creedey.itch.io/16x16-pixel-art-mini-characters-humanoid-creatures",
+    "imageUrl": "/covers/itch-creedey-16x16-pixel-art-mini-characters-humanoid-creatures.jpg",
+    "source": "itch",
+    "sourceId": "itch-creedey-16x16-pixel-art-mini-characters-humanoid-creatures",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-christ1147-elderwood-elves-forest-wardens-and-wild-foes",
+    "type": "inspiration",
+    "title": "埃尔德森林精灵",
+    "summary": "10 个八向森林精灵与野兽敌人，林地守卫和野外遭遇很好用。",
+    "url": "https://christ1147.itch.io/elderwood-elves-forest-wardens-and-wild-foes",
+    "imageUrl": "/covers/itch-christ1147-elderwood-elves-forest-wardens-and-wild-foes.jpg",
+    "source": "itch",
+    "sourceId": "itch-christ1147-elderwood-elves-forest-wardens-and-wild-foes",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-westudesign-ashcrown-bestiary-100-dark-slavic-monsters-tibia-godot-wst",
+    "type": "inspiration",
+    "title": "灰冠斯拉夫魔物",
+    "summary": "100 只 32×32 东欧民间魔物，暗黑图鉴和地牢遇敌很有特色。",
+    "url": "https://westudesign.itch.io/ashcrown-bestiary-100-dark-slavic-monsters-tibia-godot-wst",
+    "imageUrl": "/covers/itch-westudesign-ashcrown-bestiary-100-dark-slavic-monsters-tibia-godot-wst.jpg",
+    "source": "itch",
+    "sourceId": "itch-westudesign-ashcrown-bestiary-100-dark-slavic-monsters-tibia-godot-wst",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-merustack-office-characters",
+    "type": "inspiration",
+    "title": "办公室角色",
+    "summary": "12 个八向等距办公角色，还带角色生成，现代经营场景很好填。",
+    "url": "https://merustack.itch.io/office-characters",
+    "imageUrl": "/covers/itch-merustack-office-characters.jpg",
+    "source": "itch",
+    "sourceId": "itch-merustack-office-characters",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-laimunstudio-oakridge-kingdom-16x16-medieval-tileset",
+    "type": "inspiration",
+    "title": "橡岭王国中世纪小镇",
+    "summary": "500 件 16×16 中世纪房屋、城墙、市集和卫兵，王国城镇很好铺。",
+    "url": "https://laimunstudio.itch.io/oakridge-kingdom-16x16-medieval-tileset",
+    "imageUrl": "/covers/itch-laimunstudio-oakridge-kingdom-16x16-medieval-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-laimunstudio-oakridge-kingdom-16x16-medieval-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-laimunstudio-sugar-and-hearth-16x16-cozy-bakery-tileset",
+    "type": "inspiration",
+    "title": "糖与炉烘焙坊",
+    "summary": "500 件 16×16 烘焙坊与咖啡店图块，温馨经营的店铺很好摆。",
+    "url": "https://laimunstudio.itch.io/sugar-and-hearth-16x16-cozy-bakery-tileset",
+    "imageUrl": "/covers/itch-laimunstudio-sugar-and-hearth-16x16-cozy-bakery-tileset.jpg",
+    "source": "itch",
+    "sourceId": "itch-laimunstudio-sugar-and-hearth-16x16-cozy-bakery-tileset",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ertugrulko-hearthside-inn",
+    "type": "inspiration",
+    "title": "炉边旅店",
+    "summary": "14 间中世纪酒馆房间、三百多件道具和四名店员，旅店经营很完整。",
+    "url": "https://ertugrulko.itch.io/hearthside-inn",
+    "imageUrl": "/covers/itch-ertugrulko-hearthside-inn.jpg",
+    "source": "itch",
+    "sourceId": "itch-ertugrulko-hearthside-inn",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-liodarts-pixel-furniture-top-down-interior-pack",
+    "type": "inspiration",
+    "title": "顶视角室内家具",
+    "summary": "64 件 32×32 家具，三种木色配套，民居和店铺室内很好布置。",
+    "url": "https://liodarts.itch.io/pixel-furniture-top-down-interior-pack",
+    "imageUrl": "/covers/itch-liodarts-pixel-furniture-top-down-interior-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-liodarts-pixel-furniture-top-down-interior-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-phlatline-layered-characters-top-down-home-interior",
+    "type": "inspiration",
+    "title": "惬意家居室内",
+    "summary": "分层顶视角家居，墙板、地板和起居道具齐全，住宅室内很好搭。",
+    "url": "https://phlatline.itch.io/layered-characters-top-down-home-interior",
+    "imageUrl": "/covers/itch-phlatline-layered-characters-top-down-home-interior.jpg",
+    "source": "itch",
+    "sourceId": "itch-phlatline-layered-characters-top-down-home-interior",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wayfoldstudio-psx-haunted-manor-kit",
+    "type": "inspiration",
+    "title": "PSX 鬼宅庄园",
+    "summary": "284 件 PS1 风维多利亚庄园室内外构件，一整座荒宅可以走通。",
+    "url": "https://wayfoldstudio.itch.io/psx-haunted-manor-kit",
+    "imageUrl": "/covers/itch-wayfoldstudio-psx-haunted-manor-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-wayfoldstudio-psx-haunted-manor-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dgv-dev-psx-wwii-village-interiors",
+    "type": "inspiration",
+    "title": "PSX 二战村庄室内",
+    "summary": "47 件 1940 年代村屋房间、家具和战损，战时民居室内很能还原。",
+    "url": "https://dgv-dev.itch.io/psx-wwii-village-interiors",
+    "imageUrl": "/covers/itch-dgv-dev-psx-wwii-village-interiors.jpg",
+    "source": "itch",
+    "sourceId": "itch-dgv-dev-psx-wwii-village-interiors",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-gamekhu-studio-voxel-ww2-rts-pack-german-forces",
+    "type": "inspiration",
+    "title": "体素二战德军 RTS",
+    "summary": "体素坦克、火炮、步兵和建筑，即时战略的德军单位很齐全。",
+    "url": "https://gamekhu-studio.itch.io/voxel-ww2-rts-pack-german-forces",
+    "imageUrl": "/covers/itch-gamekhu-studio-voxel-ww2-rts-pack-german-forces.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamekhu-studio-voxel-ww2-rts-pack-german-forces",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-psxyard-psx-apartment-kit",
+    "type": "inspiration",
+    "title": "PSX 公寓套件",
+    "summary": "66 件 PS1 风板楼客厅、卧室和卫浴，后苏联日常室内很好摆。",
+    "url": "https://psxyard.itch.io/psx-apartment-kit",
+    "imageUrl": "/covers/itch-psxyard-psx-apartment-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-psxyard-psx-apartment-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-z-zeal-isometric-voxel-building-pack-allies",
+    "type": "inspiration",
+    "title": "等距体素盟军基地",
+    "summary": "等距体素盟军营房和设施，策略地图上的军事基地很好铺。",
+    "url": "https://z-zeal.itch.io/isometric-voxel-building-pack-allies",
+    "imageUrl": "/covers/itch-z-zeal-isometric-voxel-building-pack-allies.jpg",
+    "source": "itch",
+    "sourceId": "itch-z-zeal-isometric-voxel-building-pack-allies",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-itsmario-hq-hearthmeadow",
+    "type": "inspiration",
+    "title": "炉草原农场界面",
+    "summary": "365 件六季木质面板、天气时钟和作物图标，农场经营 HUD 很配套。",
+    "url": "https://itsmario-hq.itch.io/hearthmeadow",
+    "imageUrl": "/covers/itch-itsmario-hq-hearthmeadow.jpg",
+    "source": "itch",
+    "sourceId": "itch-itsmario-hq-hearthmeadow",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kavaastore-pixel-ui-and-icon-kit-16x16-32x32",
+    "type": "inspiration",
+    "title": "像素界面与图标套件",
+    "summary": "五百多件 16 与 32 像素九宫格面板、按钮和背包格，通用界面很快搭。",
+    "url": "https://kavaastore.itch.io/pixel-ui-and-icon-kit-16x16-32x32",
+    "imageUrl": "/covers/itch-kavaastore-pixel-ui-and-icon-kit-16x16-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-kavaastore-pixel-ui-and-icon-kit-16x16-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-setrov-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "四色像素界面套件",
+    "summary": "132 件四套配色的九宫格面板、按钮和进度条，多风格菜单很好换。",
+    "url": "https://setrov.itch.io/pixel-ui-kit",
+    "imageUrl": "/covers/itch-setrov-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-setrov-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-laimunstudio-pixel-art-hud-menu-ui-kit-375-sprites",
+    "type": "inspiration",
+    "title": "五主题 HUD 菜单",
+    "summary": "375 件五套主题九宫格 HUD 与菜单，角色与背包界面可以成套换装。",
+    "url": "https://laimunstudio.itch.io/pixel-art-hud-menu-ui-kit-375-sprites",
+    "imageUrl": "/covers/itch-laimunstudio-pixel-art-hud-menu-ui-kit-375-sprites.jpg",
+    "source": "itch",
+    "sourceId": "itch-laimunstudio-pixel-art-hud-menu-ui-kit-375-sprites",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vexgrid-tessarc-sci-fi-ui-kit",
+    "type": "inspiration",
+    "title": "星弧科幻界面",
+    "summary": "36 个科幻组件、83 枚图标和稀有度背包框，还带 Godot 主题。",
+    "url": "https://vexgrid.itch.io/tessarc-sci-fi-ui-kit",
+    "imageUrl": "/covers/itch-vexgrid-tessarc-sci-fi-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-vexgrid-tessarc-sci-fi-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-erednayp-signal-94-retro-ui",
+    "type": "inspiration",
+    "title": "信号-94 复古界面",
+    "summary": "244 件九十年代操作系统与 CRT 终端 HUD，复古监控和终端很好做。",
+    "url": "https://erednayp.itch.io/signal-94-retro-ui",
+    "imageUrl": "/covers/itch-erednayp-signal-94-retro-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-erednayp-signal-94-retro-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tavmir-pixel-fantasy-dialogue-emote-ui",
+    "type": "inspiration",
+    "title": "奇幻对话表情",
+    "summary": "45 件像素对话框与 NPC 表情，对话和互动提示一目了然。",
+    "url": "https://tavmir.itch.io/pixel-fantasy-dialogue-emote-ui",
+    "imageUrl": "/covers/itch-tavmir-pixel-fantasy-dialogue-emote-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-tavmir-pixel-fantasy-dialogue-emote-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gazingwatermelon-ronin-25-samurai-rpg-skill-icons-32x32-pixel-art",
+    "type": "inspiration",
+    "title": "浪人武士技能图标",
+    "summary": "25 枚 32×32 武士技能图标，刀术、墨魔和奥义树很好排。",
+    "url": "https://gazingwatermelon.itch.io/ronin-25-samurai-rpg-skill-icons-32x32-pixel-art",
+    "imageUrl": "/covers/itch-gazingwatermelon-ronin-25-samurai-rpg-skill-icons-32x32-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-gazingwatermelon-ronin-25-samurai-rpg-skill-icons-32x32-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vexelpoint-pixel-dialog-inventory-frames",
+    "type": "inspiration",
+    "title": "像素对话与背包框",
+    "summary": "简洁像素对话框和物品框，对话与库存栏可以很快套上。",
+    "url": "https://vexelpoint.itch.io/pixel-dialog-inventory-frames",
+    "imageUrl": "/covers/itch-vexelpoint-pixel-dialog-inventory-frames.jpg",
+    "source": "itch",
+    "sourceId": "itch-vexelpoint-pixel-dialog-inventory-frames",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-tinylore-1bit-minimalist-rpg-survival-icons-16x16",
+    "type": "inspiration",
+    "title": "一比特生存图标",
+    "summary": "16×16 一比特与极简 RPG、生存图标，低配或复古 HUD 很好用。",
+    "url": "https://tinylore.itch.io/1bit-minimalist-rpg-survival-icons-16x16",
+    "imageUrl": "/covers/itch-tinylore-1bit-minimalist-rpg-survival-icons-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-tinylore-1bit-minimalist-rpg-survival-icons-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-26",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2125361356635296161",
     "type": "game",
     "title": "Transport Miniverse",
