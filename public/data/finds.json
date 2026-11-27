@@ -1,5 +1,792 @@
 [
   {
+    "id": "x-2125696479243203014",
+    "type": "game",
+    "title": "Arctic Drive 极地驾驶",
+    "summary": "合作生存：车就是你的命。结冰的弯道能把车和整趟路一起毁掉，什么都能往车上装，但越重越费油。今天开启抢先体验，Steam 19.99 美元。",
+    "url": "https://x.com/clemmygames/status/2125696479243203014",
+    "imageUrl": "/covers/x-2125696479243203014.jpg",
+    "source": "x",
+    "sourceId": "2125696479243203014",
+    "tags": [
+      "x-bookmark",
+      "survival",
+      "co-op",
+      "vehicle",
+      "snow",
+      "生存/建造"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "生存/建造"
+    ]
+  },
+  {
+    "id": "x-2126043315673993404",
+    "type": "game",
+    "title": "Strange Skies Resort 异星度假村",
+    "summary": "科幻度假村经营：同一个位置存了五版建造，一版一版重录。五天前这里还是一片土，现在入夜已经有发光的巨树和栈道。Unity 制作。",
+    "url": "https://x.com/sunsixstudios/status/2126043315673993404",
+    "imageUrl": "/covers/x-2126043315673993404.jpg",
+    "source": "x",
+    "sourceId": "2126043315673993404",
+    "tags": [
+      "tycoon",
+      "city-builder",
+      "sci-fi",
+      "unity",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2126020810095649179",
+    "type": "game",
+    "title": "Nomad Energy Corp 游牧能源公司",
+    "summary": "程序化生成的星球能源公司：用 C 和 Raylib 手写，Windows、Linux、VR 和网页都能玩，开场就是一颗会转的完整星球。",
+    "url": "https://x.com/w84death/status/2126020810095649179",
+    "imageUrl": "/covers/x-2126020810095649179.jpg",
+    "source": "x",
+    "sourceId": "2126020810095649179",
+    "tags": [
+      "procgen",
+      "planet",
+      "raylib",
+      "free",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2126099779285356827",
+    "type": "game",
+    "title": "Windscar 风痕",
+    "summary": "three.js 网页里的三维中世纪动作：这次更新加了「边缘」地区、会移动的战斗，以及戟兵、盾卫、投枪兵和城堡底下多腿的东西。免费在浏览器玩。",
+    "url": "https://x.com/windscargame/status/2126099779285356827",
+    "imageUrl": "/covers/x-2126099779285356827.jpg",
+    "source": "x",
+    "sourceId": "2126099779285356827",
+    "tags": [
+      "threejs",
+      "medieval",
+      "browser",
+      "action",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2126059791495971152",
+    "type": "game",
+    "title": "PSX 恐怖小镇的水井",
+    "summary": "PS1 低面恐怖：每天早上同一根绳、同一个桶、空气里同样的灰，慢慢摇曲柄，井里还会出水。荒漠色调很干。",
+    "url": "https://x.com/eduardoreisdev/status/2126059791495971152",
+    "imageUrl": "/covers/x-2126059791495971152.jpg",
+    "source": "x",
+    "sourceId": "2126059791495971152",
+    "tags": [
+      "psx",
+      "horror",
+      "low-poly",
+      "PSX/复古恐怖"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "PSX/复古恐怖"
+    ]
+  },
+  {
+    "id": "x-2126103972284957169",
+    "type": "game",
+    "title": "Citystate Metropolis 城邦都会",
+    "summary": "不用网格的城市建造：区划随手画任意形状，自己设楼层和退线，程序化楼房会长成百万人口的城市。12 月 10 日 Steam 抢先体验。",
+    "url": "https://x.com/pixeloot7/status/2126103972284957169",
+    "imageUrl": "/covers/x-2126103972284957169.jpg",
+    "source": "x",
+    "sourceId": "2126103972284957169",
+    "tags": [
+      "city-builder",
+      "procedural",
+      "grid-less",
+      "steam",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2126072230765326637",
+    "type": "game",
+    "title": "用笔刷画出来的花园",
+    "summary": "three.js 做的温馨花园：用笔刷在夜里的浮岛上画世界，拖一圈石头就会自己积成池塘，萤火虫绕着一棵大松树。",
+    "url": "https://x.com/0xpeepai/status/2126072230765326637",
+    "imageUrl": "/covers/x-2126072230765326637.jpg",
+    "source": "x",
+    "sourceId": "2126072230765326637",
+    "tags": [
+      "threejs",
+      "cozy",
+      "island",
+      "painting",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125944927955919073",
+    "type": "game",
+    "title": "COUNTERMIND 反制心智",
+    "summary": "受《最高指挥官》启发的科幻即时战略：星系级战争，地表、海面、空中和轨道一起打，敌方 AI 会学你的打法。Steam 计划 2027 年 3 月。",
+    "url": "https://x.com/CounterMind_RTS/status/2125944927955919073",
+    "imageUrl": "/covers/x-2125944927955919073.jpg",
+    "source": "x",
+    "sourceId": "2125944927955919073",
+    "tags": [
+      "rts",
+      "sci-fi",
+      "planetary",
+      "supreme-commander",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2126111525588836363",
+    "type": "game",
+    "title": "Chronocracy 时间统治",
+    "summary": "在一张圆盘平面世界上做即时战略城建：部族从弓箭手、长矛兵一路升到直升机和巨型机甲，还能挖地下、穿越时间改命。今天上 Steam，现价 13.49 美元。",
+    "url": "https://x.com/SuperStrangeX/status/2126111525588836363",
+    "imageUrl": "/covers/x-2126111525588836363.jpg",
+    "source": "x",
+    "sourceId": "2126111525588836363",
+    "tags": [
+      "rts",
+      "city-builder",
+      "time-travel",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125681591817036259",
+    "type": "game",
+    "title": "PAYDIRT: Gold Mining Tycoon 淘金大亨",
+    "summary": "从溪边营地做成一座运转的金矿：三维河谷里搭工棚、挖矿、建设施。即将上 Steam 抢先体验。",
+    "url": "https://x.com/FossilStudiosCo/status/2125681591817036259",
+    "imageUrl": "/covers/x-2125681591817036259.jpg",
+    "source": "x",
+    "sourceId": "2125681591817036259",
+    "tags": [
+      "tycoon",
+      "mining",
+      "management",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2125877231868076245",
+    "type": "game",
+    "title": "Sir Galgano 加尔加诺爵士",
+    "summary": "以 HEMA 历史剑术为灵感的中世纪动作 RPG：剑挡不住匕首就靠盾，攻防都讲架势。已经在 Steam 发售，现价 18.74 美元。",
+    "url": "https://x.com/LaFucinaGD/status/2125877231868076245",
+    "imageUrl": "/covers/x-2125877231868076245.jpg",
+    "source": "x",
+    "sourceId": "2125877231868076245",
+    "tags": [
+      "medieval",
+      "hema",
+      "melee",
+      "steam",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "x-2126093908769903102",
+    "type": "game",
+    "title": "three.js 暴雪漂移",
+    "summary": "个人用 three.js 做的漂移游戏，冲到韩国 Toss 游戏榜第 5：车顶会积雪，暴风雪里能借坡飞过四辆警车。",
+    "url": "https://x.com/fuzzwaa/status/2126093908769903102",
+    "imageUrl": "/covers/x-2126093908769903102.jpg",
+    "source": "x",
+    "sourceId": "2126093908769903102",
+    "tags": [
+      "threejs",
+      "driving",
+      "snow",
+      "browser",
+      "沙盒/探索"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "沙盒/探索"
+    ]
+  },
+  {
+    "id": "x-2125625358187921736",
+    "type": "game",
+    "title": "雅典围城六边形战棋",
+    "summary": "六边形地图上的古典战争：作者试了新的更难难度，这一局是打破罗马对雅典的围城。地形格子和部队标记都很清楚。",
+    "url": "https://x.com/ANDKNCH/status/2125625358187921736",
+    "imageUrl": "/covers/x-2125625358187921736.jpg",
+    "source": "x",
+    "sourceId": "2125625358187921736",
+    "tags": [
+      "hex",
+      "wargame",
+      "ancient",
+      "tactics",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "x-2125864824555057640",
+    "type": "game",
+    "title": "Texas Oil Baron 得州石油大亨",
+    "summary": "从一口井做到满地抽油机：在地下引导钻头找油层，跟着油价管车队和账本，也能自己开车运油。独立开发九个月，免费试玩已在 Steam，2027 年 2 月 3 日发售。",
+    "url": "https://x.com/p_slabon/status/2125864824555057640",
+    "imageUrl": "/covers/x-2125864824555057640.jpg",
+    "source": "x",
+    "sourceId": "2125864824555057640",
+    "tags": [
+      "tycoon",
+      "oil",
+      "unity",
+      "management",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "x-2126015377884996025",
+    "type": "shader",
+    "title": "Blender 5.3 NPR 自定义灯光",
+    "summary": "Blender 5.3 的 NPR 灯光：给角色打风格化光不用一盏盏单独指定，灯光属性的自定义参数还能在着色器里逐盏调。",
+    "url": "https://x.com/Thejudsub/status/2126015377884996025",
+    "imageUrl": "/covers/x-2126015377884996025.jpg",
+    "source": "x",
+    "sourceId": "2126015377884996025",
+    "tags": [
+      "blender",
+      "npr",
+      "lighting",
+      "toon"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126013114646983042",
+    "type": "shader",
+    "title": "UE 极坐标 UV",
+    "summary": "用极坐标 UV 让平铺贴图多出花样：在 Unreal 里写一个直角坐标转极坐标的自定义函数，火焰贴图卷成漩涡。",
+    "url": "https://x.com/Tuatara_Games/status/2126013114646983042",
+    "imageUrl": "/covers/x-2126013114646983042.jpg",
+    "source": "x",
+    "sourceId": "2126013114646983042",
+    "tags": [
+      "unreal",
+      "uv",
+      "vfx",
+      "material"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126003327041257900",
+    "type": "shader",
+    "title": "暗物质材质",
+    "summary": "献给暗物质的 Unreal 材质：一块半透明的布面上漂着会吞光的紫色斑点，像生活这块布上的破洞和补丁。",
+    "url": "https://x.com/delaigrodela/status/2126003327041257900",
+    "imageUrl": "/covers/x-2126003327041257900.jpg",
+    "source": "x",
+    "sourceId": "2126003327041257900",
+    "tags": [
+      "unreal",
+      "material",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126045970928374004",
+    "type": "shader",
+    "title": "Unity 大地形与草",
+    "summary": "Unity 资源作者修好了定时卡顿：毛病出在草被计算了两遍。镜头掠过整片干燥山脉，地形尺度很大。",
+    "url": "https://x.com/BlackCreepy_Cat/status/2126045970928374004",
+    "imageUrl": "/covers/x-2126045970928374004.jpg",
+    "source": "x",
+    "sourceId": "2126045970928374004",
+    "tags": [
+      "unity",
+      "terrain",
+      "grass"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126010425091178555",
+    "type": "shader",
+    "title": "Codevember 26 Anamorph 变形",
+    "summary": "Codevember 第 26 天：three.js + WebGPU/TSL 的变形视错觉，金色球体悬在废墟街景中，带声音。",
+    "url": "https://x.com/_pwd_/status/2126010425091178555",
+    "imageUrl": "/covers/x-2126010425091178555.jpg",
+    "source": "x",
+    "sourceId": "2126010425091178555",
+    "tags": [
+      "threejs",
+      "webgpu",
+      "tsl",
+      "codevember"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126089820229533952",
+    "type": "shader",
+    "title": "GPU 流体图片卡",
+    "summary": "在 React Native 和 React 里做的图片卡：手指划过时底下跑的是真的 GPU 流体模拟，画面像水一样被推开。",
+    "url": "https://x.com/rsStats_/status/2126089820229533952",
+    "imageUrl": "/covers/x-2126089820229533952.jpg",
+    "source": "x",
+    "sourceId": "2126089820229533952",
+    "tags": [
+      "fluid-sim",
+      "gpu",
+      "react"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126084241566073034",
+    "type": "shader",
+    "title": "Stylized World Kit 风格化世界套件",
+    "summary": "Blender 插件：森林绘制、全天候天空和动态水放在一起，附 1000 多个风格化资产，竹林里能直接刷出场景。",
+    "url": "https://x.com/casey_sheep/status/2126084241566073034",
+    "imageUrl": "/covers/x-2126084241566073034.jpg",
+    "source": "x",
+    "sourceId": "2126084241566073034",
+    "tags": [
+      "blender",
+      "stylized",
+      "foliage",
+      "water"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126101224453971984",
+    "type": "shader",
+    "title": "Starbase Simulator 2 真实光照",
+    "summary": "星舰基地模拟 0.29.5：从发射台到轨道都是真实天空，有体积云、倒映云层的潟湖和夜里亮灯的塔。",
+    "url": "https://x.com/CyberWiz_YT/status/2126101224453971984",
+    "imageUrl": "/covers/x-2126101224453971984.jpg",
+    "source": "x",
+    "sourceId": "2126101224453971984",
+    "tags": [
+      "volumetric-clouds",
+      "sky",
+      "reflection"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126101702243991788",
+    "type": "shader",
+    "title": "体积闪电 Vol.90",
+    "summary": "光线步进的体积闪电第 90 版：这次试着用上一步的距离去动态缩放下一步，帧率没涨，噪声采样反而不稳。",
+    "url": "https://x.com/keebar_techArt/status/2126101702243991788",
+    "imageUrl": "/covers/x-2126101702243991788.jpg",
+    "source": "x",
+    "sourceId": "2126101702243991788",
+    "tags": [
+      "raymarching",
+      "volumetric",
+      "lightning",
+      "techart"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126043200171512184",
+    "type": "shader",
+    "title": "procedural-gems 程序化宝石",
+    "summary": "在着色器里长出宝石：three.js 的光线追踪晶体和切面宝石，26 种矿物、10 种形状、任意种子，没有模型也没有贴图，约 20 kB，一次绘制，已开源。",
+    "url": "https://x.com/zy_fou/status/2126043200171512184",
+    "imageUrl": "/covers/x-2126043200171512184.jpg",
+    "source": "x",
+    "sourceId": "2126043200171512184",
+    "tags": [
+      "threejs",
+      "raytracing",
+      "procedural",
+      "open-source"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126109072571162689",
+    "type": "shader",
+    "title": "three.js 对 Blender Cycles",
+    "summary": "同一个场景：左边 three.js 在浏览器里渲 42 秒，右边 Cycles 路径追踪渲 1 小时 48 分，两盏灯泡的玻璃和阴影差得不多。",
+    "url": "https://x.com/artificialgent/status/2126109072571162689",
+    "imageUrl": "/covers/x-2126109072571162689.jpg",
+    "source": "x",
+    "sourceId": "2126109072571162689",
+    "tags": [
+      "threejs",
+      "path-tracing",
+      "comparison"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126037930158567920",
+    "type": "shader",
+    "title": "Hexagonal World 六边形世界",
+    "summary": "一张由六边形拼成的地球：大陆和海岸都按六边形格子铺开，地图本身就是一张蜂巢。",
+    "url": "https://x.com/berttemme/status/2126037930158567920",
+    "imageUrl": "/covers/x-2126037930158567920.jpg",
+    "source": "x",
+    "sourceId": "2126037930158567920",
+    "tags": [
+      "hex",
+      "world-map",
+      "procedural"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126098880517529925",
+    "type": "shader",
+    "title": "乳冠（WGSL）",
+    "summary": "sib 的新 WebGPU 着色器小品：一滴液体溅起的乳冠，白色的冠瓣在黑底上定格。",
+    "url": "https://x.com/sib/status/2126098880517529925",
+    "imageUrl": "/covers/x-2126098880517529925.jpg",
+    "source": "x",
+    "sourceId": "2126098880517529925",
+    "tags": [
+      "webgpu",
+      "wgsl",
+      "shader-art"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126103715945791682",
+    "type": "shader",
+    "title": "Unity 三维噪声烟柱",
+    "summary": "换一张三维噪声贴图：湍流交给着色器和材质去算，粒子系统本身可以很简单，黑红色的烟柱就这样卷上去。",
+    "url": "https://x.com/TurbosoftGames/status/2126103715945791682",
+    "imageUrl": "/covers/x-2126103715945791682.jpg",
+    "source": "x",
+    "sourceId": "2126103715945791682",
+    "tags": [
+      "unity",
+      "noise",
+      "smoke",
+      "vfx"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126105990235922816",
+    "type": "shader",
+    "title": "体积云下的探测车",
+    "summary": "体积云真好看：一辆探测车停在开阔地上，天上是一层层有厚度的云。",
+    "url": "https://x.com/QyohNineStars/status/2126105990235922816",
+    "imageUrl": "/covers/x-2126105990235922816.jpg",
+    "source": "x",
+    "sourceId": "2126105990235922816",
+    "tags": [
+      "volumetric-clouds",
+      "sky"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126029168857002075",
+    "type": "shader",
+    "title": "20 万根真草对公告板草",
+    "summary": "同一片地同一个太阳：左边 1.4 万张贴了草图的面片，右边 20 万根真草叶网格。侧面看差不多，镜头一往下看就分出高下。",
+    "url": "https://x.com/vidar_0208/status/2126029168857002075",
+    "imageUrl": "/covers/x-2126029168857002075.jpg",
+    "source": "x",
+    "sourceId": "2126029168857002075",
+    "tags": [
+      "grass",
+      "instancing",
+      "techart"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126104124609437715",
+    "type": "shader",
+    "title": "深度阴影贴图",
+    "summary": "同样的光和 4200 根纤维：普通阴影贴图里一根就把光全挡住，深度阴影贴图让光一根根变薄，影子变软。",
+    "url": "https://x.com/vidar_0208/status/2126104124609437715",
+    "imageUrl": "/covers/x-2126104124609437715.jpg",
+    "source": "x",
+    "sourceId": "2126104124609437715",
+    "tags": [
+      "shadow",
+      "hair",
+      "techart"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126098528468697575",
+    "type": "shader",
+    "title": "three.js 程序化高塔",
+    "summary": "three.js 程序化生成的高塔立在沙丘上，夕阳把岩石和塔身染成暖色。",
+    "url": "https://x.com/lewster32/status/2126098528468697575",
+    "imageUrl": "/covers/x-2126098528468697575.jpg",
+    "source": "x",
+    "sourceId": "2126098528468697575",
+    "tags": [
+      "threejs",
+      "procedural",
+      "golden-hour"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126106479572951134",
+    "type": "shader",
+    "title": "卡通水着色器",
+    "summary": "独立游戏里的风格化水：从另一个项目借来一半水着色器，青蓝的浅水和白色波纹很干净。",
+    "url": "https://x.com/TimeWobblers/status/2126106479572951134",
+    "imageUrl": "/covers/x-2126106479572951134.jpg",
+    "source": "x",
+    "sourceId": "2126106479572951134",
+    "tags": [
+      "water",
+      "stylized",
+      "shader"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126114860325052465",
+    "type": "shader",
+    "title": "three.js 帆船竞速",
+    "summary": "three.js 的帆船比赛：24 节风、大浪和阴天，帆船在灰蓝的海面上起伏。",
+    "url": "https://x.com/fabssie/status/2126114860325052465",
+    "imageUrl": "/covers/x-2126114860325052465.jpg",
+    "source": "x",
+    "sourceId": "2126114860325052465",
+    "tags": [
+      "threejs",
+      "ocean",
+      "waves"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "x-2126113491459420567",
+    "type": "shader",
+    "title": "一个圆做出篝火",
+    "summary": "three.js 里用一个圆做篝火：让小圆带寿命往上飘，越老越从白变黄、橙、红、最后变成烟色，重叠处相加变亮，再用火光去晃周围。",
+    "url": "https://x.com/sleepless_han/status/2126113491459420567",
+    "imageUrl": "/covers/x-2126113491459420567.jpg",
+    "source": "x",
+    "sourceId": "2126113491459420567",
+    "tags": [
+      "threejs",
+      "particles",
+      "fire"
+    ],
+    "collectedAt": "2026-11-27"
+  },
+  {
+    "id": "itch-gameq-labs-hemland",
+    "type": "game",
+    "title": "Hemland: A Fjord Saga 峡湾萨迦",
+    "summary": "在峡湾边建一座维京时代的村子，让每户人家熬过冬天。三维海面和长船很有气氛，免费试玩有三个冬天，网页可玩。",
+    "url": "https://gameq-labs.itch.io/hemland",
+    "imageUrl": "/covers/itch-gameq-labs-hemland.jpg",
+    "source": "itch",
+    "sourceId": "gameq-labs-hemland",
+    "tags": [
+      "city-builder",
+      "colony-sim",
+      "viking",
+      "browser",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-beez-games-the-last-hearth",
+    "type": "game",
+    "title": "The Last Hearth 最后的炉火",
+    "summary": "白天建造，夜里只有光能挡住死人：三维殖民地生存，营火和灯照到哪里，哪里才安全。免费，Windows。",
+    "url": "https://beez-games.itch.io/the-last-hearth",
+    "imageUrl": "/covers/itch-beez-games-the-last-hearth.jpg",
+    "source": "itch",
+    "sourceId": "beez-games-the-last-hearth",
+    "tags": [
+      "colony-sim",
+      "base-building",
+      "survival",
+      "night",
+      "itch",
+      "城建/殖民/经营"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "城建/殖民/经营"
+    ]
+  },
+  {
+    "id": "itch-mblagamedev-tiny-kingdoms",
+    "type": "game",
+    "title": "Tiny Kingdoms 小王国（试玩）",
+    "summary": "建村子、拉军队，去打红色王国：像素风即时战略，PC 和安卓都有，免费试玩。",
+    "url": "https://mblagamedev.itch.io/tiny-kingdoms",
+    "imageUrl": "/covers/itch-mblagamedev-tiny-kingdoms.jpg",
+    "source": "itch",
+    "sourceId": "mblagamedev-tiny-kingdoms",
+    "tags": [
+      "rts",
+      "medieval",
+      "kingdom",
+      "base-building",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-rexormk-marchtide",
+    "type": "game",
+    "title": "Marchtide 边境潮",
+    "summary": "快节奏可暂停的征服游戏：边境像潮水一样漫出去，城市越长越大，看谁撑到最后。网页免费玩。",
+    "url": "https://rexormk.itch.io/marchtide",
+    "imageUrl": "/covers/itch-rexormk-marchtide.jpg",
+    "source": "itch",
+    "sourceId": "rexormk-marchtide",
+    "tags": [
+      "grand-strategy",
+      "4x",
+      "medieval",
+      "browser",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
+    "id": "itch-kiemle2025-vuong-quyen",
+    "type": "game",
+    "title": "Vương Quyền 王权",
+    "summary": "越南后黎中兴时期的宫廷战略：从知县一路做到雄霸北方，封面是城门下列阵的军队，网页和安卓免费。",
+    "url": "https://kiemle2025.itch.io/vuong-quyen",
+    "imageUrl": "/covers/itch-kiemle2025-vuong-quyen.jpg",
+    "source": "itch",
+    "sourceId": "kiemle2025-vuong-quyen",
+    "tags": [
+      "grand-strategy",
+      "medieval",
+      "vietnam",
+      "court",
+      "itch",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-trasfondo-banners-of-ashvale",
+    "type": "game",
+    "title": "Banners of Ashvale 灰谷旗帜",
+    "summary": "侧视角中世纪战争：拉起军队、守住阵线、攻破敌人堡垒，手机和浏览器都能玩。",
+    "url": "https://trasfondo.itch.io/banners-of-ashvale",
+    "imageUrl": "/covers/itch-trasfondo-banners-of-ashvale.jpg",
+    "source": "itch",
+    "sourceId": "trasfondo-banners-of-ashvale",
+    "tags": [
+      "medieval",
+      "war",
+      "siege",
+      "browser",
+      "itch",
+      "骑砍/战争"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "骑砍/战争"
+    ]
+  },
+  {
+    "id": "itch-thaf8-dropfolk",
+    "type": "game",
+    "title": "Dropfolk 水滴族",
+    "summary": "花园尺度的即时战略：一群水滴在绿叶间打仗，你得算好还能舍掉多少滴。Godot 制作，网页免费。",
+    "url": "https://thaf8.itch.io/dropfolk",
+    "imageUrl": "/covers/itch-thaf8-dropfolk.jpg",
+    "source": "itch",
+    "sourceId": "thaf8-dropfolk",
+    "tags": [
+      "rts",
+      "godot",
+      "browser",
+      "itch",
+      "策略/4X/RTS"
+    ],
+    "collectedAt": "2026-11-27",
+    "genres": [
+      "策略/4X/RTS"
+    ]
+  },
+  {
     "id": "itch-riclmbr-cozy-hex-map-tiles-universal-pixel-art-hexagon-tileset",
     "type": "inspiration",
     "title": "惬意六边形地图",
