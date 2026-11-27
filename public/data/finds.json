@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-spookiaistudio-overworld-village-kit",
+    "type": "inspiration",
+    "title": "大地图与村落套件",
+    "summary": "64 像素顶视角大地图图块，配 9 栋村舍和 44 件道具，世界地图连村庄一起铺。",
+    "url": "https://spookiaistudio.itch.io/overworld-village-kit",
+    "imageUrl": "/covers/itch-spookiaistudio-overworld-village-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-spookiaistudio-overworld-village-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126010609040806301",
+    "type": "inspiration",
+    "title": "World Seed 世界种子图块",
+    "summary": "作者回归后更新的免费像素地形图块，草地、湖泊和废墟遗迹的大地图很耐看。",
+    "url": "https://x.com/IKnowKingRabbit/status/2126010609040806301",
+    "imageUrl": "/covers/x-2126010609040806301.jpg",
+    "source": "x",
+    "sourceId": "x-2126010609040806301",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-subtlecorpse-tgod-cursed-castle",
+    "type": "inspiration",
+    "title": "被诅咒的城堡关卡",
+    "summary": "16×16 SNES 风顶视角城堡地牢图块，中世纪城堡内关很好搭。",
+    "url": "https://subtlecorpse.itch.io/tgod-cursed-castle",
+    "imageUrl": "/covers/itch-subtlecorpse-tgod-cursed-castle.jpg",
+    "source": "itch",
+    "sourceId": "itch-subtlecorpse-tgod-cursed-castle",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-goldenratiostudios-moss-and-ember-lantern-crossing",
+    "type": "inspiration",
+    "title": "苔火·灯笼渡口",
+    "summary": "32 像素林地图块、栈道和营地道具，附两张可编辑地图，野外营地一铺就成。",
+    "url": "https://goldenratiostudios.itch.io/moss-and-ember-lantern-crossing",
+    "imageUrl": "/covers/itch-goldenratiostudios-moss-and-ember-lantern-crossing.jpg",
+    "source": "itch",
+    "sourceId": "itch-goldenratiostudios-moss-and-ember-lantern-crossing",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2125667790392889837",
+    "type": "inspiration",
+    "title": "生长森林",
+    "summary": "树木会生长、枯死、倒下再发芽，带伐木与木板采集，经营类伐木循环很有参考价值。",
+    "url": "https://x.com/yetartstudio/status/2125667790392889837",
+    "imageUrl": "/covers/x-2125667790392889837.jpg",
+    "source": "x",
+    "sourceId": "x-2125667790392889837",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-v2kid-tactical-dungeon-modular-pixel-3d-dungeon-props",
+    "type": "inspiration",
+    "title": "战术地牢像素 3D 套件",
+    "summary": "48 件 64×64 像素贴图的模块化 3D 墙、地板、楼梯和牢房，像素化 3D 地牢范本。",
+    "url": "https://v2kid.itch.io/tactical-dungeon-modular-pixel-3d-dungeon-props",
+    "imageUrl": "/covers/itch-v2kid-tactical-dungeon-modular-pixel-3d-dungeon-props.jpg",
+    "source": "itch",
+    "sourceId": "itch-v2kid-tactical-dungeon-modular-pixel-3d-dungeon-props",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "x-2126005564719374797",
+    "type": "inspiration",
+    "title": "微型体素世界编辑器",
+    "summary": "浏览器里刷地形、铺路、放水和建筑的体素小世界，截图本身就是很好的体素城镇地貌参考。",
+    "url": "https://x.com/dextune/status/2126005564719374797",
+    "imageUrl": "/covers/x-2126005564719374797.jpg",
+    "source": "x",
+    "sourceId": "x-2126005564719374797",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-smartkdy7-ps1-retro-dungeon-textures-160-seamless-low-res-designs-in-8-themes",
+    "type": "inspiration",
+    "title": "PS1 复古地牢贴图",
+    "summary": "8 个主题 160 张无缝低分辨率贴图，给低模地牢套上就是 PS1 质感。",
+    "url": "https://smartkdy7.itch.io/ps1-retro-dungeon-textures-160-seamless-low-res-designs-in-8-themes",
+    "imageUrl": "/covers/itch-smartkdy7-ps1-retro-dungeon-textures-160-seamless-low-res-designs-in-8-themes.jpg",
+    "source": "itch",
+    "sourceId": "itch-smartkdy7-ps1-retro-dungeon-textures-160-seamless-low-res-designs-in-8-themes",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-vertexnightexe-psx-swamp-low-poly-horror-environment",
+    "type": "inspiration",
+    "title": "PSX 低模沼泽",
+    "summary": "枯树、树桩、香蒲和破木栈道，低分辨率 3D 沼泽野外很有氛围。",
+    "url": "https://vertexnightexe.itch.io/psx-swamp-low-poly-horror-environment",
+    "imageUrl": "/covers/itch-vertexnightexe-psx-swamp-low-poly-horror-environment.jpg",
+    "source": "itch",
+    "sourceId": "itch-vertexnightexe-psx-swamp-low-poly-horror-environment",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-maxparata-voxelgraveyard",
+    "type": "inspiration",
+    "title": "体素墓园场景",
+    "summary": "免费体素墓地环境包，墓碑、围栏和枯树拼出夜色墓园，含 .vox 源文件。",
+    "url": "https://maxparata.itch.io/voxelgraveyard",
+    "imageUrl": "/covers/itch-maxparata-voxelgraveyard.jpg",
+    "source": "itch",
+    "sourceId": "itch-maxparata-voxelgraveyard",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-justadev101-pocket-kingdoms",
+    "type": "inspiration",
+    "title": "口袋王国 RTS 像素包",
+    "summary": "5 个阵营色的动画兵种，附建筑、资源、地形和 UI，像素即时战略一包起步。",
+    "url": "https://justadev101.itch.io/pocket-kingdoms",
+    "imageUrl": "/covers/itch-justadev101-pocket-kingdoms.jpg",
+    "source": "itch",
+    "sourceId": "itch-justadev101-pocket-kingdoms",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-wertsbe-cursed-crown-32px-dark-fantasy-knight-asset-pack",
+    "type": "inspiration",
+    "title": "诅咒王冠骑士包",
+    "summary": "32 像素黑暗奇幻骑士、32 种敌人和 3 个首领，中世纪动作角色很全。",
+    "url": "https://wertsbe.itch.io/cursed-crown-32px-dark-fantasy-knight-asset-pack",
+    "imageUrl": "/covers/itch-wertsbe-cursed-crown-32px-dark-fantasy-knight-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-wertsbe-cursed-crown-32px-dark-fantasy-knight-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-auratavern-free-hero-sprite",
+    "type": "inspiration",
+    "title": "维京英雄精灵",
+    "summary": "免费维京战士，待机、行走、奔跑、攻击、死亡动画齐全，四种尺寸可选。",
+    "url": "https://auratavern.itch.io/free-hero-sprite",
+    "imageUrl": "/covers/itch-auratavern-free-hero-sprite.jpg",
+    "source": "itch",
+    "sourceId": "itch-auratavern-free-hero-sprite",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-yetartgame-side-view-heroes",
+    "type": "inspiration",
+    "title": "横版奇幻英雄队",
+    "summary": "12 名朝右的横版英雄，带攻击、受伤和死亡动画，回合制战斗队伍现成。",
+    "url": "https://yetartgame.itch.io/side-view-heroes",
+    "imageUrl": "/covers/itch-yetartgame-side-view-heroes.jpg",
+    "source": "itch",
+    "sourceId": "itch-yetartgame-side-view-heroes",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-jacksonwu-gloamkeep-dungeon",
+    "type": "inspiration",
+    "title": "暮堡地牢传奇",
+    "summary": "16×16 风格 45 个全动作角色，配 4 种地牢生态和首领，人物阵容很大。",
+    "url": "https://jacksonwu.itch.io/gloamkeep-dungeon",
+    "imageUrl": "/covers/itch-jacksonwu-gloamkeep-dungeon.jpg",
+    "source": "itch",
+    "sourceId": "itch-jacksonwu-gloamkeep-dungeon",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-andbri-kingsreach-capital-city-32x32",
+    "type": "inspiration",
+    "title": "王冠城·王都图块",
+    "summary": "32×32 中世纪王都图块，石墙大殿、城墙和 37 栋建筑，首都城区很气派。",
+    "url": "https://andbri.itch.io/kingsreach-capital-city-32x32",
+    "imageUrl": "/covers/itch-andbri-kingsreach-capital-city-32x32.jpg",
+    "source": "itch",
+    "sourceId": "itch-andbri-kingsreach-capital-city-32x32",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2125522254071296011",
+    "type": "inspiration",
+    "title": "中世纪小镇广场",
+    "summary": "32×32 中世纪图块铺出的村镇，木筋屋、市集摊位和石板路非常饱满。",
+    "url": "https://x.com/Booooooomstick/status/2125522254071296011",
+    "imageUrl": "/covers/x-2125522254071296011.jpg",
+    "source": "x",
+    "sourceId": "x-2125522254071296011",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-npcslayer-medieval-tavern-pixel-free-starter",
+    "type": "inspiration",
+    "title": "中世纪酒馆入门包",
+    "summary": "免费等距像素酒馆，吧台、酒桶和暖光内景，酒馆经营场景好参考。",
+    "url": "https://npcslayer.itch.io/medieval-tavern-pixel-free-starter",
+    "imageUrl": "/covers/itch-npcslayer-medieval-tavern-pixel-free-starter.jpg",
+    "source": "itch",
+    "sourceId": "itch-npcslayer-medieval-tavern-pixel-free-starter",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gamifiedsoul-pixel-bastion-tower-defense-asset-pack",
+    "type": "inspiration",
+    "title": "像素堡垒塔防包",
+    "summary": "118 张可升级防御塔、敌人和地图图块，城防建筑的升级层级很清楚。",
+    "url": "https://gamifiedsoul.itch.io/pixel-bastion-tower-defense-asset-pack",
+    "imageUrl": "/covers/itch-gamifiedsoul-pixel-bastion-tower-defense-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamifiedsoul-pixel-bastion-tower-defense-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-laimunstudio-cozy-buildings-500-pixel-art",
+    "type": "inspiration",
+    "title": "惬意农庄建筑 500",
+    "summary": "500 栋 32×32 农舍、谷仓、磨坊和小教堂，经营模拟的建筑库一次补齐。",
+    "url": "https://laimunstudio.itch.io/cozy-buildings-500-pixel-art",
+    "imageUrl": "/covers/itch-laimunstudio-cozy-buildings-500-pixel-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-laimunstudio-cozy-buildings-500-pixel-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-dgv-dev-psx-wwii-prisoner-camp",
+    "type": "inspiration",
+    "title": "PSX 二战战俘营",
+    "summary": "40 件低模铁丝网、营房、岗楼和地道，二战营地据点很好摆。",
+    "url": "https://dgv-dev.itch.io/psx-wwii-prisoner-camp",
+    "imageUrl": "/covers/itch-dgv-dev-psx-wwii-prisoner-camp.jpg",
+    "source": "itch",
+    "sourceId": "itch-dgv-dev-psx-wwii-prisoner-camp",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-dgv-dev-psx-wwii-concrete-bunker-interior-kit",
+    "type": "inspiration",
+    "title": "PSX 二战混凝土地堡",
+    "summary": "56 件模块化走廊、防爆门、发电机房和床铺，地堡内景低模质感到位。",
+    "url": "https://dgv-dev.itch.io/psx-wwii-concrete-bunker-interior-kit",
+    "imageUrl": "/covers/itch-dgv-dev-psx-wwii-concrete-bunker-interior-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-dgv-dev-psx-wwii-concrete-bunker-interior-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-gravyassets-psx-chinatown",
+    "type": "inspiration",
+    "title": "PSX 唐人街",
+    "summary": "80 个低模模型拼成 48 米破旧唐人街，PS1 风街区建筑很完整。",
+    "url": "https://gravyassets.itch.io/psx-chinatown",
+    "imageUrl": "/covers/itch-gravyassets-psx-chinatown.jpg",
+    "source": "itch",
+    "sourceId": "itch-gravyassets-psx-chinatown",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-pixelforge3d-horror-alley-complete",
+    "type": "inspiration",
+    "title": "微体素恐怖宅邸与巷道",
+    "summary": "160 件微体素 PBR 室内房间、楼梯和雨夜小巷，体素建筑细节很密。",
+    "url": "https://pixelforge3d.itch.io/horror-alley-complete",
+    "imageUrl": "/covers/itch-pixelforge3d-horror-alley-complete.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelforge3d-horror-alley-complete",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-nerts-bayou-fishing-camp-psx-horror-asset-pack",
+    "type": "inspiration",
+    "title": "PSX 河湾渔营",
+    "summary": "低模高脚棚屋、码头和 36 件道具，水上棚屋聚落的 PS1 氛围很足。",
+    "url": "https://nerts.itch.io/bayou-fishing-camp-psx-horror-asset-pack",
+    "imageUrl": "/covers/itch-nerts-bayou-fishing-camp-psx-horror-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-nerts-bayou-fishing-camp-psx-horror-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-erednayp-ironwood-pixel-ui-kit",
+    "type": "inspiration",
+    "title": "铁木像素 UI",
+    "summary": "557 个 16-bit 界面精灵、两套主题和九宫格面板，RPG 菜单与手柄提示都有。",
+    "url": "https://erednayp.itch.io/ironwood-pixel-ui-kit",
+    "imageUrl": "/covers/itch-erednayp-ironwood-pixel-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-erednayp-ironwood-pixel-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-itsmario-hq-vellumcrest",
+    "type": "inspiration",
+    "title": "羊皮卷 RPG 界面",
+    "summary": "374 个羊皮纸面板、卷轴、缎带和火漆，6 套主题，中世纪任务界面很合适。",
+    "url": "https://itsmario-hq.itch.io/vellumcrest",
+    "imageUrl": "/covers/itch-itsmario-hq-vellumcrest.jpg",
+    "source": "itch",
+    "sourceId": "itch-itsmario-hq-vellumcrest",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-rexial-waystone-atlas",
+    "type": "inspiration",
+    "title": "路石地图图标",
+    "summary": "48 个奇幻地标图标，城堡、塔楼和遗迹，世界地图与任务界面直接可用。",
+    "url": "https://rexial.itch.io/waystone-atlas",
+    "imageUrl": "/covers/itch-rexial-waystone-atlas.jpg",
+    "source": "itch",
+    "sourceId": "itch-rexial-waystone-atlas",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pavel444-1000-pixel-art-building-icons-10-themed-collections-city-builder-strategy-gam",
+    "type": "inspiration",
+    "title": "千款像素建筑图标",
+    "summary": "10 个主题共 1000 个建筑图标，专为策略与城建游戏的建造菜单准备。",
+    "url": "https://pavel444.itch.io/1000-pixel-art-building-icons-10-themed-collections-city-builder-strategy-gam",
+    "imageUrl": "/covers/itch-pavel444-1000-pixel-art-building-icons-10-themed-collections-city-builder-strategy-gam.jpg",
+    "source": "itch",
+    "sourceId": "itch-pavel444-1000-pixel-art-building-icons-10-themed-collections-city-builder-strategy-gam",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-riclmbr-pixel-skill-tree-progression-ui-kit-animated-nodes-connectors-backgrounds",
+    "type": "inspiration",
+    "title": "像素技能树界面",
+    "summary": "13 种形状×7 种状态的动画节点和流动连线，科技树、技能树很好做。",
+    "url": "https://riclmbr.itch.io/pixel-skill-tree-progression-ui-kit-animated-nodes-connectors-backgrounds",
+    "imageUrl": "/covers/itch-riclmbr-pixel-skill-tree-progression-ui-kit-animated-nodes-connectors-backgrounds.jpg",
+    "source": "itch",
+    "sourceId": "itch-riclmbr-pixel-skill-tree-progression-ui-kit-animated-nodes-connectors-backgrounds",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ertugrulko-honey-ui",
+    "type": "inspiration",
+    "title": "蜂蜜暖色像素 UI",
+    "summary": "1600 件奶油暖色像素界面，三种尺寸，对话框和头像生成器都有，配色很柔和。",
+    "url": "https://ertugrulko.itch.io/honey-ui",
+    "imageUrl": "/covers/itch-ertugrulko-honey-ui.jpg",
+    "source": "itch",
+    "sourceId": "itch-ertugrulko-honey-ui",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-thetogi-pixel-rpg-ui-kit-vol1",
+    "type": "inspiration",
+    "title": "像素 RPG 界面一辑",
+    "summary": "431 个 16×16 界面精灵、三套主题，面板、按钮、血条和格子都可九宫格拉伸。",
+    "url": "https://thetogi.itch.io/pixel-rpg-ui-kit-vol1",
+    "imageUrl": "/covers/itch-thetogi-pixel-rpg-ui-kit-vol1.jpg",
+    "source": "itch",
+    "sourceId": "itch-thetogi-pixel-rpg-ui-kit-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-gamifiedsoul-runeforge-pixel-ui-pack",
+    "type": "inspiration",
+    "title": "符文锻造像素 UI",
+    "summary": "五套主题上千个界面精灵，附 Godot 主题与 Unity 九宫格，设置菜单现成。",
+    "url": "https://gamifiedsoul.itch.io/runeforge-pixel-ui-pack",
+    "imageUrl": "/covers/itch-gamifiedsoul-runeforge-pixel-ui-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-gamifiedsoul-runeforge-pixel-ui-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126013490670272533",
+    "type": "inspiration",
+    "title": "石框背包界面",
+    "summary": "作者整理出的像素背包 UI，石质边框和格子很有冒险感。",
+    "url": "https://x.com/OneSquareAAT/status/2126013490670272533",
+    "imageUrl": "/covers/x-2126013490670272533.jpg",
+    "source": "x",
+    "sourceId": "x-2126013490670272533",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126043317628739887",
+    "type": "inspiration",
+    "title": "治疗系技能图标",
+    "summary": "20 个治疗相关像素技能图标，金框蓝底统一，技能栏风格很好借。",
+    "url": "https://x.com/OceansCurseDev/status/2126043317628739887",
+    "imageUrl": "/covers/x-2126043317628739887.jpg",
+    "source": "x",
+    "sourceId": "x-2126043317628739887",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-27",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2125696479243203014",
     "type": "game",
     "title": "Arctic Drive 极地驾驶",
