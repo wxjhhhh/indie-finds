@@ -1,5 +1,705 @@
 [
   {
+    "id": "itch-pv-thon-amberwood-amberlake-cozy-16x16-fantasy-rpg-tileset-pack",
+    "type": "inspiration",
+    "title": "琥珀林与琥珀湖",
+    "summary": "16 像素四大生物群系（秋林、崖壁、水晶洞、湖畔村）574 张图块，带昼夜发光层，大地图换季换昼夜很好借。",
+    "url": "https://pv-thon.itch.io/amberwood-amberlake-cozy-16x16-fantasy-rpg-tileset-pack",
+    "imageUrl": "/covers/itch-pv-thon-amberwood-amberlake-cozy-16x16-fantasy-rpg-tileset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-pv-thon-amberwood-amberlake-cozy-16x16-fantasy-rpg-tileset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-enignne-sepulchral-vault-medieval-dungeon-pixel-art-pack",
+    "type": "inspiration",
+    "title": "烛光墓穴",
+    "summary": "中世纪地牢墓穴图块，四方向烛台、石棺和垂挂蜘蛛，附可编辑 Tiled 地图，阴暗氛围拿捏得很好。",
+    "url": "https://enignne.itch.io/sepulchral-vault-medieval-dungeon-pixel-art-pack",
+    "imageUrl": "/covers/itch-enignne-sepulchral-vault-medieval-dungeon-pixel-art-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-enignne-sepulchral-vault-medieval-dungeon-pixel-art-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126301590680170525",
+    "type": "inspiration",
+    "title": "迷你中世纪矿洞",
+    "summary": "矮人与哥布林的像素矿洞内景，木梁支架、梯子和矿石点布局清晰，经营类采矿场景可直接参考。",
+    "url": "https://x.com/_V3X3D/status/2126301590680170525",
+    "imageUrl": "/covers/x-2126301590680170525.jpg",
+    "source": "x",
+    "sourceId": "x-2126301590680170525",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cozypacks-cozy-town-exteriors-16x16",
+    "type": "inspiration",
+    "title": "温馨小镇外景",
+    "summary": "16×16 顶视角小镇图块 536 件，地形、道路、房屋、树木和车辆一套齐，城镇地图铺路很方便。",
+    "url": "https://cozypacks.itch.io/cozy-town-exteriors-16x16",
+    "imageUrl": "/covers/itch-cozypacks-cozy-town-exteriors-16x16.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozypacks-cozy-town-exteriors-16x16",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-ansimuz-desert-oasis",
+    "type": "inspiration",
+    "title": "沙漠绿洲战斗背景",
+    "summary": "16-bit 沙漠峡谷与绿洲的分层战斗背景，暖色远景很有回合制战斗场面感。",
+    "url": "https://ansimuz.itch.io/desert-oasis",
+    "imageUrl": "/covers/itch-ansimuz-desert-oasis.jpg",
+    "source": "itch",
+    "sourceId": "itch-ansimuz-desert-oasis",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-asolodilov-cozy-voxel-islands",
+    "type": "inspiration",
+    "title": "温馨体素浮岛",
+    "summary": "19 件体素浮空岛、小屋和风车，附 .vox 和等距精灵，体素小世界的地貌层次很好借。",
+    "url": "https://asolodilov.itch.io/cozy-voxel-islands",
+    "imageUrl": "/covers/itch-asolodilov-cozy-voxel-islands.jpg",
+    "source": "itch",
+    "sourceId": "itch-asolodilov-cozy-voxel-islands",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-vestradesignshop-retro-ps1-textures-vol1",
+    "type": "inspiration",
+    "title": "PS1 复古贴图第一辑",
+    "summary": "36 张 15-bit 无缝低分辨率贴图（石、木、草、金属），带抖动版，给低模地形套上就是 PS1 质感。",
+    "url": "https://vestradesignshop.itch.io/retro-ps1-textures-vol1",
+    "imageUrl": "/covers/itch-vestradesignshop-retro-ps1-textures-vol1.jpg",
+    "source": "itch",
+    "sourceId": "itch-vestradesignshop-retro-ps1-textures-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-gravyassets-psx-rocks",
+    "type": "inspiration",
+    "title": "PSX 岩石百件",
+    "summary": "100 个 PS1 风低模岩石、悬崖、石柱和天然拱门，荒野地形和战场地貌直接摆。",
+    "url": "https://gravyassets.itch.io/psx-rocks",
+    "imageUrl": "/covers/itch-gravyassets-psx-rocks.jpg",
+    "source": "itch",
+    "sourceId": "itch-gravyassets-psx-rocks",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-wayfoldstudio-low-poly-sewers-catacombs",
+    "type": "inspiration",
+    "title": "低模下水道与地下墓穴",
+    "summary": "143 件低分辨率贴图的砖拱隧道、蓄水大厅和骨墙墓室，四套配色，像素化 3D 地下关卡范本。",
+    "url": "https://wayfoldstudio.itch.io/low-poly-sewers-catacombs",
+    "imageUrl": "/covers/itch-wayfoldstudio-low-poly-sewers-catacombs.jpg",
+    "source": "itch",
+    "sourceId": "itch-wayfoldstudio-low-poly-sewers-catacombs",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-hvnbnn-cozy-korean-winter",
+    "type": "inspiration",
+    "title": "温馨韩式冬日体素舞台",
+    "summary": "河畔广场和雪地游乐场两个体素冬景舞台，附 18 个角色和 37 件道具，雪地体素地面很耐看。",
+    "url": "https://hvnbnn.itch.io/cozy-korean-winter",
+    "imageUrl": "/covers/itch-hvnbnn-cozy-korean-winter.jpg",
+    "source": "itch",
+    "sourceId": "itch-hvnbnn-cozy-korean-winter",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "terrain",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "terrain",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-yetartgame-animated-tiny-townsfolk",
+    "type": "inspiration",
+    "title": "48 个动画小镇居民",
+    "summary": "32×32 村民、商人、卫兵等 48 个带待机行走动画的 NPC，给城镇、城堡和酒馆填人口正合适。",
+    "url": "https://yetartgame.itch.io/animated-tiny-townsfolk",
+    "imageUrl": "/covers/itch-yetartgame-animated-tiny-townsfolk.jpg",
+    "source": "itch",
+    "sourceId": "itch-yetartgame-animated-tiny-townsfolk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-inkbyte7-dark-fantasy-playable-characters-vol1",
+    "type": "inspiration",
+    "title": "暗黑奇幻可玩英雄第一辑",
+    "summary": "三名暗黑奇幻主角（重甲战士、兜帽游侠、法师），剪影和冷色调很统一，中世纪战斗角色好参考。",
+    "url": "https://inkbyte7.itch.io/dark-fantasy-playable-characters-vol1",
+    "imageUrl": "/covers/itch-inkbyte7-dark-fantasy-playable-characters-vol1.jpg",
+    "source": "itch",
+    "sourceId": "itch-inkbyte7-dark-fantasy-playable-characters-vol1",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-game-academie-pixel-art-npc-character-pack-64x64",
+    "type": "inspiration",
+    "title": "64×64 像素 NPC 角色包",
+    "summary": "古城遗迹前的一排 64 像素 NPC，服饰和职业区分清楚，中世纪奇幻城镇人物可直接借。",
+    "url": "https://game-academie.itch.io/pixel-art-npc-character-pack-64x64",
+    "imageUrl": "/covers/itch-game-academie-pixel-art-npc-character-pack-64x64.jpg",
+    "source": "itch",
+    "sourceId": "itch-game-academie-pixel-art-npc-character-pack-64x64",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-vibeforge-jumak-folk",
+    "type": "inspiration",
+    "title": "韩式酒馆侧视 NPC",
+    "summary": "12 个带对话的侧视动画 NPC 组成一间酒馆的人物群像，夜色酒馆氛围和人物剪影都很好。",
+    "url": "https://vibeforge.itch.io/jumak-folk",
+    "imageUrl": "/covers/itch-vibeforge-jumak-folk.jpg",
+    "source": "itch",
+    "sourceId": "itch-vibeforge-jumak-folk",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixlog-veiled-masque",
+    "type": "inspiration",
+    "title": "面具宫廷角色",
+    "summary": "8 个戴面具的宫廷奇幻角色，8 方向 64 像素，贵族、侍从和刺客的服装设计很有辨识度。",
+    "url": "https://pixlog.itch.io/veiled-masque",
+    "imageUrl": "/covers/itch-pixlog-veiled-masque.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixlog-veiled-masque",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "character",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "character",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-krishna-palacio-minifantasy-viking-village",
+    "type": "inspiration",
+    "title": "Minifantasy 维京村落",
+    "summary": "8×8 极小像素的维京长屋村落，木屋、栅栏和火把在超小尺寸下依然清楚，策略大地图建筑很好借。",
+    "url": "https://krishna-palacio.itch.io/minifantasy-viking-village",
+    "imageUrl": "/covers/itch-krishna-palacio-minifantasy-viking-village.jpg",
+    "source": "itch",
+    "sourceId": "itch-krishna-palacio-minifantasy-viking-village",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-elie-worldsmith-medieval-gothic-hunting-lodge",
+    "type": "inspiration",
+    "title": "中世纪哥特狩猎小屋",
+    "summary": "免费动画像素建筑：鹿角装饰的哥特狩猎木屋，带 3 段动画和多视角静帧，中世纪村落建筑范本。",
+    "url": "https://elie-worldsmith.itch.io/medieval-gothic-hunting-lodge",
+    "imageUrl": "/covers/itch-elie-worldsmith-medieval-gothic-hunting-lodge.jpg",
+    "source": "itch",
+    "sourceId": "itch-elie-worldsmith-medieval-gothic-hunting-lodge",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-stonebit-studio-orc-war-camp-3232",
+    "type": "inspiration",
+    "title": "兽人战营",
+    "summary": "32×32 战营 200 件：木栅栏自动拼接、营门、瞭望塔、毡帐和篝火，攻城与扎营场景很好搭。",
+    "url": "https://stonebit-studio.itch.io/orc-war-camp-3232",
+    "imageUrl": "/covers/itch-stonebit-studio-orc-war-camp-3232.jpg",
+    "source": "itch",
+    "sourceId": "itch-stonebit-studio-orc-war-camp-3232",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126377765809385933",
+    "type": "inspiration",
+    "title": "像素小城堡",
+    "summary": "一座蓝顶白墙的像素城堡，塔楼和城墙层次紧凑，大地图城市图标或据点建筑很好借。",
+    "url": "https://x.com/thets_34/status/2126377765809385933",
+    "imageUrl": "/covers/x-2126377765809385933.jpg",
+    "source": "x",
+    "sourceId": "x-2126377765809385933",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-manolloz-tiny-iso-city",
+    "type": "inspiration",
+    "title": "迷你等距城市",
+    "summary": "等距视角像素城市包：楼房、卡车、汽车、道具和地块，城建经营类俯视城区参考。",
+    "url": "https://manolloz.itch.io/tiny-iso-city",
+    "imageUrl": "/covers/itch-manolloz-tiny-iso-city.jpg",
+    "source": "itch",
+    "sourceId": "itch-manolloz-tiny-iso-city",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-hvnbnn-korean-snack-shop-voxel-kit",
+    "type": "inspiration",
+    "title": "韩式小吃店体素套件",
+    "summary": "54 件体素道具组成一间小吃店：炒年糕铁板、紫菜包饭、厨具和外卖车，体素店铺内景很完整。",
+    "url": "https://hvnbnn.itch.io/korean-snack-shop-voxel-kit",
+    "imageUrl": "/covers/itch-hvnbnn-korean-snack-shop-voxel-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-hvnbnn-korean-snack-shop-voxel-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-alvr10-psx-pizzeria-italian-restaurant-asset-pack",
+    "type": "inspiration",
+    "title": "PSX 意式披萨店",
+    "summary": "PS1 风低模披萨店：柴火窑、备餐台、外卖区和送餐摩托，暖光餐馆内景很有氛围。",
+    "url": "https://alvr10.itch.io/psx-pizzeria-italian-restaurant-asset-pack",
+    "imageUrl": "/covers/itch-alvr10-psx-pizzeria-italian-restaurant-asset-pack.jpg",
+    "source": "itch",
+    "sourceId": "itch-alvr10-psx-pizzeria-italian-restaurant-asset-pack",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-asolodilov-psx-roadside-motel-kit",
+    "type": "inspiration",
+    "title": "PSX 公路汽车旅馆",
+    "summary": "84 件 PS1 风模块：霓虹招牌、两层客房楼、干涸泳池和前台，低模建筑外观很好借。",
+    "url": "https://asolodilov.itch.io/psx-roadside-motel-kit",
+    "imageUrl": "/covers/itch-asolodilov-psx-roadside-motel-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-asolodilov-psx-roadside-motel-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-pixelforge3d-feudal-samurai",
+    "type": "inspiration",
+    "title": "封建武士像素 3D 城郭",
+    "summary": "300 件精细像素 3D 城郭、神社、武士和弓手，日式城堡建筑的像素化 3D 做法值得参考。",
+    "url": "https://pixelforge3d.itch.io/feudal-samurai",
+    "imageUrl": "/covers/itch-pixelforge3d-feudal-samurai.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixelforge3d-feudal-samurai",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-spareminute-thin-walls-psx",
+    "type": "inspiration",
+    "title": "PSX 六十年代公寓楼",
+    "summary": "96 件 PS1 风道具与房间套件：厨房、客厅、浴室、楼梯和锅炉房，低模室内搭建很方便。",
+    "url": "https://spareminute.itch.io/thin-walls-psx",
+    "imageUrl": "/covers/itch-spareminute-thin-walls-psx.jpg",
+    "source": "itch",
+    "sourceId": "itch-spareminute-thin-walls-psx",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "building",
+      "3d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "building",
+    "dim": "3d"
+  },
+  {
+    "id": "itch-cozypacks-cozy-rpg-items-art",
+    "type": "inspiration",
+    "title": "温馨 RPG 物品图标",
+    "summary": "16×16 背包图标 160 个：武器、盔甲、药水、食物、作物和工具，配套背包栏界面一起看。",
+    "url": "https://cozypacks.itch.io/cozy-rpg-items-art",
+    "imageUrl": "/covers/itch-cozypacks-cozy-rpg-items-art.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozypacks-cozy-rpg-items-art",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-cozypacks-cozy-game-menu-icons",
+    "type": "inspiration",
+    "title": "温馨菜单图标",
+    "summary": "160 个像素菜单与设置图标，音乐、音效、全屏开关和返回按钮成套，设置界面直接参考。",
+    "url": "https://cozypacks.itch.io/cozy-game-menu-icons",
+    "imageUrl": "/covers/itch-cozypacks-cozy-game-menu-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-cozypacks-cozy-game-menu-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-viewfantasy-pixel-hud-kit-60-health-mana-and-battery-meters-12-panels",
+    "type": "inspiration",
+    "title": "像素 HUD 计量条",
+    "summary": "60 个 12 色像素血条、蓝条和电量条，加 12 个九宫格面板，资源条和兵力条都能借。",
+    "url": "https://viewfantasy.itch.io/pixel-hud-kit-60-health-mana-and-battery-meters-12-panels",
+    "imageUrl": "/covers/itch-viewfantasy-pixel-hud-kit-60-health-mana-and-battery-meters-12-panels.jpg",
+    "source": "itch",
+    "sourceId": "itch-viewfantasy-pixel-hud-kit-60-health-mana-and-battery-meters-12-panels",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-nikataa-viking-norse-mythology-360-pixel-icons",
+    "type": "inspiration",
+    "title": "维京北欧 360 图标",
+    "summary": "360 个 16-bit 维京图标：胡须斧、雷神锤、圆盾、毛皮甲和符文石，北欧中世纪题材很对味。",
+    "url": "https://nikataa.itch.io/viking-norse-mythology-360-pixel-icons",
+    "imageUrl": "/covers/itch-nikataa-viking-norse-mythology-360-pixel-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-nikataa-viking-norse-mythology-360-pixel-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-pixmint-monster-drops-ii",
+    "type": "inspiration",
+    "title": "怪物掉落物图标第二辑",
+    "summary": "150 个 32×32 怪物掉落素材图标（牙、角、皮、眼），带 Aseprite 源文件，资源与合成栏好用。",
+    "url": "https://pixmint.itch.io/monster-drops-ii",
+    "imageUrl": "/covers/itch-pixmint-monster-drops-ii.jpg",
+    "source": "itch",
+    "sourceId": "itch-pixmint-monster-drops-ii",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-sintan-aja-crafting-survival-icons",
+    "type": "inspiration",
+    "title": "制作与生存图标千件",
+    "summary": "1010 个 32×32 图标：材料、矿石、工具、工作台、食物和建筑构件，经营建造类资源栏全覆盖。",
+    "url": "https://sintan-aja.itch.io/crafting-survival-icons",
+    "imageUrl": "/covers/itch-sintan-aja-crafting-survival-icons.jpg",
+    "source": "itch",
+    "sourceId": "itch-sintan-aja-crafting-survival-icons",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-kedamahaku-fantasy-inventory-ui-kit",
+    "type": "inspiration",
+    "title": "奇幻背包界面套件",
+    "summary": "背包、装备和商店界面的像素窗体、格子、标签和提示框，木框配色很稳。",
+    "url": "https://kedamahaku.itch.io/fantasy-inventory-ui-kit",
+    "imageUrl": "/covers/itch-kedamahaku-fantasy-inventory-ui-kit.jpg",
+    "source": "itch",
+    "sourceId": "itch-kedamahaku-fantasy-inventory-ui-kit",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126430347831226822",
+    "type": "inspiration",
+    "title": "铁匠生活技能图标",
+    "summary": "16×16 铁匠技能 1 到 4 级图标，同一物件逐级升级的画法，科技树和技能等级图标很好借。",
+    "url": "https://x.com/J4VART/status/2126430347831226822",
+    "imageUrl": "/covers/x-2126430347831226822.jpg",
+    "source": "x",
+    "sourceId": "x-2126430347831226822",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "itch-indietoolsmith-hearthwood-cozy-farm-pixel-ui-free-sample",
+    "type": "inspiration",
+    "title": "炉木农场像素界面",
+    "summary": "免费 CC0 农场像素 UI：九宫格木板面板和按钮，暖棕配色适合经营类界面。",
+    "url": "https://indietoolsmith.itch.io/hearthwood-cozy-farm-pixel-ui-free-sample",
+    "imageUrl": "/covers/itch-indietoolsmith-hearthwood-cozy-farm-pixel-ui-free-sample.jpg",
+    "source": "itch",
+    "sourceId": "itch-indietoolsmith-hearthwood-cozy-farm-pixel-ui-free-sample",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
+    "id": "x-2126462046606905488",
+    "type": "inspiration",
+    "title": "海量像素图标墙",
+    "summary": "作者一次放出的上百个像素小图标，配色和轮廓统一，近 1600 赞，图标风格参考价值高。",
+    "url": "https://x.com/czfortythree/status/2126462046606905488",
+    "imageUrl": "/covers/x-2126462046606905488.jpg",
+    "source": "x",
+    "sourceId": "x-2126462046606905488",
+    "tags": [
+      "design_inspiration",
+      "pixel",
+      "ui",
+      "2d"
+    ],
+    "collectedAt": "2026-11-28",
+    "style": "pixel",
+    "kind": "ui",
+    "dim": "2d"
+  },
+  {
     "id": "x-2126369142265766395",
     "type": "game",
     "title": "Giant Siege 巨兽围城",
